@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789934586700,
-    "lastUpdateHuman": "2026-09-20 20:03:06 UTC",
+    "lastUpdate": 1789935055807,
+    "lastUpdateHuman": "2026-09-20 20:10:55 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -268,5 +268,41 @@
       ]
     },
     "region": "SA"
+  },
+  "1063103185692131349": {
+    "nick": "itzvoid242",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1789934616285
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1789934616285
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "1385351871090262148": {
+    "nick": "GlizzyG4ng",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT4",
+          "at": 1789934977109
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT5",
+          "at": 1789934977109
+        }
+      ]
+    },
+    "region": "NA"
   }
 }
