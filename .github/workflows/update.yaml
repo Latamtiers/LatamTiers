@@ -8,9 +8,11 @@ on:
 permissions:
   contents: write
 
+# CLAVE: cancel-in-progress: true cancela ejecuciones viejas
+# cuando una nueva entra al mismo grupo.
 concurrency:
   group: latamtiers-update
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   update:
@@ -21,7 +23,6 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          # Importante: trae el historial completo para poder rebasear
           fetch-depth: 0
 
       - name: Setup Python
@@ -31,13 +32,15 @@ jobs:
 
       - name: Run tracker
         run: python track_history.py
-        continue-on-error: true
 
-      - name: Commit & push si hay cambios
+      - name: Commit & push si hay cambios (con reintentos)
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add history.json ranking.json
+
+          # Solo agrega si existen
+          [ -f history.json ] && git add history.json
+          [ -f ranking.json ] && git add ranking.json
 
           if git diff --staged --quiet; then
             echo "💤 Sin cambios que commitear"
@@ -47,12 +50,23 @@ jobs:
           TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
           git commit -m "chore(data): update ranking & history [${TIMESTAMP}]"
 
-          # Rebase para integrar commits que hayan llegado mientras corríamos
-          git pull --rebase origin main || {
-            echo "⚠️  Rebase falló, abortando y reintentando en el próximo ciclo"
-            git rebase --abort || true
-            exit 1
-          }
+          # Bucle de reintentos: si el push falla, rebasea y reintenta
+          MAX_ATTEMPTS=5
+          ATTEMPT=1
+          while [ $ATTEMPT -le $MAX_ATTEMPTS ]; do
+            echo "🔁 Intento de push #$ATTEMPT de $MAX_ATTEMPTS"
+            if git push origin main 2>/dev/null; then
+              echo "✅ Push exitoso"
+              exit 0
+            fi
+            echo "⚠️  Push rechazado, rebaseando sobre origin/main…"
+            git pull --rebase origin main || {
+              echo "❌ Rebase falló, abortando"
+              git rebase --abort || true
+              exit 1
+            }
+            ATTEMPT=$((ATTEMPT + 1))
+          done
 
-          git push origin main
-          echo "✅ Cambios subidos"
+          echo "❌ No se pudo pushear después de $MAX_ATTEMPTS intentos"
+          exit 1
