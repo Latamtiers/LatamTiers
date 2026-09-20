@@ -176,5 +176,30 @@
         "obtained_at": "2026-09-20T19:49:21.227378+00:00"
       }
     }
+  },
+  "936407484682354718": {
+    "nick": "qwzxr",
+    "region": "SA",
+    "tiers": {}
+  },
+  "1328823690766319702": {
+    "nick": "hugokillyou",
+    "region": "EU",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT3",
+        "obtained_at": "2026-09-20T19:50:18.344611+00:00"
+      }
+    }
+  },
+  "1471280396590121128": {
+    "nick": "yamilll",
+    "region": "NA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT3",
+        "obtained_at": "2026-09-20T19:52:53.070556+00:00"
+      }
+    }
   }
 }
