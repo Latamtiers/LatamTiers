@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789935055807,
-    "lastUpdateHuman": "2026-09-20 20:10:55 UTC",
+    "lastUpdate": 1789935807977,
+    "lastUpdateHuman": "2026-09-20 20:23:27 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -182,6 +182,10 @@
         {
           "tier": "LT3",
           "at": 1789933761227
+        },
+        {
+          "tier": "LT5",
+          "at": 1789935698148
         }
       ]
     },
@@ -304,5 +308,46 @@
       ]
     },
     "region": "NA"
+  },
+  "1542294654987411597": {
+    "nick": "AbbaHazeemAfp",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1789935085266
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1504737084773105708": {
+    "nick": "Mhznxz",
+    "modes": {},
+    "region": "NA"
+  },
+  "1224448447386489010": {
+    "nick": "98y_",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1789935560838
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1398745091585081405": {
+    "nick": "97y_",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1789935595884
+        }
+      ]
+    },
+    "region": "SA"
   }
 }
