@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789938012518,
-    "lastUpdateHuman": "2026-09-20 21:00:12 UTC",
+    "lastUpdate": 1789938895465,
+    "lastUpdateHuman": "2026-09-20 21:14:55 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -415,5 +415,22 @@
       ]
     },
     "region": "NA"
+  },
+  "754457944187207720": {
+    "nick": "SweetPlenoz",
+    "modes": {},
+    "region": "EU"
+  },
+  "1231624431319650416": {
+    "nick": "ItzGL1TCH3D",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT4",
+          "at": 1789938754144
+        }
+      ]
+    },
+    "region": "RU"
   }
 }
