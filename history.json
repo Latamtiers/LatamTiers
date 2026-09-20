@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789934278572,
-    "lastUpdateHuman": "2026-09-20 19:57:58 UTC",
+    "lastUpdate": 1789934586700,
+    "lastUpdateHuman": "2026-09-20 20:03:06 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -215,5 +215,58 @@
       ]
     },
     "region": "NA"
+  },
+  "1066423261094744104": {
+    "nick": "WolfJTA",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1789934515128
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT4",
+          "at": 1789934515128
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1789934515128
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1453126855258275893": {
+    "nick": "nashaymc_zvzz",
+    "modes": {},
+    "region": "SA"
+  },
+  "769800109981958144": {
+    "nick": "BatallaDeAura_",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT3",
+          "at": 1789934569035
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "848645435844460545": {
+    "nick": "S3xu4lb3astD1exx",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT3",
+          "at": 1789934535506
+        }
+      ]
+    },
+    "region": "SA"
   }
 }
