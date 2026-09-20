@@ -116,12 +116,40 @@ const TIERS_LOW_TO_HIGH = [
   'LT5','HT5','LT4','HT4','LT3','HT3','LT2','HT2','LT1','HT1'
 ];
 
+// Normaliza claves de modo: quita espacios, guiones y guiones bajos, y pone mayúsculas
+function normalizeModeKey(raw) {
+  return String(raw ?? '').toUpperCase().replace(/[\s_\-]+/g, '');
+}
+
+// Mapea TODO lo que puede venir de Lunaris al id interno
 const MODE_ALIASES = {
-  SWORD: 'sword', AXE: 'axe', MACE: 'mace', POT: 'pot',
-  NETHPOT: 'nethpot', NETHERITE_POT: 'nethpot', NETHER_POT: 'nethpot',
-  UHC: 'uhc', SHIELDLESS_UHC: 'uhc',
+  // Sword
+  SWORD: 'sword',
+  // Axe
+  AXE: 'axe',
+  // Mace (incluye "MAZO" del JSON de Lunaris)
+  MACE: 'mace',
+  MAZO: 'mace',
+  // Pot (incluye "DIAMOND POT")
+  POT: 'pot',
+  DIAMONDPOT: 'pot',
+  DIA_POT: 'pot',
+  // NethPot (incluye variantes)
+  NETHPOT: 'nethpot',
+  NETHERITEPOT: 'nethpot',
+  NETHERPOT: 'nethpot',
+  // UHC
+  UHC: 'uhc',
+  SHIELDLESSUHC: 'uhc',
+  // SMP
   SMP: 'smp',
-  CRYSTAL: 'crystal', DIAMOND_SMP: 'crystal', DIASMP: 'crystal',
+  // Crystal (incluye Vanilla y DiamondSMP)
+  CRYSTAL: 'crystal',
+  DIAMONDSMP: 'crystal',
+  DIASMP: 'crystal',
+  VANILLA: 'crystal',
+  HTVANILLA: 'crystal',
+  LTVANILLA: 'crystal',
 };
 
 const GRID_MODES = [
@@ -149,6 +177,9 @@ const MODE_ICONS = {
 
 const MODE_LABELS = Object.fromEntries(GRID_MODES.map((m) => [m.id, m.label]));
 
+// Steve head como fallback final (uuid fake oficial de Mojang)
+const STEVE_FALLBACK_UUID = 'MHF_Steve';
+
 /* ============================================================
    HELPERS
    ============================================================ */
@@ -172,7 +203,8 @@ function buildPlayers(raw) {
       const rawTiers = p?.tiers ?? p?.modalidades ?? {};
 
       for (const [rawKey, val] of Object.entries(rawTiers)) {
-        const id = MODE_ALIASES[rawKey.toUpperCase()] ?? rawKey.toLowerCase();
+        const id = MODE_ALIASES[normalizeModeKey(rawKey)] ?? null;
+        if (!id) continue;
         const tier = val?.tier;
         if (!tier || TIER_SCORE[tier] == null) continue;
         if (!GRID_MODES.some((m) => m.id === id)) continue;
@@ -235,7 +267,7 @@ function formatCount(n) {
 }
 
 /* ============================================================
-   STORE (fallback local si no existe history.json)
+   STORE (fallback local)
    ============================================================ */
 const HISTORY_KEY = 'latamtiers_history_v1';
 const SEED_FLAG_KEY = 'latamtiers_history_seeded_v1';
@@ -258,7 +290,7 @@ function markSeeded() {
 
 async function loadHistoryFromDisk() {
   try {
-    const r = await fetch('./history.json', { cache: 'no-store' });
+    const r = await fetch(`./history.json?v=${Date.now()}`, { cache: 'no-store' });
     if (!r.ok) return null;
     const data = await r.json();
     const clean = {};
@@ -415,22 +447,73 @@ function initials(name) {
   const m = (name ?? '').match(/[A-Z0-9]/g);
   return m && m.length >= 2 ? (m[0] + m[1]).toUpperCase() : (name ?? 'LT').slice(0, 2).toUpperCase();
 }
+
+// PlayerHead con cadena de fallbacks: crafatar → mc-heads → minotar → Steve
 function PlayerHead({ uuid, name, size = 40, ring }) {
   const radius = Math.max(6, size * 0.2);
   const boxShadow = ring ? `0 0 0 2px ${ring}` : `0 0 0 1px rgba(255,255,255,0.08)`;
   const [a, b] = PALETTES[hashStr(uuid) % PALETTES.length];
-  const url = `https://mc-heads.net/avatar/${encodeURIComponent(uuid)}/${Math.round(size * 2)}`;
+  const [srcIdx, setSrcIdx] = useState(0);
+
+  const sources = useMemo(() => {
+    const s = Math.round(size * 2);
+    const u = encodeURIComponent(uuid);
+    const steve = encodeURIComponent(STEVE_FALLBACK_UUID);
+    return [
+      `https://crafatar.com/avatars/${u}?size=${s}&overlay`,
+      `https://mc-heads.net/avatar/${u}/${s}`,
+      `https://minotar.net/avatar/${u}/${s}`,
+      `https://crafatar.com/avatars/${steve}?size=${s}&overlay`,
+      `https://mc-heads.net/avatar/${steve}/${s}`,
+    ];
+  }, [uuid, size]);
+
+  useEffect(() => { setSrcIdx(0); }, [uuid]);
+
+  const noMoreSources = srcIdx >= sources.length;
+
   return (
-    <span className="relative inline-flex shrink-0 items-center justify-center overflow-hidden"
-          style={{ width: size, height: size, borderRadius: radius,
-                   background: `linear-gradient(150deg, ${a}, ${b})`, boxShadow }}>
-      <span className="font-extrabold text-white"
-            style={{ fontFamily: 'var(--font-display)', fontSize: size * 0.4,
-                     textShadow: '0 1px 1px rgba(0,0,0,0.4)' }}>{initials(name)}</span>
-      <img src={url} alt="" aria-hidden loading="lazy" draggable={false}
-           className="absolute inset-0"
-           style={{ width: size, height: size, imageRendering: 'pixelated' }}
-           onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+    <span
+      className="relative inline-flex shrink-0 items-center justify-center overflow-hidden"
+      style={{
+        width: size, height: size, borderRadius: radius,
+        background: `linear-gradient(150deg, ${a}, ${b})`,
+        boxShadow,
+      }}
+    >
+      {/* Monograma de fondo (siempre visible detrás) */}
+      <span
+        className="font-extrabold text-white"
+        style={{
+          fontFamily: 'var(--font-display)',
+          fontSize: size * 0.4,
+          textShadow: '0 1px 1px rgba(0,0,0,0.4)',
+        }}
+      >
+        {initials(name)}
+      </span>
+
+      {/* Skin en capas — cada intento se muestra encima del anterior si carga */}
+      {sources.map((src, i) => (
+        <img
+          key={src}
+          src={src}
+          alt=""
+          aria-hidden
+          loading="lazy"
+          draggable={false}
+          className="absolute inset-0"
+          style={{
+            width: size, height: size,
+            imageRendering: 'pixelated',
+            display: i === srcIdx ? 'block' : 'none',
+          }}
+          onError={() => { if (i === srcIdx) setSrcIdx((prev) => prev + 1); }}
+        />
+      ))}
+
+      {/* Si no hay más fuentes, dejamos solo el monograma (fallback final) */}
+      {noMoreSources && null}
     </span>
   );
 }
@@ -1410,15 +1493,14 @@ function App() {
 
     (async () => {
       try {
-        // Lee el snapshot generado por el workflow
-        const r = await fetch('./ranking.json', { cache: 'no-store' });
+        // Cache busting: cada carga pide la versión más fresca
+        const r = await fetch(`./ranking.json?v=${Date.now()}`, { cache: 'no-store' });
         if (!r.ok) {
           throw new Error(`HTTP ${r.status} al leer ranking.json`);
         }
         const data = await r.json();
         const players = buildPlayers(data);
 
-        // Intenta cargar history.json (generado por GitHub Actions)
         const fromDisk = await loadHistoryFromDisk();
 
         let finalStore;
