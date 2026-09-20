@@ -1,19 +1,15 @@
-name: Update PVPHQ data
+name: Update LatamTiers data
 
 on:
-  # Cada 5 minutos (mínimo permitido por GitHub)
   schedule:
     - cron: '*/5 * * * *'
-  # También manualmente desde la pestaña Actions
   workflow_dispatch:
 
-# Permiso para commitear de vuelta al repo
 permissions:
   contents: write
 
-# Evita que dos runs se solapen
 concurrency:
-  group: pvphq-update
+  group: latamtiers-update
   cancel-in-progress: false
 
 jobs:
@@ -24,6 +20,9 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          # Importante: trae el historial completo para poder rebasear
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -42,9 +41,18 @@ jobs:
 
           if git diff --staged --quiet; then
             echo "💤 Sin cambios que commitear"
-          else
-            TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
-            git commit -m "chore(data): update ranking & history [${TIMESTAMP}]"
-            git push
-            echo "✅ Cambios subidos"
+            exit 0
           fi
+
+          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
+          git commit -m "chore(data): update ranking & history [${TIMESTAMP}]"
+
+          # Rebase para integrar commits que hayan llegado mientras corríamos
+          git pull --rebase origin main || {
+            echo "⚠️  Rebase falló, abortando y reintentando en el próximo ciclo"
+            git rebase --abort || true
+            exit 1
+          }
+
+          git push origin main
+          echo "✅ Cambios subidos"
