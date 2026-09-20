@@ -1,0 +1,1507 @@
+<!doctype html>
+<html lang="en" class="dark">
+<head>
+<meta charset="UTF-8" />
+<link rel="icon" type="image/png" href="./assets/logo.png" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="theme-color" content="#0A0D12" />
+<title>LatamTiers · Competitive Minecraft PvP Rankings</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        colors: {
+          page: '#07080d', page2: '#0b0d14', card: '#11131b', card2: '#161924',
+          raised: '#1e2230', inset: '#050609', surface: '#11131b',
+          line: '#ffffff0f', 'line-soft': '#ffffff0d', 'line-strong': '#ffffff21',
+          hi: '#eef1f7', body: '#aeb6c6', mid: '#727c92', low: '#4d566b',
+          brand: '#e7c163', 'brand-soft': '#ffcf66', 'brand-on': '#1b1303',
+          grass: '#44c267', amber: '#e6a238', pos: '#44c267', neg: '#e5556b',
+        },
+        fontFamily: {
+          display: ['Archivo', 'system-ui', 'sans-serif'],
+          sans:    ['Archivo', 'system-ui', 'sans-serif'],
+          mono:    ['JetBrains Mono', 'ui-monospace', 'monospace'],
+        },
+      },
+    },
+  };
+</script>
+
+<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+<style>
+  :root {
+    --color-card: #11131b; --color-card2: #161924;
+    --color-line: #ffffff0f; --color-line-soft: #ffffff0d; --color-line-strong: #ffffff21;
+    --color-hi: #eef1f7; --color-body: #aeb6c6; --color-mid: #727c92; --color-low: #4d566b;
+    --color-brand: #e7c163; --color-brand-on: #1b1303;
+    --color-pos: #44c267; --color-neg: #e5556b;
+    --font-display: 'Archivo', system-ui, sans-serif;
+  }
+  html { color-scheme: dark; }
+  body {
+    background: #0a0b10; color: var(--color-body);
+    font-family: 'Archivo', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased; min-height: 100vh; margin: 0; line-height: 1.6;
+  }
+  h1, h2, h3, h4 {
+    font-family: var(--font-display); color: var(--color-hi);
+    letter-spacing: -0.02em; margin: 0; font-weight: 700; line-height: 1.05;
+  }
+  a { color: inherit; text-decoration: none; }
+
+  .card { background: var(--color-card); border: 1px solid var(--color-line); border-radius: 12px; }
+  .card-hover { transition: background .15s, border-color .15s; cursor: pointer; }
+  .card-hover:hover { background: var(--color-card2); border-color: var(--color-line-strong); }
+
+  .btn-primary { background: var(--color-brand); color: var(--color-brand-on);
+    border-radius: 12px; font-family: var(--font-display); font-weight: 700; transition: background .12s; }
+  .btn-primary:hover { background: #ffcf66; }
+  .btn-ghost { border: 1px solid var(--color-line-strong); color: var(--color-body);
+    border-radius: 12px; font-family: var(--font-display); background: #ffffff0a; font-weight: 700;
+    transition: background .15s, color .15s; }
+  .btn-ghost:hover { color: var(--color-hi); background: #ffffff14; }
+
+  .eyebrow { font-family: var(--font-display); text-transform: uppercase;
+    letter-spacing: .09em; color: var(--color-mid); font-size: .78rem; font-weight: 600; }
+  .stat-num { font-variant-numeric: tabular-nums; }
+  .display { font-family: var(--font-display); }
+
+  @keyframes riseIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+  .rise { animation: riseIn .5s cubic-bezier(.16,1,.3,1) both; }
+  @keyframes floaty { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-7px); } }
+  .floaty { animation: floaty 5s ease-in-out infinite; }
+
+  ::-webkit-scrollbar { width: 11px; height: 11px; }
+  ::-webkit-scrollbar-thumb { background: #2a2f3d padding-box content-box; border: 3px solid transparent; border-radius: 99px; }
+  .no-scrollbar { scrollbar-width: none; -ms-overflow-style: none; }
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+</style>
+</head>
+<body>
+<div id="root"></div>
+
+<script type="text/babel" data-presets="react">
+const { useState, useEffect, useMemo, useRef, useCallback } = React;
+
+/* ============================================================
+   CONFIG
+   ============================================================ */
+const TIER_SCORE = {
+  HT1: 60, LT1: 45,
+  HT2: 30, LT2: 20,
+  HT3: 10, LT3: 6,
+  HT4: 4,  LT4: 3,
+  HT5: 2,  LT5: 1,
+};
+
+const TIER_COLORS = {
+  HT1: '#FFC53F', LT1: '#C9A02E',
+  HT2: '#92A5CC', LT2: '#64728C',
+  HT3: '#DD7E46', LT3: '#9E5A32',
+  HT4: '#A2A9AD', LT4: '#64686B',
+  HT5: '#936D42', LT5: '#4C3822',
+};
+
+const TIERS_LOW_TO_HIGH = [
+  'LT5','HT5','LT4','HT4','LT3','HT3','LT2','HT2','LT1','HT1'
+];
+
+const MODE_ALIASES = {
+  SWORD: 'sword', AXE: 'axe', MACE: 'mace', POT: 'pot',
+  NETHPOT: 'nethpot', NETHERITE_POT: 'nethpot', NETHER_POT: 'nethpot',
+  UHC: 'uhc', SHIELDLESS_UHC: 'uhc',
+  SMP: 'smp',
+  CRYSTAL: 'crystal', DIAMOND_SMP: 'crystal', DIASMP: 'crystal',
+};
+
+const GRID_MODES = [
+  { id: 'sword',   label: 'Sword'   },
+  { id: 'axe',     label: 'Axe'     },
+  { id: 'mace',    label: 'Mace'    },
+  { id: 'uhc',     label: 'UHC'     },
+  { id: 'nethpot', label: 'NethPot' },
+  { id: 'pot',     label: 'Pot'     },
+  { id: 'smp',     label: 'SMP'     },
+  { id: 'crystal', label: 'Crystal' },
+];
+
+const MODE_ICONS = {
+  overall: './assets/logo.png',
+  sword:   './assets/modes/sword.png',
+  axe:     './assets/modes/axe.png',
+  mace:    './assets/modes/mace.png',
+  uhc:     './assets/modes/uhc.png',
+  nethpot: './assets/modes/nethpot.png',
+  pot:     './assets/modes/pot.png',
+  smp:     './assets/modes/smp.png',
+  crystal: './assets/modes/crystal.png',
+};
+
+const MODE_LABELS = Object.fromEntries(GRID_MODES.map((m) => [m.id, m.label]));
+
+/* ============================================================
+   HELPERS
+   ============================================================ */
+function hashStr(s) {
+  let h = 2166136261;
+  for (let i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 16777619); }
+  return h >>> 0;
+}
+
+function isoToMs(s) {
+  if (!s) return null;
+  const t = Date.parse(s);
+  return Number.isFinite(t) ? t : null;
+}
+
+function buildPlayers(raw) {
+  return Object.entries(raw ?? {})
+    .filter(([k]) => !k.startsWith('__'))
+    .map(([uuid, p]) => {
+      const mods = {};
+      const rawTiers = p?.tiers ?? p?.modalidades ?? {};
+
+      for (const [rawKey, val] of Object.entries(rawTiers)) {
+        const id = MODE_ALIASES[rawKey.toUpperCase()] ?? rawKey.toLowerCase();
+        const tier = val?.tier;
+        if (!tier || TIER_SCORE[tier] == null) continue;
+        if (!GRID_MODES.some((m) => m.id === id)) continue;
+        mods[id] = {
+          tier,
+          score: TIER_SCORE[tier],
+          tierColor: TIER_COLORS[tier],
+          updatedAt:
+            val?.updatedAt ??
+            isoToMs(val?.obtained_at) ??
+            null,
+        };
+      }
+      const scores = Object.values(mods).map((m) => m.score);
+      const points = scores.reduce((a, b) => a + b, 0);
+      const best = scores.length ? Math.max(...scores) : 0;
+      return {
+        uuid,
+        name: p?.nick ?? 'Unknown',
+        country: p?.country ?? null,
+        region: p?.region ?? null,
+        modalidades: mods,
+        points,
+        best,
+        modesCount: scores.length,
+      };
+    });
+}
+
+function rankForMode(players, mode) {
+  let list;
+  if (mode === 'overall') {
+    list = players
+      .filter((p) => p.modesCount > 0)
+      .sort((a, b) => b.points - a.points || b.best - a.best || b.modesCount - a.modesCount || a.name.localeCompare(b.name));
+  } else {
+    list = players
+      .filter((p) => p.modalidades[mode])
+      .sort((a, b) =>
+        b.modalidades[mode].score - a.modalidades[mode].score ||
+        b.points - a.points || a.name.localeCompare(b.name));
+  }
+  return list.map((p, i) => {
+    const rank = i + 1;
+    if (mode === 'overall') {
+      const tiers = Object.entries(p.modalidades)
+        .map(([gt, v]) => ({ gametype: gt, tier: v.tier, tierColor: v.tierColor, score: v.score }))
+        .sort((a, b) => b.score - a.score).slice(0, 5);
+      return { ...p, rank, tiers };
+    }
+    const m = p.modalidades[mode];
+    return { ...p, rank, tier: m.tier, tierColor: m.tierColor, tierScore: m.score };
+  });
+}
+
+function formatCount(n) {
+  if (n >= 1e6) return (n / 1e6).toFixed(n >= 1e7 ? 0 : 1) + 'M';
+  if (n >= 1e3) return (n / 1e3).toFixed(n >= 1e4 ? 0 : 1) + 'K';
+  return String(n);
+}
+
+/* ============================================================
+   STORE (fallback local si no existe history.json)
+   ============================================================ */
+const HISTORY_KEY = 'latamtiers_history_v1';
+const SEED_FLAG_KEY = 'latamtiers_history_seeded_v1';
+
+function loadStore() {
+  try {
+    const raw = localStorage.getItem(HISTORY_KEY);
+    return raw ? JSON.parse(raw) : {};
+  } catch { return {}; }
+}
+function saveStore(store) {
+  try { localStorage.setItem(HISTORY_KEY, JSON.stringify(store)); } catch {}
+}
+function hasSeededBefore() {
+  try { return localStorage.getItem(SEED_FLAG_KEY) === '1'; } catch { return false; }
+}
+function markSeeded() {
+  try { localStorage.setItem(SEED_FLAG_KEY, '1'); } catch {}
+}
+
+async function loadHistoryFromDisk() {
+  try {
+    const r = await fetch('./history.json', { cache: 'no-store' });
+    if (!r.ok) return null;
+    const data = await r.json();
+    const clean = {};
+    for (const [k, v] of Object.entries(data)) {
+      if (k.startsWith('__')) continue;
+      clean[k] = v;
+    }
+    return clean;
+  } catch { return null; }
+}
+
+function buildSeedHistory(uuid, mode, currentTier, now) {
+  const currentIdx = TIERS_LOW_TO_HIGH.indexOf(currentTier);
+  if (currentIdx < 0) return [{ tier: currentTier, at: now }];
+  const h = hashStr(uuid + ':' + mode);
+  const totalEvents = 2 + (h % 3);
+  const events = [];
+  for (let i = 0; i < totalEvents; i++) {
+    const progress = (i + 1) / totalEvents;
+    const wobble = ((h >> (i * 3)) % 5) - 2;
+    let idx = Math.round(currentIdx * progress) + (i < totalEvents - 1 ? wobble : 0);
+    idx = Math.max(1, Math.min(currentIdx, idx));
+    if (events.length && TIERS_LOW_TO_HIGH[idx] === events[events.length - 1].tier) continue;
+    if (i === totalEvents - 1) idx = currentIdx;
+    const daysAgo = (totalEvents - i) * 5 + ((h >> i) % 9);
+    events.push({ tier: TIERS_LOW_TO_HIGH[idx], at: now - daysAgo * 24 * 60 * 60 * 1000 });
+  }
+  if (!events.length || events[events.length - 1].tier !== currentTier) {
+    events.push({ tier: currentTier, at: now });
+  }
+  return events;
+}
+
+function trackAllPlayers(players) {
+  const store = loadStore();
+  const firstTimeSeeding = !hasSeededBefore();
+  const now = Date.now();
+  let changes = 0;
+
+  for (const p of players) {
+    if (!store[p.uuid]) store[p.uuid] = {};
+    const ph = store[p.uuid];
+    for (const [mode, data] of Object.entries(p.modalidades)) {
+      const entries = ph[mode] || [];
+      const last = entries[entries.length - 1];
+      if (!last) {
+        if (firstTimeSeeding) {
+          ph[mode] = buildSeedHistory(p.uuid, mode, data.tier, now);
+          changes++;
+        } else {
+          ph[mode] = [{ tier: data.tier, at: data.updatedAt ?? now }];
+          changes++;
+        }
+      } else if (last.tier !== data.tier) {
+        entries.push({ tier: data.tier, at: data.updatedAt ?? now });
+        ph[mode] = entries;
+        changes++;
+      }
+    }
+  }
+  if (firstTimeSeeding) markSeeded();
+  if (changes > 0) saveStore(store);
+  return { store, changes };
+}
+
+function getPlayerEvents(store, player) {
+  const node = store[player.uuid];
+  if (!node) return [];
+  const ph = node.modes ?? node;
+  const events = [];
+  for (const [mode, entries] of Object.entries(ph)) {
+    if (!Array.isArray(entries)) continue;
+    let prev = null;
+    for (const e of entries) {
+      const to = e.tier;
+      if (!to || TIER_SCORE[to] == null) continue;
+      const direction = prev === null ? 'up'
+        : TIERS_LOW_TO_HIGH.indexOf(to) > TIERS_LOW_TO_HIGH.indexOf(prev) ? 'up'
+        : TIERS_LOW_TO_HIGH.indexOf(to) < TIERS_LOW_TO_HIGH.indexOf(prev) ? 'down' : 'same';
+      events.push({ from: prev, to, mode, ts: e.at ?? Date.now(), direction });
+      prev = to;
+    }
+  }
+  events.sort((a, b) => b.ts - a.ts);
+  return events;
+}
+
+function computeBestTierEver(store, player) {
+  let best = null;
+  const node = store[player.uuid];
+  const ph = node ? (node.modes ?? node) : {};
+  for (const entries of Object.values(ph)) {
+    if (!Array.isArray(entries)) continue;
+    for (const e of entries) {
+      const t = e.tier;
+      if (TIER_SCORE[t] == null) continue;
+      if (best === null || TIER_SCORE[t] > TIER_SCORE[best]) best = t;
+    }
+  }
+  for (const data of Object.values(player.modalidades)) {
+    if (best === null || TIER_SCORE[data.tier] > TIER_SCORE[best]) best = data.tier;
+  }
+  return best;
+}
+
+function computeCurrentBest(player) {
+  let best = null;
+  for (const data of Object.values(player.modalidades)) {
+    if (best === null || TIER_SCORE[data.tier] > TIER_SCORE[best]) best = data.tier;
+  }
+  return best;
+}
+
+function countTests(player) { return player.modesCount; }
+
+function fmtRelative(ts) {
+  const diff = Date.now() - ts;
+  const mins = Math.floor(diff / 60000);
+  if (mins < 1) return 'just now';
+  if (mins < 60) return `${mins}m ago`;
+  const hrs = Math.floor(mins / 60);
+  if (hrs < 24) return `${hrs}h ago`;
+  const days = Math.floor(hrs / 24);
+  if (days < 30) return `${days}d ago`;
+  return new Date(ts).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+}
+
+function fmtFull(ts) {
+  return new Date(ts).toLocaleString('en-US', {
+    month: 'short', day: 'numeric', year: 'numeric',
+    hour: 'numeric', minute: '2-digit',
+  });
+}
+
+/* ============================================================
+   ICONS
+   ============================================================ */
+function ModeIcon({ mode, size = 32, className = '' }) {
+  return (
+    <img src={MODE_ICONS[mode] ?? MODE_ICONS.overall} width={size} height={size}
+         alt="" aria-hidden draggable={false}
+         className={'inline-block shrink-0 select-none ' + className}
+         style={{ width: size, height: size, objectFit: 'contain' }}
+         onError={(e) => { e.currentTarget.src = './assets/logo.png'; }} />
+  );
+}
+
+const PALETTES = [
+  ['#efb43c', '#c78d1c'], ['#4cc2e6', '#2b7cc4'], ['#44c267', '#1f8a4d'],
+  ['#8b6fd0', '#5c39b0'], ['#e5708a', '#c23a5e'], ['#5ec9b6', '#1f8a80'],
+  ['#e8923a', '#c25a1e'], ['#6f8fd0', '#3a52b0'],
+];
+function initials(name) {
+  const m = (name ?? '').match(/[A-Z0-9]/g);
+  return m && m.length >= 2 ? (m[0] + m[1]).toUpperCase() : (name ?? 'LT').slice(0, 2).toUpperCase();
+}
+function PlayerHead({ uuid, name, size = 40, ring }) {
+  const radius = Math.max(6, size * 0.2);
+  const boxShadow = ring ? `0 0 0 2px ${ring}` : `0 0 0 1px rgba(255,255,255,0.08)`;
+  const [a, b] = PALETTES[hashStr(uuid) % PALETTES.length];
+  const url = `https://mc-heads.net/avatar/${encodeURIComponent(uuid)}/${Math.round(size * 2)}`;
+  return (
+    <span className="relative inline-flex shrink-0 items-center justify-center overflow-hidden"
+          style={{ width: size, height: size, borderRadius: radius,
+                   background: `linear-gradient(150deg, ${a}, ${b})`, boxShadow }}>
+      <span className="font-extrabold text-white"
+            style={{ fontFamily: 'var(--font-display)', fontSize: size * 0.4,
+                     textShadow: '0 1px 1px rgba(0,0,0,0.4)' }}>{initials(name)}</span>
+      <img src={url} alt="" aria-hidden loading="lazy" draggable={false}
+           className="absolute inset-0"
+           style={{ width: size, height: size, imageRendering: 'pixelated' }}
+           onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+    </span>
+  );
+}
+
+function ArrowRight({ size = 14 }) {
+  return (<svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M5 12h14M13 5l7 7-7 7" /></svg>);
+}
+function ArrowUp({ size = 14, className = '' }) {
+  return (<svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" className={className}>
+            <path d="m5 12 7-7 7 7M12 19V5" /></svg>);
+}
+function ArrowDown({ size = 14, className = '' }) {
+  return (<svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" className={className}>
+            <path d="M19 12l-7 7-7-7M12 5v14" /></svg>);
+}
+function Minus({ size = 14, className = '' }) {
+  return (<svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               strokeWidth="3" strokeLinecap="round" className={className}><path d="M5 12h14" /></svg>);
+}
+function SearchIcon({ size = 15, className = '' }) {
+  return (<svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
+            <circle cx="11" cy="11" r="8" /><path d="m21 21-4.34-4.34" /></svg>);
+}
+function CrownIcon({ size = 22 }) {
+  return (<svg width={size} height={size} viewBox="0 0 24 24" fill="currentColor">
+            <path d="M5 21h14l-1-11-4 4-3-6-3 6-4-4z" /></svg>);
+}
+function ChevronLeft({ size = 16 }) {
+  return (<svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="m15 18-6-6 6-6" /></svg>);
+}
+function XIcon({ size = 16 }) {
+  return (<svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <path d="M18 6 6 18M6 6l12 12" /></svg>);
+}
+
+/* ============================================================
+   SEARCH BAR
+   ============================================================ */
+function SearchBar({ players, onSelect, variant = 'bar', onNavigate }) {
+  const [q, setQ] = useState('');
+  const [open, setOpen] = useState(false);
+  const [active, setActive] = useState(0);
+  const boxRef = useRef(null);
+
+  const results = useMemo(() => {
+    const term = q.trim().toLowerCase();
+    if (!term) return [];
+    const exact = [];
+    const partial = [];
+    for (const p of players) {
+      const name = p.name.toLowerCase();
+      if (name === term) exact.push(p);
+      else if (name.startsWith(term)) partial.push(p);
+      else if (name.includes(term)) partial.push(p);
+    }
+    return [...exact, ...partial].slice(0, 8);
+  }, [q, players]);
+
+  useEffect(() => { setActive(0); }, [q]);
+
+  useEffect(() => {
+    if (!open) return;
+    const onClick = (e) => {
+      if (boxRef.current && !boxRef.current.contains(e.target)) setOpen(false);
+    };
+    document.addEventListener('pointerdown', onClick);
+    return () => document.removeEventListener('pointerdown', onClick);
+  }, [open]);
+
+  const go = (uuid) => {
+    setOpen(false); setQ('');
+    onSelect?.(uuid);
+    onNavigate?.();
+  };
+
+  const submit = (e) => {
+    e.preventDefault();
+    const pick = results[active] ?? results[0];
+    if (pick) go(pick.uuid);
+  };
+
+  const onKey = (e) => {
+    if (e.key === 'Escape') { setOpen(false); return; }
+    if (!open || results.length === 0) return;
+    if (e.key === 'ArrowDown') { e.preventDefault(); setActive((i) => (i + 1) % results.length); }
+    if (e.key === 'ArrowUp')   { e.preventDefault(); setActive((i) => (i - 1 + results.length) % results.length); }
+  };
+
+  const show = open && results.length > 0;
+
+  return (
+    <div ref={boxRef} className="relative">
+      <form onSubmit={submit}>
+        <div className="relative flex items-center">
+          <SearchIcon size={15} className={'pointer-events-none absolute text-low ' + (variant === 'bar' ? 'left-3' : 'left-2.5')} />
+          <input
+            value={q}
+            onChange={(e) => { setQ(e.target.value); setOpen(true); }}
+            onFocus={() => setOpen(true)}
+            onKeyDown={onKey}
+            placeholder="Search players…"
+            role="combobox"
+            aria-expanded={show}
+            aria-autocomplete="list"
+            className={variant === 'bar'
+              ? 'h-10 w-52 rounded-full bg-white/5 border border-line pl-9 pr-9 text-[14px] text-hi placeholder:text-low focus:outline-none focus:border-brand/60 focus:bg-white/8 transition-all'
+              : 'h-10 w-full bg-inset border border-line pl-8 pr-9 font-mono text-[13px] text-hi placeholder:text-low focus:outline-none focus:border-brand'}
+          />
+          {q && (
+            <button type="button" onClick={() => { setQ(''); setOpen(false); }}
+              className="absolute right-3 grid place-items-center w-4 h-4 rounded-full text-low hover:text-body"
+              aria-label="Clear">
+              <XIcon size={12} />
+            </button>
+          )}
+        </div>
+      </form>
+
+      {show && (
+        <div role="listbox"
+             className={'absolute top-[calc(100%+8px)] z-50 card overflow-hidden p-1.5 ' +
+                        (variant === 'bar' ? 'right-0 w-[330px]' : 'left-0 right-0')}>
+          {results.map((r, i) => (
+            <button key={r.uuid} type="button" role="option" aria-selected={i === active}
+              onMouseEnter={() => setActive(i)}
+              onClick={() => go(r.uuid)}
+              className={'flex w-full items-center gap-2.5 rounded-lg px-2 py-1.5 text-left transition-colors ' +
+                (i === active ? 'bg-white/8' : 'hover:bg-white/5')}>
+              <PlayerHead uuid={r.uuid} name={r.name} size={28} />
+              <span className="display font-bold text-[14px] text-hi truncate flex-1">{r.name}</span>
+              <span className="eyebrow text-low" style={{ fontSize: 9 }}>{r.points} pts</span>
+            </button>
+          ))}
+        </div>
+      )}
+    </div>
+  );
+}
+
+/* ============================================================
+   HEADER + FOOTER
+   ============================================================ */
+const NAV = [
+  { id: 'home',        label: 'Home' },
+  { id: 'leaderboard', label: 'Leaderboard' },
+  { id: 'matches',     label: 'Matches' },
+];
+
+function Header({ view, onNavigate, players, onSelect }) {
+  const [open, setOpen] = useState(false);
+
+  return (
+    <header className="sticky top-0 z-40 border-b border-line bg-page2/80 backdrop-blur-xl">
+      <div className="mx-auto flex h-16 max-w-[1320px] items-center gap-4 px-4 lg:px-6">
+        <button onClick={() => onNavigate('home')} className="shrink-0 flex items-center" aria-label="LatamTiers home">
+          <img src="./assets/logo.png" alt="LatamTiers"
+               style={{ height: 42, width: 'auto', filter: 'drop-shadow(0 3px 7px rgba(0,0,0,0.5))' }}
+               onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+        </button>
+
+        <nav className="ml-5 hidden items-center gap-1 lg:flex">
+          {NAV.map((n) => {
+            const active = view === n.id;
+            return (
+              <button key={n.id} onClick={() => onNavigate(n.id)}
+                className={'display font-bold rounded-full px-3.5 py-2 text-[14px] transition-colors ' +
+                  (active ? 'text-brand bg-brand/10' : 'text-mid hover:text-hi')}>
+                {n.label}
+              </button>
+            );
+          })}
+        </nav>
+
+        <div className="ml-auto hidden md:flex items-center gap-2.5">
+          <SearchBar players={players} onSelect={onSelect} variant="bar" />
+          <span title="Discord login coming soon" aria-disabled="true"
+                className="h-10 px-3.5 inline-flex cursor-not-allowed select-none items-center gap-2 rounded-full border border-line bg-white/5 text-[13px] display font-bold text-mid">
+            Log in
+            <span className="rounded-full bg-brand/15 px-1.5 py-0.5 text-[9px] font-bold uppercase tracking-wide text-brand">Soon</span>
+          </span>
+          <a href="https://store.latamtiers.com" target="_blank" rel="noopener noreferrer"
+             className="btn-primary h-10 px-4 inline-flex items-center text-[14px]">Store</a>
+        </div>
+
+        <button className="ml-auto lg:hidden text-body" onClick={() => setOpen((v) => !v)} aria-label="Toggle menu">
+          {open ? <XIcon size={22} /> : (
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <path d="M4 5h16M4 12h16M4 19h16" /></svg>
+          )}
+        </button>
+      </div>
+
+      {open && (
+        <div className="lg:hidden border-t border-line-soft bg-page px-4 py-3">
+          <div className="mb-3">
+            <SearchBar players={players} onSelect={onSelect} variant="block" onNavigate={() => setOpen(false)} />
+          </div>
+          <div className="flex flex-col">
+            {NAV.map((n) => (
+              <button key={n.id} onClick={() => { onNavigate(n.id); setOpen(false); }}
+                className={'py-2.5 text-left font-display uppercase tracking-wide text-[15px] border-b border-line-soft ' +
+                  (view === n.id ? 'text-brand' : 'text-body')}>
+                {n.label}
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
+    </header>
+  );
+}
+
+function Footer({ onNavigate }) {
+  return (
+    <footer className="relative z-10 mt-20 border-t border-line-soft bg-page">
+      <div className="mx-auto max-w-[1320px] px-4 lg:px-6 py-12">
+        <div className="grid gap-10 md:grid-cols-[1.7fr_1fr]">
+          <div>
+            <img src="./assets/logo.png" alt="LatamTiers" style={{ height: 42, width: 'auto' }}
+                 onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+            <p className="mt-3 max-w-xs text-[13px] text-mid">
+              The headquarters for competitive Minecraft PvP across Latin America. Live tiers, ratings, and match history for every kit.
+            </p>
+          </div>
+          <div>
+            <div className="eyebrow text-mid mb-3">Explore</div>
+            <ul className="flex flex-col gap-1.5">
+              <li><button onClick={() => onNavigate('leaderboard')} className="text-[13px] text-mid hover:text-body">Leaderboard</button></li>
+              <li><button onClick={() => onNavigate('hall-of-fame')} className="text-[13px] text-mid hover:text-body">Hall of Fame</button></li>
+            </ul>
+          </div>
+        </div>
+        <div className="my-8 h-px bg-line-soft" aria-hidden />
+        <div className="flex flex-col gap-2 text-[12px] text-low sm:flex-row sm:items-center sm:justify-between">
+          <span>© 2026 LatamTiers. Not affiliated with Mojang or any tier list.</span>
+          <span className="font-mono">latamtiers.com</span>
+        </div>
+      </div>
+    </footer>
+  );
+}
+
+/* ============================================================
+   HOME
+   ============================================================ */
+function Hero({ onNavigate }) {
+  return (
+    <div className="card relative overflow-hidden">
+      <div className="absolute inset-0" aria-hidden>
+        <img src="./assets/scene/spawn2.webp" alt="" className="h-full w-full object-cover"
+             style={{ objectPosition: 'center 40%' }}
+             onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+        <div className="absolute inset-0"
+             style={{ background: 'linear-gradient(90deg, rgba(7,6,10,0.94) 0%, rgba(7,6,10,0.7) 45%, rgba(7,6,10,0.35) 100%)' }} />
+      </div>
+      <div className="relative px-6 sm:px-8 py-8 sm:py-10 max-w-[720px]">
+        <img src="./assets/logo.png" alt="LatamTiers" className="floaty"
+             style={{ height: 130, width: 'auto',
+                      filter: 'drop-shadow(0 8px 20px rgba(0,0,0,0.6)) drop-shadow(0 0 30px rgba(231,193,99,0.15))' }}
+             onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+        <p className="mt-5 text-body text-[14.5px] leading-relaxed max-w-[500px]">
+          The headquarters for competitive Minecraft PvP across Latin America. Live tiers, ratings, and match history for every kit.
+        </p>
+        <div className="mt-6 flex gap-3 flex-wrap">
+          <button onClick={() => onNavigate('leaderboard')} className="btn-primary h-11 px-5 inline-flex items-center gap-2 text-[14px]">
+            Enter rankings <ArrowRight size={14} />
+          </button>
+          <button onClick={() => onNavigate('matches')} className="btn-ghost h-11 px-5 inline-flex items-center gap-2 text-[14px]">
+            Recent matches
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function StatsRow({ players, totalTests }) {
+  const stats = [
+    { label: 'Ranked players', value: formatCount(players.length) },
+    { label: 'Tests logged',   value: formatCount(totalTests) },
+    { label: 'Modes',          value: String(GRID_MODES.length) },
+    { label: 'Gamemodes',      value: String(GRID_MODES.length) },
+  ];
+  return (
+    <div className="grid grid-cols-2 gap-3 lg:grid-cols-4">
+      {stats.map((s) => (
+        <div key={s.label} className="card px-4 py-3.5">
+          <div className="stat-num font-bold leading-none text-hi" style={{ fontSize: 26, fontFamily: 'var(--font-display)' }}>{s.value}</div>
+          <div className="eyebrow mt-1.5 text-low" style={{ fontSize: 10 }}>{s.label}</div>
+        </div>
+      ))}
+    </div>
+  );
+}
+
+function GamemodeGrid({ onNavigate, players }) {
+  const counts = useMemo(() => {
+    const c = {};
+    for (const p of players) for (const k of Object.keys(p.modalidades)) c[k] = (c[k] || 0) + 1;
+    return c;
+  }, [players]);
+
+  return (
+    <section>
+      <div className="mb-3 flex items-end justify-between gap-3 flex-wrap">
+        <h2 style={{ fontSize: 22 }}>Every gamemode, ranked</h2>
+        <span className="eyebrow text-low" style={{ fontSize: 10 }}>
+          Last updated · {new Date().toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
+        </span>
+      </div>
+      <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
+        {GRID_MODES.map((m) => {
+          const count = counts[m.id] ?? 0;
+          return (
+            <button key={m.id} onClick={() => onNavigate('leaderboard', m.id)}
+                    className="card card-hover flex flex-col items-center justify-center gap-2 px-3 py-5 transition-all text-center">
+              <div className="grid place-items-center"
+                   style={{ width: 64, height: 64, background: 'rgba(255,255,255,0.03)', borderRadius: 14, border: '1px solid var(--color-line)' }}>
+                <ModeIcon mode={m.id} size={42} />
+              </div>
+              <div className="display font-bold uppercase text-hi text-[13px] tracking-wide">{m.label}</div>
+              <div className="eyebrow text-low" style={{ fontSize: 9 }}>{count > 0 ? `${count} ranked` : 'No data'}</div>
+            </button>
+          );
+        })}
+      </div>
+    </section>
+  );
+}
+
+function MoreToExplore({ onNavigate }) {
+  return (
+    <section>
+      <h2 className="mb-3" style={{ fontSize: 22 }}>More to explore</h2>
+      <div className="flex flex-col gap-2">
+        <button onClick={() => onNavigate('hall-of-fame')} className="card card-hover group flex items-center gap-4 px-4 py-3.5 text-left transition-all">
+          <span className="grid place-items-center shrink-0"
+                style={{ width: 36, height: 36, borderRadius: 10, background: 'rgba(231,193,99,0.12)', border: '1px solid rgba(231,193,99,0.3)' }}>
+            <CrownIcon size={18} />
+          </span>
+          <span className="flex-1 min-w-0">
+            <span className="display font-bold uppercase text-hi text-[14px] block">Hall of Fame</span>
+            <span className="text-mid text-[12px] block">The all-time greatest</span>
+          </span>
+          <ArrowRight size={16} />
+        </button>
+      </div>
+    </section>
+  );
+}
+
+function HomePage({ onNavigate, players, totalTests }) {
+  return (
+    <div className="flex flex-col gap-6">
+      <Hero onNavigate={onNavigate} />
+      <StatsRow players={players} totalTests={totalTests} />
+      <GamemodeGrid onNavigate={onNavigate} players={players} />
+      <MoreToExplore onNavigate={onNavigate} />
+    </div>
+  );
+}
+
+/* ============================================================
+   LEADERBOARD
+   ============================================================ */
+const MEDALS = { 1: '#FFC53F', 2: '#C8CEDA', 3: '#C08A4B' };
+
+function PodiumEntry({ entry, place, center, gametype, onSelect }) {
+  const isOverall = !gametype || gametype === 'overall';
+  const color = entry.tierColor ?? (isOverall ? '#e7c163' : '#9CA3AF');
+  const medal = MEDALS[place];
+  const num = isOverall ? entry.points : entry.tierScore;
+
+  return (
+    <button type="button" onClick={() => onSelect?.(entry.uuid)}
+      className="card card-hover rise relative flex flex-col items-center px-5 pb-5 text-center"
+      style={{ paddingTop: center ? 54 : 42, marginTop: center ? 0 : 40,
+               boxShadow: `inset 0 1px 0 rgba(255,255,255,0.14), 0 0 0 1.5px ${medal}, 0 0 ${center ? 40 : 22}px -6px ${medal}55, 0 26px 50px -28px rgba(0,0,0,0.85)` }}>
+      <span aria-hidden className="absolute inset-x-0 top-0"
+            style={{ height: 3, borderTopLeftRadius: 12, borderTopRightRadius: 12,
+                     background: `linear-gradient(90deg, transparent, ${medal}, transparent)` }} />
+      <div className="absolute left-1/2 z-20 -translate-x-1/2" style={{ top: -28 }}>
+        <div className="grid place-items-center rounded-full"
+             style={{ width: 56, height: 56, background: medal, color: '#0a0b10',
+                      fontFamily: 'var(--font-display)', fontWeight: 800, fontSize: 22,
+                      boxShadow: `0 0 20px ${medal}88, inset 0 1px 0 rgba(255,255,255,0.5)` }}>{place}</div>
+      </div>
+      <PlayerHead uuid={entry.uuid} name={entry.name} size={110} ring={isOverall ? medal : color} />
+      <div className="mt-3 max-w-full truncate text-hi"
+           style={{ fontFamily: 'var(--font-display)', fontSize: center ? 22 : 18, fontWeight: 700, lineHeight: 1.15 }}>
+        {entry.name}
+      </div>
+      {!isOverall && (
+        <div className="mt-2 flex items-center justify-center gap-2">
+          <ModeIcon mode={gametype} size={22} />
+          {entry.tier && (<span className="px-2 py-1 font-bold leading-none"
+                  style={{ background: color, color: '#0a0b10', fontSize: 12, fontFamily: 'var(--font-display)' }}>{entry.tier}</span>)}
+        </div>
+      )}
+      <div className="stat-num mt-3 font-bold leading-none text-hi" style={{ fontSize: center ? 34 : 26 }}>
+        {num?.toLocaleString('en-US') ?? '0'}
+      </div>
+      <div className="eyebrow mt-1" style={{ fontSize: 10 }}>{isOverall ? 'Points' : 'Tier score'}</div>
+    </button>
+  );
+}
+
+function Podium({ entries, gametype, onSelect }) {
+  if (!entries || entries.length < 3) return null;
+  const order = [entries[1], entries[0], entries[2]];
+  return (
+    <div className="relative pt-[68px]">
+      <div className="grid grid-cols-3 items-end gap-3 sm:gap-5">
+        {order.map((e, i) => (
+          <PodiumEntry key={e.uuid} entry={e}
+                       place={i === 1 ? 1 : i === 0 ? 2 : 3}
+                       center={i === 1} gametype={gametype} onSelect={onSelect} />
+        ))}
+      </div>
+    </div>
+  );
+}
+
+function LeaderboardRow({ entry, index, gametype, onSelect }) {
+  const isOverall = !gametype || gametype === 'overall';
+  const color = entry.tierColor ?? '#9CA3AF';
+  const medal = MEDALS[entry.rank];
+  const num = isOverall ? entry.points : entry.tierScore;
+
+  return (
+    <button type="button" onClick={() => onSelect?.(entry.uuid)}
+      className="rise group flex w-full items-stretch border border-line-strong bg-surface transition-colors hover:bg-card2 text-left"
+      style={{ animationDelay: `${Math.min(index, 24) * 16}ms` }}>
+      <span aria-hidden className="w-[3px] shrink-0"
+            style={{ background: medal ?? (isOverall ? 'rgba(231,193,99,0.5)' : `${color}88`) }} />
+      <span className="grid shrink-0 place-items-center border-r border-line-soft" style={{ width: 64 }}>
+        <span className="stat-num font-bold leading-none"
+              style={{ fontSize: entry.rank >= 1000 ? 18 : entry.rank >= 100 ? 21 : 25,
+                       color: medal ?? 'var(--color-mid)' }}>{entry.rank}</span>
+      </span>
+      <span className="flex min-w-0 flex-1 items-center gap-3 px-3.5 py-3">
+        <PlayerHead uuid={entry.uuid} name={entry.name} size={40} ring={color} />
+        <span className="min-w-0 flex-1">
+          <span className="block truncate font-bold text-hi transition-colors group-hover:text-brand"
+                style={{ fontFamily: 'var(--font-display)', fontSize: 17 }}>{entry.name}</span>
+          {isOverall && entry.tiers?.length > 0 && (
+            <span className="mt-1 flex flex-wrap items-center gap-x-2 gap-y-1">
+              {entry.tiers.map((t) => (
+                <span key={t.gametype} className="inline-flex items-center gap-1" title={t.gametype}>
+                  <ModeIcon mode={t.gametype} size={15} />
+                  <span className="font-bold leading-none"
+                        style={{ fontFamily: 'var(--font-display)', fontSize: 10, color: t.tierColor }}>{t.tier}</span>
+                </span>
+              ))}
+            </span>
+          )}
+        </span>
+        <span className="flex shrink-0 items-center gap-3">
+          {!isOverall && entry.tier && (
+            <span className="px-2 py-1 font-bold leading-none"
+                  style={{ background: color, color: '#0a0b10', fontSize: 12, fontFamily: 'var(--font-display)' }}>{entry.tier}</span>
+          )}
+          <span className="text-right">
+            <span className="stat-num block font-bold leading-none text-hi" style={{ fontSize: 22 }}>
+              {num?.toLocaleString('en-US')}
+            </span>
+            <span className="eyebrow mt-1 block text-low" style={{ fontSize: 9 }}>{isOverall ? 'PTS' : 'TIER'}</span>
+          </span>
+        </span>
+      </span>
+    </button>
+  );
+}
+
+function LeaderboardPage({ players, initialMode = 'overall', onSelect }) {
+  const [mode, setMode] = useState(initialMode);
+  useEffect(() => { setMode(initialMode); }, [initialMode]);
+
+  const entries = useMemo(() => (players.length ? rankForMode(players, mode) : []), [players, mode]);
+  const top3 = entries.filter((e) => e.rank <= 3).sort((a, b) => a.rank - b.rank);
+  const hasPodium = top3.length === 3;
+  const rest = hasPodium ? entries.filter((e) => e.rank > 3) : entries;
+  const modeLabel = GRID_MODES.find((m) => m.id === mode)?.label ?? 'Overall';
+  const tabs = [{ id: 'overall', label: 'Overall' }, ...GRID_MODES];
+
+  return (
+    <div className="mx-auto flex w-full max-w-[1180px] flex-col gap-6">
+      <div className="card relative overflow-hidden">
+        <div className="absolute inset-0"
+             style={{ background: 'linear-gradient(90deg, rgba(7,6,10,0.93) 0%, rgba(7,6,10,0.72) 45%, rgba(7,6,10,0.4) 100%)' }} />
+        <div className="relative flex flex-wrap items-end justify-between gap-5 px-6 py-7 sm:py-8">
+          <div>
+            <div className="eyebrow mb-2 text-brand">Competitive Rankings</div>
+            <h1 style={{ fontSize: 'clamp(32px, 5vw, 50px)' }}>
+              {modeLabel} <span className="text-brand">Ladder</span>
+            </h1>
+            <p className="mt-1.5 text-[14px] text-body">{entries.length.toLocaleString('en-US')} players ranked</p>
+          </div>
+        </div>
+      </div>
+
+      <div className="no-scrollbar -mx-1 flex gap-2.5 overflow-x-auto px-1 pb-1">
+        {tabs.map((m) => {
+          const active = m.id === mode;
+          return (
+            <button key={m.id} type="button" onClick={() => setMode(m.id)}
+              className={'inline-flex h-12 shrink-0 items-center gap-2 rounded-full pl-3 pr-5 display font-bold text-[15px] transition-all ' +
+                (active ? 'bg-brand text-brand-on' : 'border border-line bg-white/5 text-mid hover:bg-white/10 hover:text-hi')}
+              style={active ? { boxShadow: '0 8px 18px -8px rgba(245,166,35,0.65)' } : undefined}>
+              <ModeIcon mode={m.id} size={26} />
+              {m.label}
+            </button>
+          );
+        })}
+      </div>
+
+      {entries.length === 0 ? (
+        <div className="card px-4 py-16 text-center text-mid">
+          No hay jugadores en <span className="font-semibold text-body">{modeLabel}</span>.
+        </div>
+      ) : (
+        <>
+          {hasPodium && <div className="hidden sm:block"><Podium entries={top3} gametype={mode} onSelect={onSelect} /></div>}
+          {hasPodium && (
+            <div className="grid grid-cols-1 gap-3 sm:hidden">
+              {top3.map((e, i) => <LeaderboardRow key={e.uuid} entry={e} index={i} gametype={mode} onSelect={onSelect} />)}
+            </div>
+          )}
+          <div className="grid grid-cols-1 gap-3 md:grid-cols-2">
+            {rest.map((e, i) => <LeaderboardRow key={e.uuid} entry={e} index={i} gametype={mode} onSelect={onSelect} />)}
+          </div>
+          <div className="flex items-center justify-between px-1 pt-1">
+            <span className="text-[13px] text-low">Showing <span className="font-semibold text-body">{entries.length}</span> players</span>
+            <span className="eyebrow text-low" style={{ fontSize: '0.6rem' }}>LatamTiers</span>
+          </div>
+        </>
+      )}
+    </div>
+  );
+}
+
+/* ============================================================
+   PROFILE
+   ============================================================ */
+function TierPill({ tier }) {
+  if (!tier) {
+    return (
+      <span className="px-2 py-1 font-bold leading-none"
+            style={{ background: 'rgba(255,255,255,0.06)', color: 'var(--color-mid)',
+                     fontSize: 11, fontFamily: 'var(--font-display)' }}>UNRANKED</span>
+    );
+  }
+  return (
+    <span className="px-2 py-1 font-bold leading-none"
+          style={{ background: TIER_COLORS[tier] ?? '#9CA3AF', color: '#0a0b10',
+                   fontSize: 11, fontFamily: 'var(--font-display)' }}>{tier}</span>
+  );
+}
+
+function ProfileHeader({ player, currentBest }) {
+  const ranked = Object.entries(player.modalidades).sort((a, b) => b[1].score - a[1].score);
+  const bestColor = currentBest ? TIER_COLORS[currentBest] : '#6E8093';
+  const topEntry = ranked[0];
+  const topMode = topEntry ? topEntry[0] : null;
+
+  return (
+    <div className="card relative overflow-hidden">
+      <span aria-hidden className="absolute left-0 top-0 h-[2px] w-full" style={{ background: bestColor }} />
+      <div className="grid gap-6 p-5 lg:grid-cols-[1fr_auto] lg:p-6">
+        <div className="flex items-start gap-5 min-w-0">
+          <div className="shrink-0 grid place-items-center border"
+               style={{ borderColor: bestColor, padding: 6, background: 'rgba(255,255,255,0.02)' }}>
+            <PlayerHead uuid={player.uuid} name={player.name} size={92} />
+          </div>
+          <div className="min-w-0 flex-1">
+            <div className="eyebrow text-low" style={{ fontSize: 10 }}>Player profile</div>
+            <h1 className="mt-1 truncate" style={{ fontSize: 38, letterSpacing: '-0.02em', color: 'var(--color-brand)' }}>
+              {player.name}
+            </h1>
+
+            {(player.region || player.country) && (
+              <div className="mt-2.5 flex items-center gap-2 flex-wrap">
+                <span className="inline-flex items-center gap-1.5 border border-line-strong px-2 py-1 font-display uppercase text-[10.5px] tracking-wide text-mid">
+                  <span aria-hidden className="h-1.5 w-1.5 rounded-full" style={{ background: '#4FD0E6' }} />
+                  {player.region ?? player.country}
+                </span>
+              </div>
+            )}
+
+            <div className="mt-5 flex flex-wrap gap-y-4 border-t border-line-soft pt-4">
+              <div className="pr-6">
+                <div className="stat-num font-bold leading-none text-[21px] text-hi">
+                  {ranked.length} / {GRID_MODES.length}
+                </div>
+                <div className="eyebrow text-low mt-1.5" style={{ fontSize: 10 }}>Kits ranked</div>
+              </div>
+              <div className="pr-6">
+                <div className="stat-num font-bold leading-none text-[21px] text-hi">
+                  {countTests(player)}
+                </div>
+                <div className="eyebrow text-low mt-1.5" style={{ fontSize: 10 }}>Tests</div>
+              </div>
+              <div className="pr-6">
+                <div className="stat-num font-bold leading-none text-[21px]" style={{ color: 'var(--color-brand)' }}>
+                  {player.points.toLocaleString('en-US')}
+                </div>
+                <div className="eyebrow text-low mt-1.5" style={{ fontSize: 10 }}>Total points</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="lg:text-right lg:border-l lg:border-line-soft lg:pl-7 flex flex-col justify-center">
+          <div className="eyebrow text-low" style={{ fontSize: 10 }}>Ranked points</div>
+          <div className="mt-2 inline-flex items-baseline justify-center gap-1.5 px-5 h-14 lg:self-end border border-line-strong">
+            <span className="font-display font-bold leading-none"
+                  style={{ fontSize: 34, color: 'var(--color-brand)' }}>
+              {player.points.toLocaleString('en-US')}
+            </span>
+            <span className="eyebrow text-low" style={{ fontSize: 11 }}>PTS</span>
+          </div>
+          <div className="mt-2 text-[12.5px] text-mid">
+            from {player.modesCount} ranked kit{player.modesCount === 1 ? '' : 's'}
+          </div>
+          {currentBest && topMode && (
+            <div className="mt-2.5 flex items-center gap-2 lg:justify-end text-[12.5px]">
+              <span className="eyebrow text-low" style={{ fontSize: 10 }}>Best</span>
+              <span className="px-2 py-0.5 font-display font-bold text-[12px]"
+                    style={{ background: TIER_COLORS[currentBest], color: '#0a0b10' }}>
+                {currentBest}
+              </span>
+              <span className="text-body">{MODE_LABELS[topMode] ?? topMode}</span>
+            </div>
+          )}
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function KitsSidebar({ player, selected, onSelect }) {
+  const sorted = Object.entries(player.modalidades)
+    .map(([id, v]) => ({ id, ...v }))
+    .sort((a, b) => b.score - a.score);
+
+  return (
+    <aside className="border border-line-strong bg-surface">
+      <div className="eyebrow text-low border-b border-line-soft px-3 py-2.5" style={{ fontSize: 10 }}>Kits</div>
+      <div className="flex flex-col py-1">
+        {sorted.map((m) => {
+          const active = m.id === selected;
+          const color = TIER_COLORS[m.tier] ?? '#9CA3AF';
+          return (
+            <button key={m.id} type="button" onClick={() => onSelect(m.id)}
+              className={'group flex w-full items-center gap-2.5 border-l-2 px-3 py-2.5 text-left transition-colors ' +
+                (active ? 'border-brand bg-white/[0.05]' : 'border-transparent hover:bg-white/[0.03]')}>
+              <ModeIcon mode={m.id} size={22} />
+              <span className="min-w-0 flex-1">
+                <span className={'block truncate font-display font-bold uppercase text-[13px] tracking-wide ' +
+                  (active ? 'text-hi' : 'text-body group-hover:text-hi')}>
+                  {MODE_LABELS[m.id] ?? m.id}
+                </span>
+                <span className="block font-mono text-[10.5px] text-low">{m.score} pts</span>
+              </span>
+              <span className="shrink-0 px-1.5 py-0.5 font-display font-bold text-[10.5px] leading-none"
+                    style={{ background: color, color: '#0a0b10' }}>{m.tier}</span>
+            </button>
+          );
+        })}
+      </div>
+    </aside>
+  );
+}
+
+function TierHistoryCard({ events }) {
+  if (events.length === 0) {
+    return (
+      <div className="card overflow-hidden">
+        <div className="flex items-center justify-between border-b border-line-soft p-4">
+          <div className="eyebrow text-brand">Tier history</div>
+        </div>
+        <div className="px-4 py-8 text-center text-mid text-sm">No hay tests registrados.</div>
+      </div>
+    );
+  }
+
+  return (
+    <div className="card overflow-hidden">
+      <div className="flex items-center justify-between border-b border-line-soft p-4">
+        <div className="eyebrow text-brand">Tier history</div>
+        <span className="font-display uppercase text-[11px] tracking-wide text-mid">{events.length} events</span>
+      </div>
+      <div>
+        {events.map((e, i) => {
+          const dir = e.direction;
+          const iconColor = dir === 'up' ? '#44c267' : dir === 'down' ? '#e5556b' : 'var(--color-mid)';
+          const Icon = dir === 'up' ? ArrowUp : dir === 'down' ? ArrowDown : Minus;
+          const label = dir === 'up' ? 'Up' : dir === 'down' ? 'Down' : 'Same';
+          return (
+            <div key={i} title={fmtFull(e.ts)}
+                 className="group flex items-center gap-3 border-b border-line-soft px-3 py-2.5 last:border-0 hover:bg-white/5 transition-colors">
+              <span className="shrink-0 flex items-center justify-center w-14 h-7 rounded font-display font-bold text-[11px] uppercase"
+                    style={{ background: dir === 'up' ? 'rgba(68,194,103,0.15)' :
+                                         dir === 'down' ? 'rgba(229,85,107,0.15)' : 'rgba(255,255,255,0.05)',
+                             color: iconColor }}>
+                <Icon size={11} /> <span className="ml-0.5">{label}</span>
+              </span>
+              <span className="flex items-center gap-2 min-w-0 flex-1">
+                {e.from ? <TierPill tier={e.from} /> : <TierPill tier={null} />}
+                <span className="text-low">→</span>
+                <TierPill tier={e.to} />
+                <span className="font-display uppercase text-[11px] text-mid truncate">
+                  {MODE_LABELS[e.mode] ?? e.mode}
+                </span>
+              </span>
+              <span className="shrink-0 font-mono text-[11px] text-low">{fmtRelative(e.ts)}</span>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+
+function CareerCard({ player, bestEver }) {
+  return (
+    <div className="card self-start p-5">
+      <div className="eyebrow text-brand mb-3">Career</div>
+      <div className="grid grid-cols-2 gap-3 text-center">
+        <div className="bg-inset border border-line-soft py-3">
+          <div className="stat-num text-hi text-[22px] leading-none font-bold"
+               style={{ fontFamily: 'var(--font-display)' }}>
+            {countTests(player)}
+          </div>
+          <div className="eyebrow text-low mt-1.5" style={{ fontSize: 10 }}>Tests taken</div>
+        </div>
+        <div className="bg-inset border border-line-soft py-3">
+          {bestEver ? (
+            <>
+              <span className="px-2.5 py-1 font-display font-bold leading-none inline-block"
+                    style={{ background: TIER_COLORS[bestEver], color: '#0a0b10', fontSize: 18 }}>
+                {bestEver}
+              </span>
+              <div className="eyebrow text-low mt-1.5" style={{ fontSize: 10 }}>Best tier ever</div>
+            </>
+          ) : (
+            <>
+              <div className="text-mid font-display text-[18px] leading-none">—</div>
+              <div className="eyebrow text-low mt-1.5" style={{ fontSize: 10 }}>Best tier ever</div>
+            </>
+          )}
+        </div>
+      </div>
+      <p className="mt-4 text-[13px] text-mid">
+        Rating progression is tracked per kit. Every change to your tier is recorded automatically.
+      </p>
+    </div>
+  );
+}
+
+function ProfilePage({ player, store, onBack }) {
+  const [tab, setTab] = useState('overview');
+  const [selectedKit, setSelectedKit] = useState(() => {
+    const sorted = Object.entries(player.modalidades).sort((a, b) => b[1].score - a[1].score);
+    return sorted[0]?.[0] ?? null;
+  });
+
+  const events = useMemo(() => getPlayerEvents(store, player), [store, player]);
+  const currentBest = useMemo(() => computeCurrentBest(player), [player]);
+  const bestEver = useMemo(() => computeBestTierEver(store, player), [store, player]);
+
+  return (
+    <div className="mx-auto flex w-full max-w-[1180px] flex-col gap-5">
+      <button onClick={onBack}
+        className="inline-flex items-center gap-1.5 font-display uppercase text-[12px] tracking-wide text-mid hover:text-brand transition-colors w-fit">
+        <ChevronLeft size={14} /> Back
+      </button>
+
+      <ProfileHeader player={player} currentBest={currentBest} />
+
+      <div className="grid gap-5 items-start lg:grid-cols-[236px_1fr]">
+        <KitsSidebar player={player} selected={selectedKit} onSelect={setSelectedKit} />
+
+        <div className="flex flex-col gap-5 min-w-0">
+          <div role="tablist" className="no-scrollbar flex gap-1 overflow-x-auto border-b border-line-soft">
+            {[
+              { id: 'overview', label: 'Overview' },
+              { id: 'h2h', label: 'Head-to-head' },
+            ].map((t) => (
+              <button key={t.id} role="tab" aria-selected={tab === t.id} onClick={() => setTab(t.id)}
+                className={'relative whitespace-nowrap px-3.5 py-2.5 font-display uppercase tracking-wide text-[13px] transition-colors ' +
+                  (tab === t.id ? 'text-brand' : 'text-mid hover:text-body')}>
+                {t.label}
+                {tab === t.id && <span className="absolute -bottom-px left-2 right-2 h-[2px] bg-brand" aria-hidden />}
+              </button>
+            ))}
+          </div>
+
+          {tab === 'overview' && (
+            <div className="grid gap-5 xl:grid-cols-[1.5fr_1fr]">
+              <TierHistoryCard events={events} />
+              <CareerCard player={player} bestEver={bestEver} />
+            </div>
+          )}
+
+          {tab === 'h2h' && (
+            <div className="card px-6 py-16 text-center">
+              <div className="eyebrow text-brand mb-2">Coming soon</div>
+              <p className="text-mid text-[14px]">El historial head-to-head se mostrará aquí.</p>
+            </div>
+          )}
+        </div>
+      </div>
+    </div>
+  );
+}
+
+/* ============================================================
+   HALL OF FAME
+   ============================================================ */
+function ChampionCard({ entry, onSelect }) {
+  return (
+    <button type="button" onClick={() => onSelect?.(entry.uuid)}
+      className="card card-hover relative overflow-hidden p-6 sm:p-8 flex flex-col sm:flex-row items-center gap-6 rise w-full text-left"
+      style={{ boxShadow: `inset 0 1px 0 rgba(255,255,255,0.14), 0 0 0 2px #FFC53F, 0 0 60px -10px #FFC53F77, 0 30px 60px -30px rgba(0,0,0,0.9)` }}>
+      <span aria-hidden className="absolute inset-x-0 top-0 h-[3px]"
+            style={{ background: 'linear-gradient(90deg, transparent, #FFC53F, transparent)' }} />
+      <div className="relative shrink-0">
+        <PlayerHead uuid={entry.uuid} name={entry.name} size={140} ring="#FFC53F" />
+        <span className="absolute -top-5 left-1/2 -translate-x-1/2 floaty"
+              style={{ color: '#FFC53F', filter: 'drop-shadow(0 0 10px #FFC53Faa)' }}>
+          <CrownIcon size={32} />
+        </span>
+      </div>
+      <div className="relative min-w-0 text-center sm:text-left flex-1">
+        <div className="eyebrow" style={{ color: '#FFC53F', fontSize: 11, letterSpacing: '0.18em' }}>
+          ★ Champion · All-Time #1
+        </div>
+        <h2 className="mt-2 truncate" style={{ fontSize: 'clamp(28px, 4vw, 42px)' }}>{entry.name}</h2>
+        <div className="mt-4 flex flex-wrap items-center justify-center sm:justify-start gap-3">
+          <div>
+            <div className="stat-num font-bold leading-none text-hi" style={{ fontSize: 38 }}>{entry.points.toLocaleString('en-US')}</div>
+            <div className="eyebrow text-low mt-1" style={{ fontSize: 10 }}>Total points</div>
+          </div>
+          <span className="hidden sm:block w-px h-10 bg-line-soft" aria-hidden />
+          <div>
+            <div className="stat-num font-bold leading-none text-hi" style={{ fontSize: 38 }}>{entry.modesCount}</div>
+            <div className="eyebrow text-low mt-1" style={{ fontSize: 10 }}>Modes ranked</div>
+          </div>
+        </div>
+      </div>
+    </button>
+  );
+}
+
+function RunnerUpCard({ entry, place, onSelect }) {
+  const medal = MEDALS[place];
+  return (
+    <button type="button" onClick={() => onSelect?.(entry.uuid)}
+      className="card card-hover rise relative flex flex-col items-center text-center p-5"
+      style={{ boxShadow: `inset 0 1px 0 rgba(255,255,255,0.12), 0 0 0 1.5px ${medal}aa, 0 0 30px -8px ${medal}66` }}>
+      <span aria-hidden className="absolute inset-x-0 top-0 h-[3px]"
+            style={{ background: `linear-gradient(90deg, transparent, ${medal}, transparent)` }} />
+      <div className="grid place-items-center rounded-full mb-3"
+           style={{ width: 44, height: 44, background: medal, color: '#0a0b10',
+                    fontFamily: 'var(--font-display)', fontWeight: 800, fontSize: 18,
+                    boxShadow: `0 0 18px ${medal}88` }}>{place}</div>
+      <PlayerHead uuid={entry.uuid} name={entry.name} size={80} ring={medal} />
+      <div className="mt-3 truncate max-w-full font-bold text-hi"
+           style={{ fontFamily: 'var(--font-display)', fontSize: 16 }}>{entry.name}</div>
+      <div className="stat-num mt-2 font-bold text-hi" style={{ fontSize: 22 }}>{entry.points.toLocaleString('en-US')}</div>
+      <div className="eyebrow text-low mt-1" style={{ fontSize: 9 }}>Points</div>
+    </button>
+  );
+}
+
+function HallOfFamePage({ players, onSelect }) {
+  const ranked = useMemo(() => rankForMode(players, 'overall'), [players]);
+
+  if (ranked.length === 0) {
+    return (
+      <div className="mx-auto max-w-[1180px]">
+        <div className="card px-6 py-16 text-center">
+          <h1 style={{ fontSize: 40 }} className="mb-2">Hall of Fame</h1>
+          <p className="text-mid">Aún no hay jugadores rankeados.</p>
+        </div>
+      </div>
+    );
+  }
+
+  const champion = ranked[0];
+  const runnersUp = ranked.slice(1, 3);
+  const rest = ranked.slice(3, 20);
+
+  return (
+    <div className="mx-auto flex w-full max-w-[1180px] flex-col gap-6">
+      <div className="text-center pt-2">
+        <div className="eyebrow mb-2" style={{ color: '#FFC53F', letterSpacing: '0.2em' }}>★ Legacy Board</div>
+        <h1 style={{ fontSize: 'clamp(32px, 5vw, 48px)' }}>Hall of <span className="text-brand">Fame</span></h1>
+        <p className="mt-2 text-body text-[14px]">The all-time greatest of LatamTiers, ranked by total points across every kit.</p>
+      </div>
+
+      <ChampionCard entry={champion} onSelect={onSelect} />
+
+      {runnersUp.length > 0 && (
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+          {runnersUp.map((e, i) => <RunnerUpCard key={e.uuid} entry={e} place={i + 2} onSelect={onSelect} />)}
+        </div>
+      )}
+
+      {rest.length > 0 && (
+        <div>
+          <div className="mb-3 flex items-end justify-between">
+            <h2 style={{ fontSize: 20 }}>Legends</h2>
+            <span className="eyebrow text-low" style={{ fontSize: 10 }}>Top {rest.length + 3}</span>
+          </div>
+          <div className="card divide-y divide-line-soft overflow-hidden">
+            {rest.map((e) => (
+              <button key={e.uuid} onClick={() => onSelect?.(e.uuid)}
+                className="flex w-full items-center gap-3 px-4 py-2.5 hover:bg-white/5 text-left transition-colors">
+                <span className="stat-num font-bold w-10 text-right shrink-0"
+                      style={{ fontFamily: 'var(--font-display)', color: 'var(--color-mid)' }}>{e.rank}</span>
+                <PlayerHead uuid={e.uuid} name={e.name} size={32} />
+                <span className="flex-1 min-w-0 truncate font-bold text-hi"
+                      style={{ fontFamily: 'var(--font-display)', fontSize: 14 }}>{e.name}</span>
+                <span className="flex shrink-0 items-center gap-1">
+                  {e.tiers?.slice(0, 4).map((t) => <ModeIcon key={t.gametype} mode={t.gametype} size={14} />)}
+                </span>
+                <span className="stat-num font-bold text-hi text-right shrink-0 w-16"
+                      style={{ fontFamily: 'var(--font-display)' }}>{e.points}</span>
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+/* ============================================================
+   MATCHES
+   ============================================================ */
+function MatchesPage() {
+  return (
+    <div className="mx-auto max-w-[1180px]">
+      <div className="card px-6 py-16 text-center">
+        <div className="eyebrow mb-3 text-brand">Coming soon</div>
+        <h1 style={{ fontSize: 40 }} className="mb-3">Recent Matches</h1>
+        <p className="text-mid max-w-md mx-auto text-[14px]">Aquí irá el feed de partidas cuando tengas los datos.</p>
+      </div>
+    </div>
+  );
+}
+
+/* ============================================================
+   APP
+   ============================================================ */
+function App() {
+  const [raw, setRaw] = useState(null);
+  const [error, setError] = useState(null);
+  const [store, setStore] = useState({});
+  const [view, setView] = useState('home');
+  const [leaderboardMode, setLeaderboardMode] = useState('overall');
+  const [profileUuid, setProfileUuid] = useState(null);
+
+  useEffect(() => {
+    if (location.protocol === 'file:') {
+      setError(new Error('Abre este archivo con un servidor HTTP (o usa GitHub Pages).'));
+      return;
+    }
+
+    (async () => {
+      try {
+        // Lee el snapshot generado por el workflow
+        const r = await fetch('./ranking.json', { cache: 'no-store' });
+        if (!r.ok) {
+          throw new Error(`HTTP ${r.status} al leer ranking.json`);
+        }
+        const data = await r.json();
+        const players = buildPlayers(data);
+
+        // Intenta cargar history.json (generado por GitHub Actions)
+        const fromDisk = await loadHistoryFromDisk();
+
+        let finalStore;
+        if (fromDisk) {
+          finalStore = fromDisk;
+        } else {
+          const result = trackAllPlayers(players);
+          finalStore = result.store;
+        }
+
+        setRaw(data);
+        setStore(finalStore);
+      } catch (e) {
+        setError(e);
+      }
+    })();
+  }, []);
+
+  const players = useMemo(() => (raw ? buildPlayers(raw) : []), [raw]);
+  const playerByUuid = useMemo(() => Object.fromEntries(players.map((p) => [p.uuid, p])), [players]);
+  const totalTests = useMemo(() => players.reduce((a, p) => a + countTests(p), 0), [players]);
+
+  const onNavigate = useCallback((target, mode) => {
+    if (target === 'leaderboard' && mode) setLeaderboardMode(mode);
+    else if (target === 'leaderboard') setLeaderboardMode('overall');
+    setProfileUuid(null);
+    setView(target);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }, []);
+
+  const openProfile = useCallback((uuid) => {
+    setProfileUuid(uuid);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }, []);
+
+  const closeProfile = useCallback(() => {
+    setProfileUuid(null);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }, []);
+
+  const currentProfile = profileUuid ? playerByUuid[profileUuid] : null;
+
+  return (
+    <div className="min-h-screen bg-page">
+      <Header view={view} onNavigate={onNavigate} players={players} onSelect={openProfile} />
+
+      <main className="relative z-10 mx-auto max-w-[1320px] px-4 lg:px-6 py-6 min-h-[70vh]">
+        {error ? (
+          <div className="card max-w-2xl mx-auto px-6 py-16 text-center mt-10">
+            <p className="mb-2 text-lg font-bold text-hi">No se pudo cargar el ranking</p>
+            <p className="mb-3 text-mid">{error.message}</p>
+            <p className="text-low text-[12px]">
+              Asegúrate de que <code className="font-mono text-brand">ranking.json</code> existe junto al HTML
+              (lo genera el workflow de GitHub Actions).
+            </p>
+          </div>
+        ) : raw === null ? (
+          <div className="card flex items-center justify-center px-4 py-24 text-mid max-w-md mx-auto mt-10">
+            <span className="inline-flex items-center gap-2 text-[12px] font-bold uppercase tracking-wide"
+                  style={{ fontFamily: 'var(--font-display)' }}>
+              <span className="h-3.5 w-3.5 animate-spin rounded-full border-2 border-brand" style={{ borderTopColor: 'transparent' }} />
+              Cargando…
+            </span>
+          </div>
+        ) : currentProfile ? (
+          <ProfilePage player={currentProfile} store={store} onBack={closeProfile} />
+        ) : view === 'home' ? (
+          <HomePage onNavigate={onNavigate} players={players} totalTests={totalTests} />
+        ) : view === 'leaderboard' ? (
+          <LeaderboardPage players={players} initialMode={leaderboardMode} onSelect={openProfile} />
+        ) : view === 'hall-of-fame' ? (
+          <HallOfFamePage players={players} onSelect={openProfile} />
+        ) : view === 'matches' ? (
+          <MatchesPage />
+        ) : null}
+      </main>
+
+      <Footer onNavigate={onNavigate} />
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+</script>
+</body>
+</html>

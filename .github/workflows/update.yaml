@@ -1,0 +1,50 @@
+name: Update PVPHQ data
+
+on:
+  # Cada 5 minutos (mínimo permitido por GitHub)
+  schedule:
+    - cron: '*/5 * * * *'
+  # También manualmente desde la pestaña Actions
+  workflow_dispatch:
+
+# Permiso para commitear de vuelta al repo
+permissions:
+  contents: write
+
+# Evita que dos runs se solapen
+concurrency:
+  group: pvphq-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run tracker
+        run: python track_history.py
+        continue-on-error: true
+
+      - name: Commit & push si hay cambios
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add history.json ranking.json
+
+          if git diff --staged --quiet; then
+            echo "💤 Sin cambios que commitear"
+          else
+            TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
+            git commit -m "chore(data): update ranking & history [${TIMESTAMP}]"
+            git push
+            echo "✅ Cambios subidos"
+          fi
