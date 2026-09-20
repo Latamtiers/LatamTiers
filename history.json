@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789935807977,
-    "lastUpdateHuman": "2026-09-20 20:23:27 UTC",
+    "lastUpdate": 1789936458808,
+    "lastUpdateHuman": "2026-09-20 20:34:18 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -345,6 +345,54 @@
         {
           "tier": "LT3",
           "at": 1789935595884
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "1295858542393425984": {
+    "nick": "Diegokeke",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT3",
+          "at": 1789936018413
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT4",
+          "at": 1789936018413
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1375262786984087562": {
+    "nick": "inutadori55",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1789936023708
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT5",
+          "at": 1789936023708
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1225912405775745046": {
+    "nick": "2_x2",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1789936403322
         }
       ]
     },
