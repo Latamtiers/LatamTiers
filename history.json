@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789947294763,
-    "lastUpdateHuman": "2026-09-20 23:34:54 UTC",
+    "lastUpdate": 1789947859872,
+    "lastUpdateHuman": "2026-09-20 23:44:19 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -508,6 +508,18 @@
         {
           "tier": "HT3",
           "at": 1789945836900
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1284930224043327594": {
+    "nick": "Lenninkeke",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1789947831525
         }
       ]
     },
