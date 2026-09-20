@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789945183531,
-    "lastUpdateHuman": "2026-09-20 22:59:43 UTC",
+    "lastUpdate": 1789946053461,
+    "lastUpdateHuman": "2026-09-20 23:14:13 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -96,7 +96,14 @@
   },
   "1435404659027214348": {
     "nick": "DZY_may",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1789945679071
+        }
+      ]
+    },
     "region": "SA"
   },
   "1520984875807805603": {
@@ -246,7 +253,14 @@
   },
   "1453126855258275893": {
     "nick": "nashaymc_zvzz",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1789946030159
+        }
+      ]
+    },
     "region": "SA"
   },
   "769800109981958144": {
@@ -470,6 +484,30 @@
         {
           "tier": "HT4",
           "at": 1789943379445
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1549523669137756231": {
+    "nick": "Serzide",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1789945836900
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT3",
+          "at": 1789945836900
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "HT3",
+          "at": 1789945836900
         }
       ]
     },
