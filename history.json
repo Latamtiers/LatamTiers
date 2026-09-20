@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789933374445,
-    "lastUpdateHuman": "2026-09-20 19:42:54 UTC",
+    "lastUpdate": 1789933750660,
+    "lastUpdateHuman": "2026-09-20 19:49:10 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -21,5 +21,140 @@
     "nick": "IronB1ack",
     "modes": {},
     "region": "EU"
+  },
+  "689350744880840704": {
+    "nick": "RepudioSixSeven",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1789933404737
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "1534024189621571626": {
+    "nick": "zSagittarius_",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT3",
+          "at": 1789933410403
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "502592204150145035": {
+    "nick": "Nicoxis23",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT3",
+          "at": 1789933660651
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1789933660651
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1789933660651
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1789933660651
+        }
+      ],
+      "axe": [
+        {
+          "tier": "LT3",
+          "at": 1789933660651
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "684152338826788864": {
+    "nick": "Setimaasd",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1789933701099
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1435404659027214348": {
+    "nick": "DZY_may",
+    "modes": {},
+    "region": "SA"
+  },
+  "1520984875807805603": {
+    "nick": "gWhoisS",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1789933727707
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1789933727707
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "759503599511404604": {
+    "nick": "diveser",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1789933734067
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1510104716024086579": {
+    "nick": "Pitilin00_",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1789933742209
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1789933742209
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1318689610326478909": {
+    "nick": "ItzRafzaU",
+    "modes": {},
+    "region": "NA"
+  },
+  "799314065200906282": {
+    "nick": "Kiara_proo",
+    "modes": {},
+    "region": "SA"
   }
 }
