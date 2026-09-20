@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789933750660,
-    "lastUpdateHuman": "2026-09-20 19:49:10 UTC",
+    "lastUpdate": 1789933777142,
+    "lastUpdateHuman": "2026-09-20 19:49:37 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -156,5 +156,35 @@
     "nick": "Kiara_proo",
     "modes": {},
     "region": "SA"
+  },
+  "597803799272357898": {
+    "nick": "Hollowdt",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1789933761227
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1789933761227
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1789933761227
+        }
+      ],
+      "axe": [
+        {
+          "tier": "LT3",
+          "at": 1789933761227
+        }
+      ]
+    },
+    "region": "NA"
   }
 }

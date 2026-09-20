@@ -150,5 +150,31 @@
     "nick": "Kiara_proo",
     "region": "SA",
     "tiers": {}
+  },
+  "597803799272357898": {
+    "nick": "Hollowdt",
+    "region": "NA",
+    "tiers": {
+      "UHC": {
+        "tier": "HT5",
+        "obtained_at": "2026-09-20T19:49:21.227362+00:00"
+      },
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-09-20T19:49:21.227374+00:00"
+      },
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-09-20T19:49:21.227376+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT3",
+        "obtained_at": "2026-09-20T19:49:21.227377+00:00"
+      },
+      "AXE": {
+        "tier": "LT3",
+        "obtained_at": "2026-09-20T19:49:21.227378+00:00"
+      }
+    }
   }
 }
