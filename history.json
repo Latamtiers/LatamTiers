@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789936458808,
-    "lastUpdateHuman": "2026-09-20 20:34:18 UTC",
+    "lastUpdate": 1789937048875,
+    "lastUpdateHuman": "2026-09-20 20:44:08 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -397,5 +397,23 @@
       ]
     },
     "region": "SA"
+  },
+  "1281828160538804289": {
+    "nick": "Davuli8a",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1789936864474
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT4",
+          "at": 1789936864474
+        }
+      ]
+    },
+    "region": "NA"
   }
 }
