@@ -412,5 +412,33 @@
         "obtained_at": "2026-09-20T21:23:25.969156+00:00"
       }
     }
+  },
+  "1018595047089897552": {
+    "nick": "LetraMuda",
+    "region": "NA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT4",
+        "obtained_at": "2026-09-20T22:21:41.192582+00:00"
+      }
+    }
+  },
+  "1500604401243656264": {
+    "nick": "AmoryJazz",
+    "region": "NA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT3",
+        "obtained_at": "2026-09-20T22:29:39.445938+00:00"
+      },
+      "NETHPOT": {
+        "tier": "HT4",
+        "obtained_at": "2026-09-20T22:29:39.445950+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-09-20T22:29:39.445951+00:00"
+      }
+    }
   }
 }

@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789942808669,
-    "lastUpdateHuman": "2026-09-20 22:20:08 UTC",
+    "lastUpdate": 1789943446196,
+    "lastUpdateHuman": "2026-09-20 22:30:46 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -440,6 +440,36 @@
         {
           "tier": "LT4",
           "at": 1789939405969
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1018595047089897552": {
+    "nick": "LetraMuda",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT4",
+          "at": 1789942901192
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1500604401243656264": {
+    "nick": "AmoryJazz",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT3",
+          "at": 1789943379445
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1789943379445
         }
       ]
     },
