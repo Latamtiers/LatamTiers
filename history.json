@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789991178858,
-    "lastUpdateHuman": "2026-09-21 11:46:18 UTC",
+    "lastUpdate": 1789991730261,
+    "lastUpdateHuman": "2026-09-21 11:55:30 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -648,5 +648,23 @@
     "nick": "iceCold640",
     "modes": {},
     "region": "EU"
+  },
+  "1403478311740379176": {
+    "nick": "GalletasDeTussi",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1789991442946
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1789991442946
+        }
+      ]
+    },
+    "region": "SA"
   }
 }
