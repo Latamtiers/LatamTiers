@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789964294503,
-    "lastUpdateHuman": "2026-09-21 04:18:14 UTC",
+    "lastUpdate": 1789965203171,
+    "lastUpdateHuman": "2026-09-21 04:33:23 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -587,6 +587,24 @@
         {
           "tier": "LT3",
           "at": 1789964045024
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "989300774943195147": {
+    "nick": "SheIsBeautiful",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1789964622615
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT4",
+          "at": 1789964622615
         }
       ]
     },
