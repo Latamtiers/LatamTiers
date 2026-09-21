@@ -599,5 +599,15 @@
     "nick": "SoyTotoYT",
     "region": "SA",
     "tiers": {}
+  },
+  "1350517113168728196": {
+    "nick": "Seyitmc",
+    "region": "EU",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT4",
+        "obtained_at": "2026-09-21T06:20:48.239122+00:00"
+      }
+    }
   }
 }

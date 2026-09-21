@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789970429697,
-    "lastUpdateHuman": "2026-09-21 06:00:29 UTC",
+    "lastUpdate": 1789971881250,
+    "lastUpdateHuman": "2026-09-21 06:24:41 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -638,5 +638,10 @@
     "nick": "SoyTotoYT",
     "modes": {},
     "region": "SA"
+  },
+  "1350517113168728196": {
+    "nick": "Seyitmc",
+    "modes": {},
+    "region": "EU"
   }
 }
