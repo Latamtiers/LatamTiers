@@ -543,5 +543,20 @@
     "nick": "santosmc_op",
     "region": "SA",
     "tiers": {}
+  },
+  "1238160588241240106": {
+    "nick": "iMart1n",
+    "region": "SA",
+    "tiers": {}
+  },
+  "798560281641877525": {
+    "nick": "yCodefey",
+    "region": "SA",
+    "tiers": {
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-09-21T04:14:05.024588+00:00"
+      }
+    }
   }
 }
