@@ -491,5 +491,27 @@
     "nick": "K1R1TO16",
     "region": "NA",
     "tiers": {}
+  },
+  "1175550997968457741": {
+    "nick": "HolaRegez",
+    "region": "NA",
+    "tiers": {
+      "SWORD": {
+        "tier": "LT4",
+        "obtained_at": "2026-09-21T00:33:20.557861+00:00"
+      },
+      "MAZO": {
+        "tier": "HT5",
+        "obtained_at": "2026-09-21T00:33:20.557872+00:00"
+      },
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-09-21T00:33:20.557874+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-09-21T00:33:20.557875+00:00"
+      }
+    }
   }
 }

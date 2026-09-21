@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789950273775,
-    "lastUpdateHuman": "2026-09-21 00:24:33 UTC",
+    "lastUpdate": 1789951304858,
+    "lastUpdateHuman": "2026-09-21 00:41:44 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -528,6 +528,24 @@
   "1472424930690990186": {
     "nick": "K1R1TO16",
     "modes": {},
+    "region": "NA"
+  },
+  "1175550997968457741": {
+    "nick": "HolaRegez",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1789950800557
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1789950800557
+        }
+      ]
+    },
     "region": "NA"
   }
 }
