@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789998941796,
-    "lastUpdateHuman": "2026-09-21 13:55:41 UTC",
+    "lastUpdate": 1789999641620,
+    "lastUpdateHuman": "2026-09-21 14:07:21 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -680,6 +680,18 @@
         {
           "tier": "LT3",
           "at": 1789997632102
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1416927131837136897": {
+    "nick": "pyrozkun",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT5",
+          "at": 1789999274080
         }
       ]
     },
