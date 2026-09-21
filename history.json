@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1790004163340,
-    "lastUpdateHuman": "2026-09-21 15:22:43 UTC",
+    "lastUpdate": 1790004836292,
+    "lastUpdateHuman": "2026-09-21 15:33:56 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -696,5 +696,10 @@
       ]
     },
     "region": "NA"
+  },
+  "1024696921937424384": {
+    "nick": "Tryless_Tryhard",
+    "modes": {},
+    "region": "EU"
   }
 }
