@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1790010465435,
-    "lastUpdateHuman": "2026-09-21 17:07:45 UTC",
+    "lastUpdate": 1790011174993,
+    "lastUpdateHuman": "2026-09-21 17:19:34 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -743,5 +743,10 @@
       ]
     },
     "region": "SA"
+  },
+  "1345669648984707072": {
+    "nick": "Zolotar1",
+    "modes": {},
+    "region": "EU"
   }
 }
