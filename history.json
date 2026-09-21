@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1790007762752,
-    "lastUpdateHuman": "2026-09-21 16:22:42 UTC",
+    "lastUpdate": 1790008496811,
+    "lastUpdateHuman": "2026-09-21 16:34:56 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -700,6 +700,24 @@
   "1024696921937424384": {
     "nick": "Tryless_Tryhard",
     "modes": {},
+    "region": "EU"
+  },
+  "1074383152170152028": {
+    "nick": "lzhaoxx",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1790007849005
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1790007849005
+        }
+      ]
+    },
     "region": "EU"
   }
 }

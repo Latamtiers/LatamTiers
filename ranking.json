@@ -665,5 +665,19 @@
     "nick": "Tryless_Tryhard",
     "region": "EU",
     "tiers": {}
+  },
+  "1074383152170152028": {
+    "nick": "lzhaoxx",
+    "region": "EU",
+    "tiers": {
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-09-21T16:24:09.005547+00:00"
+      },
+      "NETHPOT": {
+        "tier": "HT5",
+        "obtained_at": "2026-09-21T16:24:09.005557+00:00"
+      }
+    }
   }
 }
