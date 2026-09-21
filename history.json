@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789962037241,
-    "lastUpdateHuman": "2026-09-21 03:40:37 UTC",
+    "lastUpdate": 1789962765412,
+    "lastUpdateHuman": "2026-09-21 03:52:45 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -569,5 +569,10 @@
     "nick": "Phantomizerd",
     "modes": {},
     "region": "NA"
+  },
+  "1181403818689314846": {
+    "nick": "santosmc_op",
+    "modes": {},
+    "region": "SA"
   }
 }
