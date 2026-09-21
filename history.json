@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789966721705,
-    "lastUpdateHuman": "2026-09-21 04:58:41 UTC",
+    "lastUpdate": 1789967602203,
+    "lastUpdateHuman": "2026-09-21 05:13:22 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -633,5 +633,10 @@
       ]
     },
     "region": "NA"
+  },
+  "1301250936244797471": {
+    "nick": "SoyTotoYT",
+    "modes": {},
+    "region": "SA"
   }
 }
