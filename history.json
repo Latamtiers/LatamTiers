@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1790027820706,
-    "lastUpdateHuman": "2026-09-21 21:57:00 UTC",
+    "lastUpdate": 1790028578267,
+    "lastUpdateHuman": "2026-09-21 22:09:38 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -791,6 +791,18 @@
         {
           "tier": "HT5",
           "at": 1790024051662
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1177057305414610955": {
+    "nick": "iSanwz",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT4",
+          "at": 1790028105189
         }
       ]
     },
