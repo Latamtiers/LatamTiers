@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789997474742,
-    "lastUpdateHuman": "2026-09-21 13:31:14 UTC",
+    "lastUpdate": 1789998280549,
+    "lastUpdateHuman": "2026-09-21 13:44:40 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -666,5 +666,23 @@
       ]
     },
     "region": "SA"
+  },
+  "836755128325242952": {
+    "nick": "SharpVFireAspect",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT3",
+          "at": 1789997632102
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1789997632102
+        }
+      ]
+    },
+    "region": "NA"
   }
 }
