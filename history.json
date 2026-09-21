@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789948840535,
-    "lastUpdateHuman": "2026-09-21 00:00:40 UTC",
+    "lastUpdate": 1789950273775,
+    "lastUpdateHuman": "2026-09-21 00:24:33 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -523,6 +523,11 @@
         }
       ]
     },
+    "region": "NA"
+  },
+  "1472424930690990186": {
+    "nick": "K1R1TO16",
+    "modes": {},
     "region": "NA"
   }
 }
