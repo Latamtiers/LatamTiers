@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789983873727,
-    "lastUpdateHuman": "2026-09-21 09:44:33 UTC",
+    "lastUpdate": 1789984473018,
+    "lastUpdateHuman": "2026-09-21 09:54:33 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -641,6 +641,11 @@
   },
   "1350517113168728196": {
     "nick": "Seyitmc",
+    "modes": {},
+    "region": "EU"
+  },
+  "1394670375895564329": {
+    "nick": "iceCold640",
     "modes": {},
     "region": "EU"
   }
