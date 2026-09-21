@@ -733,5 +733,27 @@
     "nick": "ImBillsYTGojo",
     "region": "SA",
     "tiers": {}
+  },
+  "1178801089060024421": {
+    "nick": "frosteado",
+    "region": "NA",
+    "tiers": {
+      "UHC": {
+        "tier": "HT4",
+        "obtained_at": "2026-09-21T20:54:11.662066+00:00"
+      },
+      "SWORD": {
+        "tier": "HT5",
+        "obtained_at": "2026-09-21T20:54:11.662077+00:00"
+      },
+      "MAZO": {
+        "tier": "LT4",
+        "obtained_at": "2026-09-21T20:54:11.662079+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "HT4",
+        "obtained_at": "2026-09-21T20:54:11.662080+00:00"
+      }
+    }
   }
 }

@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1790023899771,
-    "lastUpdateHuman": "2026-09-21 20:51:39 UTC",
+    "lastUpdate": 1790024398264,
+    "lastUpdateHuman": "2026-09-21 20:59:58 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -777,5 +777,23 @@
     "nick": "ImBillsYTGojo",
     "modes": {},
     "region": "SA"
+  },
+  "1178801089060024421": {
+    "nick": "frosteado",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT4",
+          "at": 1790024051662
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT5",
+          "at": 1790024051662
+        }
+      ]
+    },
+    "region": "NA"
   }
 }
