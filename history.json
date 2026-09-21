@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789952103017,
-    "lastUpdateHuman": "2026-09-21 00:55:03 UTC",
+    "lastUpdate": 1789952772837,
+    "lastUpdateHuman": "2026-09-21 01:06:12 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -546,6 +546,23 @@
         }
       ]
     },
+    "region": "NA"
+  },
+  "632009960464711680": {
+    "nick": "Moray__",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1789952245712
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "786309763117613106": {
+    "nick": "NovaJoe",
+    "modes": {},
     "region": "NA"
   }
 }
