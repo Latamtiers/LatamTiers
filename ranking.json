@@ -706,5 +706,23 @@
     "nick": "Zolotar1",
     "region": "EU",
     "tiers": {}
+  },
+  "1027233241326948412": {
+    "nick": "Volcano_fire",
+    "region": "EU",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT4",
+        "obtained_at": "2026-09-21T19:12:42.302479+00:00"
+      },
+      "SWORD": {
+        "tier": "HT4",
+        "obtained_at": "2026-09-21T19:12:42.302491+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-09-21T19:12:42.302493+00:00"
+      }
+    }
   }
 }
