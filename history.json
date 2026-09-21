@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1789965203171,
-    "lastUpdateHuman": "2026-09-21 04:33:23 UTC",
+    "lastUpdate": 1789966026381,
+    "lastUpdateHuman": "2026-09-21 04:47:06 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -609,5 +609,29 @@
       ]
     },
     "region": "SA"
+  },
+  "1109482281220980809": {
+    "nick": "Escacat",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT5",
+          "at": 1789965731586
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1789965731586
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT5",
+          "at": 1789965731586
+        }
+      ]
+    },
+    "region": "NA"
   }
 }
