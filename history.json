@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1790191225333,
-    "lastUpdateHuman": "2026-09-23 19:20:25 UTC",
+    "lastUpdate": 1790191946011,
+    "lastUpdateHuman": "2026-09-23 19:32:26 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -855,5 +855,23 @@
       ]
     },
     "region": "EU"
+  },
+  "1376601455536115832": {
+    "nick": "ogqinxyy",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1790191289615
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1790191289615
+        }
+      ]
+    },
+    "region": "NA"
   }
 }
