@@ -154,7 +154,12 @@
   "799314065200906282": {
     "nick": "Kiara_proo",
     "region": "SA",
-    "tiers": {}
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-09-24T18:41:11.668457+00:00"
+      }
+    }
   },
   "597803799272357898": {
     "nick": "Hollowdt",
