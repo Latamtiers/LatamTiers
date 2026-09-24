@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1790276860770,
-    "lastUpdateHuman": "2026-09-24 19:07:40 UTC",
+    "lastUpdate": 1790277669006,
+    "lastUpdateHuman": "2026-09-24 19:21:09 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -161,7 +161,14 @@
   },
   "799314065200906282": {
     "nick": "Kiara_proo",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1790277610039
+        }
+      ]
+    },
     "region": "SA"
   },
   "597803799272357898": {
