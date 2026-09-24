@@ -853,6 +853,11 @@
   "899669755626131456": {
     "nick": "Cachito0",
     "region": "SA",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT5",
+        "obtained_at": "2026-09-24T19:46:25.402810+00:00"
+      }
+    }
   }
 }
