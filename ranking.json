@@ -881,5 +881,15 @@
     "nick": "LyonKent",
     "region": "NA",
     "tiers": {}
+  },
+  "1242511541971062866": {
+    "nick": "Desp1se02",
+    "region": "EU",
+    "tiers": {
+      "MAZO": {
+        "tier": "LT4",
+        "obtained_at": "2026-09-26T13:18:09.725798+00:00"
+      }
+    }
   }
 }

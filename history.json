@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1790428308622,
-    "lastUpdateHuman": "2026-09-26 13:11:48 UTC",
+    "lastUpdate": 1790429058678,
+    "lastUpdateHuman": "2026-09-26 13:24:18 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -927,5 +927,10 @@
     "nick": "LyonKent",
     "modes": {},
     "region": "NA"
+  },
+  "1242511541971062866": {
+    "nick": "Desp1se02",
+    "modes": {},
+    "region": "EU"
   }
 }
