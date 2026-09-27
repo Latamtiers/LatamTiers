@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1790542776284,
-    "lastUpdateHuman": "2026-09-27 20:59:36 UTC",
+    "lastUpdate": 1790543681069,
+    "lastUpdateHuman": "2026-09-27 21:14:41 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -968,6 +968,30 @@
   "1165438610703667240": {
     "nick": "notKokee",
     "modes": {},
+    "region": "NA"
+  },
+  "1332375856496251004": {
+    "nick": "Yowaimo_1",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT5",
+          "at": 1790542938313
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1790542938313
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1790542938313
+        }
+      ]
+    },
     "region": "NA"
   }
 }

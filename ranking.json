@@ -83,6 +83,10 @@
       "DIAMOND POT": {
         "tier": "HT5",
         "obtained_at": "2026-09-20T19:48:21.099439+00:00"
+      },
+      "MAZO": {
+        "tier": "LT4",
+        "obtained_at": "2026-09-27T21:11:56.637392+00:00"
       }
     }
   },
@@ -914,5 +918,23 @@
     "nick": "notKokee",
     "region": "NA",
     "tiers": {}
+  },
+  "1332375856496251004": {
+    "nick": "Yowaimo_1",
+    "region": "NA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT5",
+        "obtained_at": "2026-09-27T21:02:18.313348+00:00"
+      },
+      "UHC": {
+        "tier": "LT5",
+        "obtained_at": "2026-09-27T21:02:18.313359+00:00"
+      },
+      "SWORD": {
+        "tier": "LT4",
+        "obtained_at": "2026-09-27T21:02:18.313361+00:00"
+      }
+    }
   }
 }
