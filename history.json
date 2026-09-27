@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1790476627722,
-    "lastUpdateHuman": "2026-09-27 02:37:07 UTC",
+    "lastUpdate": 1790477331552,
+    "lastUpdateHuman": "2026-09-27 02:48:51 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -942,5 +942,23 @@
     "nick": "Desp1se02",
     "modes": {},
     "region": "EU"
+  },
+  "1239712450799079436": {
+    "nick": "haxzmc",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1790477073731
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1790477073731
+        }
+      ]
+    },
+    "region": "SA"
   }
 }
