@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1790624857221,
-    "lastUpdateHuman": "2026-09-28 19:47:37 UTC",
+    "lastUpdate": 1790625497585,
+    "lastUpdateHuman": "2026-09-28 19:58:17 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1013,5 +1013,23 @@
     "nick": "6yzv_",
     "modes": {},
     "region": "EU"
+  },
+  "1328565032908357772": {
+    "nick": "SOYLIDERX7",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT5",
+          "at": 1790625286623
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1790625286623
+        }
+      ]
+    },
+    "region": "SA"
   }
 }

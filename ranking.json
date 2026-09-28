@@ -958,5 +958,19 @@
     "nick": "6yzv_",
     "region": "EU",
     "tiers": {}
+  },
+  "1328565032908357772": {
+    "nick": "SOYLIDERX7",
+    "region": "SA",
+    "tiers": {
+      "SWORD": {
+        "tier": "LT5",
+        "obtained_at": "2026-09-28T19:54:46.623268+00:00"
+      },
+      "NETHPOT": {
+        "tier": "HT5",
+        "obtained_at": "2026-09-28T19:54:46.623279+00:00"
+      }
+    }
   }
 }
