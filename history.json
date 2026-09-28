@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1790584673467,
-    "lastUpdateHuman": "2026-09-28 08:37:53 UTC",
+    "lastUpdate": 1790585545819,
+    "lastUpdateHuman": "2026-09-28 08:52:25 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1008,5 +1008,10 @@
     "nick": "Bawipz",
     "modes": {},
     "region": "NA"
+  },
+  "1481995258807189547": {
+    "nick": "6yzv_",
+    "modes": {},
+    "region": "EU"
   }
 }
