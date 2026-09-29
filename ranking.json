@@ -980,5 +980,27 @@
         "obtained_at": "2026-09-28T23:33:25.735251+00:00"
       }
     }
+  },
+  "1265240366739755047": {
+    "nick": "YogurcitoRemix",
+    "region": "NA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "HT3",
+        "obtained_at": "2026-09-29T01:42:58.316710+00:00"
+      },
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-09-29T01:42:58.316725+00:00"
+      },
+      "NETHPOT": {
+        "tier": "HT3",
+        "obtained_at": "2026-09-29T01:42:58.316726+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT3",
+        "obtained_at": "2026-09-29T01:42:58.316727+00:00"
+      }
+    }
   }
 }

@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1790645632762,
-    "lastUpdateHuman": "2026-09-29 01:33:52 UTC",
+    "lastUpdate": 1790646437278,
+    "lastUpdateHuman": "2026-09-29 01:47:17 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1047,5 +1047,29 @@
       ]
     },
     "region": "SA"
+  },
+  "1265240366739755047": {
+    "nick": "YogurcitoRemix",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT3",
+          "at": 1790646178316
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1790646178316
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "HT3",
+          "at": 1790646178316
+        }
+      ]
+    },
+    "region": "NA"
   }
 }
