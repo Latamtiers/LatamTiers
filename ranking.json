@@ -581,7 +581,12 @@
   "786309763117613106": {
     "nick": "NovaJoe",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "HT4",
+        "obtained_at": "2026-09-30T23:00:10.070100+00:00"
+      }
+    }
   },
   "688860786738593863": {
     "nick": "Phantomizerd",
