@@ -1028,5 +1028,27 @@
     "nick": "General1133",
     "region": "EU",
     "tiers": {}
+  },
+  "1320600357465882726": {
+    "nick": "Mr_J",
+    "region": "NA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-01T21:53:47.864092+00:00"
+      },
+      "UHC": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-01T21:53:47.864103+00:00"
+      },
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-01T21:53:47.864105+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-01T21:53:47.864106+00:00"
+      }
+    }
   }
 }

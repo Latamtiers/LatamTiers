@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1790890889641,
-    "lastUpdateHuman": "2026-10-01 21:41:29 UTC",
+    "lastUpdate": 1790891702480,
+    "lastUpdateHuman": "2026-10-01 21:55:02 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1107,5 +1107,29 @@
     "nick": "General1133",
     "modes": {},
     "region": "EU"
+  },
+  "1320600357465882726": {
+    "nick": "Mr_J",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT5",
+          "at": 1790891627864
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1790891627864
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1790891627864
+        }
+      ]
+    },
+    "region": "NA"
   }
 }
