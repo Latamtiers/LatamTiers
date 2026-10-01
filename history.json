@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1790874224725,
-    "lastUpdateHuman": "2026-10-01 17:03:44 UTC",
+    "lastUpdate": 1790875315185,
+    "lastUpdateHuman": "2026-10-01 17:21:55 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -713,7 +713,14 @@
   },
   "1350517113168728196": {
     "nick": "Seyitmc",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1790874385166
+        }
+      ]
+    },
     "region": "EU"
   },
   "1394670375895564329": {
