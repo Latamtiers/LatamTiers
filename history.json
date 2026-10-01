@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1790898530089,
-    "lastUpdateHuman": "2026-10-01 23:48:50 UTC",
+    "lastUpdate": 1790899082389,
+    "lastUpdateHuman": "2026-10-01 23:58:02 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1127,6 +1127,30 @@
         {
           "tier": "LT3",
           "at": 1790891627864
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "776253036937871377": {
+    "nick": "_koda1",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1790898697067
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1790898697067
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1790898697067
         }
       ]
     },
