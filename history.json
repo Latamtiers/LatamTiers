@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1790979103306,
-    "lastUpdateHuman": "2026-10-02 22:11:43 UTC",
+    "lastUpdate": 1790980028940,
+    "lastUpdateHuman": "2026-10-02 22:27:08 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1164,6 +1164,36 @@
         {
           "tier": "LT4",
           "at": 1790898697067
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1114645940003930272": {
+    "nick": "redlineface",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1790980005173
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1790980005173
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1790980005173
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1790980005173
         }
       ]
     },
