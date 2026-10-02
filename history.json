@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1790910505182,
-    "lastUpdateHuman": "2026-10-02 03:08:25 UTC",
+    "lastUpdate": 1790911544674,
+    "lastUpdateHuman": "2026-10-02 03:25:44 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -635,7 +635,14 @@
   },
   "688860786738593863": {
     "nick": "Phantomizerd",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1790911279475
+        }
+      ]
+    },
     "region": "NA"
   },
   "1181403818689314846": {
