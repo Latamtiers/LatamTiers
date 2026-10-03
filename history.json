@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791020149468,
-    "lastUpdateHuman": "2026-10-03 09:35:49 UTC",
+    "lastUpdate": 1791020949069,
+    "lastUpdateHuman": "2026-10-03 09:49:09 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1215,6 +1215,11 @@
         }
       ]
     },
+    "region": "EU"
+  },
+  "1178831097891659899": {
+    "nick": "DiorgePig",
+    "modes": {},
     "region": "EU"
   }
 }
