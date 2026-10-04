@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791112028992,
-    "lastUpdateHuman": "2026-10-04 11:07:08 UTC",
+    "lastUpdate": 1791136721464,
+    "lastUpdateHuman": "2026-10-04 17:58:41 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -290,6 +290,12 @@
           "tier": "LT5",
           "at": 1789946030159
         }
+      ],
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1791129901779
+        }
       ]
     },
     "region": "SA"
@@ -470,6 +476,12 @@
           "tier": "HT5",
           "at": 1789936403322
         }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1791135987678
+        }
       ]
     },
     "region": "SA"
@@ -600,6 +612,12 @@
         {
           "tier": "LT3",
           "at": 1791084427757
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1791130353027
         }
       ]
     },
