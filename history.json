@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791159637877,
-    "lastUpdateHuman": "2026-10-05 00:20:37 UTC",
+    "lastUpdate": 1791161203364,
+    "lastUpdateHuman": "2026-10-05 00:46:43 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1272,6 +1272,18 @@
         {
           "tier": "HT4",
           "at": 1791065088122
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1033223405048188949": {
+    "nick": "kgs1990",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1791160265055
         }
       ]
     },
