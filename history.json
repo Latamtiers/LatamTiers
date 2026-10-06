@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791298791602,
-    "lastUpdateHuman": "2026-10-06 14:59:51 UTC",
+    "lastUpdate": 1791299878861,
+    "lastUpdateHuman": "2026-10-06 15:17:58 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1311,5 +1311,10 @@
     "nick": "Sergio2o94",
     "modes": {},
     "region": "NA"
+  },
+  "1052257278646046750": {
+    "nick": "xpoqc",
+    "modes": {},
+    "region": "EU"
   }
 }
