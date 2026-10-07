@@ -1233,5 +1233,15 @@
     "nick": "ExuCoriga",
     "region": "SA",
     "tiers": {}
+  },
+  "1289736116458487900": {
+    "nick": "S4mirxt",
+    "region": "SA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-07T19:53:48.852666+00:00"
+      }
+    }
   }
 }
