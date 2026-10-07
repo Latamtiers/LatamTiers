@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791338061906,
-    "lastUpdateHuman": "2026-10-07 01:54:21 UTC",
+    "lastUpdate": 1791338783323,
+    "lastUpdateHuman": "2026-10-07 02:06:23 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1330,6 +1330,11 @@
   },
   "1050466600802852894": {
     "nick": "Upof",
+    "modes": {},
+    "region": "NA"
+  },
+  "1399555326520590426": {
+    "nick": "Septireby97",
     "modes": {},
     "region": "NA"
   }
