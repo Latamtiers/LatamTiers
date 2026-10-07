@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791388617340,
-    "lastUpdateHuman": "2026-10-07 15:56:57 UTC",
+    "lastUpdate": 1791389640540,
+    "lastUpdateHuman": "2026-10-07 16:14:00 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1337,5 +1337,10 @@
     "nick": "Septireby97",
     "modes": {},
     "region": "NA"
+  },
+  "1488704625182769284": {
+    "nick": "ExuCoriga",
+    "modes": {},
+    "region": "SA"
   }
 }
