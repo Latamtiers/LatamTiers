@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791498166579,
-    "lastUpdateHuman": "2026-10-08 22:22:46 UTC",
+    "lastUpdate": 1791499107828,
+    "lastUpdateHuman": "2026-10-08 22:38:27 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -204,6 +204,10 @@
         {
           "tier": "HT4",
           "at": 1790738361448
+        },
+        {
+          "tier": "LT4",
+          "at": 1791498877486
         }
       ],
       "nethpot": [
@@ -1435,5 +1439,10 @@
       ]
     },
     "region": "NA"
+  },
+  "1315362996096340099": {
+    "nick": "V0idZadas",
+    "modes": {},
+    "region": "SA"
   }
 }
