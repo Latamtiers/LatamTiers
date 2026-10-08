@@ -1229,6 +1229,10 @@
       "DIAMOND POT": {
         "tier": "LT3",
         "obtained_at": "2026-10-08T01:12:04.132859+00:00"
+      },
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-08T18:32:16.495856+00:00"
       }
     }
   },
@@ -1280,5 +1284,19 @@
     "nick": "BORUTO1183",
     "region": "EU",
     "tiers": {}
+  },
+  "766035515178483722": {
+    "nick": "Sufres",
+    "region": "NA",
+    "tiers": {
+      "MAZO": {
+        "tier": "HT3",
+        "obtained_at": "2026-10-08T18:47:47.878744+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "HT3",
+        "obtained_at": "2026-10-08T18:47:47.878766+00:00"
+      }
+    }
   }
 }

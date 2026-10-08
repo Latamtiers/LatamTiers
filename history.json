@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791484088224,
-    "lastUpdateHuman": "2026-10-08 18:28:08 UTC",
+    "lastUpdate": 1791485377986,
+    "lastUpdateHuman": "2026-10-08 18:49:37 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1336,7 +1336,14 @@
   },
   "1050466600802852894": {
     "nick": "Upof",
-    "modes": {},
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1791484336495
+        }
+      ]
+    },
     "region": "NA"
   },
   "1399555326520590426": {
@@ -1387,5 +1394,10 @@
     "nick": "BORUTO1183",
     "modes": {},
     "region": "EU"
+  },
+  "766035515178483722": {
+    "nick": "Sufres",
+    "modes": {},
+    "region": "NA"
   }
 }
