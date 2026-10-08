@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791493225981,
-    "lastUpdateHuman": "2026-10-08 21:00:25 UTC",
+    "lastUpdate": 1791494346356,
+    "lastUpdateHuman": "2026-10-08 21:19:06 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1173,6 +1173,12 @@
           "tier": "HT3",
           "at": 1790646178316
         }
+      ],
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1791493516663
+        }
       ]
     },
     "region": "NA"
@@ -1398,6 +1404,36 @@
   "766035515178483722": {
     "nick": "Sufres",
     "modes": {},
+    "region": "NA"
+  },
+  "1246476758660677735": {
+    "nick": "thekidpika",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT2",
+          "at": 1791493244491
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT1",
+          "at": 1791493244491
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "1449864868906664068": {
+    "nick": "VampireChandy",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1791493844627
+        }
+      ]
+    },
     "region": "NA"
   }
 }
