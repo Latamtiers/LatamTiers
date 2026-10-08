@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791444350901,
-    "lastUpdateHuman": "2026-10-08 07:25:50 UTC",
+    "lastUpdate": 1791445427967,
+    "lastUpdateHuman": "2026-10-08 07:43:47 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1377,5 +1377,10 @@
       ]
     },
     "region": "EU"
+  },
+  "1347096805757947905": {
+    "nick": "47crstxan",
+    "modes": {},
+    "region": "NA"
   }
 }
