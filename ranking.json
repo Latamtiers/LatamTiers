@@ -479,7 +479,12 @@
   "754457944187207720": {
     "nick": "SweetPlenoz",
     "region": "EU",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-09T21:46:12.217745+00:00"
+      }
+    }
   },
   "1231624431319650416": {
     "nick": "ItzGL1TCH3D",

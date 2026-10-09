@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791581838282,
-    "lastUpdateHuman": "2026-10-09 21:37:18 UTC",
+    "lastUpdate": 1791582770139,
+    "lastUpdateHuman": "2026-10-09 21:52:50 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -548,7 +548,14 @@
   },
   "754457944187207720": {
     "nick": "SweetPlenoz",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1791582372217
+        }
+      ]
+    },
     "region": "EU"
   },
   "1231624431319650416": {
