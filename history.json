@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791561902088,
-    "lastUpdateHuman": "2026-10-09 16:05:02 UTC",
+    "lastUpdate": 1791563039341,
+    "lastUpdateHuman": "2026-10-09 16:23:59 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1485,6 +1485,24 @@
         {
           "tier": "HT4",
           "at": 1791515891818
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "840216615755841606": {
+    "nick": "DevAdvvy",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT5",
+          "at": 1791562921043
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1791562921043
         }
       ]
     },
