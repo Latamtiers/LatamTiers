@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791514994273,
-    "lastUpdateHuman": "2026-10-09 03:03:14 UTC",
+    "lastUpdate": 1791516163556,
+    "lastUpdateHuman": "2026-10-09 03:22:43 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1453,6 +1453,30 @@
   "1528904236589387858": {
     "nick": "endersinn",
     "modes": {},
+    "region": "NA"
+  },
+  "1500280455520325812": {
+    "nick": "666Kyxz_",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT5",
+          "at": 1791515891818
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1791515891818
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1791515891818
+        }
+      ]
+    },
     "region": "NA"
   }
 }

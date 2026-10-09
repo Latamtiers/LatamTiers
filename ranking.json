@@ -1363,5 +1363,27 @@
     "nick": "endersinn",
     "region": "NA",
     "tiers": {}
+  },
+  "1500280455520325812": {
+    "nick": "666Kyxz_",
+    "region": "NA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-09T03:18:11.818025+00:00"
+      },
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-09T03:18:11.818039+00:00"
+      },
+      "NETHPOT": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-09T03:18:11.818040+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-09T03:18:11.818041+00:00"
+      }
+    }
   }
 }
