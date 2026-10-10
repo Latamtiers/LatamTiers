@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791620564385,
-    "lastUpdateHuman": "2026-10-10 08:22:44 UTC",
+    "lastUpdate": 1791621509572,
+    "lastUpdateHuman": "2026-10-10 08:38:29 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2656,6 +2656,11 @@
         }
       ]
     },
+    "region": "EU"
+  },
+  "1355477953206685788": {
+    "nick": "Ah_Boh",
+    "modes": {},
     "region": "EU"
   }
 }
