@@ -1421,5 +1421,15 @@
     "nick": "rinuxg",
     "region": "NA",
     "tiers": {}
+  },
+  "1548845803932491807": {
+    "nick": "ont4",
+    "region": "NA",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-10T00:11:26.688512+00:00"
+      }
+    }
   }
 }

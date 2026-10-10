@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791590348074,
-    "lastUpdateHuman": "2026-10-09 23:59:08 UTC",
+    "lastUpdate": 1791591819612,
+    "lastUpdateHuman": "2026-10-10 00:23:39 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1527,6 +1527,11 @@
   },
   "1056983305213444187": {
     "nick": "rinuxg",
+    "modes": {},
+    "region": "NA"
+  },
+  "1548845803932491807": {
+    "nick": "ont4",
     "modes": {},
     "region": "NA"
   }
