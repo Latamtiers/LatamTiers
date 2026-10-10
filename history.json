@@ -12,8 +12,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791598022530,
-    "lastUpdateHuman": "2026-10-10 02:07:02 UTC",
+    "lastUpdate": 1791599026822,
+    "lastUpdateHuman": "2026-10-10 02:23:46 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1532,6 +1532,11 @@
   },
   "1548845803932491807": {
     "nick": "ont4",
+    "modes": {},
+    "region": "NA"
+  },
+  "1248448546458570837": {
+    "nick": "santieroco",
     "modes": {},
     "region": "NA"
   }
