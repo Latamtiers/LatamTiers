@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791669621720,
-    "lastUpdateHuman": "2026-10-10 22:00:21 UTC",
+    "lastUpdate": 1791670574876,
+    "lastUpdateHuman": "2026-10-10 22:16:14 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2790,5 +2790,22 @@
       ]
     },
     "region": "NA"
+  },
+  "1187456133217124516": {
+    "nick": "Javabeter",
+    "modes": {},
+    "region": "NA"
+  },
+  "1075107312034906162": {
+    "nick": "bRagevery_",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1791669966266
+        }
+      ]
+    },
+    "region": "SA"
   }
 }

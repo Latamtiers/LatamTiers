@@ -1638,7 +1638,12 @@
   "671833093753143317": {
     "nick": "_CrispySteak_",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-10T22:08:57.170589+00:00"
+      }
+    }
   },
   "1522386968728834179": {
     "nick": "Monito144uwu",
@@ -1655,6 +1660,30 @@
       "DIAMOND POT": {
         "tier": "LT5",
         "obtained_at": "2026-10-10T21:14:26.667639+00:00"
+      }
+    }
+  },
+  "1187456133217124516": {
+    "nick": "Javabeter",
+    "region": "NA",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-10T22:16:08.882339+00:00"
+      }
+    }
+  },
+  "1075107312034906162": {
+    "nick": "bRagevery_",
+    "region": "SA",
+    "tiers": {
+      "MAZO": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-10T22:06:06.266124+00:00"
+      },
+      "NETHPOT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-10T22:06:06.266138+00:00"
       }
     }
   }
