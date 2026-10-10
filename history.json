@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791665020785,
-    "lastUpdateHuman": "2026-10-10 20:43:40 UTC",
+    "lastUpdate": 1791665742973,
+    "lastUpdateHuman": "2026-10-10 20:55:42 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2708,5 +2708,17 @@
     "nick": "NiehuesN",
     "modes": {},
     "region": "SA"
+  },
+  "716073776713826384": {
+    "nick": "hrxJ",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT4",
+          "at": 1791665547599
+        }
+      ]
+    },
+    "region": "NA"
   }
 }
