@@ -1710,9 +1710,23 @@
     "nick": "BR1_Tulachika",
     "region": "SA",
     "tiers": {
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-10T22:46:02.728339+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT3",
         "obtained_at": "2026-10-10T22:29:14.474177+00:00"
+      }
+    }
+  },
+  "747472486219776040": {
+    "nick": "_hislily",
+    "region": "SA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-10T22:34:27.825643+00:00"
       }
     }
   }
