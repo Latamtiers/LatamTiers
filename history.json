@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791674627854,
-    "lastUpdateHuman": "2026-10-10 23:23:47 UTC",
+    "lastUpdate": 1791675430664,
+    "lastUpdateHuman": "2026-10-10 23:37:10 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2869,6 +2869,24 @@
         {
           "tier": "LT5",
           "at": 1791672686842
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1532216614190190780": {
+    "nick": "skitjaff_",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT4",
+          "at": 1791674886711
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1791674886711
         }
       ]
     },
