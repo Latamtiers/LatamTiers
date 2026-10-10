@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791667359405,
-    "lastUpdateHuman": "2026-10-10 21:22:39 UTC",
+    "lastUpdate": 1791668233601,
+    "lastUpdateHuman": "2026-10-10 21:37:13 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2220,7 +2220,14 @@
   },
   "1439777312903266315": {
     "nick": "RUCHOTO",
-    "modes": {},
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT4",
+          "at": 1791667693273
+        }
+      ]
+    },
     "region": "NA"
   },
   "1472654277746102434": {

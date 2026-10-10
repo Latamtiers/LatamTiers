@@ -833,7 +833,12 @@
   "1439777312903266315": {
     "nick": "RUCHOTO",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-10T21:28:13.273166+00:00"
+      }
+    }
   },
   "597803799272357898": {
     "nick": "Hollowdt",
