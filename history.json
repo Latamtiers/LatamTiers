@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791653256220,
-    "lastUpdateHuman": "2026-10-10 17:27:36 UTC",
+    "lastUpdate": 1791654095751,
+    "lastUpdateHuman": "2026-10-10 17:41:35 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2683,6 +2683,18 @@
   "1395873558487371938": {
     "nick": "Milanesasss",
     "modes": {},
+    "region": "SA"
+  },
+  "1339079380672184372": {
+    "nick": "sqmie",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1791653382522
+        }
+      ]
+    },
     "region": "SA"
   }
 }
