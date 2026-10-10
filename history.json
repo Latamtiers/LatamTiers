@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791665742973,
-    "lastUpdateHuman": "2026-10-10 20:55:42 UTC",
+    "lastUpdate": 1791666408830,
+    "lastUpdateHuman": "2026-10-10 21:06:48 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1084,7 +1084,7 @@
     "region": "SA"
   },
   "1329998099216863327": {
-    "nick": "LyonKent",
+    "nick": "BruceBatWayne",
     "modes": {},
     "region": "NA"
   },
@@ -2540,6 +2540,12 @@
           "tier": "LT4",
           "at": 1791589119467
         }
+      ],
+      "crystal": [
+        {
+          "tier": "LT4",
+          "at": 1791666112024
+        }
       ]
     },
     "region": "NA"
@@ -2720,5 +2726,23 @@
       ]
     },
     "region": "NA"
+  },
+  "686315106191147044": {
+    "nick": "tugleta",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT5",
+          "at": 1791665855062
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT4",
+          "at": 1791665855062
+        }
+      ]
+    },
+    "region": "SA"
   }
 }

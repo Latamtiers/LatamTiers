@@ -1239,6 +1239,10 @@
     "nick": "justrektt",
     "region": "NA",
     "tiers": {
+      "CRYSTAL": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-10T21:01:52.024410+00:00"
+      },
       "UHC": {
         "tier": "HT5",
         "obtained_at": "2026-10-10T00:00:56.521204+00:00"
@@ -1490,8 +1494,8 @@
         "obtained_at": "2026-10-10T16:48:22.104255+00:00"
       },
       "DIAMOND POT": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-10T16:48:22.104256+00:00"
+        "tier": "LT4",
+        "obtained_at": "2026-10-10T20:56:37.288260+00:00"
       }
     }
   },
@@ -1590,6 +1594,29 @@
       "MAZO": {
         "tier": "HT5",
         "obtained_at": "2026-10-10T20:52:27.599303+00:00"
+      }
+    }
+  },
+  "1329998099216863327": {
+    "nick": "BruceBatWayne",
+    "region": "NA",
+    "tiers": {}
+  },
+  "686315106191147044": {
+    "nick": "tugleta",
+    "region": "SA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-10T20:57:35.062474+00:00"
+      },
+      "SWORD": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-10T20:57:35.062489+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-10T21:05:54.539534+00:00"
       }
     }
   }
