@@ -1405,8 +1405,8 @@
     "region": "NA",
     "tiers": {
       "CRYSTAL": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-10T01:29:52.814705+00:00"
+        "tier": "LT5",
+        "obtained_at": "2026-10-10T21:21:29.115901+00:00"
       },
       "UHC": {
         "tier": "HT5",
@@ -1467,7 +1467,12 @@
   "1496741045596196876": {
     "nick": "Rav3nbyte32",
     "region": "EU",
-    "tiers": {}
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-10T21:09:05.826480+00:00"
+      }
+    }
   },
   "1429845194106343497": {
     "nick": "M2rco_",
@@ -1617,6 +1622,34 @@
       "DIAMOND POT": {
         "tier": "LT4",
         "obtained_at": "2026-10-10T21:05:54.539534+00:00"
+      }
+    }
+  },
+  "1295244792719999001": {
+    "nick": "IDKauidos",
+    "region": "NA",
+    "tiers": {}
+  },
+  "671833093753143317": {
+    "nick": "_CrispySteak_",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1522386968728834179": {
+    "nick": "Monito144uwu",
+    "region": "NA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-10T21:14:26.667625+00:00"
+      },
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-10T21:14:26.667637+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-10T21:14:26.667639+00:00"
       }
     }
   }
