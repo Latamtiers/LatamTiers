@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791652374283,
-    "lastUpdateHuman": "2026-10-10 17:12:54 UTC",
+    "lastUpdate": 1791653256220,
+    "lastUpdateHuman": "2026-10-10 17:27:36 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -476,9 +476,15 @@
           "tier": "LT3",
           "at": 1789935595884
         }
+      ],
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1791652753927
+        }
       ]
     },
-    "region": "SA"
+    "region": "NA"
   },
   "1295858542393425984": {
     "nick": "Diegokeke",

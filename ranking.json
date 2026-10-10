@@ -1508,5 +1508,19 @@
     "nick": "Milanesasss",
     "region": "SA",
     "tiers": {}
+  },
+  "1398745091585081405": {
+    "nick": "97y_",
+    "region": "NA",
+    "tiers": {
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-10T17:19:13.927962+00:00"
+      },
+      "NETHPOT": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-10T17:19:13.927973+00:00"
+      }
+    }
   }
 }
