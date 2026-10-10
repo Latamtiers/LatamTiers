@@ -1,19 +1,25 @@
 {
   "942878691078312018": {
-    "nick": "Randuuu",
+    "nick": "Randuuuuu",
     "modes": {
       "axe": [
         {
           "tier": "LT3",
           "at": 1789923030148
         }
+      ],
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1791603829894
+        }
       ]
     },
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791604529913,
-    "lastUpdateHuman": "2026-10-10 03:55:29 UTC",
+    "lastUpdate": 1791605274294,
+    "lastUpdateHuman": "2026-10-10 04:07:54 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -343,7 +349,7 @@
     "region": "SA"
   },
   "848645435844460545": {
-    "nick": "S3xu4lb3astD1exx",
+    "nick": "S3xu4lB3astD1exx",
     "modes": {
       "crystal": [
         {
@@ -928,7 +934,7 @@
         }
       ]
     },
-    "region": "SA"
+    "region": "NA"
   },
   "1345669648984707072": {
     "nick": "Zolotar1",
@@ -1474,14 +1480,14 @@
     "region": "SA"
   },
   "1010544554388234381": {
-    "nick": "Ichacksita",
+    "nick": "Ichack_5011",
     "modes": {},
     "region": "NA"
   },
   "1528904236589387858": {
     "nick": "endersinn",
     "modes": {},
-    "region": "NA"
+    "region": "SA"
   },
   "1500280455520325812": {
     "nick": "666Kyxz_",
@@ -1537,6 +1543,1106 @@
   },
   "1248448546458570837": {
     "nick": "santieroco",
+    "modes": {},
+    "region": "NA"
+  },
+  "1218111450254413898": {
+    "nick": "F2quan",
+    "modes": {},
+    "region": "EU"
+  },
+  "1548313878629195878": {
+    "nick": "VirtualFemboy",
+    "modes": {},
+    "region": "EU"
+  },
+  "1277094044421328919": {
+    "nick": "etps_",
+    "modes": {},
+    "region": "EU"
+  },
+  "1060433225530474517": {
+    "nick": "F1larutik",
+    "modes": {},
+    "region": "EU"
+  },
+  "1495795709746610398": {
+    "nick": "Tox1cOG",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1791377782977
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "924506743529144320": {
+    "nick": "woahhVoid",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1791378301747
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1390257030312493126": {
+    "nick": "Frosty478",
+    "modes": {},
+    "region": "NA"
+  },
+  "1429845194106343497": {
+    "nick": "M2rco_",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT5",
+          "at": 1791378745922
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1791378745922
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1791406590581
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1791378745922
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "1032457238356443136": {
+    "nick": "5KYL4R_xD",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1791404546700
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1791405119949
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "1416151489214419106": {
+    "nick": "Bvxing",
+    "modes": {},
+    "region": "EU"
+  },
+  "963582633466527784": {
+    "nick": "Goodbyeblub",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1791483774053
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1407758908612808747": {
+    "nick": "Larpdrix1",
+    "modes": {
+      "sword": [
+        {
+          "tier": "HT3",
+          "at": 1791491036806
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "1497340247082799295": {
+    "nick": "Cytro",
+    "modes": {},
+    "region": "EU"
+  },
+  "916014700993609759": {
+    "nick": "crmods",
+    "modes": {},
+    "region": "SA"
+  },
+  "976775288853766154": {
+    "nick": "Im_Zealous",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1791430202249
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "412306458919829534": {
+    "nick": "iiSkinny",
+    "modes": {},
+    "region": "NA"
+  },
+  "548541009592844305": {
+    "nick": "ohdamnithurts",
+    "modes": {},
+    "region": "EU"
+  },
+  "1195685896050180146": {
+    "nick": "Shymanek7",
+    "modes": {},
+    "region": "EU"
+  },
+  "821463559040401429": {
+    "nick": "yMeowl_",
+    "modes": {},
+    "region": "SA"
+  },
+  "1418661295980417177": {
+    "nick": "yWafless_",
+    "modes": {},
+    "region": "SA"
+  },
+  "1092535028749193246": {
+    "nick": "iDemyx_",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1791408341695
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1551225433767550998": {
+    "nick": "iShadowzwx_",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1791407002644
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1494836886760587305": {
+    "nick": "AnchorPibble67",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT3",
+          "at": 1791403743800
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1791403743800
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1791403743800
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1171134873969361028": {
+    "nick": "MeowwChriis",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1791416184978
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "1303206236698841098": {
+    "nick": "meestercash",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1791403995167
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1791403995167
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1282436307171278859": {
+    "nick": "KnightSlayerX6",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1791408928925
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "1081286870325018704": {
+    "nick": "notvainel",
+    "modes": {},
+    "region": "EU"
+  },
+  "1488192494691815435": {
+    "nick": "Sentinelese",
+    "modes": {},
+    "region": "SA"
+  },
+  "637094440376205323": {
+    "nick": "Pharna",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1791584686099
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "1223989551706669077": {
+    "nick": "nebeligernebel",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1791472662989
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "1501041730395443334": {
+    "nick": "Martian4K",
+    "modes": {},
+    "region": "NA"
+  },
+  "885666180302524427": {
+    "nick": "SystemError404",
+    "modes": {},
+    "region": "SA"
+  },
+  "1329613764231954523": {
+    "nick": "14Hzz_",
+    "modes": {},
+    "region": "NA"
+  },
+  "1126037691176325141": {
+    "nick": "lolyen",
+    "modes": {},
+    "region": "NA"
+  },
+  "1402232520724185158": {
+    "nick": "Venom27084K",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1791412720909
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1472397067887313116": {
+    "nick": "ITZREALFUNNY",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1791415738983
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT5",
+          "at": 1791415738983
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1791415738983
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "1040746166733770903": {
+    "nick": "Jam3r25",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1791416659756
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1791416659756
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1791416659756
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1378360521392394370": {
+    "nick": "BlobSy_",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1791417092093
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1791583497933
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1279895866068434968": {
+    "nick": "F4ng55",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT5",
+          "at": 1791417563161
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1791417563161
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1791417563161
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1518135972771004487": {
+    "nick": "Mejikito",
+    "modes": {},
+    "region": "NA"
+  },
+  "176237290962681866": {
+    "nick": "tvui",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1791519416181
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1553873669778964520": {
+    "nick": "SofiiRv_",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1791428518895
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "746545027236364298": {
+    "nick": "SakuNotPrime",
+    "modes": {},
+    "region": "NA"
+  },
+  "949765658692943933": {
+    "nick": "StopJumping",
+    "modes": {},
+    "region": "NA"
+  },
+  "851568001017708555": {
+    "nick": "RckHypnotize",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1791437437470
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1791437437470
+        }
+      ],
+      "axe": [
+        {
+          "tier": "HT5",
+          "at": 1791437437470
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1124906438167375872": {
+    "nick": "BrujoDelaVAnidad",
+    "modes": {},
+    "region": "NA"
+  },
+  "1162055518819451011": {
+    "nick": "benasez",
+    "modes": {},
+    "region": "NA"
+  },
+  "1440178637054672956": {
+    "nick": "gossinery",
+    "modes": {},
+    "region": "EU"
+  },
+  "1056714118255611934": {
+    "nick": "MainTek",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1791473427032
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "701435324806463539": {
+    "nick": "Koenneke77",
+    "modes": {},
+    "region": "EU"
+  },
+  "805973728475086918": {
+    "nick": "Skeyyzz",
+    "modes": {},
+    "region": "EU"
+  },
+  "1403463834789871758": {
+    "nick": "it3m007",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1791484014424
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT5",
+          "at": 1791484073996
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "940472033815457852": {
+    "nick": "Banshoku",
+    "modes": {},
+    "region": "NA"
+  },
+  "1519152330568634460": {
+    "nick": "AceitePanPan",
+    "modes": {},
+    "region": "NA"
+  },
+  "827338416223027241": {
+    "nick": "dartb",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT4",
+          "at": 1791490829577
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1414036663050571933": {
+    "nick": "vex281",
+    "modes": {},
+    "region": "NA"
+  },
+  "1477731874012139762": {
+    "nick": "ozxii",
+    "modes": {},
+    "region": "NA"
+  },
+  "1490101127683768326": {
+    "nick": "zKrzys",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT5",
+          "at": 1791493661832
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1791493661832
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT5",
+          "at": 1791493661832
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1791493661832
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1379606878698602641": {
+    "nick": "luciana124_",
+    "modes": {
+      "sword": [
+        {
+          "tier": "HT5",
+          "at": 1791498016458
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1481071494833377332": {
+    "nick": "Elrepenka22",
+    "modes": {},
+    "region": "SA"
+  },
+  "1056775828484137020": {
+    "nick": "snowyspamz",
+    "modes": {},
+    "region": "NA"
+  },
+  "1272241051276673077": {
+    "nick": "zFraw_",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1791496538903
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT5",
+          "at": 1791496538903
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "1354252790066577490": {
+    "nick": "dagzxt",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1791497436969
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "982460865263571064": {
+    "nick": "7Lvyy_",
+    "modes": {},
+    "region": "SA"
+  },
+  "1439777312903266315": {
+    "nick": "RUCHOTO",
+    "modes": {},
+    "region": "NA"
+  },
+  "1472654277746102434": {
+    "nick": "CuysitoFat",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT3",
+          "at": 1791501234398
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1284320932076195904": {
+    "nick": "monkeyman1235657",
+    "modes": {},
+    "region": "NA"
+  },
+  "1446701262480609311": {
+    "nick": "Rtyain",
+    "modes": {},
+    "region": "NA"
+  },
+  "938574568598171678": {
+    "nick": "_Pereda",
+    "modes": {},
+    "region": "EU"
+  },
+  "1359759922287476736": {
+    "nick": "YEHONABANANA",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT5",
+          "at": 1791503610373
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1791503610373
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1171158562727264408": {
+    "nick": "Kyrie_Eu",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1791581794226
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "1021609727953752074": {
+    "nick": "kjkjkjkjasdasdas",
+    "modes": {},
+    "region": "SA"
+  },
+  "1241523227742830635": {
+    "nick": "Valuxee",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1791507384444
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1791507384444
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT3",
+          "at": 1791507384444
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1791507384444
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "1269464291602468894": {
+    "nick": "iJxsha_",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT5",
+          "at": 1791518847570
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1464385069715030140": {
+    "nick": "polgods_777",
+    "modes": {},
+    "region": "SA"
+  },
+  "1445263798020870164": {
+    "nick": "it_madara",
+    "modes": {},
+    "region": "SA"
+  },
+  "1509760010144579654": {
+    "nick": "itz_raiden655",
+    "modes": {},
+    "region": "NA"
+  },
+  "838450947424256061": {
+    "nick": "Guzzvi",
+    "modes": {},
+    "region": "NA"
+  },
+  "1394386171043254272": {
+    "nick": "madolorian88",
+    "modes": {},
+    "region": "NA"
+  },
+  "1333960600480518207": {
+    "nick": "waglion",
+    "modes": {
+      "sword": [
+        {
+          "tier": "HT5",
+          "at": 1791578859232
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1791578859232
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1327804722492735539": {
+    "nick": "Niko_12",
+    "modes": {},
+    "region": "EU"
+  },
+  "1411060673504350319": {
+    "nick": "Its_STP",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT5",
+          "at": 1791579993987
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "1473414226474307776": {
+    "nick": "Aneris_190k",
+    "modes": {},
+    "region": "EU"
+  },
+  "1545491917977026610": {
+    "nick": "MrExpp",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1791579272021
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "1522787353595351121": {
+    "nick": "Kensu1ipi1",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1791580048394
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1791580048394
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1165707912459583560": {
+    "nick": "axeryan",
+    "modes": {},
+    "region": "NA"
+  },
+  "1542530996006559827": {
+    "nick": "PRISMATIC 31739",
+    "modes": {},
+    "region": "NA"
+  },
+  "1211464068129488958": {
+    "nick": "iTran1x",
+    "modes": {},
+    "region": "SA"
+  },
+  "1494097509167927336": {
+    "nick": "Lighting_Ez",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1791582910585
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "1463224675462287424": {
+    "nick": "alwaysmissofher",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1791583305046
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1202383002135433256": {
+    "nick": "zarytox",
+    "modes": {},
+    "region": "NA"
+  },
+  "1495226758251937934": {
+    "nick": "Cor_pain",
+    "modes": {},
+    "region": "NA"
+  },
+  "1168683567673516104": {
+    "nick": "zDropeByKiller",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1791583577709
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1425422655523258418": {
+    "nick": "xotiic2609",
+    "modes": {},
+    "region": "NA"
+  },
+  "1472310600116731997": {
+    "nick": "muggieismommy",
+    "modes": {},
+    "region": "NA"
+  },
+  "1547057557078810745": {
+    "nick": "Lvqzz",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1791585226354
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1203898210431803442": {
+    "nick": "starclow",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1791588202731
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1791588202731
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1419286580169805924": {
+    "nick": "justrektt",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1791590456521
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1791589119467
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1361421783810441216": {
+    "nick": "r5cs",
+    "modes": {},
+    "region": "NA"
+  },
+  "1328103474361139340": {
+    "nick": "xLuxz_",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1791589737423
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1168737089148424224": {
+    "nick": "Mqnvll",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1791591026832
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1791592573907
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1274143435988926518": {
+    "nick": "wFlex_",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1791590660786
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT5",
+          "at": 1791590660786
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1304308760889659405": {
+    "nick": "Fxzcloud",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1791590905955
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1486011600887349339": {
+    "nick": "zztmpst",
+    "modes": {},
+    "region": "SA"
+  },
+  "719720102131531827": {
+    "nick": "AlezIsntB4d",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1791591748671
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "949679605747433523": {
+    "nick": "PeacefulOne",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1791594067614
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1394453445506764993": {
+    "nick": "Atlxxss",
+    "modes": {},
+    "region": "NA"
+  },
+  "1510135493721849898": {
+    "nick": "AsianSugarDaddy",
+    "modes": {},
+    "region": "NA"
+  },
+  "753530971420098570": {
+    "nick": "ohsiquesi",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1791595453251
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1282388015460651059": {
+    "nick": "k3nsura",
     "modes": {},
     "region": "NA"
   }
