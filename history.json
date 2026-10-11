@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791746563081,
-    "lastUpdateHuman": "2026-10-11 19:22:43 UTC",
+    "lastUpdate": 1791747415700,
+    "lastUpdateHuman": "2026-10-11 19:36:55 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3152,5 +3152,15 @@
     "nick": "CLOVER_2233",
     "modes": {},
     "region": "EU"
+  },
+  "1076558723184607362": {
+    "nick": "Ultrainstinto21",
+    "modes": {},
+    "region": "NA"
+  },
+  "1421587214965407795": {
+    "nick": "Oshua",
+    "modes": {},
+    "region": "NA"
   }
 }
