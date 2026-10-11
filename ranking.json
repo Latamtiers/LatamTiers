@@ -1904,7 +1904,12 @@
   "1443303155592073380": {
     "nick": "mnas_bananas2",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-11T17:31:45.047910+00:00"
+      }
+    }
   },
   "1547641941812969473": {
     "nick": "_Blobz",
@@ -1979,7 +1984,16 @@
   "1548110490775851109": {
     "nick": "YziMloveS",
     "region": "SA",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-11T17:24:25.142911+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-11T17:27:17.042187+00:00"
+      }
+    }
   },
   "1313670436877500477": {
     "nick": "Ctrlark",
@@ -2009,5 +2023,19 @@
     "nick": "Hektormenta",
     "region": "EU",
     "tiers": {}
+  },
+  "851685250870280225": {
+    "nick": "Sergio2o94",
+    "region": "NA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-11T17:23:11.960471+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-11T17:23:11.960482+00:00"
+      }
+    }
   }
 }

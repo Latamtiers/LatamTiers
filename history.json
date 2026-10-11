@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791739240766,
-    "lastUpdateHuman": "2026-10-11 17:20:40 UTC",
+    "lastUpdate": 1791740144366,
+    "lastUpdateHuman": "2026-10-11 17:35:44 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3111,7 +3111,14 @@
   },
   "1548110490775851109": {
     "nick": "YziMloveS",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1791739465142
+        }
+      ]
+    },
     "region": "SA"
   },
   "1313670436877500477": {
