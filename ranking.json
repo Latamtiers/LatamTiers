@@ -363,6 +363,10 @@
     "nick": "V0idZadas",
     "region": "SA",
     "tiers": {
+      "CRYSTAL": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-11T21:31:29.462117+00:00"
+      },
       "SWORD": {
         "tier": "HT5",
         "obtained_at": "2026-10-09T04:34:47.887142+00:00"
