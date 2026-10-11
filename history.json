@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791757897883,
-    "lastUpdateHuman": "2026-10-11 22:31:37 UTC",
+    "lastUpdate": 1791758880515,
+    "lastUpdateHuman": "2026-10-11 22:48:00 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2145,6 +2145,10 @@
         {
           "tier": "LT5",
           "at": 1791484073996
+        },
+        {
+          "tier": "HT5",
+          "at": 1791757897903
         }
       ]
     },
@@ -2437,12 +2441,22 @@
         {
           "tier": "HT5",
           "at": 1791578859232
+        },
+        {
+          "tier": "LT4",
+          "at": 1791758524129
         }
       ],
       "nethpot": [
         {
           "tier": "LT3",
           "at": 1791578859232
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1791758039533
         }
       ]
     },
@@ -3395,8 +3409,31 @@
           "tier": "HT5",
           "at": 1791757273366
         }
+      ],
+      "sword": [
+        {
+          "tier": "HT5",
+          "at": 1791758131132
+        }
       ]
     },
+    "region": "EU"
+  },
+  "845021644632358952": {
+    "nick": "iclim",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1791757945975
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1542370021530009652": {
+    "nick": "xpoco",
+    "modes": {},
     "region": "EU"
   }
 }
