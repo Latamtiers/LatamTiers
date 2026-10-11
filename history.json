@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791762336659,
-    "lastUpdateHuman": "2026-10-11 23:45:36 UTC",
+    "lastUpdate": 1791763027115,
+    "lastUpdateHuman": "2026-10-11 23:57:07 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -415,6 +415,10 @@
         {
           "tier": "LT4",
           "at": 1789934977109
+        },
+        {
+          "tier": "HT5",
+          "at": 1791762739883
         }
       ],
       "sword": [
@@ -3129,6 +3133,12 @@
           "tier": "HT4",
           "at": 1791760795584
         }
+      ],
+      "crystal": [
+        {
+          "tier": "LT4",
+          "at": 1791762355057
+        }
       ]
     },
     "region": "NA"
@@ -3537,6 +3547,35 @@
         {
           "tier": "LT3",
           "at": 1791761728711
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1016829281072062464": {
+    "nick": "totitodiaa",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1791762530090
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "1465521079115190305": {
+    "nick": "Zelatpvp",
+    "modes": {},
+    "region": "NA"
+  },
+  "1459408074635739311": {
+    "nick": "Cuddlenkitten",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT4",
+          "at": 1791762953044
         }
       ]
     },
