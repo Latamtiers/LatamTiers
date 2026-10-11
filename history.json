@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791693802929,
-    "lastUpdateHuman": "2026-10-11 04:43:22 UTC",
+    "lastUpdate": 1791694648553,
+    "lastUpdateHuman": "2026-10-11 04:57:28 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3025,5 +3025,15 @@
     "nick": "_Blobz",
     "modes": {},
     "region": "EU"
+  },
+  "1308226438469648476": {
+    "nick": "Miltom_now",
+    "modes": {},
+    "region": "SA"
+  },
+  "1352444112649060483": {
+    "nick": "Heinous18",
+    "modes": {},
+    "region": "NA"
   }
 }
