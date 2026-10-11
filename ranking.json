@@ -873,8 +873,8 @@
     "region": "NA",
     "tiers": {
       "UHC": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-08T22:34:37.472386+00:00"
+        "tier": "LT5",
+        "obtained_at": "2026-10-11T23:18:22.123339+00:00"
       },
       "SWORD": {
         "tier": "LT4",
@@ -1697,6 +1697,10 @@
     "nick": "_CrispySteak_",
     "region": "NA",
     "tiers": {
+      "SWORD": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-11T23:26:53.156796+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT3",
         "obtained_at": "2026-10-10T22:08:57.170589+00:00"
@@ -1889,6 +1893,10 @@
     "nick": "KilluZold",
     "region": "NA",
     "tiers": {
+      "SWORD": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-11T23:19:55.584832+00:00"
+      },
       "NETHPOT": {
         "tier": "HT4",
         "obtained_at": "2026-10-11T16:28:51.596606+00:00"
@@ -2253,7 +2261,16 @@
   "1483983491640328354": {
     "nick": "na",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-11T23:21:19.365424+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-11T23:28:00.100236+00:00"
+      }
+    }
   },
   "828816157419110471": {
     "nick": "nfasys",
@@ -2383,5 +2400,15 @@
         "obtained_at": "2026-10-11T23:03:38.761962+00:00"
       }
     }
+  },
+  "1184175506212524124": {
+    "nick": "vovsrap",
+    "region": "SA",
+    "tiers": {}
+  },
+  "1056983305213444187": {
+    "nick": "rinuxg",
+    "region": "NA",
+    "tiers": {}
   }
 }
