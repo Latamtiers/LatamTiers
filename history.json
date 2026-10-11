@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791694648553,
-    "lastUpdateHuman": "2026-10-11 04:57:28 UTC",
+    "lastUpdate": 1791695465245,
+    "lastUpdateHuman": "2026-10-11 05:11:05 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2135,6 +2135,12 @@
         {
           "tier": "LT4",
           "at": 1791693282541
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1791695344656
         }
       ]
     },

@@ -681,6 +681,10 @@
     "nick": "vex281",
     "region": "NA",
     "tiers": {
+      "UHC": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-11T05:09:04.656909+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT3",
         "obtained_at": "2026-10-08T21:57:51.875987+00:00"
