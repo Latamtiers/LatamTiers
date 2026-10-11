@@ -1885,5 +1885,35 @@
     "nick": "Heinous18",
     "region": "NA",
     "tiers": {}
+  },
+  "684152338826788864": {
+    "nick": "Setimaasd",
+    "region": "NA",
+    "tiers": {
+      "UHC": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-11T05:20:29.232459+00:00"
+      },
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-11T05:20:29.232471+00:00"
+      },
+      "MAZO": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-11T05:20:29.232473+00:00"
+      },
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-11T05:20:29.232474+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-11T05:20:29.232476+00:00"
+      },
+      "AXE": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-11T05:20:29.232477+00:00"
+      }
+    }
   }
 }
