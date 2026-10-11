@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791687768914,
-    "lastUpdateHuman": "2026-10-11 03:02:48 UTC",
+    "lastUpdate": 1791688914730,
+    "lastUpdateHuman": "2026-10-11 03:21:54 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2986,6 +2986,16 @@
         }
       ]
     },
+    "region": "SA"
+  },
+  "1182758496089935913": {
+    "nick": "Suequinho",
+    "modes": {},
+    "region": "NA"
+  },
+  "1243574349420826624": {
+    "nick": "OogaBoogaUguhAga",
+    "modes": {},
     "region": "SA"
   }
 }
