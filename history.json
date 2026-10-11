@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791754341222,
-    "lastUpdateHuman": "2026-10-11 21:32:21 UTC",
+    "lastUpdate": 1791755303350,
+    "lastUpdateHuman": "2026-10-11 21:48:23 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -101,6 +101,10 @@
         {
           "tier": "HT4",
           "at": 1790912920802
+        },
+        {
+          "tier": "LT3",
+          "at": 1791754990708
         }
       ],
       "sword": [
@@ -3220,5 +3224,64 @@
       ]
     },
     "region": "SA"
+  },
+  "1274549107935019122": {
+    "nick": "_Anonimo67",
+    "modes": {},
+    "region": "NA"
+  },
+  "1121262265455349820": {
+    "nick": "AstroRecovery",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT4",
+          "at": 1791754711564
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1791754711564
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1791754711564
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "721759139482697738": {
+    "nick": "Kryogenn",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1791754881766
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT5",
+          "at": 1791754881766
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "860587582436671519": {
+    "nick": "Geeignet_",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1791755071109
+        }
+      ]
+    },
+    "region": "EU"
   }
 }
