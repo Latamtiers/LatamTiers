@@ -143,8 +143,8 @@
     "region": "NA",
     "tiers": {
       "DIAMOND POT": {
-        "tier": "HT4",
-        "obtained_at": "2026-10-09T21:57:35.424970+00:00"
+        "tier": "LT4",
+        "obtained_at": "2026-10-11T23:07:58.135240+00:00"
       }
     }
   },
@@ -364,6 +364,10 @@
       "DIAMOND POT": {
         "tier": "HT4",
         "obtained_at": "2026-10-07T20:44:13.093903+00:00"
+      },
+      "AXE": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-11T23:10:58.213565+00:00"
       }
     }
   },
@@ -2112,7 +2116,12 @@
   "1421587214965407795": {
     "nick": "Oshua",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "HT3",
+        "obtained_at": "2026-10-11T23:04:49.579348+00:00"
+      }
+    }
   },
   "1399555326520590426": {
     "nick": "Septireby97",
@@ -2364,5 +2373,15 @@
     "nick": "ItzAndyLOL",
     "region": "NA",
     "tiers": {}
+  },
+  "1405327957005963274": {
+    "nick": "zehry",
+    "region": "NA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-11T23:03:38.761962+00:00"
+      }
+    }
   }
 }
