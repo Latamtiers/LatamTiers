@@ -1811,7 +1811,12 @@
   "1422281900600328265": {
     "nick": "6F2Dh0cA8GxEs",
     "region": "SA",
-    "tiers": {}
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-11T02:50:22.053061+00:00"
+      }
+    }
   },
   "713445058686484481": {
     "nick": "proyect_pvp_",
@@ -1822,5 +1827,20 @@
     "nick": "KilluZold",
     "region": "NA",
     "tiers": {}
+  },
+  "1526102708505808936": {
+    "nick": "KuroSeiVT",
+    "region": "SA",
+    "tiers": {}
+  },
+  "1510693316663054507": {
+    "nick": "quacks_78663",
+    "region": "SA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-11T02:40:34.101324+00:00"
+      }
+    }
   }
 }

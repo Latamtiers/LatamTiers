@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791686202940,
-    "lastUpdateHuman": "2026-10-11 02:36:42 UTC",
+    "lastUpdate": 1791687130491,
+    "lastUpdateHuman": "2026-10-11 02:52:10 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2951,7 +2951,14 @@
   },
   "1422281900600328265": {
     "nick": "6F2Dh0cA8GxEs",
-    "modes": {},
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1791687022053
+        }
+      ]
+    },
     "region": "SA"
   },
   "713445058686484481": {
@@ -2963,5 +2970,22 @@
     "nick": "KilluZold",
     "modes": {},
     "region": "NA"
+  },
+  "1526102708505808936": {
+    "nick": "KuroSeiVT",
+    "modes": {},
+    "region": "SA"
+  },
+  "1510693316663054507": {
+    "nick": "quacks_78663",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT3",
+          "at": 1791686434101
+        }
+      ]
+    },
+    "region": "SA"
   }
 }
