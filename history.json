@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791741570747,
-    "lastUpdateHuman": "2026-10-11 17:59:30 UTC",
+    "lastUpdate": 1791742637682,
+    "lastUpdateHuman": "2026-10-11 18:17:17 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3145,6 +3145,11 @@
   },
   "898597937947508736": {
     "nick": "Hektormenta",
+    "modes": {},
+    "region": "EU"
+  },
+  "1496273727296376875": {
+    "nick": "CLOVER_2233",
     "modes": {},
     "region": "EU"
   }
