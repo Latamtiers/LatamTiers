@@ -349,6 +349,10 @@
     "nick": "NovaJoe",
     "region": "NA",
     "tiers": {
+      "UHC": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-11T22:49:18.042256+00:00"
+      },
       "SWORD": {
         "tier": "HT5",
         "obtained_at": "2026-10-11T22:22:10.032490+00:00"
@@ -644,6 +648,10 @@
       "SWORD": {
         "tier": "HT5",
         "obtained_at": "2026-10-11T22:31:37.903965+00:00"
+      },
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-11T22:52:35.124911+00:00"
       },
       "DIAMOND POT": {
         "tier": "HT5",
@@ -1098,6 +1106,10 @@
       "DIAMOND POT": {
         "tier": "LT4",
         "obtained_at": "2026-10-09T20:47:39.232844+00:00"
+      },
+      "AXE": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-11T22:52:49.231999+00:00"
       }
     }
   },
@@ -1522,8 +1534,8 @@
         "obtained_at": "2026-10-10T16:48:22.104238+00:00"
       },
       "UHC": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-10T16:48:22.104251+00:00"
+        "tier": "LT4",
+        "obtained_at": "2026-10-11T22:58:57.136337+00:00"
       },
       "SWORD": {
         "tier": "LT4",
@@ -2341,6 +2353,16 @@
   "1542370021530009652": {
     "nick": "xpoco",
     "region": "EU",
+    "tiers": {}
+  },
+  "1482450339469852893": {
+    "nick": "lightstair",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1512918810074808351": {
+    "nick": "ItzAndyLOL",
+    "region": "NA",
     "tiers": {}
   }
 }
