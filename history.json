@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791755303350,
-    "lastUpdateHuman": "2026-10-11 21:48:23 UTC",
+    "lastUpdate": 1791755973140,
+    "lastUpdateHuman": "2026-10-11 21:59:33 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2124,6 +2124,10 @@
         {
           "tier": "LT5",
           "at": 1791484014424
+        },
+        {
+          "tier": "LT4",
+          "at": 1791755656176
         }
       ],
       "sword": [
@@ -3200,7 +3204,14 @@
   },
   "1065034516541997106": {
     "nick": "bedropony",
-    "modes": {},
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT3",
+          "at": 1791755424799
+        }
+      ]
+    },
     "region": "SA"
   },
   "1057428250961399808": {
@@ -3283,5 +3294,15 @@
       ]
     },
     "region": "EU"
+  },
+  "1483983491640328354": {
+    "nick": "na",
+    "modes": {},
+    "region": "NA"
+  },
+  "828816157419110471": {
+    "nick": "nfasys",
+    "modes": {},
+    "region": "SA"
   }
 }
