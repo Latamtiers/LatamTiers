@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791755973140,
-    "lastUpdateHuman": "2026-10-11 21:59:33 UTC",
+    "lastUpdate": 1791756894723,
+    "lastUpdateHuman": "2026-10-11 22:14:54 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3199,7 +3199,14 @@
   },
   "732388975641100292": {
     "nick": "Alquixkeke",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1791756560413
+        }
+      ]
+    },
     "region": "NA"
   },
   "1065034516541997106": {
@@ -3304,5 +3311,52 @@
     "nick": "nfasys",
     "modes": {},
     "region": "SA"
+  },
+  "479200188473278464": {
+    "nick": "ZaharKramblkuki",
+    "modes": {},
+    "region": "EU"
+  },
+  "1533623186678354104": {
+    "nick": "Metertela",
+    "modes": {},
+    "region": "NA"
+  },
+  "834854760740945940": {
+    "nick": "Gumiw",
+    "modes": {},
+    "region": "SA"
+  },
+  "777164119148855316": {
+    "nick": "Jv2t1n_RD",
+    "modes": {},
+    "region": "NA"
+  },
+  "977268558427988008": {
+    "nick": "HK_Shiro",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1791756437753
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1390380843209461800": {
+    "nick": "yklp",
+    "modes": {},
+    "region": "NA"
+  },
+  "994763713427034223": {
+    "nick": "krpza",
+    "modes": {},
+    "region": "NA"
+  },
+  "1493150289333846027": {
+    "nick": "FemboyAndrew",
+    "modes": {},
+    "region": "EU"
   }
 }

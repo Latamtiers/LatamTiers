@@ -642,8 +642,8 @@
         "obtained_at": "2026-10-08T18:27:53.996888+00:00"
       },
       "DIAMOND POT": {
-        "tier": "LT5",
-        "obtained_at": "2026-10-08T18:26:54.424624+00:00"
+        "tier": "HT5",
+        "obtained_at": "2026-10-11T22:00:19.143446+00:00"
       }
     }
   },
@@ -2107,7 +2107,12 @@
   "732388975641100292": {
     "nick": "Alquixkeke",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "UHC": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-11T22:09:20.413607+00:00"
+      }
+    }
   },
   "1065034516541997106": {
     "nick": "bedropony",
@@ -2224,6 +2229,56 @@
   "828816157419110471": {
     "nick": "nfasys",
     "region": "SA",
+    "tiers": {}
+  },
+  "479200188473278464": {
+    "nick": "ZaharKramblkuki",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1533623186678354104": {
+    "nick": "Metertela",
+    "region": "NA",
+    "tiers": {}
+  },
+  "834854760740945940": {
+    "nick": "Gumiw",
+    "region": "SA",
+    "tiers": {}
+  },
+  "777164119148855316": {
+    "nick": "Jv2t1n_RD",
+    "region": "NA",
+    "tiers": {}
+  },
+  "977268558427988008": {
+    "nick": "HK_Shiro",
+    "region": "NA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-11T22:07:17.753297+00:00"
+      }
+    }
+  },
+  "1390380843209461800": {
+    "nick": "yklp",
+    "region": "NA",
+    "tiers": {}
+  },
+  "994763713427034223": {
+    "nick": "krpza",
+    "region": "NA",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-11T22:07:39.749432+00:00"
+      }
+    }
+  },
+  "1493150289333846027": {
+    "nick": "FemboyAndrew",
+    "region": "EU",
     "tiers": {}
   }
 }
