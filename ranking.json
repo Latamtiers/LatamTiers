@@ -1812,7 +1812,12 @@
   "1347849097348124743": {
     "nick": "D3ya_TR",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-11T16:52:28.806615+00:00"
+      }
+    }
   },
   "821773425919655936": {
     "nick": "LabubuTungTung67",
@@ -1963,6 +1968,10 @@
     "nick": "Tit0pita_",
     "region": "EU",
     "tiers": {
+      "NETHPOT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-11T16:43:37.100409+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT5",
         "obtained_at": "2026-10-11T16:33:46.067624+00:00"
