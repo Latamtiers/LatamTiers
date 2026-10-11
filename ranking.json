@@ -2080,5 +2080,15 @@
     "nick": "Oshua",
     "region": "NA",
     "tiers": {}
+  },
+  "1399555326520590426": {
+    "nick": "Septireby97",
+    "region": "NA",
+    "tiers": {
+      "UHC": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-11T19:57:17.332174+00:00"
+      }
+    }
   }
 }

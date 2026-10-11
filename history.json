@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791748201162,
-    "lastUpdateHuman": "2026-10-11 19:50:01 UTC",
+    "lastUpdate": 1791748769148,
+    "lastUpdateHuman": "2026-10-11 19:59:29 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1395,7 +1395,14 @@
   },
   "1399555326520590426": {
     "nick": "Septireby97",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1791748637332
+        }
+      ]
+    },
     "region": "NA"
   },
   "1488704625182769284": {
