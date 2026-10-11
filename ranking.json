@@ -1107,7 +1107,16 @@
   "1473414226474307776": {
     "nick": "Aneris_190k",
     "region": "EU",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-11T17:16:27.481324+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-11T17:14:11.439768+00:00"
+      }
+    }
   },
   "1545491917977026610": {
     "nick": "MrExpp",
@@ -1855,6 +1864,10 @@
       "NETHPOT": {
         "tier": "HT4",
         "obtained_at": "2026-10-11T16:28:51.596606+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-11T17:08:42.518953+00:00"
       }
     }
   },
@@ -1990,6 +2003,11 @@
   "1208211589178593383": {
     "nick": "Dereksh1",
     "region": "NA",
+    "tiers": {}
+  },
+  "898597937947508736": {
+    "nick": "Hektormenta",
+    "region": "EU",
     "tiers": {}
   }
 }
