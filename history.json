@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791679760755,
-    "lastUpdateHuman": "2026-10-11 00:49:20 UTC",
+    "lastUpdate": 1791680744513,
+    "lastUpdateHuman": "2026-10-11 01:05:44 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2941,6 +2941,11 @@
   },
   "821773425919655936": {
     "nick": "LabubuTungTung67",
+    "modes": {},
+    "region": "SA"
+  },
+  "820456118413164545": {
+    "nick": "devipll",
     "modes": {},
     "region": "SA"
   }
