@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791706285381,
-    "lastUpdateHuman": "2026-10-11 08:11:25 UTC",
+    "lastUpdate": 1791707377714,
+    "lastUpdateHuman": "2026-10-11 08:29:37 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3053,5 +3053,10 @@
     "nick": "Heinous18",
     "modes": {},
     "region": "NA"
+  },
+  "1243261675218665583": {
+    "nick": "Duckify_",
+    "modes": {},
+    "region": "EU"
   }
 }
