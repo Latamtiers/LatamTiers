@@ -684,6 +684,10 @@
       "DIAMOND POT": {
         "tier": "LT3",
         "obtained_at": "2026-10-08T21:57:51.875987+00:00"
+      },
+      "AXE": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-11T04:34:42.541263+00:00"
       }
     }
   },
@@ -1856,6 +1860,16 @@
   "1243574349420826624": {
     "nick": "OogaBoogaUguhAga",
     "region": "SA",
+    "tiers": {}
+  },
+  "1443303155592073380": {
+    "nick": "mnas_bananas2",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1547641941812969473": {
+    "nick": "_Blobz",
+    "region": "EU",
     "tiers": {}
   }
 }
