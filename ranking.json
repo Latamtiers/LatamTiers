@@ -2021,7 +2021,12 @@
   "1208211589178593383": {
     "nick": "Dereksh1",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-11T17:53:07.665620+00:00"
+      }
+    }
   },
   "898597937947508736": {
     "nick": "Hektormenta",
