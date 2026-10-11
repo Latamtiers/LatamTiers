@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791676763519,
-    "lastUpdateHuman": "2026-10-10 23:59:23 UTC",
+    "lastUpdate": 1791678236236,
+    "lastUpdateHuman": "2026-10-11 00:23:56 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2902,6 +2902,34 @@
         }
       ]
     },
+    "region": "NA"
+  },
+  "1262994992738205699": {
+    "nick": "zkwre",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1791677698411
+        }
+      ],
+      "axe": [
+        {
+          "tier": "HT3",
+          "at": 1791677698411
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "1231233283560575019": {
+    "nick": "Burger_Minecraft",
+    "modes": {},
+    "region": "EU"
+  },
+  "1347849097348124743": {
+    "nick": "D3ya_TR",
+    "modes": {},
     "region": "NA"
   }
 }
