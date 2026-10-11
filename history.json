@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791727855323,
-    "lastUpdateHuman": "2026-10-11 14:10:55 UTC",
+    "lastUpdate": 1791728882042,
+    "lastUpdateHuman": "2026-10-11 14:28:02 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3068,5 +3068,10 @@
     "nick": "Molvyn",
     "modes": {},
     "region": "EU"
+  },
+  "1304786156399104041": {
+    "nick": "Yiaxuzz",
+    "modes": {},
+    "region": "SA"
   }
 }
