@@ -1021,7 +1021,12 @@
   "1528904236589387858": {
     "nick": "endersinn",
     "region": "SA",
-    "tiers": {}
+    "tiers": {
+      "SWORD": {
+        "tier": "HT3",
+        "obtained_at": "2026-10-11T00:45:52.437984+00:00"
+      }
+    }
   },
   "1464385069715030140": {
     "nick": "polgods_777",
@@ -1791,6 +1796,11 @@
   "1347849097348124743": {
     "nick": "D3ya_TR",
     "region": "NA",
+    "tiers": {}
+  },
+  "821773425919655936": {
+    "nick": "LabubuTungTung67",
+    "region": "SA",
     "tiers": {}
   }
 }

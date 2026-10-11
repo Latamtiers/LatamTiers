@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791678236236,
-    "lastUpdateHuman": "2026-10-11 00:23:56 UTC",
+    "lastUpdate": 1791679760755,
+    "lastUpdateHuman": "2026-10-11 00:49:20 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1496,7 +1496,14 @@
   },
   "1528904236589387858": {
     "nick": "endersinn",
-    "modes": {},
+    "modes": {
+      "sword": [
+        {
+          "tier": "HT3",
+          "at": 1791679552437
+        }
+      ]
+    },
     "region": "SA"
   },
   "1500280455520325812": {
@@ -2931,5 +2938,10 @@
     "nick": "D3ya_TR",
     "modes": {},
     "region": "NA"
+  },
+  "821773425919655936": {
+    "nick": "LabubuTungTung67",
+    "modes": {},
+    "region": "SA"
   }
 }
