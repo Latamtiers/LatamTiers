@@ -1842,7 +1842,12 @@
   "872641463299760178": {
     "nick": "KilluZold",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-11T16:28:51.596606+00:00"
+      }
+    }
   },
   "1526102708505808936": {
     "nick": "KuroSeiVT",
@@ -1953,5 +1958,15 @@
     "nick": "Ctrlark",
     "region": "SA",
     "tiers": {}
+  },
+  "1523272508474654720": {
+    "nick": "Tit0pita_",
+    "region": "EU",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-11T16:33:46.067624+00:00"
+      }
+    }
   }
 }
