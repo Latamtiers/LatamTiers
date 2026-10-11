@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791752379533,
-    "lastUpdateHuman": "2026-10-11 20:59:39 UTC",
+    "lastUpdate": 1791753321726,
+    "lastUpdateHuman": "2026-10-11 21:15:21 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1371,6 +1371,12 @@
         {
           "tier": "LT4",
           "at": 1791302554192
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1791752979644
         }
       ]
     },
@@ -3181,5 +3187,32 @@
     "nick": "Alquixkeke",
     "modes": {},
     "region": "NA"
+  },
+  "1065034516541997106": {
+    "nick": "bedropony",
+    "modes": {},
+    "region": "SA"
+  },
+  "1057428250961399808": {
+    "nick": "enjoining",
+    "modes": {},
+    "region": "SA"
+  },
+  "1556491334523687022": {
+    "nick": "Reaper_cpvp",
+    "modes": {},
+    "region": "NA"
+  },
+  "1064056031556145203": {
+    "nick": "_KingSlayers",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT3",
+          "at": 1791753154760
+        }
+      ]
+    },
+    "region": "SA"
   }
 }

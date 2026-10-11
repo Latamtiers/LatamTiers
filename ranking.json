@@ -2047,6 +2047,10 @@
     "nick": "Sergio2o94",
     "region": "NA",
     "tiers": {
+      "UHC": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-11T21:09:39.644519+00:00"
+      },
       "NETHPOT": {
         "tier": "LT4",
         "obtained_at": "2026-10-11T17:23:11.960471+00:00"
@@ -2100,5 +2104,52 @@
     "nick": "Alquixkeke",
     "region": "NA",
     "tiers": {}
+  },
+  "1065034516541997106": {
+    "nick": "bedropony",
+    "region": "SA",
+    "tiers": {}
+  },
+  "1057428250961399808": {
+    "nick": "enjoining",
+    "region": "SA",
+    "tiers": {}
+  },
+  "1556491334523687022": {
+    "nick": "Reaper_cpvp",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1178801089060024421": {
+    "nick": "frosteado",
+    "region": "NA",
+    "tiers": {
+      "UHC": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-11T21:10:23.187390+00:00"
+      },
+      "SWORD": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-11T21:10:23.187401+00:00"
+      },
+      "MAZO": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-11T21:10:23.187403+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-11T21:10:23.187404+00:00"
+      }
+    }
+  },
+  "1064056031556145203": {
+    "nick": "_KingSlayers",
+    "region": "SA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "HT3",
+        "obtained_at": "2026-10-11T21:12:34.760698+00:00"
+      }
+    }
   }
 }
