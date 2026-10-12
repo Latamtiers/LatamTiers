@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791836103245,
-    "lastUpdateHuman": "2026-10-12 20:15:03 UTC",
+    "lastUpdate": 1791837351130,
+    "lastUpdateHuman": "2026-10-12 20:35:51 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2648,6 +2648,12 @@
           "tier": "LT3",
           "at": 1791583577709
         }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1791837188786
+        }
       ]
     },
     "region": "NA"
@@ -2746,6 +2752,12 @@
         {
           "tier": "HT4",
           "at": 1791592573907
+        }
+      ],
+      "crystal": [
+        {
+          "tier": "LT3",
+          "at": 1791837275168
         }
       ]
     },
@@ -3783,7 +3795,14 @@
   },
   "1532177011601178734": {
     "nick": "ItzRealMcmarzy",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1791836422735
+        }
+      ]
+    },
     "region": "SA"
   },
   "1013199080240975953": {

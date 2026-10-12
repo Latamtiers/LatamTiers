@@ -1244,6 +1244,10 @@
         "tier": "LT3",
         "obtained_at": "2026-10-09T22:06:17.709448+00:00"
       },
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-12T20:33:08.786557+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT3",
         "obtained_at": "2026-10-09T22:06:17.709463+00:00"
@@ -1358,6 +1362,10 @@
     "nick": "Mqnvll",
     "region": "NA",
     "tiers": {
+      "CRYSTAL": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-12T20:34:35.168328+00:00"
+      },
       "UHC": {
         "tier": "HT5",
         "obtained_at": "2026-10-10T00:10:26.832637+00:00"
@@ -2682,7 +2690,12 @@
   "1532177011601178734": {
     "nick": "ItzRealMcmarzy",
     "region": "SA",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-12T20:20:22.735700+00:00"
+      }
+    }
   },
   "1013199080240975953": {
     "nick": "WatonasEnColale",
