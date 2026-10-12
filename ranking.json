@@ -2289,6 +2289,10 @@
     "nick": "Geeignet_",
     "region": "EU",
     "tiers": {
+      "UHC": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-12T22:36:11.118752+00:00"
+      },
       "SWORD": {
         "tier": "LT4",
         "obtained_at": "2026-10-11T21:44:31.109270+00:00"
