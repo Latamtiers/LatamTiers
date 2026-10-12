@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791769796712,
-    "lastUpdateHuman": "2026-10-12 01:49:56 UTC",
+    "lastUpdate": 1791770577247,
+    "lastUpdateHuman": "2026-10-12 02:02:57 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3684,7 +3684,14 @@
   },
   "828106466799517708": {
     "nick": "Lorx_",
-    "modes": {},
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT3",
+          "at": 1791770193713
+        }
+      ]
+    },
     "region": "NA"
   },
   "1262814671870627977": {

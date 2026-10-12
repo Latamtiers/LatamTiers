@@ -2563,7 +2563,12 @@
   "828106466799517708": {
     "nick": "Lorx_",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-12T01:56:33.713388+00:00"
+      }
+    }
   },
   "1262814671870627977": {
     "nick": "imaginandote",
