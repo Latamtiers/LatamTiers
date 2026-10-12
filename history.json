@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791768568955,
-    "lastUpdateHuman": "2026-10-12 01:29:28 UTC",
+    "lastUpdate": 1791769796712,
+    "lastUpdateHuman": "2026-10-12 01:49:56 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3684,6 +3684,11 @@
   },
   "828106466799517708": {
     "nick": "Lorx_",
+    "modes": {},
+    "region": "NA"
+  },
+  "1262814671870627977": {
+    "nick": "imaginandote",
     "modes": {},
     "region": "NA"
   }
