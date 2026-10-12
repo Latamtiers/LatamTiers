@@ -2803,5 +2803,15 @@
     "nick": "Tucrito",
     "region": "SA",
     "tiers": {}
+  },
+  "1299839359473942598": {
+    "nick": "zlDrukzz",
+    "region": "EU",
+    "tiers": {
+      "UHC": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-12T23:23:07.004918+00:00"
+      }
+    }
   }
 }

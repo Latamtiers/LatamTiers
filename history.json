@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791846827590,
-    "lastUpdateHuman": "2026-10-12 23:13:47 UTC",
+    "lastUpdate": 1791847902551,
+    "lastUpdateHuman": "2026-10-12 23:31:42 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3923,5 +3923,17 @@
     "nick": "Tucrito",
     "modes": {},
     "region": "SA"
+  },
+  "1299839359473942598": {
+    "nick": "zlDrukzz",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1791847387004
+        }
+      ]
+    },
+    "region": "EU"
   }
 }
