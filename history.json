@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791822725712,
-    "lastUpdateHuman": "2026-10-12 16:32:05 UTC",
+    "lastUpdate": 1791823842764,
+    "lastUpdateHuman": "2026-10-12 16:50:42 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2855,6 +2855,12 @@
           "tier": "HT5",
           "at": 1791666545826
         }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1791823156713
+        }
       ]
     },
     "region": "EU"
@@ -3748,5 +3754,15 @@
     "nick": "Alezz765",
     "modes": {},
     "region": "NA"
+  },
+  "1237800696825249915": {
+    "nick": "zSnowyxz",
+    "modes": {},
+    "region": "SA"
+  },
+  "1532177011601178734": {
+    "nick": "ItzRealMcmarzy",
+    "modes": {},
+    "region": "SA"
   }
 }
