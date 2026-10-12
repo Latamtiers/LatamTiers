@@ -2779,5 +2779,20 @@
     "nick": "DaC1T",
     "region": "EU",
     "tiers": {}
+  },
+  "1313726751808946177": {
+    "nick": "MyLydel",
+    "region": "SA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-12T20:42:20.489445+00:00"
+      }
+    }
+  },
+  "556223927257530391": {
+    "nick": "flaysi",
+    "region": "EU",
+    "tiers": {}
   }
 }
