@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791828459462,
-    "lastUpdateHuman": "2026-10-12 18:07:39 UTC",
+    "lastUpdate": 1791829800679,
+    "lastUpdateHuman": "2026-10-12 18:30:00 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3847,5 +3847,15 @@
       ]
     },
     "region": "SA"
+  },
+  "1455683671624515688": {
+    "nick": "yCodefey",
+    "modes": {},
+    "region": "SA"
+  },
+  "1307678485879193650": {
+    "nick": "Drugsking",
+    "modes": {},
+    "region": "NA"
   }
 }
