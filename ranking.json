@@ -2592,7 +2592,12 @@
   "1262814671870627977": {
     "nick": "imaginandote",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-12T03:12:59.118623+00:00"
+      }
+    }
   },
   "1048736831828668537": {
     "nick": "stryxc",

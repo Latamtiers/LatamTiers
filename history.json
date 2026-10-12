@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791773863720,
-    "lastUpdateHuman": "2026-10-12 02:57:43 UTC",
+    "lastUpdate": 1791774860334,
+    "lastUpdateHuman": "2026-10-12 03:14:20 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3696,7 +3696,14 @@
   },
   "1262814671870627977": {
     "nick": "imaginandote",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1791774779118
+        }
+      ]
+    },
     "region": "NA"
   },
   "1048736831828668537": {
