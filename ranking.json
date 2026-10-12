@@ -2670,5 +2670,39 @@
     "nick": "ItzRealMcmarzy",
     "region": "SA",
     "tiers": {}
+  },
+  "1013199080240975953": {
+    "nick": "WatonasEnColale",
+    "region": "NA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-12T16:52:15.251583+00:00"
+      }
+    }
+  },
+  "1318133876534673408": {
+    "nick": "YahirPO",
+    "region": "SA",
+    "tiers": {
+      "UHC": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-12T16:54:02.579873+00:00"
+      }
+    }
+  },
+  "1245103825262739621": {
+    "nick": "zxblvckfire",
+    "region": "NA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-12T17:02:14.929033+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-12T17:02:14.929046+00:00"
+      }
+    }
   }
 }
