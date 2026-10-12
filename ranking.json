@@ -1614,6 +1614,10 @@
     "nick": "Lighting_Ez",
     "region": "SA",
     "tiers": {
+      "CRYSTAL": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-12T00:23:42.636190+00:00"
+      },
       "NETHPOT": {
         "tier": "LT5",
         "obtained_at": "2026-10-10T18:12:30.607249+00:00"
@@ -2339,6 +2343,10 @@
     "nick": "EgirlEndCrys",
     "region": "NA",
     "tiers": {
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-12T00:27:27.847785+00:00"
+      },
       "NETHPOT": {
         "tier": "LT3",
         "obtained_at": "2026-10-12T00:12:56.326828+00:00"
@@ -2380,8 +2388,8 @@
         "obtained_at": "2026-10-11T22:32:25.975980+00:00"
       },
       "NETHPOT": {
-        "tier": "LT5",
-        "obtained_at": "2026-10-11T22:32:25.975996+00:00"
+        "tier": "HT4",
+        "obtained_at": "2026-10-12T00:27:04.553546+00:00"
       },
       "DIAMOND POT": {
         "tier": "HT4",
@@ -2397,7 +2405,12 @@
   "1482450339469852893": {
     "nick": "lightstair",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-12T00:34:51.726861+00:00"
+      }
+    }
   },
   "1512918810074808351": {
     "nick": "ItzAndyLOL",
@@ -2465,7 +2478,12 @@
   "1465521079115190305": {
     "nick": "Zelatpvp",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-12T00:44:40.290554+00:00"
+      }
+    }
   },
   "1385351871090262148": {
     "nick": "GlizzyG4ng",
@@ -2502,7 +2520,12 @@
   "1419910300114751509": {
     "nick": "Wedwova",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-12T00:39:47.107482+00:00"
+      }
+    }
   },
   "1336801623493578773": {
     "nick": "Bestil444",
