@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791842948439,
-    "lastUpdateHuman": "2026-10-12 22:09:08 UTC",
+    "lastUpdate": 1791843984065,
+    "lastUpdateHuman": "2026-10-12 22:26:24 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3912,5 +3912,10 @@
     "nick": "flaysi",
     "modes": {},
     "region": "EU"
+  },
+  "1294427072797605940": {
+    "nick": "Tucrito",
+    "modes": {},
+    "region": "SA"
   }
 }
