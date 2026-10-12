@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791770577247,
-    "lastUpdateHuman": "2026-10-12 02:02:57 UTC",
+    "lastUpdate": 1791771741732,
+    "lastUpdateHuman": "2026-10-12 02:22:21 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3696,6 +3696,39 @@
   },
   "1262814671870627977": {
     "nick": "imaginandote",
+    "modes": {},
+    "region": "NA"
+  },
+  "1048736831828668537": {
+    "nick": "stryxc",
+    "modes": {},
+    "region": "NA"
+  },
+  "1406089341096165430": {
+    "nick": "NosoyAdicto",
+    "modes": {},
+    "region": "SA"
+  },
+  "1384949060607414334": {
+    "nick": "saaghqueque",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1791771215675
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1791771215675
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1173806706829041725": {
+    "nick": "yammymc",
     "modes": {},
     "region": "NA"
   }
