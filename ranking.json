@@ -2064,6 +2064,10 @@
     "nick": "Ctrlark",
     "region": "SA",
     "tiers": {
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-12T19:21:49.451687+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT5",
         "obtained_at": "2026-10-12T02:24:50.010524+00:00"

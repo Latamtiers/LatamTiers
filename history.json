@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791832071120,
-    "lastUpdateHuman": "2026-10-12 19:07:51 UTC",
+    "lastUpdate": 1791833162643,
+    "lastUpdateHuman": "2026-10-12 19:26:02 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3270,7 +3270,14 @@
   },
   "1313670436877500477": {
     "nick": "Ctrlark",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1791832909451
+        }
+      ]
+    },
     "region": "SA"
   },
   "1523272508474654720": {
