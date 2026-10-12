@@ -142,6 +142,10 @@
     "nick": "iiSkinny",
     "region": "NA",
     "tiers": {
+      "CRYSTAL": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-12T01:07:57.446381+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT4",
         "obtained_at": "2026-10-11T23:07:58.135240+00:00"
@@ -2531,5 +2535,15 @@
     "nick": "Bestil444",
     "region": "NA",
     "tiers": {}
+  },
+  "1273768224827117589": {
+    "nick": "Xx_MAXPROS_xX",
+    "region": "NA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-12T01:01:58.476680+00:00"
+      }
+    }
   }
 }
