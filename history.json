@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791833162643,
-    "lastUpdateHuman": "2026-10-12 19:26:02 UTC",
+    "lastUpdate": 1791834216461,
+    "lastUpdateHuman": "2026-10-12 19:43:36 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3864,5 +3864,10 @@
     "nick": "Drugsking",
     "modes": {},
     "region": "NA"
+  },
+  "1208867065839095808": {
+    "nick": "DaC1T",
+    "modes": {},
+    "region": "EU"
   }
 }
