@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791763027115,
-    "lastUpdateHuman": "2026-10-11 23:57:07 UTC",
+    "lastUpdate": 1791764242825,
+    "lastUpdateHuman": "2026-10-12 00:17:22 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2502,6 +2502,12 @@
           "tier": "LT4",
           "at": 1791759169231
         }
+      ],
+      "crystal": [
+        {
+          "tier": "LT4",
+          "at": 1791763137024
+        }
       ]
     },
     "region": "NA"
@@ -3463,7 +3469,14 @@
   },
   "1187369557132841014": {
     "nick": "EgirlEndCrys",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1791763976326
+        }
+      ]
+    },
     "region": "NA"
   },
   "1541309628220964925": {
@@ -3576,9 +3589,23 @@
         {
           "tier": "LT4",
           "at": 1791762953044
+        },
+        {
+          "tier": "HT4",
+          "at": 1791763657037
         }
       ]
     },
+    "region": "NA"
+  },
+  "1419910300114751509": {
+    "nick": "Wedwova",
+    "modes": {},
+    "region": "NA"
+  },
+  "1336801623493578773": {
+    "nick": "Bestil444",
+    "modes": {},
     "region": "NA"
   }
 }
