@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791772882862,
-    "lastUpdateHuman": "2026-10-12 02:41:22 UTC",
+    "lastUpdate": 1791773863720,
+    "lastUpdateHuman": "2026-10-12 02:57:43 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3734,6 +3734,11 @@
   },
   "1239534509935034422": {
     "nick": "OscuridadMental",
+    "modes": {},
+    "region": "NA"
+  },
+  "1073035608919920771": {
+    "nick": "Alezz765",
     "modes": {},
     "region": "NA"
   }
