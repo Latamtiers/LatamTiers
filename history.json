@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791849661518,
-    "lastUpdateHuman": "2026-10-13 00:01:01 UTC",
+    "lastUpdate": 1791851516024,
+    "lastUpdateHuman": "2026-10-13 00:31:56 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1825,6 +1825,12 @@
           "tier": "HT5",
           "at": 1791847978047
         }
+      ],
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1791850730735
+        }
       ]
     },
     "region": "NA"
@@ -2218,6 +2224,12 @@
         {
           "tier": "HT4",
           "at": 1791490829577
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1791850159680
         }
       ]
     },
@@ -2994,6 +3006,12 @@
         {
           "tier": "HT5",
           "at": 1791735507383
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1791850116804
         }
       ]
     },
