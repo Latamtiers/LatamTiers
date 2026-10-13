@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791867781509,
-    "lastUpdateHuman": "2026-10-13 05:03:01 UTC",
+    "lastUpdate": 1791868997621,
+    "lastUpdateHuman": "2026-10-13 05:23:17 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4010,5 +4010,10 @@
     "nick": "Buzeira_Kl",
     "modes": {},
     "region": "NA"
+  },
+  "1441828999574851689": {
+    "nick": "Sokora9091",
+    "modes": {},
+    "region": "EU"
   }
 }
