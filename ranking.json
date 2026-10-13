@@ -1727,8 +1727,8 @@
         "obtained_at": "2026-10-10T22:26:02.727080+00:00"
       },
       "DIAMOND POT": {
-        "tier": "LT4",
-        "obtained_at": "2026-10-10T21:05:54.539534+00:00"
+        "tier": "HT5",
+        "obtained_at": "2026-10-13T20:12:06.313602+00:00"
       }
     }
   },
@@ -2962,5 +2962,30 @@
         "obtained_at": "2026-10-13T19:30:56.412302+00:00"
       }
     }
+  },
+  "1437188147925483562": {
+    "nick": "kasownik_biletow",
+    "region": "EU",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-13T20:21:58.302960+00:00"
+      }
+    }
+  },
+  "787099704726257684": {
+    "nick": "jojossz",
+    "region": "SA",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-13T20:16:06.469372+00:00"
+      }
+    }
+  },
+  "1274172931525709890": {
+    "nick": "Tsschessumare",
+    "region": "NA",
+    "tiers": {}
   }
 }
