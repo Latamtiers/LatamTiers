@@ -2948,5 +2948,19 @@
     "nick": "xacm",
     "region": "NA",
     "tiers": {}
+  },
+  "1200929583931867160": {
+    "nick": "Notmeatnot",
+    "region": "SA",
+    "tiers": {
+      "UHC": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-13T19:30:56.412289+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-13T19:30:56.412302+00:00"
+      }
+    }
   }
 }

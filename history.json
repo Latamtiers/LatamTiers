@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791918909841,
-    "lastUpdateHuman": "2026-10-13 19:15:09 UTC",
+    "lastUpdate": 1791920862104,
+    "lastUpdateHuman": "2026-10-13 19:47:42 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4070,5 +4070,17 @@
     "nick": "xacm",
     "modes": {},
     "region": "NA"
+  },
+  "1200929583931867160": {
+    "nick": "Notmeatnot",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1791919856412
+        }
+      ]
+    },
+    "region": "SA"
   }
 }
