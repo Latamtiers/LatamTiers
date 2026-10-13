@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791930739456,
-    "lastUpdateHuman": "2026-10-13 22:32:19 UTC",
+    "lastUpdate": 1791932314682,
+    "lastUpdateHuman": "2026-10-13 22:58:34 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3651,6 +3651,12 @@
           "tier": "HT5",
           "at": 1791765291726
         }
+      ],
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1791931496476
+        }
       ]
     },
     "region": "NA"
@@ -4125,7 +4131,14 @@
   },
   "1483159452323545180": {
     "nick": "Halixlp",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1791930813368
+        }
+      ]
+    },
     "region": "NA"
   },
   "1476333468622258236": {
