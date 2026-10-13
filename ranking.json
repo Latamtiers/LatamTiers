@@ -2995,6 +2995,10 @@
     "nick": "Tsschessumare",
     "region": "NA",
     "tiers": {
+      "NETHPOT": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-13T22:25:38.005202+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT3",
         "obtained_at": "2026-10-13T20:54:24.651277+00:00"
@@ -3058,6 +3062,50 @@
       "NETHPOT": {
         "tier": "HT4",
         "obtained_at": "2026-10-13T21:58:09.846026+00:00"
+      }
+    }
+  },
+  "1040006265927110677": {
+    "nick": "ImBillsYTGojo",
+    "region": "SA",
+    "tiers": {
+      "SWORD": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-13T22:05:31.400530+00:00"
+      },
+      "NETHPOT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-13T22:05:31.400541+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-13T22:05:31.400543+00:00"
+      }
+    }
+  },
+  "603643842545319956": {
+    "nick": "SertianHD",
+    "region": "NA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-13T22:28:52.140046+00:00"
+      },
+      "UHC": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-13T22:28:52.140060+00:00"
+      },
+      "SWORD": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-13T22:28:52.140062+00:00"
+      },
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-13T22:28:52.140063+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-13T22:28:52.140065+00:00"
       }
     }
   }
