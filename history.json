@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791924255950,
-    "lastUpdateHuman": "2026-10-13 20:44:15 UTC",
+    "lastUpdate": 1791925848852,
+    "lastUpdateHuman": "2026-10-13 21:10:48 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4085,7 +4085,14 @@
   },
   "1437188147925483562": {
     "nick": "kasownik_biletow",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1791924289711
+        }
+      ]
+    },
     "region": "EU"
   },
   "787099704726257684": {
@@ -4097,5 +4104,20 @@
     "nick": "Tsschessumare",
     "modes": {},
     "region": "NA"
+  },
+  "1052537329866252308": {
+    "nick": "SupedoPrime",
+    "modes": {},
+    "region": "EU"
+  },
+  "1483159452323545180": {
+    "nick": "Halixlp",
+    "modes": {},
+    "region": "NA"
+  },
+  "1476333468622258236": {
+    "nick": "Queenbee230",
+    "modes": {},
+    "region": "SA"
   }
 }
