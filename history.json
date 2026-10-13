@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791848908933,
-    "lastUpdateHuman": "2026-10-12 23:48:28 UTC",
+    "lastUpdate": 1791849661518,
+    "lastUpdateHuman": "2026-10-13 00:01:01 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3941,5 +3941,15 @@
       ]
     },
     "region": "EU"
+  },
+  "1498740359738429460": {
+    "nick": "0ms__",
+    "modes": {},
+    "region": "NA"
+  },
+  "1553913166784761856": {
+    "nick": "RICLIONBEST",
+    "modes": {},
+    "region": "SA"
   }
 }
