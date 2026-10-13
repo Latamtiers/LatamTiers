@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791915646928,
-    "lastUpdateHuman": "2026-10-13 18:20:46 UTC",
+    "lastUpdate": 1791917330047,
+    "lastUpdateHuman": "2026-10-13 18:48:50 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4053,5 +4053,17 @@
     "nick": "ColdOneMe",
     "modes": {},
     "region": "EU"
+  },
+  "714573917024550933": {
+    "nick": "Ketameme69",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT3",
+          "at": 1791916212087
+        }
+      ]
+    },
+    "region": "SA"
   }
 }

@@ -2933,5 +2933,15 @@
     "nick": "ColdOneMe",
     "region": "EU",
     "tiers": {}
+  },
+  "714573917024550933": {
+    "nick": "Ketameme69",
+    "region": "SA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT3",
+        "obtained_at": "2026-10-13T18:30:12.087220+00:00"
+      }
+    }
   }
 }
