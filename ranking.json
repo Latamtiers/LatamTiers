@@ -518,6 +518,10 @@
         "tier": "HT5",
         "obtained_at": "2026-10-07T23:51:32.093229+00:00"
       },
+      "SWORD": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-13T14:44:44.487282+00:00"
+      },
       "NETHPOT": {
         "tier": "LT4",
         "obtained_at": "2026-10-09T22:04:57.933610+00:00"
@@ -1989,6 +1993,10 @@
     "nick": "mnas_bananas2",
     "region": "NA",
     "tiers": {
+      "SWORD": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-13T14:49:04.558945+00:00"
+      },
       "DIAMOND POT": {
         "tier": "HT5",
         "obtained_at": "2026-10-11T17:31:45.047910+00:00"
@@ -2903,6 +2911,21 @@
   },
   "1553183848781848602": {
     "nick": "ROKU4173",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1295032723722862684": {
+    "nick": "Xrqhn",
+    "region": "NA",
+    "tiers": {}
+  },
+  "844674742493249567": {
+    "nick": "EDV0G",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1271153608834154667": {
+    "nick": "BORUTO1183",
     "region": "NA",
     "tiers": {}
   }
