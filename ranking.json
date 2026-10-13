@@ -3004,12 +3004,22 @@
   "1052537329866252308": {
     "nick": "SupedoPrime",
     "region": "EU",
-    "tiers": {}
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-13T21:16:17.536058+00:00"
+      }
+    }
   },
   "1483159452323545180": {
     "nick": "Halixlp",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-13T21:12:33.117804+00:00"
+      }
+    }
   },
   "1476333468622258236": {
     "nick": "Queenbee230",
@@ -3018,6 +3028,16 @@
       "DIAMOND POT": {
         "tier": "LT5",
         "obtained_at": "2026-10-13T21:08:58.721886+00:00"
+      }
+    }
+  },
+  "991406804326158478": {
+    "nick": "Sargentovict0rYT",
+    "region": "NA",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-13T21:17:46.253550+00:00"
       }
     }
   }

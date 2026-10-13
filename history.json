@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791925848852,
-    "lastUpdateHuman": "2026-10-13 21:10:48 UTC",
+    "lastUpdate": 1791927527877,
+    "lastUpdateHuman": "2026-10-13 21:38:47 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4119,5 +4119,10 @@
     "nick": "Queenbee230",
     "modes": {},
     "region": "SA"
+  },
+  "991406804326158478": {
+    "nick": "Sargentovict0rYT",
+    "modes": {},
+    "region": "NA"
   }
 }
