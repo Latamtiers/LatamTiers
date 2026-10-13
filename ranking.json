@@ -2849,5 +2849,41 @@
     "nick": "Krosdy",
     "region": "NA",
     "tiers": {}
+  },
+  "1281828160538804289": {
+    "nick": "Davuli8a",
+    "region": "NA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-13T02:56:03.445971+00:00"
+      },
+      "UHC": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-13T02:56:03.445984+00:00"
+      },
+      "SWORD": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-13T02:56:03.445986+00:00"
+      }
+    }
+  },
+  "1286460451915300891": {
+    "nick": "CubanSwagger",
+    "region": "NA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-13T02:59:14.974244+00:00"
+      },
+      "SWORD": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-13T02:59:14.974256+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-13T02:59:14.974258+00:00"
+      }
+    }
   }
 }

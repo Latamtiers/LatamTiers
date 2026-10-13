@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791860042815,
-    "lastUpdateHuman": "2026-10-13 02:54:02 UTC",
+    "lastUpdate": 1791860830673,
+    "lastUpdateHuman": "2026-10-13 03:07:10 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -575,6 +575,12 @@
         {
           "tier": "HT4",
           "at": 1789936864474
+        }
+      ],
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1791860163445
         }
       ]
     },
@@ -3980,6 +3986,24 @@
   "1034580168406224977": {
     "nick": "Krosdy",
     "modes": {},
+    "region": "NA"
+  },
+  "1286460451915300891": {
+    "nick": "CubanSwagger",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1791860354974
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT4",
+          "at": 1791860354974
+        }
+      ]
+    },
     "region": "NA"
   }
 }
