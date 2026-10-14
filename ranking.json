@@ -708,8 +708,8 @@
     "region": "NA",
     "tiers": {
       "CRYSTAL": {
-        "tier": "LT4",
-        "obtained_at": "2026-10-14T01:17:21.689126+00:00"
+        "tier": "HT4",
+        "obtained_at": "2026-10-14T22:47:15.201652+00:00"
       },
       "SWORD": {
         "tier": "HT5",
@@ -1914,6 +1914,10 @@
     "nick": "D3ya_TR",
     "region": "NA",
     "tiers": {
+      "CRYSTAL": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-14T22:59:31.118390+00:00"
+      },
       "NETHPOT": {
         "tier": "LT4",
         "obtained_at": "2026-10-11T16:52:28.806615+00:00"
@@ -3368,5 +3372,29 @@
     "nick": "braydenn_",
     "region": "NA",
     "tiers": {}
+  },
+  "1113614686072619119": {
+    "nick": "UpfrontEel50060",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1248393170417614968": {
+    "nick": "Cosmo0208",
+    "region": "SA",
+    "tiers": {}
+  },
+  "899669755626131456": {
+    "nick": "Cachito0",
+    "region": "SA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-14T22:50:57.815978+00:00"
+      },
+      "NETHPOT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-14T22:50:57.815989+00:00"
+      }
+    }
   }
 }
