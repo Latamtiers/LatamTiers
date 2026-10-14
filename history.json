@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791940656132,
-    "lastUpdateHuman": "2026-10-14 01:17:36 UTC",
+    "lastUpdate": 1791942444308,
+    "lastUpdateHuman": "2026-10-14 01:47:24 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4238,7 +4238,14 @@
   },
   "1040440421886738443": {
     "nick": "KingSantiNew",
-    "modes": {},
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT4",
+          "at": 1791941638227
+        }
+      ]
+    },
     "region": "SA"
   },
   "1061713666820546650": {
@@ -4248,7 +4255,14 @@
   },
   "930109181095186463": {
     "nick": "BaconUnlisted",
-    "modes": {},
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1791941295949
+        }
+      ]
+    },
     "region": "NA"
   },
   "1300181751418851394": {
@@ -4259,6 +4273,40 @@
   "1383991866860634133": {
     "nick": "CapyDriw",
     "modes": {},
+    "region": "NA"
+  },
+  "1489102802767843479": {
+    "nick": "Mxthf_",
+    "modes": {},
+    "region": "SA"
+  },
+  "331161556790280192": {
+    "nick": "Aydehh",
+    "modes": {},
+    "region": "NA"
+  },
+  "1493279897039409202": {
+    "nick": "Hwrx_seb",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT5",
+          "at": 1791942056587
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1791942056587
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT5",
+          "at": 1791942056587
+        }
+      ]
+    },
     "region": "NA"
   }
 }

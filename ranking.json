@@ -3145,7 +3145,12 @@
   "1040440421886738443": {
     "nick": "KingSantiNew",
     "region": "SA",
-    "tiers": {}
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-14T01:33:58.227987+00:00"
+      }
+    }
   },
   "1061713666820546650": {
     "nick": "ZresFrFr",
@@ -3155,7 +3160,12 @@
   "930109181095186463": {
     "nick": "BaconUnlisted",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-14T01:28:15.949572+00:00"
+      }
+    }
   },
   "1300181751418851394": {
     "nick": "PointEastt",
@@ -3166,5 +3176,37 @@
     "nick": "CapyDriw",
     "region": "NA",
     "tiers": {}
+  },
+  "1489102802767843479": {
+    "nick": "Mxthf_",
+    "region": "SA",
+    "tiers": {}
+  },
+  "331161556790280192": {
+    "nick": "Aydehh",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1493279897039409202": {
+    "nick": "Hwrx_seb",
+    "region": "NA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-14T01:40:56.587515+00:00"
+      },
+      "UHC": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-14T01:40:56.587529+00:00"
+      },
+      "SWORD": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-14T01:40:56.587530+00:00"
+      },
+      "MAZO": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-14T01:40:56.587532+00:00"
+      }
+    }
   }
 }
