@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791936288221,
-    "lastUpdateHuman": "2026-10-14 00:04:48 UTC",
+    "lastUpdate": 1791938593666,
+    "lastUpdateHuman": "2026-10-14 00:43:13 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4222,7 +4222,14 @@
   },
   "972718209373450271": {
     "nick": "miyu_x",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1791937137832
+        }
+      ]
+    },
     "region": "SA"
   },
   "1040440421886738443": {
@@ -4232,6 +4239,21 @@
   },
   "1061713666820546650": {
     "nick": "ZresFrFr",
+    "modes": {},
+    "region": "NA"
+  },
+  "930109181095186463": {
+    "nick": "BaconUnlisted",
+    "modes": {},
+    "region": "NA"
+  },
+  "1300181751418851394": {
+    "nick": "PointEastt",
+    "modes": {},
+    "region": "NA"
+  },
+  "1383991866860634133": {
+    "nick": "CapyDriw",
     "modes": {},
     "region": "NA"
   }

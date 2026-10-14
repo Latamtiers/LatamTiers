@@ -3135,7 +3135,12 @@
   "972718209373450271": {
     "nick": "miyu_x",
     "region": "SA",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-14T00:18:57.832813+00:00"
+      }
+    }
   },
   "1040440421886738443": {
     "nick": "KingSantiNew",
@@ -3144,6 +3149,21 @@
   },
   "1061713666820546650": {
     "nick": "ZresFrFr",
+    "region": "NA",
+    "tiers": {}
+  },
+  "930109181095186463": {
+    "nick": "BaconUnlisted",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1300181751418851394": {
+    "nick": "PointEastt",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1383991866860634133": {
+    "nick": "CapyDriw",
     "region": "NA",
     "tiers": {}
   }
