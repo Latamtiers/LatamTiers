@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792020401458,
-    "lastUpdateHuman": "2026-10-14 23:26:41 UTC",
+    "lastUpdate": 1792021764252,
+    "lastUpdateHuman": "2026-10-14 23:49:24 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2509,6 +2509,10 @@
         {
           "tier": "LT5",
           "at": 1791518847570
+        },
+        {
+          "tier": "HT5",
+          "at": 1792021453695
         }
       ]
     },
@@ -4563,5 +4567,15 @@
       ]
     },
     "region": "SA"
+  },
+  "1499440035798454395": {
+    "nick": "White_mer",
+    "modes": {},
+    "region": "EU"
+  },
+  "1522384039514869811": {
+    "nick": "Teen_Cave",
+    "modes": {},
+    "region": "NA"
   }
 }
