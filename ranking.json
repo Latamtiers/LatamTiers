@@ -1039,8 +1039,8 @@
     "region": "SA",
     "tiers": {
       "CRYSTAL": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-09T00:56:24.444473+00:00"
+        "tier": "LT5",
+        "obtained_at": "2026-10-14T23:05:45.614948+00:00"
       },
       "UHC": {
         "tier": "LT4",
@@ -3381,7 +3381,12 @@
   "1248393170417614968": {
     "nick": "Cosmo0208",
     "region": "SA",
-    "tiers": {}
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-14T23:16:40.560966+00:00"
+      }
+    }
   },
   "899669755626131456": {
     "nick": "Cachito0",
@@ -3394,6 +3399,34 @@
       "NETHPOT": {
         "tier": "HT5",
         "obtained_at": "2026-10-14T22:50:57.815989+00:00"
+      }
+    }
+  },
+  "830433157442437172": {
+    "nick": "QuispeYupanqui",
+    "region": "NA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "HT3",
+        "obtained_at": "2026-10-14T23:24:29.093759+00:00"
+      },
+      "AXE": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-14T23:12:08.102707+00:00"
+      }
+    }
+  },
+  "1319831928412569674": {
+    "nick": "saul1to",
+    "region": "SA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-14T23:24:55.775071+00:00"
+      },
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-14T23:24:55.775082+00:00"
       }
     }
   }
