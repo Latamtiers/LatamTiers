@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791972324363,
-    "lastUpdateHuman": "2026-10-14 10:05:24 UTC",
+    "lastUpdate": 1791974169275,
+    "lastUpdateHuman": "2026-10-14 10:36:09 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4322,5 +4322,10 @@
     "nick": "The_Reign_Man",
     "modes": {},
     "region": "NA"
+  },
+  "911677415183482900": {
+    "nick": "OneCore1020",
+    "modes": {},
+    "region": "EU"
   }
 }
