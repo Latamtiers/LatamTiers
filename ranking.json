@@ -3285,5 +3285,45 @@
     "nick": "JomoPengo",
     "region": "EU",
     "tiers": {}
+  },
+  "1391072042052223017": {
+    "nick": "notearss",
+    "region": "EU",
+    "tiers": {
+      "UHC": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-14T15:22:57.420893+00:00"
+      },
+      "SWORD": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-14T15:22:57.420902+00:00"
+      },
+      "NETHPOT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-14T15:22:57.420904+00:00"
+      }
+    }
+  },
+  "1320600357465882726": {
+    "nick": "Mr_J",
+    "region": "NA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-14T15:50:47.342684+00:00"
+      },
+      "UHC": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-14T15:50:47.342700+00:00"
+      },
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-14T15:50:47.342703+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-14T15:50:47.342704+00:00"
+      }
+    }
   }
 }
