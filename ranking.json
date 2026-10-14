@@ -3265,10 +3265,24 @@
   "1246791951324282911": {
     "nick": "Levi_tje",
     "region": "EU",
-    "tiers": {}
+    "tiers": {
+      "UHC": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-14T15:11:01.034035+00:00"
+      },
+      "SWORD": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-14T15:04:06.771822+00:00"
+      }
+    }
   },
   "1502640331928113193": {
     "nick": "ImZyv3ris",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1417932054695514132": {
+    "nick": "JomoPengo",
     "region": "EU",
     "tiers": {}
   }
