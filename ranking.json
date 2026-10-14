@@ -1563,6 +1563,10 @@
         "tier": "HT5",
         "obtained_at": "2026-10-10T21:09:05.826480+00:00"
       },
+      "SWORD": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-14T14:21:03.392386+00:00"
+      },
       "NETHPOT": {
         "tier": "LT5",
         "obtained_at": "2026-10-12T16:39:16.713467+00:00"
@@ -2364,6 +2368,10 @@
     "nick": "Metertela",
     "region": "NA",
     "tiers": {
+      "SWORD": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-14T14:33:03.099271+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT5",
         "obtained_at": "2026-10-12T02:11:38.326097+00:00"
@@ -3155,7 +3163,12 @@
   "1061713666820546650": {
     "nick": "ZresFrFr",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "SWORD": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-14T14:41:37.603156+00:00"
+      }
+    }
   },
   "930109181095186463": {
     "nick": "BaconUnlisted",
@@ -3232,7 +3245,12 @@
   "442309557885075467": {
     "nick": "_qk5",
     "region": "EU",
-    "tiers": {}
+    "tiers": {
+      "SWORD": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-14T14:26:35.214195+00:00"
+      }
+    }
   },
   "1489319672645160972": {
     "nick": "KimppaMC",
@@ -3246,6 +3264,11 @@
   },
   "1246791951324282911": {
     "nick": "Levi_tje",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1502640331928113193": {
+    "nick": "ImZyv3ris",
     "region": "EU",
     "tiers": {}
   }
