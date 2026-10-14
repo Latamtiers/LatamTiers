@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1791957867962,
-    "lastUpdateHuman": "2026-10-14 06:04:27 UTC",
+    "lastUpdate": 1791960087391,
+    "lastUpdateHuman": "2026-10-14 06:41:27 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4315,6 +4315,11 @@
   },
   "1344174066902503556": {
     "nick": "CritIGN",
+    "modes": {},
+    "region": "NA"
+  },
+  "1506722389118156871": {
+    "nick": "The_Reign_Man",
     "modes": {},
     "region": "NA"
   }
