@@ -3334,5 +3334,20 @@
     "nick": "ClownpiercX",
     "region": "SA",
     "tiers": {}
+  },
+  "1408617593966825613": {
+    "nick": "_cgl_",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1250614814774919179": {
+    "nick": "iLDreamxX",
+    "region": "SA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-14T20:10:45.484217+00:00"
+      }
+    }
   }
 }

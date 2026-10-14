@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792007419599,
-    "lastUpdateHuman": "2026-10-14 19:50:19 UTC",
+    "lastUpdate": 1792008884086,
+    "lastUpdateHuman": "2026-10-14 20:14:44 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4437,6 +4437,23 @@
   "1447655503336309009": {
     "nick": "ClownpiercX",
     "modes": {},
+    "region": "SA"
+  },
+  "1408617593966825613": {
+    "nick": "_cgl_",
+    "modes": {},
+    "region": "NA"
+  },
+  "1250614814774919179": {
+    "nick": "iLDreamxX",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT5",
+          "at": 1792008645484
+        }
+      ]
+    },
     "region": "SA"
   }
 }
