@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792005474822,
-    "lastUpdateHuman": "2026-10-14 19:17:54 UTC",
+    "lastUpdate": 1792007419599,
+    "lastUpdateHuman": "2026-10-14 19:50:19 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4147,7 +4147,14 @@
   },
   "1052537329866252308": {
     "nick": "SupedoPrime",
-    "modes": {},
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1792007150598
+        }
+      ]
+    },
     "region": "EU"
   },
   "1483159452323545180": {
