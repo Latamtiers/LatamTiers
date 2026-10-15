@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792022776340,
-    "lastUpdateHuman": "2026-10-15 00:06:16 UTC",
+    "lastUpdate": 1792025064788,
+    "lastUpdateHuman": "2026-10-15 00:44:24 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4615,5 +4615,10 @@
     "nick": "XPO__",
     "modes": {},
     "region": "NA"
+  },
+  "1333726079306698821": {
+    "nick": "VXNSoru",
+    "modes": {},
+    "region": "SA"
   }
 }
