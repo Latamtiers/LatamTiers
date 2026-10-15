@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792028941057,
-    "lastUpdateHuman": "2026-10-15 01:49:01 UTC",
+    "lastUpdate": 1792030455298,
+    "lastUpdateHuman": "2026-10-15 02:14:15 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4385,6 +4385,12 @@
           "tier": "LT5",
           "at": 1792010379680
         }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1792030203284
+        }
       ]
     },
     "region": "SA"
@@ -4639,7 +4645,14 @@
   },
   "1395411513287901296": {
     "nick": "XPO__",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1792029887079
+        }
+      ]
+    },
     "region": "NA"
   },
   "1333726079306698821": {
@@ -4654,6 +4667,16 @@
   },
   "1500947685237063726": {
     "nick": "TurtleXen",
+    "modes": {},
+    "region": "NA"
+  },
+  "860007952823484416": {
+    "nick": "APPAHH",
+    "modes": {},
+    "region": "SA"
+  },
+  "1368957922205368403": {
+    "nick": "BestOfKyrgyzstan",
     "modes": {},
     "region": "NA"
   }
