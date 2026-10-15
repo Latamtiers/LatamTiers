@@ -2312,6 +2312,10 @@
       "NETHPOT": {
         "tier": "LT4",
         "obtained_at": "2026-10-11T21:38:31.564173+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-15T22:27:19.538908+00:00"
       }
     }
   },
@@ -3726,6 +3730,16 @@
   "923652703060623440": {
     "nick": "k1bg",
     "region": "NA",
+    "tiers": {}
+  },
+  "924050413303521380": {
+    "nick": "Brassunfish28",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1450990371424309269": {
+    "nick": "Pakito09",
+    "region": "SA",
     "tiers": {}
   }
 }
