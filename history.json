@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792106319613,
-    "lastUpdateHuman": "2026-10-15 23:18:39 UTC",
+    "lastUpdate": 1792107838409,
+    "lastUpdateHuman": "2026-10-15 23:43:58 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3087,6 +3087,10 @@
         {
           "tier": "HT5",
           "at": 1791735507383
+        },
+        {
+          "tier": "LT5",
+          "at": 1792106921735
         }
       ],
       "sword": [
@@ -4879,7 +4883,14 @@
   },
   "1249504805601284181": {
     "nick": "DragonMCPVP",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1792106560157
+        }
+      ]
+    },
     "region": "NA"
   },
   "948032783433994250": {
@@ -4894,6 +4905,16 @@
   },
   "1528247818773463171": {
     "nick": "EM0cheat",
+    "modes": {},
+    "region": "NA"
+  },
+  "1467142692143108178": {
+    "nick": "papryk2015_11_10",
+    "modes": {},
+    "region": "EU"
+  },
+  "1491224959643549789": {
+    "nick": "zNitrx_",
     "modes": {},
     "region": "NA"
   }

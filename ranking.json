@@ -1785,8 +1785,8 @@
         "obtained_at": "2026-10-13T00:08:36.804533+00:00"
       },
       "NETHPOT": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-11T16:18:27.383380+00:00"
+        "tier": "LT5",
+        "obtained_at": "2026-10-15T23:28:41.735743+00:00"
       },
       "DIAMOND POT": {
         "tier": "LT4",
@@ -3534,7 +3534,12 @@
   "1020708509291118676": {
     "nick": "__sil3nce_",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-15T23:20:59.473685+00:00"
+      }
+    }
   },
   "1395411513287901296": {
     "nick": "XPO__",
@@ -3777,12 +3782,26 @@
   "1249504805601284181": {
     "nick": "DragonMCPVP",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-15T23:22:40.157774+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-15T23:19:51.287138+00:00"
+      }
+    }
   },
   "948032783433994250": {
     "nick": "RoyalDvck",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-15T23:41:51.277957+00:00"
+      }
+    }
   },
   "1411694197987213416": {
     "nick": "OreoPuh",
@@ -3791,6 +3810,21 @@
   },
   "1528247818773463171": {
     "nick": "EM0cheat",
+    "region": "NA",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-15T23:34:27.802478+00:00"
+      }
+    }
+  },
+  "1467142692143108178": {
+    "nick": "papryk2015_11_10",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1491224959643549789": {
+    "nick": "zNitrx_",
     "region": "NA",
     "tiers": {}
   }
