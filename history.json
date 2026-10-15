@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792037584052,
-    "lastUpdateHuman": "2026-10-15 04:13:04 UTC",
+    "lastUpdate": 1792039402899,
+    "lastUpdateHuman": "2026-10-15 04:43:22 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -275,6 +275,12 @@
         {
           "tier": "LT3",
           "at": 1791556744210
+        }
+      ],
+      "axe": [
+        {
+          "tier": "LT3",
+          "at": 1792038724755
         }
       ]
     },
@@ -3439,7 +3445,14 @@
   },
   "1076558723184607362": {
     "nick": "Ultrainstinto21",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1792038756305
+        }
+      ]
+    },
     "region": "NA"
   },
   "1421587214965407795": {
