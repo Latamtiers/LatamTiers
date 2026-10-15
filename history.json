@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792105098103,
-    "lastUpdateHuman": "2026-10-15 22:58:18 UTC",
+    "lastUpdate": 1792106319613,
+    "lastUpdateHuman": "2026-10-15 23:18:39 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3500,7 +3500,14 @@
   },
   "1057428250961399808": {
     "nick": "enjoining",
-    "modes": {},
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT3",
+          "at": 1792105372915
+        }
+      ]
+    },
     "region": "SA"
   },
   "1556491334523687022": {
@@ -4864,5 +4871,30 @@
     "nick": "Pakito09",
     "modes": {},
     "region": "SA"
+  },
+  "854055424633077791": {
+    "nick": "Marpyo",
+    "modes": {},
+    "region": "NA"
+  },
+  "1249504805601284181": {
+    "nick": "DragonMCPVP",
+    "modes": {},
+    "region": "NA"
+  },
+  "948032783433994250": {
+    "nick": "RoyalDvck",
+    "modes": {},
+    "region": "NA"
+  },
+  "1411694197987213416": {
+    "nick": "OreoPuh",
+    "modes": {},
+    "region": "NA"
+  },
+  "1528247818773463171": {
+    "nick": "EM0cheat",
+    "modes": {},
+    "region": "NA"
   }
 }
