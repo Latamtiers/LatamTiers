@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792021764252,
-    "lastUpdateHuman": "2026-10-14 23:49:24 UTC",
+    "lastUpdate": 1792022776340,
+    "lastUpdateHuman": "2026-10-15 00:06:16 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2268,6 +2268,10 @@
         {
           "tier": "HT5",
           "at": 1792010536159
+        },
+        {
+          "tier": "HT4",
+          "at": 1792021843121
         }
       ]
     },
@@ -4334,6 +4338,12 @@
           "tier": "HT5",
           "at": 1791941295949
         }
+      ],
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1792022365894
+        }
       ]
     },
     "region": "NA"
@@ -4575,6 +4585,34 @@
   },
   "1522384039514869811": {
     "nick": "Teen_Cave",
+    "modes": {},
+    "region": "NA"
+  },
+  "880841111407571014": {
+    "nick": "Agux2012",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1792021978058
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT5",
+          "at": 1792021978058
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1020708509291118676": {
+    "nick": "__sil3nce_",
+    "modes": {},
+    "region": "NA"
+  },
+  "1395411513287901296": {
+    "nick": "XPO__",
     "modes": {},
     "region": "NA"
   }
