@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792025064788,
-    "lastUpdateHuman": "2026-10-15 00:44:24 UTC",
+    "lastUpdate": 1792027061023,
+    "lastUpdateHuman": "2026-10-15 01:17:41 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4620,5 +4620,15 @@
     "nick": "VXNSoru",
     "modes": {},
     "region": "SA"
+  },
+  "861760538253197312": {
+    "nick": "_Swervyy",
+    "modes": {},
+    "region": "NA"
+  },
+  "1500947685237063726": {
+    "nick": "TurtleXen",
+    "modes": {},
+    "region": "NA"
   }
 }
