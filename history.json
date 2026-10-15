@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792092065049,
-    "lastUpdateHuman": "2026-10-15 19:21:05 UTC",
+    "lastUpdate": 1792093813739,
+    "lastUpdateHuman": "2026-10-15 19:50:13 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4773,5 +4773,20 @@
     "nick": "EXTMC",
     "modes": {},
     "region": "NA"
+  },
+  "1013188934764871731": {
+    "nick": "ai1g",
+    "modes": {},
+    "region": "EU"
+  },
+  "1287145557411893340": {
+    "nick": "supler",
+    "modes": {},
+    "region": "EU"
+  },
+  "1301032636764000298": {
+    "nick": "luanr",
+    "modes": {},
+    "region": "EU"
   }
 }
