@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792068463035,
-    "lastUpdateHuman": "2026-10-15 12:47:43 UTC",
+    "lastUpdate": 1792070784786,
+    "lastUpdateHuman": "2026-10-15 13:26:24 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4733,5 +4733,10 @@
     "nick": "ValenMyHeart",
     "modes": {},
     "region": "SA"
+  },
+  "1537441337039921257": {
+    "nick": "Odyvan4k",
+    "modes": {},
+    "region": "EU"
   }
 }
