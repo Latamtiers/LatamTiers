@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792090350512,
-    "lastUpdateHuman": "2026-10-15 18:52:30 UTC",
+    "lastUpdate": 1792092065049,
+    "lastUpdateHuman": "2026-10-15 19:21:05 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4768,5 +4768,10 @@
     "nick": "Voidfangg",
     "modes": {},
     "region": "EU"
+  },
+  "1420153258126606397": {
+    "nick": "EXTMC",
+    "modes": {},
+    "region": "NA"
   }
 }
