@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792161829787,
-    "lastUpdateHuman": "2026-10-16 14:43:49 UTC",
+    "lastUpdate": 1792163506610,
+    "lastUpdateHuman": "2026-10-16 15:11:46 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5108,6 +5108,16 @@
   },
   "1434521038464483422": {
     "nick": "iNexx_",
+    "modes": {},
+    "region": "EU"
+  },
+  "1508810972406747308": {
+    "nick": "Va7lor",
+    "modes": {},
+    "region": "EU"
+  },
+  "1542635541445607437": {
+    "nick": "ZenithXZ11",
     "modes": {},
     "region": "EU"
   }
