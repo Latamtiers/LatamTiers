@@ -873,6 +873,10 @@
         "tier": "HT5",
         "obtained_at": "2026-10-08T22:00:49.170755+00:00"
       },
+      "MAZO": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-16T05:19:28.615806+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT5",
         "obtained_at": "2026-10-08T22:04:22.168796+00:00"
@@ -4024,6 +4028,29 @@
   "686791068288548869": {
     "nick": "Ggc69",
     "region": "NA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "HT3",
+        "obtained_at": "2026-10-16T05:32:13.404392+00:00"
+      },
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-16T05:19:15.913002+00:00"
+      },
+      "AXE": {
+        "tier": "HT3",
+        "obtained_at": "2026-10-16T05:32:23.005966+00:00"
+      }
+    }
+  },
+  "1414620982009921682": {
+    "nick": "SoPredictable",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1516887257829609554": {
+    "nick": "Robertobello123",
+    "region": "SA",
     "tiers": {}
   }
 }

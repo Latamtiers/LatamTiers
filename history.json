@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792127073972,
-    "lastUpdateHuman": "2026-10-16 05:04:33 UTC",
+    "lastUpdate": 1792128748306,
+    "lastUpdateHuman": "2026-10-16 05:32:28 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5070,7 +5070,30 @@
   },
   "686791068288548869": {
     "nick": "Ggc69",
-    "modes": {},
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT3",
+          "at": 1792128733404
+        }
+      ],
+      "axe": [
+        {
+          "tier": "HT3",
+          "at": 1792128743005
+        }
+      ]
+    },
     "region": "NA"
+  },
+  "1414620982009921682": {
+    "nick": "SoPredictable",
+    "modes": {},
+    "region": "EU"
+  },
+  "1516887257829609554": {
+    "nick": "Robertobello123",
+    "modes": {},
+    "region": "SA"
   }
 }
