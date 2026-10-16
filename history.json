@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792125208699,
-    "lastUpdateHuman": "2026-10-16 04:33:28 UTC",
+    "lastUpdate": 1792127073972,
+    "lastUpdateHuman": "2026-10-16 05:04:33 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5057,5 +5057,20 @@
     "nick": "BestPvPgg",
     "modes": {},
     "region": "EU"
+  },
+  "1486736246842855426": {
+    "nick": "Flitzemias",
+    "modes": {},
+    "region": "EU"
+  },
+  "893582324011266049": {
+    "nick": "Triak_z",
+    "modes": {},
+    "region": "NA"
+  },
+  "686791068288548869": {
+    "nick": "Ggc69",
+    "modes": {},
+    "region": "NA"
   }
 }

@@ -3176,6 +3176,10 @@
     "nick": "nexzv",
     "region": "EU",
     "tiers": {
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-16T04:47:25.127912+00:00"
+      },
       "NETHPOT": {
         "tier": "LT3",
         "obtained_at": "2026-10-15T01:25:00.029143+00:00"
@@ -4005,6 +4009,21 @@
   "587188912166928384": {
     "nick": "BestPvPgg",
     "region": "EU",
+    "tiers": {}
+  },
+  "1486736246842855426": {
+    "nick": "Flitzemias",
+    "region": "EU",
+    "tiers": {}
+  },
+  "893582324011266049": {
+    "nick": "Triak_z",
+    "region": "NA",
+    "tiers": {}
+  },
+  "686791068288548869": {
+    "nick": "Ggc69",
+    "region": "NA",
     "tiers": {}
   }
 }
