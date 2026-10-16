@@ -4197,7 +4197,12 @@
   "1332489936863236250": {
     "nick": "ImTier2",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-16T22:58:06.914920+00:00"
+      }
+    }
   },
   "1416397483742986380": {
     "nick": "lltryhll",
@@ -4281,7 +4286,16 @@
   "1150914323598811257": {
     "nick": "Arsle",
     "region": "EU",
-    "tiers": {}
+    "tiers": {
+      "UHC": {
+        "tier": "HT3",
+        "obtained_at": "2026-10-16T22:41:42.132250+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "HT3",
+        "obtained_at": "2026-10-16T22:42:01.148686+00:00"
+      }
+    }
   },
   "1194812835306410026": {
     "nick": "SoyDyegoXD",
@@ -4305,6 +4319,11 @@
   "1368369047342682134": {
     "nick": "notmenace",
     "region": "NA",
+    "tiers": {}
+  },
+  "1200752030629761038": {
+    "nick": "YoMixu",
+    "region": "EU",
     "tiers": {}
   }
 }

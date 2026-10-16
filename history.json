@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792190462195,
-    "lastUpdateHuman": "2026-10-16 22:41:02 UTC",
+    "lastUpdate": 1792191893768,
+    "lastUpdateHuman": "2026-10-16 23:04:53 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5189,7 +5189,14 @@
   },
   "1332489936863236250": {
     "nick": "ImTier2",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1792191486914
+        }
+      ]
+    },
     "region": "NA"
   },
   "1416397483742986380": {
@@ -5251,7 +5258,14 @@
   },
   "1150914323598811257": {
     "nick": "Arsle",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT3",
+          "at": 1792190502132
+        }
+      ]
+    },
     "region": "EU"
   },
   "1194812835306410026": {
@@ -5275,5 +5289,10 @@
     "nick": "notmenace",
     "modes": {},
     "region": "NA"
+  },
+  "1200752030629761038": {
+    "nick": "YoMixu",
+    "modes": {},
+    "region": "EU"
   }
 }
