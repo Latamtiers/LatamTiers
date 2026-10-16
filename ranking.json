@@ -2028,6 +2028,10 @@
         "tier": "LT4",
         "obtained_at": "2026-10-13T14:49:04.558945+00:00"
       },
+      "MAZO": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-16T18:36:51.659104+00:00"
+      },
       "DIAMOND POT": {
         "tier": "HT5",
         "obtained_at": "2026-10-11T17:31:45.047910+00:00"
@@ -4096,5 +4100,20 @@
     "nick": "ZenithXZ11",
     "region": "EU",
     "tiers": {}
+  },
+  "1429914902096642230": {
+    "nick": "ChrolloFye",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1026047876071174175": {
+    "nick": "pvphq",
+    "region": "EU",
+    "tiers": {
+      "MAZO": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-16T18:33:08.945111+00:00"
+      }
+    }
   }
 }
