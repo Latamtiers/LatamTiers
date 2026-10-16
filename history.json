@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792110960957,
-    "lastUpdateHuman": "2026-10-16 00:36:00 UTC",
+    "lastUpdate": 1792113036574,
+    "lastUpdateHuman": "2026-10-16 01:10:36 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4442,7 +4442,14 @@
   },
   "331161556790280192": {
     "nick": "Aydehh",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1792111840412
+        }
+      ]
+    },
     "region": "NA"
   },
   "1493279897039409202": {
@@ -4973,5 +4980,20 @@
       ]
     },
     "region": "NA"
+  },
+  "1276622608699494654": {
+    "nick": "sirrakk",
+    "modes": {},
+    "region": "NA"
+  },
+  "1484415461285171201": {
+    "nick": "Tuiheee",
+    "modes": {},
+    "region": "NA"
+  },
+  "1171607842093019181": {
+    "nick": "yStrykzz",
+    "modes": {},
+    "region": "SA"
   }
 }

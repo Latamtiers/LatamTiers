@@ -3278,6 +3278,10 @@
     "nick": "Aydehh",
     "region": "NA",
     "tiers": {
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-16T00:50:40.412566+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT3",
         "obtained_at": "2026-10-16T00:25:38.631798+00:00"
@@ -3880,7 +3884,12 @@
   "1553226800434249769": {
     "nick": "pvpclub",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-16T01:04:26.320807+00:00"
+      }
+    }
   },
   "1379612916386496514": {
     "nick": "keepstock",
@@ -3895,5 +3904,25 @@
         "obtained_at": "2026-10-16T00:09:49.945416+00:00"
       }
     }
+  },
+  "1276622608699494654": {
+    "nick": "sirrakk",
+    "region": "NA",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-16T00:57:54.722131+00:00"
+      }
+    }
+  },
+  "1484415461285171201": {
+    "nick": "Tuiheee",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1171607842093019181": {
+    "nick": "yStrykzz",
+    "region": "SA",
+    "tiers": {}
   }
 }
