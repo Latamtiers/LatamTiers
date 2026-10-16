@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792108821406,
-    "lastUpdateHuman": "2026-10-16 00:00:21 UTC",
+    "lastUpdate": 1792110960957,
+    "lastUpdateHuman": "2026-10-16 00:36:00 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4403,6 +4403,10 @@
         {
           "tier": "HT5",
           "at": 1792028814347
+        },
+        {
+          "tier": "LT4",
+          "at": 1792110390151
         }
       ]
     },
@@ -4818,7 +4822,14 @@
   },
   "1420153258126606397": {
     "nick": "EXTMC",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1792109687384
+        }
+      ]
+    },
     "region": "NA"
   },
   "1013188934764871731": {
@@ -4915,7 +4926,14 @@
   },
   "1528247818773463171": {
     "nick": "EM0cheat",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1792109993569
+        }
+      ]
+    },
     "region": "NA"
   },
   "1467142692143108178": {
@@ -4931,6 +4949,29 @@
   "1084695356803141715": {
     "nick": "MurkyMC",
     "modes": {},
+    "region": "NA"
+  },
+  "1553226800434249769": {
+    "nick": "pvpclub",
+    "modes": {},
+    "region": "NA"
+  },
+  "1379612916386496514": {
+    "nick": "keepstock",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1792109389945
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1792109389945
+        }
+      ]
+    },
     "region": "NA"
   }
 }
