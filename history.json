@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792137271139,
-    "lastUpdateHuman": "2026-10-16 07:54:31 UTC",
+    "lastUpdate": 1792138719618,
+    "lastUpdateHuman": "2026-10-16 08:18:39 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5093,6 +5093,11 @@
   },
   "1516887257829609554": {
     "nick": "Robertobello123",
+    "modes": {},
+    "region": "SA"
+  },
+  "1465338179077804134": {
+    "nick": "Nyvarix",
     "modes": {},
     "region": "SA"
   }
