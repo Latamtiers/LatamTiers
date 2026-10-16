@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792138719618,
-    "lastUpdateHuman": "2026-10-16 08:18:39 UTC",
+    "lastUpdate": 1792140956983,
+    "lastUpdateHuman": "2026-10-16 08:55:56 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5100,5 +5100,10 @@
     "nick": "Nyvarix",
     "modes": {},
     "region": "SA"
+  },
+  "992137296994386092": {
+    "nick": "SxishX2",
+    "modes": {},
+    "region": "EU"
   }
 }
