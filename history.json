@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792116437581,
-    "lastUpdateHuman": "2026-10-16 02:07:17 UTC",
+    "lastUpdate": 1792118129134,
+    "lastUpdateHuman": "2026-10-16 02:35:29 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4835,6 +4835,12 @@
           "tier": "HT5",
           "at": 1792109687384
         }
+      ],
+      "axe": [
+        {
+          "tier": "LT4",
+          "at": 1792117894265
+        }
       ]
     },
     "region": "NA"
@@ -5005,5 +5011,15 @@
     "nick": "Larrylachispa",
     "modes": {},
     "region": "SA"
+  },
+  "1453428429469778094": {
+    "nick": "IFrogX",
+    "modes": {},
+    "region": "SA"
+  },
+  "1119320675971244174": {
+    "nick": "GabeIst",
+    "modes": {},
+    "region": "NA"
   }
 }
