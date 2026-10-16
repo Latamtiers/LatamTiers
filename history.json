@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792113036574,
-    "lastUpdateHuman": "2026-10-16 01:10:36 UTC",
+    "lastUpdate": 1792114697808,
+    "lastUpdateHuman": "2026-10-16 01:38:17 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4995,5 +4995,10 @@
     "nick": "yStrykzz",
     "modes": {},
     "region": "SA"
+  },
+  "663746722131869748": {
+    "nick": "FredezDexGame",
+    "modes": {},
+    "region": "NA"
   }
 }
