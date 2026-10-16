@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792119830141,
-    "lastUpdateHuman": "2026-10-16 03:03:50 UTC",
+    "lastUpdate": 1792121552647,
+    "lastUpdateHuman": "2026-10-16 03:32:32 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4851,6 +4851,12 @@
           "tier": "LT4",
           "at": 1792117894265
         }
+      ],
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1792120538725
+        }
       ]
     },
     "region": "NA"
@@ -5036,5 +5042,20 @@
     "nick": "Scarf_A",
     "modes": {},
     "region": "NA"
+  },
+  "1389326100609503302": {
+    "nick": "SilkX2",
+    "modes": {},
+    "region": "NA"
+  },
+  "768539246801190972": {
+    "nick": "JohanVBB",
+    "modes": {},
+    "region": "SA"
+  },
+  "587188912166928384": {
+    "nick": "BestPvPgg",
+    "modes": {},
+    "region": "EU"
   }
 }
