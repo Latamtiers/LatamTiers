@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792114697808,
-    "lastUpdateHuman": "2026-10-16 01:38:17 UTC",
+    "lastUpdate": 1792116437581,
+    "lastUpdateHuman": "2026-10-16 02:07:17 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4259,9 +4259,9 @@
     "region": "NA"
   },
   "1476333468622258236": {
-    "nick": "Queenbee230",
+    "nick": "QueenBee230",
     "modes": {},
-    "region": "SA"
+    "region": "NA"
   },
   "991406804326158478": {
     "nick": "Sargentovict0rYT",
@@ -5000,5 +5000,10 @@
     "nick": "FredezDexGame",
     "modes": {},
     "region": "NA"
+  },
+  "487443290866843678": {
+    "nick": "Larrylachispa",
+    "modes": {},
+    "region": "SA"
   }
 }
