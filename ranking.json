@@ -815,8 +815,8 @@
         "obtained_at": "2026-10-08T21:32:01.569986+00:00"
       },
       "SWORD": {
-        "tier": "HT4",
-        "obtained_at": "2026-10-08T21:32:01.569988+00:00"
+        "tier": "LT3",
+        "obtained_at": "2026-10-16T22:17:56.259131+00:00"
       },
       "MAZO": {
         "tier": "HT5",
@@ -1610,8 +1610,8 @@
         "obtained_at": "2026-10-11T22:58:57.136337+00:00"
       },
       "SWORD": {
-        "tier": "LT4",
-        "obtained_at": "2026-10-10T16:48:22.104253+00:00"
+        "tier": "HT5",
+        "obtained_at": "2026-10-16T22:24:21.150281+00:00"
       },
       "MAZO": {
         "tier": "HT5",
@@ -4222,7 +4222,16 @@
   "1450527108806738185": {
     "nick": "pank__",
     "region": "EU",
-    "tiers": {}
+    "tiers": {
+      "MAZO": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-16T22:28:24.350545+00:00"
+      },
+      "NETHPOT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-16T22:38:30.279242+00:00"
+      }
+    }
   },
   "1264107470083850280": {
     "nick": "zennik_",
@@ -4237,21 +4246,65 @@
   "1106375146182279229": {
     "nick": "asxhn",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "MAZO": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-16T22:19:01.478341+00:00"
+      }
+    }
   },
   "1137828554235707485": {
     "nick": "PrestigeOnTopEZ",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "MAZO": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-16T22:24:27.965375+00:00"
+      }
+    }
   },
   "1038183230559486102": {
     "nick": "_NotAstra",
     "region": "EU",
-    "tiers": {}
+    "tiers": {
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-16T22:35:41.540624+00:00"
+      }
+    }
   },
   "933422226156437615": {
     "nick": "imiqkiiy",
     "region": "EU",
+    "tiers": {}
+  },
+  "1150914323598811257": {
+    "nick": "Arsle",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1194812835306410026": {
+    "nick": "SoyDyegoXD",
+    "region": "NA",
+    "tiers": {}
+  },
+  "860357566140121099": {
+    "nick": "Carlusu",
+    "region": "SA",
+    "tiers": {
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-16T22:36:57.199365+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-16T22:36:57.199377+00:00"
+      }
+    }
+  },
+  "1368369047342682134": {
+    "nick": "notmenace",
+    "region": "NA",
     "tiers": {}
   }
 }

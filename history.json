@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792188703810,
-    "lastUpdateHuman": "2026-10-16 22:11:43 UTC",
+    "lastUpdate": 1792190462195,
+    "lastUpdateHuman": "2026-10-16 22:41:02 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -311,6 +311,10 @@
         {
           "tier": "HT4",
           "at": 1789934515128
+        },
+        {
+          "tier": "LT3",
+          "at": 1792189076259
         }
       ],
       "nethpot": [
@@ -1727,6 +1731,10 @@
         {
           "tier": "LT4",
           "at": 1791406590581
+        },
+        {
+          "tier": "HT5",
+          "at": 1792189461150
         }
       ],
       "nethpot": [
@@ -5206,7 +5214,14 @@
   },
   "1450527108806738185": {
     "nick": "pank__",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1792190310279
+        }
+      ]
+    },
     "region": "EU"
   },
   "1264107470083850280": {
@@ -5233,5 +5248,32 @@
     "nick": "imiqkiiy",
     "modes": {},
     "region": "EU"
+  },
+  "1150914323598811257": {
+    "nick": "Arsle",
+    "modes": {},
+    "region": "EU"
+  },
+  "1194812835306410026": {
+    "nick": "SoyDyegoXD",
+    "modes": {},
+    "region": "NA"
+  },
+  "860357566140121099": {
+    "nick": "Carlusu",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1792190217199
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "1368369047342682134": {
+    "nick": "notmenace",
+    "modes": {},
+    "region": "NA"
   }
 }
