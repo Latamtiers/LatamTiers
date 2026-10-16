@@ -1961,8 +1961,8 @@
         "obtained_at": "2026-10-11T23:45:55.057697+00:00"
       },
       "UHC": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-15T04:05:38.093959+00:00"
+        "tier": "LT4",
+        "obtained_at": "2026-10-16T02:45:05.709939+00:00"
       },
       "SWORD": {
         "tier": "HT4",
@@ -1975,6 +1975,10 @@
       "DIAMOND POT": {
         "tier": "HT4",
         "obtained_at": "2026-10-16T02:01:35.875972+00:00"
+      },
+      "AXE": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-16T02:57:00.561533+00:00"
       }
     }
   },
@@ -3887,16 +3891,6 @@
       }
     }
   },
-  "1553226800434249769": {
-    "nick": "pvpclub",
-    "region": "NA",
-    "tiers": {
-      "DIAMOND POT": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-16T01:04:26.320807+00:00"
-      }
-    }
-  },
   "1379612916386496514": {
     "nick": "keepstock",
     "region": "NA",
@@ -3960,5 +3954,24 @@
     "nick": "GabeIst",
     "region": "NA",
     "tiers": {}
+  },
+  "871517578286227506": {
+    "nick": "Scarf_A",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1553226800434249769": {
+    "nick": "itzisaiahh",
+    "region": "NA",
+    "tiers": {
+      "MAZO": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-16T02:55:59.418212+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-16T02:55:59.418226+00:00"
+      }
+    }
   }
 }

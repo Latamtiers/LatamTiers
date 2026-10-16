@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792118129134,
-    "lastUpdateHuman": "2026-10-16 02:35:29 UTC",
+    "lastUpdate": 1792119830141,
+    "lastUpdateHuman": "2026-10-16 03:03:50 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3307,6 +3307,16 @@
         {
           "tier": "HT5",
           "at": 1792037138093
+        },
+        {
+          "tier": "LT4",
+          "at": 1792118705709
+        }
+      ],
+      "axe": [
+        {
+          "tier": "LT4",
+          "at": 1792119420561
         }
       ]
     },
@@ -4965,7 +4975,7 @@
     "region": "NA"
   },
   "1553226800434249769": {
-    "nick": "pvpclub",
+    "nick": "itzisaiahh",
     "modes": {},
     "region": "NA"
   },
@@ -5019,6 +5029,11 @@
   },
   "1119320675971244174": {
     "nick": "GabeIst",
+    "modes": {},
+    "region": "NA"
+  },
+  "871517578286227506": {
+    "nick": "Scarf_A",
     "modes": {},
     "region": "NA"
   }
