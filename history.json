@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792230566018,
-    "lastUpdateHuman": "2026-10-17 09:49:26 UTC",
+    "lastUpdate": 1792231726756,
+    "lastUpdateHuman": "2026-10-17 10:08:46 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5605,5 +5605,15 @@
     "nick": "Zoltthekiller",
     "modes": {},
     "region": "SA"
+  },
+  "1253488108062638154": {
+    "nick": "hightiergxd",
+    "modes": {},
+    "region": "EU"
+  },
+  "1216368662680965130": {
+    "nick": "DoubleBinds",
+    "modes": {},
+    "region": "EU"
   }
 }
