@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792214255089,
-    "lastUpdateHuman": "2026-10-17 05:17:35 UTC",
+    "lastUpdate": 1792216032322,
+    "lastUpdateHuman": "2026-10-17 05:47:12 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5477,6 +5477,11 @@
   },
   "741000165585846414": {
     "nick": "Tinkertacos102",
+    "modes": {},
+    "region": "NA"
+  },
+  "1146615668993687592": {
+    "nick": "MeowTiersss",
     "modes": {},
     "region": "NA"
   }
