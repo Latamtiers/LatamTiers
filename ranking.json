@@ -774,8 +774,8 @@
         "obtained_at": "2026-10-08T21:07:41.832644+00:00"
       },
       "SWORD": {
-        "tier": "LT5",
-        "obtained_at": "2026-10-08T21:07:41.832646+00:00"
+        "tier": "LT3",
+        "obtained_at": "2026-10-17T18:10:27.855505+00:00"
       },
       "NETHPOT": {
         "tier": "LT5",
@@ -4794,6 +4794,25 @@
   "1460270356362432626": {
     "nick": "FlowToolpie",
     "region": "NA",
+    "tiers": {}
+  },
+  "1146599423577698374": {
+    "nick": "IloveJosamy",
+    "region": "NA",
+    "tiers": {
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-17T18:16:18.814511+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-17T18:16:18.814522+00:00"
+      }
+    }
+  },
+  "1452632198049038339": {
+    "nick": "ToyBlessd",
+    "region": "EU",
     "tiers": {}
   }
 }

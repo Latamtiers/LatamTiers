@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792260296523,
-    "lastUpdateHuman": "2026-10-17 18:04:56 UTC",
+    "lastUpdate": 1792261905852,
+    "lastUpdateHuman": "2026-10-17 18:31:45 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2349,6 +2349,10 @@
         {
           "tier": "LT5",
           "at": 1791493661832
+        },
+        {
+          "tier": "LT3",
+          "at": 1792260627855
         }
       ],
       "nethpot": [
@@ -5720,5 +5724,22 @@
     "nick": "FlowToolpie",
     "modes": {},
     "region": "NA"
+  },
+  "1146599423577698374": {
+    "nick": "IloveJosamy",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1792260978814
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1452632198049038339": {
+    "nick": "ToyBlessd",
+    "modes": {},
+    "region": "EU"
   }
 }
