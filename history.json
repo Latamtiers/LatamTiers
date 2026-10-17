@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792251004559,
-    "lastUpdateHuman": "2026-10-17 15:30:04 UTC",
+    "lastUpdate": 1792252523104,
+    "lastUpdateHuman": "2026-10-17 15:55:23 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4733,7 +4733,7 @@
   "1499440035798454395": {
     "nick": "White_mer",
     "modes": {},
-    "region": "EU"
+    "region": "NA"
   },
   "1522384039514869811": {
     "nick": "Teen_Cave",
@@ -5209,7 +5209,14 @@
   },
   "1508810972406747308": {
     "nick": "Va7lor",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1792252287521
+        }
+      ]
+    },
     "region": "EU"
   },
   "1542635541445607437": {
@@ -5620,5 +5627,10 @@
     "nick": "TheTerrorOne",
     "modes": {},
     "region": "SA"
+  },
+  "1529185211471106166": {
+    "nick": "J4giX_2",
+    "modes": {},
+    "region": "EU"
   }
 }

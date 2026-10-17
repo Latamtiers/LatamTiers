@@ -3592,11 +3592,6 @@
       }
     }
   },
-  "1499440035798454395": {
-    "nick": "White_mer",
-    "region": "EU",
-    "tiers": {}
-  },
   "1522384039514869811": {
     "nick": "Teen_Cave",
     "region": "NA",
@@ -4170,6 +4165,10 @@
     "nick": "Va7lor",
     "region": "EU",
     "tiers": {
+      "UHC": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-17T15:51:27.521602+00:00"
+      },
       "MAZO": {
         "tier": "HT4",
         "obtained_at": "2026-10-16T15:38:04.858409+00:00"
@@ -4719,6 +4718,16 @@
   "1393327831437803571": {
     "nick": "TheTerrorOne",
     "region": "SA",
+    "tiers": {}
+  },
+  "1529185211471106166": {
+    "nick": "J4giX_2",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1499440035798454395": {
+    "nick": "White_mer",
+    "region": "NA",
     "tiers": {}
   }
 }
