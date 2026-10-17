@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792224412471,
-    "lastUpdateHuman": "2026-10-17 08:06:52 UTC",
+    "lastUpdate": 1792226024971,
+    "lastUpdateHuman": "2026-10-17 08:33:44 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5600,5 +5600,10 @@
       ]
     },
     "region": "NA"
+  },
+  "1514137337762812004": {
+    "nick": "Zoltthekiller",
+    "modes": {},
+    "region": "SA"
   }
 }
