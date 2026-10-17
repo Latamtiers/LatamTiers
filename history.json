@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792256694150,
-    "lastUpdateHuman": "2026-10-17 17:04:54 UTC",
+    "lastUpdate": 1792258074658,
+    "lastUpdateHuman": "2026-10-17 17:27:54 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5190,7 +5190,14 @@
   },
   "1414620982009921682": {
     "nick": "SoPredictable",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1792257419256
+        }
+      ]
+    },
     "region": "EU"
   },
   "1516887257829609554": {
@@ -5672,6 +5679,18 @@
   },
   "1250466353618620486": {
     "nick": "drepanocitose",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1792258054022
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "1221753734523256867": {
+    "nick": "Elisa_25",
     "modes": {},
     "region": "EU"
   }

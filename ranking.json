@@ -4138,7 +4138,12 @@
   "1414620982009921682": {
     "nick": "SoPredictable",
     "region": "EU",
-    "tiers": {}
+    "tiers": {
+      "UHC": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-17T17:16:59.256648+00:00"
+      }
+    }
   },
   "1516887257829609554": {
     "nick": "Robertobello123",
@@ -4759,6 +4764,16 @@
   },
   "1250466353618620486": {
     "nick": "drepanocitose",
+    "region": "EU",
+    "tiers": {
+      "UHC": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-17T17:27:34.022747+00:00"
+      }
+    }
+  },
+  "1221753734523256867": {
+    "nick": "Elisa_25",
     "region": "EU",
     "tiers": {}
   }
