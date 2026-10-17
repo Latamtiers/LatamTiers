@@ -2605,8 +2605,8 @@
     "region": "NA",
     "tiers": {
       "NETHPOT": {
-        "tier": "LT4",
-        "obtained_at": "2026-10-11T23:03:38.761962+00:00"
+        "tier": "HT4",
+        "obtained_at": "2026-10-17T22:02:31.702536+00:00"
       },
       "DIAMOND POT": {
         "tier": "HT5",
@@ -3255,7 +3255,12 @@
   "561319997365026830": {
     "nick": "ArtzxTheZac",
     "region": "SA",
-    "tiers": {}
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-17T22:10:26.809932+00:00"
+      }
+    }
   },
   "1406831586015449198": {
     "nick": "sscar3dd",
@@ -4888,7 +4893,12 @@
   "1167901336688394391": {
     "nick": "txydxgivyi1",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-17T22:03:05.616900+00:00"
+      }
+    }
   },
   "714648320144048170": {
     "nick": "47Lserr",
