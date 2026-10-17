@@ -3745,6 +3745,10 @@
         "tier": "LT4",
         "obtained_at": "2026-10-16T03:15:38.725277+00:00"
       },
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-17T00:40:23.814775+00:00"
+      },
       "MAZO": {
         "tier": "LT3",
         "obtained_at": "2026-10-16T00:10:13.955860+00:00"
@@ -4344,5 +4348,46 @@
     "nick": "isaac123duke",
     "region": "NA",
     "tiers": {}
+  },
+  "1157954263180394577": {
+    "nick": "Bawipz",
+    "region": "NA",
+    "tiers": {
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-17T00:16:06.485065+00:00"
+      }
+    }
+  },
+  "1097641964985385112": {
+    "nick": "ItzJ1mmy_",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1109482281220980809": {
+    "nick": "EscaCat",
+    "region": "NA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-17T00:29:39.191679+00:00"
+      },
+      "UHC": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-17T00:29:39.191691+00:00"
+      },
+      "SWORD": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-17T00:29:39.191693+00:00"
+      },
+      "MAZO": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-17T00:29:39.191695+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-17T00:29:39.191696+00:00"
+      }
+    }
   }
 }

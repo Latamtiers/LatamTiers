@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792195541003,
-    "lastUpdateHuman": "2026-10-17 00:05:41 UTC",
+    "lastUpdate": 1792197880938,
+    "lastUpdateHuman": "2026-10-17 00:44:40 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -849,7 +849,7 @@
     "region": "SA"
   },
   "1109482281220980809": {
-    "nick": "Escacat",
+    "nick": "EscaCat",
     "modes": {
       "crystal": [
         {
@@ -4871,6 +4871,12 @@
           "tier": "LT4",
           "at": 1792120538725
         }
+      ],
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1792197623814
+        }
       ]
     },
     "region": "NA"
@@ -5302,6 +5308,11 @@
   },
   "1462209278315335892": {
     "nick": "isaac123duke",
+    "modes": {},
+    "region": "NA"
+  },
+  "1097641964985385112": {
+    "nick": "ItzJ1mmy_",
     "modes": {},
     "region": "NA"
   }
