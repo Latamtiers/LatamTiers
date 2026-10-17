@@ -4235,6 +4235,10 @@
     "nick": "ImTier2",
     "region": "NA",
     "tiers": {
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-17T02:47:06.999355+00:00"
+      },
       "NETHPOT": {
         "tier": "HT5",
         "obtained_at": "2026-10-16T22:58:06.914920+00:00"
@@ -4440,6 +4444,30 @@
   "1114009393957187675": {
     "nick": "Hightolow1",
     "region": "NA",
+    "tiers": {
+      "SWORD": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-17T02:42:45.304410+00:00"
+      }
+    }
+  },
+  "1150917107945590867": {
+    "nick": "snowbaittttt",
+    "region": "NA",
+    "tiers": {
+      "UHC": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-17T02:55:33.184799+00:00"
+      },
+      "SWORD": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-17T02:55:33.184815+00:00"
+      }
+    }
+  },
+  "679010464331595789": {
+    "nick": "AlwaysV",
+    "region": "SA",
     "tiers": {}
   }
 }
