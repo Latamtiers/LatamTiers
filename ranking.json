@@ -4154,7 +4154,12 @@
   "1542635541445607437": {
     "nick": "ZenithXZ11",
     "region": "EU",
-    "tiers": {}
+    "tiers": {
+      "MAZO": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-17T03:59:39.877822+00:00"
+      }
+    }
   },
   "1429914902096642230": {
     "nick": "ChrolloFye",
@@ -4513,5 +4518,23 @@
     "nick": "perroguaton023",
     "region": "SA",
     "tiers": {}
+  },
+  "957298539430543410": {
+    "nick": "PibbleGanster",
+    "region": "SA",
+    "tiers": {
+      "UHC": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-17T03:50:25.522910+00:00"
+      },
+      "SWORD": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-17T03:50:25.522922+00:00"
+      },
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-17T03:50:25.522924+00:00"
+      }
+    }
   }
 }

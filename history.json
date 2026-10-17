@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792207997350,
-    "lastUpdateHuman": "2026-10-17 03:33:17 UTC",
+    "lastUpdate": 1792209704861,
+    "lastUpdateHuman": "2026-10-17 04:01:44 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5441,6 +5441,24 @@
   "1531757348404592785": {
     "nick": "perroguaton023",
     "modes": {},
+    "region": "SA"
+  },
+  "957298539430543410": {
+    "nick": "PibbleGanster",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1792209025522
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1792209025522
+        }
+      ]
+    },
     "region": "SA"
   }
 }
