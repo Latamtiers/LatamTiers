@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792223185523,
-    "lastUpdateHuman": "2026-10-17 07:46:25 UTC",
+    "lastUpdate": 1792224412471,
+    "lastUpdateHuman": "2026-10-17 08:06:52 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -595,6 +595,10 @@
         {
           "tier": "HT5",
           "at": 1791860163445
+        },
+        {
+          "tier": "LT5",
+          "at": 1792223530368
         }
       ]
     },
@@ -5574,6 +5578,24 @@
         {
           "tier": "HT4",
           "at": 1792222266973
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1189226047351296081": {
+    "nick": "Dyggan",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT4",
+          "at": 1792223534703
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1792223534703
         }
       ]
     },
