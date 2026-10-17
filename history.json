@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792268550937,
-    "lastUpdateHuman": "2026-10-17 20:22:30 UTC",
+    "lastUpdate": 1792270060169,
+    "lastUpdateHuman": "2026-10-17 20:47:40 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1900,6 +1900,10 @@
         {
           "tier": "HT5",
           "at": 1791403743800
+        },
+        {
+          "tier": "LT5",
+          "at": 1792269840218
         }
       ],
       "nethpot": [
@@ -4396,6 +4400,12 @@
           "tier": "LT3",
           "at": 1792188239245
         }
+      ],
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1792269331672
+        }
       ]
     },
     "region": "EU"
@@ -5766,5 +5776,10 @@
     "nick": "Adrick17",
     "modes": {},
     "region": "NA"
+  },
+  "1076801957773180971": {
+    "nick": "AuStri4_",
+    "modes": {},
+    "region": "EU"
   }
 }
