@@ -2136,6 +2136,10 @@
     "nick": "Yiaxuzz",
     "region": "SA",
     "tiers": {
+      "MAZO": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-17T22:53:22.394848+00:00"
+      },
       "NETHPOT": {
         "tier": "LT4",
         "obtained_at": "2026-10-11T16:58:46.623749+00:00"
