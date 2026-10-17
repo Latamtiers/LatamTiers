@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792252523104,
-    "lastUpdateHuman": "2026-10-17 15:55:23 UTC",
+    "lastUpdate": 1792253655433,
+    "lastUpdateHuman": "2026-10-17 16:14:15 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5630,7 +5630,14 @@
   },
   "1529185211471106166": {
     "nick": "J4giX_2",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1792253036136
+        }
+      ]
+    },
     "region": "EU"
   }
 }
