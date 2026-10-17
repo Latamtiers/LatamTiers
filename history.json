@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792216032322,
-    "lastUpdateHuman": "2026-10-17 05:47:12 UTC",
+    "lastUpdate": 1792217306753,
+    "lastUpdateHuman": "2026-10-17 06:08:26 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5484,5 +5484,10 @@
     "nick": "MeowTiersss",
     "modes": {},
     "region": "NA"
+  },
+  "1188919173720580156": {
+    "nick": "Z4pomni3nie_",
+    "modes": {},
+    "region": "EU"
   }
 }

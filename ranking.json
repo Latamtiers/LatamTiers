@@ -4557,12 +4557,22 @@
   "1381418845704814602": {
     "nick": "ctthefemboy",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-17T05:57:52.128980+00:00"
+      }
+    }
   },
   "919703985760378930": {
     "nick": "nihskun",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "MAZO": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-17T05:53:38.186704+00:00"
+      }
+    }
   },
   "741000165585846414": {
     "nick": "Tinkertacos102",
@@ -4572,6 +4582,11 @@
   "1146615668993687592": {
     "nick": "MeowTiersss",
     "region": "NA",
+    "tiers": {}
+  },
+  "1188919173720580156": {
+    "nick": "Z4pomni3nie_",
+    "region": "EU",
     "tiers": {}
   }
 }
