@@ -2040,6 +2040,10 @@
         "tier": "LT5",
         "obtained_at": "2026-10-16T18:36:51.659104+00:00"
       },
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-17T06:31:38.669113+00:00"
+      },
       "DIAMOND POT": {
         "tier": "HT5",
         "obtained_at": "2026-10-11T17:31:45.047910+00:00"
@@ -2049,7 +2053,12 @@
   "1547641941812969473": {
     "nick": "_Blobz",
     "region": "EU",
-    "tiers": {}
+    "tiers": {
+      "MAZO": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-17T06:13:35.401375+00:00"
+      }
+    }
   },
   "1308226438469648476": {
     "nick": "Miltom_now",
@@ -4577,7 +4586,12 @@
   "741000165585846414": {
     "nick": "Tinkertacos102",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-17T06:29:15.684028+00:00"
+      }
+    }
   },
   "1146615668993687592": {
     "nick": "MeowTiersss",
@@ -4587,6 +4601,21 @@
   "1188919173720580156": {
     "nick": "Z4pomni3nie_",
     "region": "EU",
+    "tiers": {}
+  },
+  "1044342667091394580": {
+    "nick": "EnegalBot",
+    "region": "NA",
+    "tiers": {}
+  },
+  "539983963616182311": {
+    "nick": "halybut",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1125576309196730388": {
+    "nick": "ichacksita",
+    "region": "NA",
     "tiers": {}
   }
 }

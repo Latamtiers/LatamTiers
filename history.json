@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792217306753,
-    "lastUpdateHuman": "2026-10-17 06:08:26 UTC",
+    "lastUpdate": 1792219274515,
+    "lastUpdateHuman": "2026-10-17 06:41:14 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3376,6 +3376,12 @@
           "tier": "LT4",
           "at": 1791902944558
         }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1792218698669
+        }
       ]
     },
     "region": "NA"
@@ -5489,5 +5495,20 @@
     "nick": "Z4pomni3nie_",
     "modes": {},
     "region": "EU"
+  },
+  "1044342667091394580": {
+    "nick": "EnegalBot",
+    "modes": {},
+    "region": "NA"
+  },
+  "539983963616182311": {
+    "nick": "halybut",
+    "modes": {},
+    "region": "NA"
+  },
+  "1125576309196730388": {
+    "nick": "ichacksita",
+    "modes": {},
+    "region": "NA"
   }
 }
