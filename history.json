@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792199865125,
-    "lastUpdateHuman": "2026-10-17 01:17:45 UTC",
+    "lastUpdate": 1792201661625,
+    "lastUpdateHuman": "2026-10-17 01:47:41 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4421,6 +4421,10 @@
         {
           "tier": "LT4",
           "at": 1792022365894
+        },
+        {
+          "tier": "HT4",
+          "at": 1792201275013
         }
       ],
       "nethpot": [
@@ -5320,7 +5324,20 @@
   },
   "1560739271592386645": {
     "nick": "ImAerynx",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1792200887265
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1792200850570
+        }
+      ]
+    },
     "region": "NA"
   },
   "1462209278315335892": {
