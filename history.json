@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792258074658,
-    "lastUpdateHuman": "2026-10-17 17:27:54 UTC",
+    "lastUpdate": 1792259425421,
+    "lastUpdateHuman": "2026-10-17 17:50:25 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5335,6 +5335,12 @@
           "tier": "LT5",
           "at": 1792190310279
         }
+      ],
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1792258322527
+        }
       ]
     },
     "region": "EU"
@@ -5691,6 +5697,11 @@
   },
   "1221753734523256867": {
     "nick": "Elisa_25",
+    "modes": {},
+    "region": "EU"
+  },
+  "694942273661567096": {
+    "nick": "Pfdk",
     "modes": {},
     "region": "EU"
   }
