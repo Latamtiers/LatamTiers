@@ -3742,8 +3742,8 @@
     "region": "NA",
     "tiers": {
       "UHC": {
-        "tier": "LT4",
-        "obtained_at": "2026-10-16T03:15:38.725277+00:00"
+        "tier": "HT5",
+        "obtained_at": "2026-10-17T00:57:25.765204+00:00"
       },
       "SWORD": {
         "tier": "LT3",
@@ -4001,6 +4001,14 @@
     "nick": "GabeIst",
     "region": "NA",
     "tiers": {
+      "UHC": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-17T01:12:55.131845+00:00"
+      },
+      "SWORD": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-17T01:05:28.190677+00:00"
+      },
       "MAZO": {
         "tier": "HT5",
         "obtained_at": "2026-10-16T03:18:13.448742+00:00"
@@ -4387,6 +4395,16 @@
       "DIAMOND POT": {
         "tier": "LT5",
         "obtained_at": "2026-10-17T00:29:39.191696+00:00"
+      }
+    }
+  },
+  "982814625387139072": {
+    "nick": "sweatf5",
+    "region": "NA",
+    "tiers": {
+      "SWORD": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-17T00:48:35.972773+00:00"
       }
     }
   }
