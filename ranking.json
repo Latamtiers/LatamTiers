@@ -2170,6 +2170,10 @@
     "nick": "Tit0pita_",
     "region": "EU",
     "tiers": {
+      "MAZO": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-17T08:42:24.023060+00:00"
+      },
       "NETHPOT": {
         "tier": "HT5",
         "obtained_at": "2026-10-11T16:43:37.100409+00:00"
