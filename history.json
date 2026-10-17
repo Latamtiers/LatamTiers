@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792270060169,
-    "lastUpdateHuman": "2026-10-17 20:47:40 UTC",
+    "lastUpdate": 1792271240101,
+    "lastUpdateHuman": "2026-10-17 21:07:20 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3617,6 +3617,12 @@
           "tier": "LT4",
           "at": 1791754711564
         }
+      ],
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1792270980744
+        }
       ]
     },
     "region": "SA"
@@ -4674,6 +4680,12 @@
         {
           "tier": "LT4",
           "at": 1792098748678
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1792270184102
         }
       ]
     },
@@ -5781,5 +5793,17 @@
     "nick": "AuStri4_",
     "modes": {},
     "region": "EU"
+  },
+  "560803350841655308": {
+    "nick": "zunkyns",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1792270522095
+        }
+      ]
+    },
+    "region": "NA"
   }
 }
