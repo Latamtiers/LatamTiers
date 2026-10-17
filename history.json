@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792194600115,
-    "lastUpdateHuman": "2026-10-16 23:50:00 UTC",
+    "lastUpdate": 1792195541003,
+    "lastUpdateHuman": "2026-10-17 00:05:41 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5297,6 +5297,11 @@
   },
   "1560739271592386645": {
     "nick": "ImAerynx",
+    "modes": {},
+    "region": "NA"
+  },
+  "1462209278315335892": {
+    "nick": "isaac123duke",
     "modes": {},
     "region": "NA"
   }
