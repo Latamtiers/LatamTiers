@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792211260566,
-    "lastUpdateHuman": "2026-10-17 04:27:40 UTC",
+    "lastUpdate": 1792212952138,
+    "lastUpdateHuman": "2026-10-17 04:55:52 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4901,6 +4901,10 @@
         {
           "tier": "LT3",
           "at": 1792197623814
+        },
+        {
+          "tier": "HT4",
+          "at": 1792212637216
         }
       ]
     },
@@ -5460,5 +5464,15 @@
       ]
     },
     "region": "SA"
+  },
+  "1381418845704814602": {
+    "nick": "ctthefemboy",
+    "modes": {},
+    "region": "NA"
+  },
+  "919703985760378930": {
+    "nick": "nihskun",
+    "modes": {},
+    "region": "NA"
   }
 }
