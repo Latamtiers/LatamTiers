@@ -4570,6 +4570,10 @@
       "MAZO": {
         "tier": "LT3",
         "obtained_at": "2026-10-17T05:57:52.128980+00:00"
+      },
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-17T06:48:53.861736+00:00"
       }
     }
   },
@@ -4611,11 +4615,40 @@
   "539983963616182311": {
     "nick": "halybut",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "MAZO": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-17T07:12:35.053088+00:00"
+      },
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-17T06:54:43.759517+00:00"
+      }
+    }
   },
   "1125576309196730388": {
     "nick": "ichacksita",
     "region": "NA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-17T07:02:40.203849+00:00"
+      }
+    }
+  },
+  "1346278819320823813": {
+    "nick": "Loomixx",
+    "region": "NA",
     "tiers": {}
+  },
+  "1476694220755439758": {
+    "nick": "JadeStarlightt",
+    "region": "NA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-17T07:12:04.375385+00:00"
+      }
+    }
   }
 }

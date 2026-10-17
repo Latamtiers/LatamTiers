@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792219274515,
-    "lastUpdateHuman": "2026-10-17 06:41:14 UTC",
+    "lastUpdate": 1792221426597,
+    "lastUpdateHuman": "2026-10-17 07:17:06 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5473,7 +5473,14 @@
   },
   "1381418845704814602": {
     "nick": "ctthefemboy",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1792219733861
+        }
+      ]
+    },
     "region": "NA"
   },
   "919703985760378930": {
@@ -5503,12 +5510,43 @@
   },
   "539983963616182311": {
     "nick": "halybut",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1792220083759
+        }
+      ]
+    },
     "region": "NA"
   },
   "1125576309196730388": {
     "nick": "ichacksita",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1792220560203
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1346278819320823813": {
+    "nick": "Loomixx",
     "modes": {},
+    "region": "NA"
+  },
+  "1476694220755439758": {
+    "nick": "JadeStarlightt",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1792221124375
+        }
+      ]
+    },
     "region": "NA"
   }
 }
