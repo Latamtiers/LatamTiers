@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792255372438,
-    "lastUpdateHuman": "2026-10-17 16:42:52 UTC",
+    "lastUpdate": 1792256694150,
+    "lastUpdateHuman": "2026-10-17 17:04:54 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5644,6 +5644,35 @@
         }
       ]
     },
+    "region": "EU"
+  },
+  "1076588703780184226": {
+    "nick": "L3on1Cr3eper",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1792256651799
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1792256651799
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1792256651799
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "1250466353618620486": {
+    "nick": "drepanocitose",
+    "modes": {},
     "region": "EU"
   }
 }
