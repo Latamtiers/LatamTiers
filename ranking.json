@@ -2149,6 +2149,10 @@
     "nick": "Yiaxuzz",
     "region": "SA",
     "tiers": {
+      "SWORD": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-18T21:27:30.202654+00:00"
+      },
       "MAZO": {
         "tier": "HT5",
         "obtained_at": "2026-10-17T22:53:22.394848+00:00"
@@ -2181,6 +2185,10 @@
     "nick": "Ctrlark",
     "region": "SA",
     "tiers": {
+      "SWORD": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-18T21:22:27.337877+00:00"
+      },
       "NETHPOT": {
         "tier": "LT4",
         "obtained_at": "2026-10-12T19:21:49.451687+00:00"
@@ -5044,6 +5052,10 @@
     "nick": "Lardestial",
     "region": "NA",
     "tiers": {
+      "SWORD": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-18T21:14:41.775645+00:00"
+      },
       "NETHPOT": {
         "tier": "HT4",
         "obtained_at": "2026-10-18T20:56:46.932550+00:00"
@@ -5259,7 +5271,12 @@
   "1251267982794035210": {
     "nick": "natsuki__subaru_",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-18T21:11:55.957494+00:00"
+      }
+    }
   },
   "1180955189625229333": {
     "nick": "aydden_",

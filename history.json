@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792357681780,
-    "lastUpdateHuman": "2026-10-18 21:08:01 UTC",
+    "lastUpdate": 1792359174541,
+    "lastUpdateHuman": "2026-10-18 21:32:54 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3510,6 +3510,12 @@
           "tier": "LT4",
           "at": 1791737926623
         }
+      ],
+      "sword": [
+        {
+          "tier": "HT5",
+          "at": 1792358850202
+        }
       ]
     },
     "region": "SA"
@@ -3533,6 +3539,12 @@
         {
           "tier": "LT4",
           "at": 1791832909451
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT5",
+          "at": 1792358547337
         }
       ]
     },
@@ -6048,6 +6060,12 @@
           "tier": "HT4",
           "at": 1792357006932
         }
+      ],
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1792358081775
+        }
       ]
     },
     "region": "NA"
@@ -6228,7 +6246,14 @@
   },
   "1251267982794035210": {
     "nick": "natsuki__subaru_",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1792357915957
+        }
+      ]
+    },
     "region": "NA"
   },
   "1180955189625229333": {
