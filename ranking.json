@@ -4111,6 +4111,10 @@
     "nick": "itzisaiahh",
     "region": "NA",
     "tiers": {
+      "CRYSTAL": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-18T05:26:03.964709+00:00"
+      },
       "MAZO": {
         "tier": "LT4",
         "obtained_at": "2026-10-16T02:55:59.418212+00:00"
@@ -5110,6 +5114,16 @@
   "1335844007279857700": {
     "nick": "Itmansap",
     "region": "EU",
+    "tiers": {}
+  },
+  "1195431521318863020": {
+    "nick": "zsebaaas",
+    "region": "SA",
+    "tiers": {}
+  },
+  "1398447383993651474": {
+    "nick": "Jvp4n",
+    "region": "NA",
     "tiers": {}
   }
 }

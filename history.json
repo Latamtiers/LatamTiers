@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792300796317,
-    "lastUpdateHuman": "2026-10-18 05:19:56 UTC",
+    "lastUpdate": 1792302504588,
+    "lastUpdateHuman": "2026-10-18 05:48:24 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5147,6 +5147,12 @@
           "tier": "LT5",
           "at": 1792295832639
         }
+      ],
+      "crystal": [
+        {
+          "tier": "LT5",
+          "at": 1792301163964
+        }
       ]
     },
     "region": "NA"
@@ -6029,5 +6035,15 @@
     "nick": "Itmansap",
     "modes": {},
     "region": "EU"
+  },
+  "1195431521318863020": {
+    "nick": "zsebaaas",
+    "modes": {},
+    "region": "SA"
+  },
+  "1398447383993651474": {
+    "nick": "Jvp4n",
+    "modes": {},
+    "region": "NA"
   }
 }
