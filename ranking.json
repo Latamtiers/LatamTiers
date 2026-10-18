@@ -5086,5 +5086,15 @@
     "nick": "Humillarte",
     "region": "NA",
     "tiers": {}
+  },
+  "1486885634256932964": {
+    "nick": "iH65_",
+    "region": "SA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-18T04:06:03.002145+00:00"
+      }
+    }
   }
 }

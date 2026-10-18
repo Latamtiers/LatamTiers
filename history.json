@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792296072838,
-    "lastUpdateHuman": "2026-10-18 04:01:12 UTC",
+    "lastUpdate": 1792297709156,
+    "lastUpdateHuman": "2026-10-18 04:28:29 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5998,5 +5998,17 @@
     "nick": "Humillarte",
     "modes": {},
     "region": "NA"
+  },
+  "1486885634256932964": {
+    "nick": "iH65_",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1792296363002
+        }
+      ]
+    },
+    "region": "SA"
   }
 }
