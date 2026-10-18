@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792291053187,
-    "lastUpdateHuman": "2026-10-18 02:37:33 UTC",
+    "lastUpdate": 1792292646461,
+    "lastUpdateHuman": "2026-10-18 03:04:06 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5970,5 +5970,10 @@
     "nick": "relerOG",
     "modes": {},
     "region": "NA"
+  },
+  "939014976385982495": {
+    "nick": "LorzPinga",
+    "modes": {},
+    "region": "SA"
   }
 }
