@@ -2668,6 +2668,10 @@
     "nick": "Pyrozkun",
     "region": "NA",
     "tiers": {
+      "UHC": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-18T19:05:34.138927+00:00"
+      },
       "SWORD": {
         "tier": "HT5",
         "obtained_at": "2026-10-11T23:35:55.516542+00:00"
