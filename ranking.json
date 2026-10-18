@@ -5171,7 +5171,12 @@
   "967811811988607046": {
     "nick": "Marlowww",
     "region": "EU",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-18T16:16:26.671853+00:00"
+      }
+    }
   },
   "1411464155705245706": {
     "nick": "ClammyHen843370",
@@ -5207,6 +5212,11 @@
   },
   "1483050801231564812": {
     "nick": "Femboyprotector_",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1382787896620351588": {
+    "nick": "Pekkx_X",
     "region": "EU",
     "tiers": {}
   }

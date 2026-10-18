@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792338978963,
-    "lastUpdateHuman": "2026-10-18 15:56:18 UTC",
+    "lastUpdate": 1792340195404,
+    "lastUpdateHuman": "2026-10-18 16:16:35 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5981,7 +5981,14 @@
   },
   "967811811988607046": {
     "nick": "Marlowww",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1792340186671
+        }
+      ]
+    },
     "region": "EU"
   },
   "1240984169203367998": {
@@ -6136,6 +6143,11 @@
   },
   "1483050801231564812": {
     "nick": "Femboyprotector_",
+    "modes": {},
+    "region": "EU"
+  },
+  "1382787896620351588": {
+    "nick": "Pekkx_X",
     "modes": {},
     "region": "EU"
   }
