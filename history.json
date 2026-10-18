@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792297709156,
-    "lastUpdateHuman": "2026-10-18 04:28:29 UTC",
+    "lastUpdate": 1792299455464,
+    "lastUpdateHuman": "2026-10-18 04:57:35 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5471,7 +5471,14 @@
   },
   "1368369047342682134": {
     "nick": "notmenace",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1792298052769
+        }
+      ]
+    },
     "region": "NA"
   },
   "1200752030629761038": {
