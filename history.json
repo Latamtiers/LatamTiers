@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792281883505,
-    "lastUpdateHuman": "2026-10-18 00:04:43 UTC",
+    "lastUpdate": 1792284189672,
+    "lastUpdateHuman": "2026-10-18 00:43:09 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5879,6 +5879,11 @@
   },
   "967811811988607046": {
     "nick": "ItzRealMe",
+    "modes": {},
+    "region": "NA"
+  },
+  "1240984169203367998": {
+    "nick": "Lardestial",
     "modes": {},
     "region": "NA"
   }
