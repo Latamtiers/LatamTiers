@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792303718783,
-    "lastUpdateHuman": "2026-10-18 06:08:38 UTC",
+    "lastUpdate": 1792305652806,
+    "lastUpdateHuman": "2026-10-18 06:40:52 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -6043,6 +6043,11 @@
   },
   "1398447383993651474": {
     "nick": "Jvp4n",
+    "modes": {},
+    "region": "NA"
+  },
+  "945758198579757136": {
+    "nick": "V3lazzco",
     "modes": {},
     "region": "NA"
   }
