@@ -5260,5 +5260,20 @@
     "nick": "aydden_",
     "region": "NA",
     "tiers": {}
+  },
+  "1447275165439365193": {
+    "nick": "unpolvo",
+    "region": "NA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-18T20:33:51.372641+00:00"
+      }
+    }
+  },
+  "993730848643887175": {
+    "nick": "AlmostShiny",
+    "region": "NA",
+    "tiers": {}
   }
 }

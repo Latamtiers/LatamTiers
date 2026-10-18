@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792355120760,
-    "lastUpdateHuman": "2026-10-18 20:25:20 UTC",
+    "lastUpdate": 1792356595258,
+    "lastUpdateHuman": "2026-10-18 20:49:55 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -6222,6 +6222,23 @@
   },
   "1180955189625229333": {
     "nick": "aydden_",
+    "modes": {},
+    "region": "NA"
+  },
+  "1447275165439365193": {
+    "nick": "unpolvo",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1792355631372
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "993730848643887175": {
+    "nick": "AlmostShiny",
     "modes": {},
     "region": "NA"
   }
