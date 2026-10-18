@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792307806247,
-    "lastUpdateHuman": "2026-10-18 07:16:46 UTC",
+    "lastUpdate": 1792309542141,
+    "lastUpdateHuman": "2026-10-18 07:45:42 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -6077,5 +6077,23 @@
       ]
     },
     "region": "NA"
+  },
+  "1148030505162375208": {
+    "nick": "1am_a_bot0_o",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1792309146182
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1792309146182
+        }
+      ]
+    },
+    "region": "SA"
   }
 }
