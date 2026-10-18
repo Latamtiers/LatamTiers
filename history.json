@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792346970099,
-    "lastUpdateHuman": "2026-10-18 18:09:30 UTC",
+    "lastUpdate": 1792348623748,
+    "lastUpdateHuman": "2026-10-18 18:37:03 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3655,6 +3655,10 @@
         {
           "tier": "LT4",
           "at": 1791754711564
+        },
+        {
+          "tier": "HT5",
+          "at": 1792348606357
         }
       ],
       "sword": [
@@ -6175,5 +6179,20 @@
     "nick": "Pekkx_X",
     "modes": {},
     "region": "EU"
+  },
+  "1525897428237025361": {
+    "nick": "ItzDac",
+    "modes": {},
+    "region": "EU"
+  },
+  "1251267982794035210": {
+    "nick": "natsuki__subaru_",
+    "modes": {},
+    "region": "NA"
+  },
+  "1180955189625229333": {
+    "nick": "aydden_",
+    "modes": {},
+    "region": "NA"
   }
 }

@@ -2386,8 +2386,8 @@
     "region": "SA",
     "tiers": {
       "CRYSTAL": {
-        "tier": "LT4",
-        "obtained_at": "2026-10-11T21:38:31.564157+00:00"
+        "tier": "HT5",
+        "obtained_at": "2026-10-18T18:36:46.357996+00:00"
       },
       "UHC": {
         "tier": "HT5",
@@ -5232,6 +5232,21 @@
   "1382787896620351588": {
     "nick": "Pekkx_X",
     "region": "EU",
+    "tiers": {}
+  },
+  "1525897428237025361": {
+    "nick": "ItzDac",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1251267982794035210": {
+    "nick": "natsuki__subaru_",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1180955189625229333": {
+    "nick": "aydden_",
+    "region": "NA",
     "tiers": {}
   }
 }
