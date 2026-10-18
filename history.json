@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792359174541,
-    "lastUpdateHuman": "2026-10-18 21:32:54 UTC",
+    "lastUpdate": 1792360616413,
+    "lastUpdateHuman": "2026-10-18 21:56:56 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4706,7 +4706,14 @@
   },
   "936632002608771072": {
     "nick": "spinzulo",
-    "modes": {},
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1792359488543
+        }
+      ]
+    },
     "region": "EU"
   },
   "1246791951324282911": {
