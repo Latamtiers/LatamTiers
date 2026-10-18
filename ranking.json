@@ -5163,5 +5163,32 @@
     "nick": "Marlowww",
     "region": "EU",
     "tiers": {}
+  },
+  "1411464155705245706": {
+    "nick": "ClammyHen843370",
+    "region": "EU",
+    "tiers": {}
+  },
+  "665880505933103113": {
+    "nick": "Incrementals",
+    "region": "EU",
+    "tiers": {
+      "UHC": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-18T13:51:35.408300+00:00"
+      },
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-18T13:51:35.408310+00:00"
+      },
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-18T13:51:35.408311+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-18T13:51:35.408313+00:00"
+      }
+    }
   }
 }

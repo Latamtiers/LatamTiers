@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792330478420,
-    "lastUpdateHuman": "2026-10-18 13:34:38 UTC",
+    "lastUpdate": 1792331936133,
+    "lastUpdateHuman": "2026-10-18 13:58:56 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1394,7 +1394,7 @@
     "region": "NA"
   },
   "665880505933103113": {
-    "nick": "Incremental",
+    "nick": "Incrementals",
     "modes": {
       "sword": [
         {
@@ -1406,6 +1406,12 @@
         {
           "tier": "LT4",
           "at": 1790980235899
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1792331495408
         }
       ]
     },
@@ -6095,5 +6101,10 @@
       ]
     },
     "region": "SA"
+  },
+  "1411464155705245706": {
+    "nick": "ClammyHen843370",
+    "modes": {},
+    "region": "EU"
   }
 }
