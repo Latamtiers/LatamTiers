@@ -715,6 +715,10 @@
         "tier": "HT4",
         "obtained_at": "2026-10-14T22:47:15.201652+00:00"
       },
+      "UHC": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-18T01:01:13.524241+00:00"
+      },
       "SWORD": {
         "tier": "HT5",
         "obtained_at": "2026-10-17T17:56:46.208611+00:00"
@@ -4478,6 +4482,10 @@
     "nick": "Bawipz",
     "region": "NA",
     "tiers": {
+      "UHC": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-18T00:52:03.494830+00:00"
+      },
       "MAZO": {
         "tier": "LT3",
         "obtained_at": "2026-10-17T00:16:06.485065+00:00"
@@ -4976,5 +4984,33 @@
     "nick": "Lardestial",
     "region": "NA",
     "tiers": {}
+  },
+  "856246215225901096": {
+    "nick": "YohanNox_",
+    "region": "SA",
+    "tiers": {}
+  },
+  "1524188618019569776": {
+    "nick": ".GABY88900",
+    "region": "NA",
+    "tiers": {}
+  },
+  "776253036937871377": {
+    "nick": "_koda1",
+    "region": "NA",
+    "tiers": {
+      "UHC": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-18T00:50:34.054836+00:00"
+      },
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-18T00:54:24.664969+00:00"
+      },
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-18T00:50:34.054852+00:00"
+      }
+    }
   }
 }
