@@ -2376,8 +2376,8 @@
         "obtained_at": "2026-10-11T21:38:31.564157+00:00"
       },
       "UHC": {
-        "tier": "LT5",
-        "obtained_at": "2026-10-17T21:03:00.744347+00:00"
+        "tier": "HT5",
+        "obtained_at": "2026-10-18T01:25:24.605301+00:00"
       },
       "SWORD": {
         "tier": "LT4",
@@ -4628,6 +4628,10 @@
     "nick": "ctthefemboy",
     "region": "NA",
     "tiers": {
+      "UHC": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-18T01:17:21.599216+00:00"
+      },
       "MAZO": {
         "tier": "LT3",
         "obtained_at": "2026-10-17T05:57:52.128980+00:00"
@@ -4910,6 +4914,10 @@
     "nick": "txydxgivyi1",
     "region": "NA",
     "tiers": {
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-18T01:28:58.176557+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT3",
         "obtained_at": "2026-10-17T22:03:05.616900+00:00"
@@ -5010,6 +5018,39 @@
       "NETHPOT": {
         "tier": "LT4",
         "obtained_at": "2026-10-18T00:50:34.054852+00:00"
+      }
+    }
+  },
+  "871944221878276106": {
+    "nick": "Thomas_1x1",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1454561403493941358": {
+    "nick": "TrustUss",
+    "region": "EU",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-18T01:41:05.689065+00:00"
+      },
+      "UHC": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-18T01:41:05.689076+00:00"
+      }
+    }
+  },
+  "759155075644915713": {
+    "nick": "BagelConditioner",
+    "region": "NA",
+    "tiers": {
+      "UHC": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-18T01:45:54.553809+00:00"
+      },
+      "SWORD": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-18T01:45:54.553821+00:00"
       }
     }
   }
