@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792299455464,
-    "lastUpdateHuman": "2026-10-18 04:57:35 UTC",
+    "lastUpdate": 1792300796317,
+    "lastUpdateHuman": "2026-10-18 05:19:56 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4748,7 +4748,14 @@
   },
   "1113614686072619119": {
     "nick": "UpfrontEel50060",
-    "modes": {},
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1792300685831
+        }
+      ]
+    },
     "region": "NA"
   },
   "1248393170417614968": {
@@ -6017,5 +6024,10 @@
       ]
     },
     "region": "SA"
+  },
+  "1335844007279857700": {
+    "nick": "Itmansap",
+    "modes": {},
+    "region": "EU"
   }
 }
