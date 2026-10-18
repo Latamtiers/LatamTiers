@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792356595258,
-    "lastUpdateHuman": "2026-10-18 20:49:55 UTC",
+    "lastUpdate": 1792357681780,
+    "lastUpdateHuman": "2026-10-18 21:08:01 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4769,6 +4769,10 @@
         {
           "tier": "HT5",
           "at": 1792342968443
+        },
+        {
+          "tier": "LT4",
+          "at": 1792356681970
         }
       ],
       "sword": [
@@ -6038,7 +6042,14 @@
   },
   "1240984169203367998": {
     "nick": "Lardestial",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1792357006932
+        }
+      ]
+    },
     "region": "NA"
   },
   "856246215225901096": {
