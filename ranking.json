@@ -3959,7 +3959,12 @@
   "761739675613921310": {
     "nick": "Ryzion",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-19T15:49:52.754284+00:00"
+      }
+    }
   },
   "1037487232178733180": {
     "nick": "Vic3rTz",
@@ -5317,5 +5322,20 @@
     "nick": "Careus",
     "region": "NA",
     "tiers": {}
+  },
+  "1534923390278701247": {
+    "nick": "TheReal_Phil",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1383217744098492427": {
+    "nick": "General1133",
+    "region": "EU",
+    "tiers": {
+      "MAZO": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-19T15:36:12.231195+00:00"
+      }
+    }
   }
 }

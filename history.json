@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792423078177,
-    "lastUpdateHuman": "2026-10-19 15:17:58 UTC",
+    "lastUpdate": 1792425115748,
+    "lastUpdateHuman": "2026-10-19 15:51:55 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -6301,5 +6301,10 @@
     "nick": "Careus",
     "modes": {},
     "region": "NA"
+  },
+  "1534923390278701247": {
+    "nick": "TheReal_Phil",
+    "modes": {},
+    "region": "EU"
   }
 }
