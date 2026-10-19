@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792383418439,
-    "lastUpdateHuman": "2026-10-19 04:16:58 UTC",
+    "lastUpdate": 1792385628289,
+    "lastUpdateHuman": "2026-10-19 04:53:48 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5442,7 +5442,14 @@
   },
   "753344893467885668": {
     "nick": "S1lvrS",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1792383880474
+        }
+      ]
+    },
     "region": "NA"
   },
   "1526663191386390771": {
