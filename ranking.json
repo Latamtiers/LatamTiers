@@ -4121,16 +4121,6 @@
     "region": "SA",
     "tiers": {}
   },
-  "1476333468622258236": {
-    "nick": "QueenBee230",
-    "region": "NA",
-    "tiers": {
-      "DIAMOND POT": {
-        "tier": "LT5",
-        "obtained_at": "2026-10-16T01:58:15.264717+00:00"
-      }
-    }
-  },
   "1453428429469778094": {
     "nick": "IFrogX",
     "region": "SA",
@@ -5343,6 +5333,16 @@
       "MAZO": {
         "tier": "HT5",
         "obtained_at": "2026-10-19T15:36:12.231195+00:00"
+      }
+    }
+  },
+  "1476333468622258236": {
+    "nick": "Queenbee230",
+    "region": "SA",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-19T17:16:03.741680+00:00"
       }
     }
   }
