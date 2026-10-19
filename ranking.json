@@ -5340,6 +5340,10 @@
     "nick": "Queenbee230",
     "region": "SA",
     "tiers": {
+      "CRYSTAL": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-19T17:25:01.205044+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT5",
         "obtained_at": "2026-10-19T17:16:03.741680+00:00"
