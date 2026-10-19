@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792381415728,
-    "lastUpdateHuman": "2026-10-19 03:43:35 UTC",
+    "lastUpdate": 1792383418439,
+    "lastUpdateHuman": "2026-10-19 04:16:58 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -6282,6 +6282,11 @@
   },
   "993730848643887175": {
     "nick": "AlmostShiny",
+    "modes": {},
+    "region": "NA"
+  },
+  "1276478321164685353": {
+    "nick": "Cabiinho",
     "modes": {},
     "region": "NA"
   }
