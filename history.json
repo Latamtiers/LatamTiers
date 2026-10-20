@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792436039460,
-    "lastUpdateHuman": "2026-10-19 18:53:59 UTC",
+    "lastUpdate": 1792459108081,
+    "lastUpdateHuman": "2026-10-20 01:18:28 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2575,6 +2575,12 @@
         {
           "tier": "LT3",
           "at": 1791507384444
+        }
+      ],
+      "axe": [
+        {
+          "tier": "LT4",
+          "at": 1792436224504
         }
       ]
     },
@@ -6311,7 +6317,14 @@
   },
   "1534923390278701247": {
     "nick": "TheReal_Phil",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1792436687215
+        }
+      ]
+    },
     "region": "EU"
   }
 }
