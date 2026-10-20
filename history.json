@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792534887592,
-    "lastUpdateHuman": "2026-10-20 22:21:27 UTC",
+    "lastUpdate": 1792536705064,
+    "lastUpdateHuman": "2026-10-20 22:51:45 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1494,6 +1494,12 @@
         {
           "tier": "LT3",
           "at": 1791484336495
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1792536557282
         }
       ]
     },
@@ -5824,7 +5830,7 @@
     "region": "NA"
   },
   "1146615668993687592": {
-    "nick": "MeowTiersss",
+    "nick": "TiersList",
     "modes": {},
     "region": "NA"
   },
