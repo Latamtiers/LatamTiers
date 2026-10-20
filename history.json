@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792529920615,
-    "lastUpdateHuman": "2026-10-20 20:58:40 UTC",
+    "lastUpdate": 1792531555781,
+    "lastUpdateHuman": "2026-10-20 21:25:55 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -6504,7 +6504,20 @@
   },
   "927615625201872966": {
     "nick": "Nubx_",
-    "modes": {},
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT3",
+          "at": 1792530026458
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT3",
+          "at": 1792530035535
+        }
+      ]
+    },
     "region": "SA"
   }
 }
