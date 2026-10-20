@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792526400339,
-    "lastUpdateHuman": "2026-10-20 20:00:00 UTC",
+    "lastUpdate": 1792528055760,
+    "lastUpdateHuman": "2026-10-20 20:27:35 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4403,6 +4403,12 @@
           "tier": "LT3",
           "at": 1791924289711
         }
+      ],
+      "axe": [
+        {
+          "tier": "HT5",
+          "at": 1792527801085
+        }
       ]
     },
     "region": "EU"
@@ -6478,5 +6484,10 @@
     "nick": "Averageaxer",
     "modes": {},
     "region": "EU"
+  },
+  "1541544650278699031": {
+    "nick": "Mrhotdog237",
+    "modes": {},
+    "region": "NA"
   }
 }
