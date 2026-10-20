@@ -5232,6 +5232,10 @@
     "nick": "V3lazzco",
     "region": "NA",
     "tiers": {
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-20T19:48:13.478412+00:00"
+      },
       "NETHPOT": {
         "tier": "HT3",
         "obtained_at": "2026-10-20T02:19:12.905444+00:00"
