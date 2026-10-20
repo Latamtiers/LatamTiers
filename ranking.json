@@ -2364,6 +2364,10 @@
       "CRYSTAL": {
         "tier": "HT3",
         "obtained_at": "2026-10-15T23:02:52.915568+00:00"
+      },
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-20T14:04:15.725745+00:00"
       }
     }
   },
@@ -5426,6 +5430,26 @@
   "930031766566232115": {
     "nick": "n3kolily",
     "region": "EU",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-20T13:44:03.916994+00:00"
+      }
+    }
+  },
+  "1535967701783150675": {
+    "nick": "golsuyudamlasi0",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1079432872697532417": {
+    "nick": "M0nochromat1c",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1196649929456750653": {
+    "nick": "BALAKx",
+    "region": "NA",
     "tiers": {}
   }
 }

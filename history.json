@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792502919285,
-    "lastUpdateHuman": "2026-10-20 13:28:39 UTC",
+    "lastUpdate": 1792505350268,
+    "lastUpdateHuman": "2026-10-20 14:09:10 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3656,6 +3656,12 @@
           "tier": "HT3",
           "at": 1792105372915
         }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1792505055725
+        }
       ]
     },
     "region": "SA"
@@ -6403,7 +6409,29 @@
   },
   "930031766566232115": {
     "nick": "n3kolily",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1792503843916
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "1535967701783150675": {
+    "nick": "golsuyudamlasi0",
     "modes": {},
     "region": "EU"
+  },
+  "1079432872697532417": {
+    "nick": "M0nochromat1c",
+    "modes": {},
+    "region": "EU"
+  },
+  "1196649929456750653": {
+    "nick": "BALAKx",
+    "modes": {},
+    "region": "NA"
   }
 }
