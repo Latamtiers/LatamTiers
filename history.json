@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792461087781,
-    "lastUpdateHuman": "2026-10-20 01:51:27 UTC",
+    "lastUpdate": 1792462416016,
+    "lastUpdateHuman": "2026-10-20 02:13:36 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2541,6 +2541,12 @@
         {
           "tier": "HT4",
           "at": 1791834983857
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1792461789551
         }
       ]
     },
@@ -6333,5 +6339,17 @@
       ]
     },
     "region": "EU"
+  },
+  "1504869898483138621": {
+    "nick": "Apavoroo",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1792462038420
+        }
+      ]
+    },
+    "region": "SA"
   }
 }
