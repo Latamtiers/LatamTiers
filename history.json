@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792505350268,
-    "lastUpdateHuman": "2026-10-20 14:09:10 UTC",
+    "lastUpdate": 1792507259592,
+    "lastUpdateHuman": "2026-10-20 14:40:59 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -6431,7 +6431,14 @@
   },
   "1196649929456750653": {
     "nick": "BALAKx",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1792505772779
+        }
+      ]
+    },
     "region": "NA"
   }
 }
