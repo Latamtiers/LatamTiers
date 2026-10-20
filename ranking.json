@@ -5351,7 +5351,12 @@
   "1180955189625229333": {
     "nick": "aydden_",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-20T22:10:46.879792+00:00"
+      }
+    }
   },
   "1447275165439365193": {
     "nick": "unpolvo",
@@ -5525,6 +5530,20 @@
       "SWORD": {
         "tier": "HT3",
         "obtained_at": "2026-10-20T21:00:35.535048+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-20T22:19:43.788811+00:00"
+      }
+    }
+  },
+  "1272343935758499952": {
+    "nick": "Ketameme70",
+    "region": "NA",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-20T22:02:41.595184+00:00"
       }
     }
   }
