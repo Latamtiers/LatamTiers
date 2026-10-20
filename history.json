@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792464366830,
-    "lastUpdateHuman": "2026-10-20 02:46:06 UTC",
+    "lastUpdate": 1792466068106,
+    "lastUpdateHuman": "2026-10-20 03:14:28 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -6379,6 +6379,18 @@
         {
           "tier": "LT3",
           "at": 1792462972126
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1277735584621793332": {
+    "nick": "Claudiopisado",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1792464448626
         }
       ]
     },
