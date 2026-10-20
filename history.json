@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792500748457,
-    "lastUpdateHuman": "2026-10-20 12:52:28 UTC",
+    "lastUpdate": 1792502919285,
+    "lastUpdateHuman": "2026-10-20 13:28:39 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -6395,5 +6395,15 @@
       ]
     },
     "region": "NA"
+  },
+  "1559166421936766978": {
+    "nick": "cpvp198",
+    "modes": {},
+    "region": "SA"
+  },
+  "930031766566232115": {
+    "nick": "n3kolily",
+    "modes": {},
+    "region": "EU"
   }
 }
