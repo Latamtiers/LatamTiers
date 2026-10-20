@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792513135317,
-    "lastUpdateHuman": "2026-10-20 16:18:55 UTC",
+    "lastUpdate": 1792515228199,
+    "lastUpdateHuman": "2026-10-20 16:53:48 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -6449,5 +6449,17 @@
     "nick": "CrixsVX",
     "modes": {},
     "region": "NA"
+  },
+  "667510150747389962": {
+    "nick": "KaxLy_",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT3",
+          "at": 1792514275930
+        }
+      ]
+    },
+    "region": "SA"
   }
 }

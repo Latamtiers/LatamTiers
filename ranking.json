@@ -5461,5 +5461,15 @@
     "nick": "CrixsVX",
     "region": "NA",
     "tiers": {}
+  },
+  "667510150747389962": {
+    "nick": "KaxLy_",
+    "region": "SA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT3",
+        "obtained_at": "2026-10-20T16:37:55.930721+00:00"
+      }
+    }
   }
 }
