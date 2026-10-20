@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792462416016,
-    "lastUpdateHuman": "2026-10-20 02:13:36 UTC",
+    "lastUpdate": 1792464366830,
+    "lastUpdateHuman": "2026-10-20 02:46:06 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1597,6 +1597,10 @@
         {
           "tier": "HT5",
           "at": 1791520487905
+        },
+        {
+          "tier": "LT3",
+          "at": 1792463146851
         }
       ],
       "crystal": [
@@ -5705,6 +5709,12 @@
           "tier": "HT5",
           "at": 1792272583670
         }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1792463557518
+        }
       ]
     },
     "region": "SA"
@@ -6229,6 +6239,10 @@
         {
           "tier": "LT3",
           "at": 1792306231268
+        },
+        {
+          "tier": "HT3",
+          "at": 1792462752905
         }
       ]
     },
@@ -6351,5 +6365,23 @@
       ]
     },
     "region": "SA"
+  },
+  "1034975723460509697": {
+    "nick": "xPsykosVx",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1792462972126
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1792462972126
+        }
+      ]
+    },
+    "region": "NA"
   }
 }
