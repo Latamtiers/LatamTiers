@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792515228199,
-    "lastUpdateHuman": "2026-10-20 16:53:48 UTC",
+    "lastUpdate": 1792516961495,
+    "lastUpdateHuman": "2026-10-20 17:22:41 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -6461,5 +6461,10 @@
       ]
     },
     "region": "SA"
+  },
+  "1387905507435483292": {
+    "nick": "Averageaxer",
+    "modes": {},
+    "region": "EU"
   }
 }
