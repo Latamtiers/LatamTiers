@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792564309928,
-    "lastUpdateHuman": "2026-10-21 06:31:49 UTC",
+    "lastUpdate": 1792584947174,
+    "lastUpdateHuman": "2026-10-21 12:15:47 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -6746,5 +6746,20 @@
     "nick": "Kirinqo",
     "modes": {},
     "region": "NA"
+  },
+  "1377728128163643575": {
+    "nick": "unreleasedd",
+    "modes": {},
+    "region": "NA"
+  },
+  "1238581960113393798": {
+    "nick": "laburar",
+    "modes": {},
+    "region": "SA"
+  },
+  "1437037292710793348": {
+    "nick": "Ukillast",
+    "modes": {},
+    "region": "EU"
   }
 }
