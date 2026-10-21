@@ -370,8 +370,8 @@
         "obtained_at": "2026-10-11T22:22:10.032490+00:00"
       },
       "MAZO": {
-        "tier": "LT4",
-        "obtained_at": "2026-10-07T20:44:13.093887+00:00"
+        "tier": "LT3",
+        "obtained_at": "2026-10-21T21:57:31.775756+00:00"
       },
       "DIAMOND POT": {
         "tier": "HT4",
@@ -1869,8 +1869,8 @@
     "region": "SA",
     "tiers": {
       "MAZO": {
-        "tier": "LT4",
-        "obtained_at": "2026-10-10T22:06:06.266124+00:00"
+        "tier": "LT3",
+        "obtained_at": "2026-10-21T20:46:54.324465+00:00"
       },
       "NETHPOT": {
         "tier": "HT5",
@@ -3320,8 +3320,8 @@
         "obtained_at": "2026-10-16T01:11:26.689741+00:00"
       },
       "NETHPOT": {
-        "tier": "LT4",
-        "obtained_at": "2026-10-13T22:28:52.140063+00:00"
+        "tier": "HT5",
+        "obtained_at": "2026-10-21T23:18:08.871709+00:00"
       },
       "DIAMOND POT": {
         "tier": "LT3",
@@ -3429,8 +3429,8 @@
         "obtained_at": "2026-10-16T00:26:30.151020+00:00"
       },
       "DIAMOND POT": {
-        "tier": "LT4",
-        "obtained_at": "2026-10-16T00:21:28.350792+00:00"
+        "tier": "HT5",
+        "obtained_at": "2026-10-21T23:03:39.015215+00:00"
       }
     }
   },
@@ -3491,6 +3491,10 @@
       "MAZO": {
         "tier": "HT5",
         "obtained_at": "2026-10-14T01:40:56.587532+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-21T23:36:08.945511+00:00"
       }
     }
   },
@@ -4044,7 +4048,12 @@
   "1013518915650981950": {
     "nick": "El_vikingo_468",
     "region": "SA",
-    "tiers": {}
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-21T23:33:10.668679+00:00"
+      }
+    }
   },
   "923652703060623440": {
     "nick": "k1bg",
@@ -5155,8 +5164,8 @@
         "obtained_at": "2026-10-18T20:56:46.932550+00:00"
       },
       "DIAMOND POT": {
-        "tier": "LT4",
-        "obtained_at": "2026-10-20T20:39:21.070014+00:00"
+        "tier": "HT5",
+        "obtained_at": "2026-10-21T22:56:12.933613+00:00"
       }
     }
   },
@@ -5628,6 +5637,10 @@
         "tier": "LT3",
         "obtained_at": "2026-10-21T01:03:24.021498+00:00"
       },
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-21T23:21:50.430271+00:00"
+      },
       "NETHPOT": {
         "tier": "LT4",
         "obtained_at": "2026-10-21T01:38:35.876709+00:00"
@@ -5752,5 +5765,55 @@
     "nick": "DeezerDan",
     "region": "NA",
     "tiers": {}
+  },
+  "1323145408968396800": {
+    "nick": "CemenDemon_",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1562569184494223360": {
+    "nick": "Squid_23",
+    "region": "NA",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-21T22:47:30.634890+00:00"
+      }
+    }
+  },
+  "1270571971926556675": {
+    "nick": "ILoveMilanesa",
+    "region": "SA",
+    "tiers": {}
+  },
+  "1322639580641497159": {
+    "nick": "NotReallySlappp",
+    "region": "SA",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-21T22:52:01.913918+00:00"
+      }
+    }
+  },
+  "1208802875862552576": {
+    "nick": "pouuufino33",
+    "region": "SA",
+    "tiers": {}
+  },
+  "1415439827020677151": {
+    "nick": "chanchitopancho",
+    "region": "SA",
+    "tiers": {}
+  },
+  "1367290988476764222": {
+    "nick": "Lean05_",
+    "region": "SA",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-21T23:17:23.943170+00:00"
+      }
+    }
   }
 }

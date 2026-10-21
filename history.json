@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792615273139,
-    "lastUpdateHuman": "2026-10-21 20:41:13 UTC",
+    "lastUpdate": 1792625884601,
+    "lastUpdateHuman": "2026-10-21 23:38:04 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4611,6 +4611,10 @@
         {
           "tier": "LT4",
           "at": 1791930532140
+        },
+        {
+          "tier": "HT5",
+          "at": 1792624688871
         }
       ]
     },
@@ -6786,5 +6790,40 @@
     "nick": "DeezerDan",
     "modes": {},
     "region": "NA"
+  },
+  "1323145408968396800": {
+    "nick": "CemenDemon_",
+    "modes": {},
+    "region": "NA"
+  },
+  "1562569184494223360": {
+    "nick": "Squid_23",
+    "modes": {},
+    "region": "NA"
+  },
+  "1270571971926556675": {
+    "nick": "ILoveMilanesa",
+    "modes": {},
+    "region": "SA"
+  },
+  "1322639580641497159": {
+    "nick": "NotReallySlappp",
+    "modes": {},
+    "region": "SA"
+  },
+  "1208802875862552576": {
+    "nick": "pouuufino33",
+    "modes": {},
+    "region": "SA"
+  },
+  "1415439827020677151": {
+    "nick": "chanchitopancho",
+    "modes": {},
+    "region": "SA"
+  },
+  "1367290988476764222": {
+    "nick": "Lean05_",
+    "modes": {},
+    "region": "SA"
   }
 }
