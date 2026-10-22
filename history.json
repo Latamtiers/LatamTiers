@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792633805844,
-    "lastUpdateHuman": "2026-10-22 01:50:05 UTC",
+    "lastUpdate": 1792651176685,
+    "lastUpdateHuman": "2026-10-22 06:39:36 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -6840,6 +6840,11 @@
         }
       ]
     },
+    "region": "NA"
+  },
+  "1453847227746488345": {
+    "nick": "213e4",
+    "modes": {},
     "region": "NA"
   }
 }
