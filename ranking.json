@@ -2477,8 +2477,8 @@
     "region": "SA",
     "tiers": {
       "CRYSTAL": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-11T21:41:21.766167+00:00"
+        "tier": "LT4",
+        "obtained_at": "2026-10-22T21:50:01.782525+00:00"
       },
       "SWORD": {
         "tier": "HT5",
@@ -3376,7 +3376,12 @@
   "1406831586015449198": {
     "nick": "sscar3dd",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-22T23:09:36.693773+00:00"
+      }
+    }
   },
   "972718209373450271": {
     "nick": "miyu_x",
@@ -3421,8 +3426,8 @@
         "obtained_at": "2026-10-14T01:28:15.949572+00:00"
       },
       "UHC": {
-        "tier": "LT5",
-        "obtained_at": "2026-10-18T14:26:23.307517+00:00"
+        "tier": "HT5",
+        "obtained_at": "2026-10-22T23:17:09.519436+00:00"
       },
       "SWORD": {
         "tier": "HT4",
@@ -3437,8 +3442,8 @@
         "obtained_at": "2026-10-16T00:26:30.151020+00:00"
       },
       "DIAMOND POT": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-21T23:03:39.015215+00:00"
+        "tier": "LT4",
+        "obtained_at": "2026-10-22T21:55:24.091778+00:00"
       }
     }
   },
@@ -4057,6 +4062,10 @@
     "nick": "El_vikingo_468",
     "region": "SA",
     "tiers": {
+      "UHC": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-22T22:57:41.862833+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT5",
         "obtained_at": "2026-10-21T23:33:10.668679+00:00"
@@ -4309,6 +4318,10 @@
       "UHC": {
         "tier": "LT4",
         "obtained_at": "2026-10-17T17:16:59.256648+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-22T22:13:32.864540+00:00"
       }
     }
   },
@@ -5255,6 +5268,10 @@
     "nick": "SML787",
     "region": "SA",
     "tiers": {
+      "CRYSTAL": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-22T21:57:38.135775+00:00"
+      },
       "MAZO": {
         "tier": "LT3",
         "obtained_at": "2026-10-18T03:07:49.012323+00:00"
@@ -5662,6 +5679,10 @@
     "nick": "Lasor_",
     "region": "NA",
     "tiers": {
+      "UHC": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-22T23:09:59.862093+00:00"
+      },
       "SWORD": {
         "tier": "LT3",
         "obtained_at": "2026-10-21T01:03:24.021498+00:00"
@@ -5673,6 +5694,10 @@
       "NETHPOT": {
         "tier": "LT4",
         "obtained_at": "2026-10-21T01:38:35.876709+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-22T21:31:46.423992+00:00"
       }
     }
   },
@@ -5713,7 +5738,12 @@
   "1505045066098671778": {
     "nick": "GvDgodd",
     "region": "SA",
-    "tiers": {}
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-22T22:07:58.657756+00:00"
+      }
+    }
   },
   "911413379321704529": {
     "nick": "Prime_Note",
@@ -5804,6 +5834,10 @@
     "nick": "Squid_23",
     "region": "NA",
     "tiers": {
+      "UHC": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-22T22:42:41.875527+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT5",
         "obtained_at": "2026-10-21T22:47:30.634890+00:00"
@@ -5885,6 +5919,52 @@
       "DIAMOND POT": {
         "tier": "LT5",
         "obtained_at": "2026-10-22T17:14:46.787792+00:00"
+      }
+    }
+  },
+  "1317623781929259064": {
+    "nick": "ItsStatic_",
+    "region": "NA",
+    "tiers": {
+      "UHC": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-22T23:03:47.930323+00:00"
+      },
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-22T22:59:44.259192+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-22T22:39:01.627944+00:00"
+      }
+    }
+  },
+  "1144243946541821952": {
+    "nick": "TheAethel",
+    "region": "EU",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-22T22:26:08.672572+00:00"
+      }
+    }
+  },
+  "1192663797148684392": {
+    "nick": "Elviroliro",
+    "region": "NA",
+    "tiers": {
+      "UHC": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-22T22:34:11.214791+00:00"
+      },
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-22T22:34:11.214802+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-22T22:34:11.214803+00:00"
       }
     }
   }
