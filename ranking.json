@@ -2253,8 +2253,8 @@
         "obtained_at": "2026-10-17T08:42:24.023060+00:00"
       },
       "NETHPOT": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-11T16:43:37.100409+00:00"
+        "tier": "LT5",
+        "obtained_at": "2026-10-22T16:18:17.146836+00:00"
       },
       "DIAMOND POT": {
         "tier": "LT5",
@@ -2522,6 +2522,10 @@
     "nick": "nfasys",
     "region": "SA",
     "tiers": {
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-22T16:29:34.771002+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT3",
         "obtained_at": "2026-10-12T02:52:32.433363+00:00"
@@ -4937,6 +4941,10 @@
       "UHC": {
         "tier": "HT5",
         "obtained_at": "2026-10-17T16:03:56.136311+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-22T13:57:34.074808+00:00"
       }
     }
   },
@@ -5010,7 +5018,16 @@
   "1452632198049038339": {
     "nick": "ToyBlessd",
     "region": "EU",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-22T16:58:37.842526+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-22T16:48:31.524806+00:00"
+      }
+    }
   },
   "1129098119888502854": {
     "nick": "lolxen",
@@ -5338,6 +5355,10 @@
       "NETHPOT": {
         "tier": "HT5",
         "obtained_at": "2026-10-18T16:36:09.329244+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-22T16:09:11.090986+00:00"
       }
     }
   },
@@ -5455,6 +5476,10 @@
       "CRYSTAL": {
         "tier": "LT5",
         "obtained_at": "2026-10-19T17:25:01.205044+00:00"
+      },
+      "NETHPOT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-22T17:08:01.540396+00:00"
       },
       "DIAMOND POT": {
         "tier": "LT5",
@@ -5834,5 +5859,29 @@
     "nick": "213e4",
     "region": "NA",
     "tiers": {}
+  },
+  "1522902681344151562": {
+    "nick": "kevinsuarez_26",
+    "region": "EU",
+    "tiers": {}
+  },
+  "550085340787113995": {
+    "nick": "ex4ever",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1527793234666066112": {
+    "nick": "five_rats",
+    "region": "NA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-22T17:22:14.279967+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-22T17:14:46.787792+00:00"
+      }
+    }
   }
 }
