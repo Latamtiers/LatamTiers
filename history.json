@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792625884601,
-    "lastUpdateHuman": "2026-10-21 23:38:04 UTC",
+    "lastUpdate": 1792633805844,
+    "lastUpdateHuman": "2026-10-22 01:50:05 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4263,6 +4263,10 @@
         {
           "tier": "LT3",
           "at": 1791824042579
+        },
+        {
+          "tier": "HT3",
+          "at": 1792633044562
         }
       ],
       "axe": [
@@ -6825,5 +6829,17 @@
     "nick": "Lean05_",
     "modes": {},
     "region": "SA"
+  },
+  "1093545166826127410": {
+    "nick": "Nicqas",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT3",
+          "at": 1792629261763
+        }
+      ]
+    },
+    "region": "NA"
   }
 }
