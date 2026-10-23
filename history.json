@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792720425364,
-    "lastUpdateHuman": "2026-10-23 01:53:45 UTC",
+    "lastUpdate": 1792737752719,
+    "lastUpdateHuman": "2026-10-23 06:42:32 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -6973,5 +6973,15 @@
     "nick": "MomazosRodri",
     "modes": {},
     "region": "SA"
+  },
+  "765692262465142844": {
+    "nick": "Auly",
+    "modes": {},
+    "region": "NA"
+  },
+  "541728037566414848": {
+    "nick": "Auly",
+    "modes": {},
+    "region": "NA"
   }
 }

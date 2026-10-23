@@ -5972,5 +5972,20 @@
     "nick": "MomazosRodri",
     "region": "SA",
     "tiers": {}
+  },
+  "765692262465142844": {
+    "nick": "Auly",
+    "region": "NA",
+    "tiers": {}
+  },
+  "541728037566414848": {
+    "nick": "Auly",
+    "region": "NA",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-23T03:11:38.212435+00:00"
+      }
+    }
   }
 }
