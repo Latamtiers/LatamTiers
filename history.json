@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792774876328,
-    "lastUpdateHuman": "2026-10-23 17:01:16 UTC",
+    "lastUpdate": 1792786682870,
+    "lastUpdateHuman": "2026-10-23 20:18:02 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2590,6 +2590,12 @@
           "tier": "HT5",
           "at": 1791581794226
         }
+      ],
+      "sword": [
+        {
+          "tier": "HT5",
+          "at": 1792777922788
+        }
       ]
     },
     "region": "SA"
@@ -4248,12 +4254,18 @@
     "region": "SA"
   },
   "1532177011601178734": {
-    "nick": "ItzRealMcmarzy",
+    "nick": "World1sBlatant",
     "modes": {
       "nethpot": [
         {
           "tier": "HT5",
           "at": 1791836422735
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT5",
+          "at": 1792778820376
         }
       ]
     },
@@ -6191,7 +6203,14 @@
   },
   "1076801957773180971": {
     "nick": "AuStri4_",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1792780644040
+        }
+      ]
+    },
     "region": "EU"
   },
   "560803350841655308": {
@@ -6919,7 +6938,20 @@
   },
   "550085340787113995": {
     "nick": "ex4ever",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1792780224026
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT5",
+          "at": 1792778523301
+        }
+      ]
+    },
     "region": "NA"
   },
   "1527793234666066112": {
@@ -7002,6 +7034,24 @@
         {
           "tier": "HT5",
           "at": 1792773104031
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "1219985920045092946": {
+    "nick": "ZTELECK",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1792779236493
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1792779236493
         }
       ]
     },
