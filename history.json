@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792878991769,
-    "lastUpdateHuman": "2026-10-24 21:56:31 UTC",
+    "lastUpdate": 1792886317422,
+    "lastUpdateHuman": "2026-10-24 23:58:37 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -265,7 +265,14 @@
   },
   "936407484682354718": {
     "nick": "qwzxr",
-    "modes": {},
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1792880736259
+        }
+      ]
+    },
     "region": "SA"
   },
   "1328823690766319702": {
@@ -1499,6 +1506,10 @@
         {
           "tier": "HT5",
           "at": 1792557113562
+        },
+        {
+          "tier": "LT4",
+          "at": 1792884951135
         }
       ],
       "uhc": [
@@ -6001,6 +6012,10 @@
         {
           "tier": "LT4",
           "at": 1792542333563
+        },
+        {
+          "tier": "HT5",
+          "at": 1792885785002
         }
       ],
       "sword": [
@@ -7461,7 +7476,14 @@
   },
   "1038773783286255726": {
     "nick": "RigelKen",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1792885463015
+        }
+      ]
+    },
     "region": "EU"
   },
   "1048464142496956426": {
@@ -7473,5 +7495,41 @@
     "nick": "Lukitapex",
     "modes": {},
     "region": "SA"
+  },
+  "1512847728856662277": {
+    "nick": "Peteito_hacker",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1792881068957
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "1362601707657232585": {
+    "nick": "Nefarior_xd",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT4",
+          "at": 1792880909426
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1792880909426
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1792880909426
+        }
+      ]
+    },
+    "region": "NA"
   }
 }
