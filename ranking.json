@@ -2132,6 +2132,10 @@
         "tier": "LT4",
         "obtained_at": "2026-10-17T07:45:10.745741+00:00"
       },
+      "SWORD": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-24T05:12:25.646741+00:00"
+      },
       "MAZO": {
         "tier": "HT5",
         "obtained_at": "2026-10-23T16:44:39.461289+00:00"
@@ -2309,6 +2313,10 @@
       "UHC": {
         "tier": "LT4",
         "obtained_at": "2026-10-11T21:09:39.644519+00:00"
+      },
+      "SWORD": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-24T05:30:31.058649+00:00"
       },
       "MAZO": {
         "tier": "LT4",
@@ -4427,6 +4435,10 @@
     "nick": "DaTrxllDaVis_",
     "region": "NA",
     "tiers": {
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-24T04:39:24.475867+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT3",
         "obtained_at": "2026-10-16T20:44:30.334862+00:00"
@@ -4447,6 +4459,10 @@
     "nick": "S1lvrS",
     "region": "NA",
     "tiers": {
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-24T04:51:02.446285+00:00"
+      },
       "NETHPOT": {
         "tier": "LT4",
         "obtained_at": "2026-10-19T04:24:40.474255+00:00"
@@ -4690,8 +4706,8 @@
         "obtained_at": "2026-10-17T00:29:39.191691+00:00"
       },
       "SWORD": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-17T00:29:39.191693+00:00"
+        "tier": "LT5",
+        "obtained_at": "2026-10-24T05:03:17.027662+00:00"
       },
       "MAZO": {
         "tier": "LT5",
@@ -5377,8 +5393,8 @@
     "region": "NA",
     "tiers": {
       "SWORD": {
-        "tier": "LT3",
-        "obtained_at": "2026-10-20T19:48:13.478412+00:00"
+        "tier": "HT3",
+        "obtained_at": "2026-10-24T02:58:14.040030+00:00"
       },
       "NETHPOT": {
         "tier": "HT3",
@@ -6087,8 +6103,8 @@
         "obtained_at": "2026-10-23T18:07:00.376571+00:00"
       },
       "NETHPOT": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-23T18:07:00.376584+00:00"
+        "tier": "LT5",
+        "obtained_at": "2026-10-24T03:28:33.590783+00:00"
       }
     }
   },
@@ -6211,5 +6227,25 @@
     "nick": "ViktorSokolov",
     "region": "SA",
     "tiers": {}
+  },
+  "1363571589932781658": {
+    "nick": "shamwr",
+    "region": "NA",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-24T04:12:22.248565+00:00"
+      }
+    }
+  },
+  "1362613653408317680": {
+    "nick": "NosoyRox",
+    "region": "SA",
+    "tiers": {
+      "SWORD": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-24T05:31:45.700766+00:00"
+      }
+    }
   }
 }
