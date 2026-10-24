@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792852838378,
-    "lastUpdateHuman": "2026-10-24 14:40:38 UTC",
+    "lastUpdate": 1792863348556,
+    "lastUpdateHuman": "2026-10-24 17:35:48 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -6276,6 +6276,12 @@
           "tier": "LT5",
           "at": 1792780644040
         }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1792863088857
+        }
       ]
     },
     "region": "EU"
@@ -6916,7 +6922,14 @@
   },
   "1258993111149973607": {
     "nick": "Kirinqo",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1792861808672
+        }
+      ]
+    },
     "region": "NA"
   },
   "1377728128163643575": {
@@ -7262,5 +7275,52 @@
     "nick": "zzzkkkhh",
     "modes": {},
     "region": "SA"
+  },
+  "1492311807728291850": {
+    "nick": "ItzRealMe",
+    "modes": {},
+    "region": "NA"
+  },
+  "509791979912167426": {
+    "nick": "vice11",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT3",
+          "at": 1792859628546
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "1501029621762621620": {
+    "nick": "Ilovelichu",
+    "modes": {},
+    "region": "SA"
+  },
+  "1287184181167656971": {
+    "nick": "YourFocus",
+    "modes": {},
+    "region": "NA"
+  },
+  "1137211556891988019": {
+    "nick": "Jemsss_",
+    "modes": {},
+    "region": "SA"
+  },
+  "1224103178518265941": {
+    "nick": "ItzKyyro",
+    "modes": {},
+    "region": "EU"
+  },
+  "846076193631371264": {
+    "nick": "Kartoffelskiller",
+    "modes": {},
+    "region": "EU"
+  },
+  "1512179069280849940": {
+    "nick": "FROS_STY",
+    "modes": {},
+    "region": "EU"
   }
 }
