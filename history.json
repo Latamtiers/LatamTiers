@@ -18,8 +18,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792797187332,
-    "lastUpdateHuman": "2026-10-23 23:13:07 UTC",
+    "lastUpdate": 1792805759130,
+    "lastUpdateHuman": "2026-10-24 01:35:59 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -7193,5 +7193,15 @@
     "nick": "larpchasity",
     "modes": {},
     "region": "NA"
+  },
+  "422614130445254656": {
+    "nick": "DemonioDoPvp",
+    "modes": {},
+    "region": "SA"
+  },
+  "1497679650447687680": {
+    "nick": "ViktorSokolov",
+    "modes": {},
+    "region": "SA"
   }
 }
