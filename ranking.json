@@ -6530,11 +6530,6 @@
     "region": "NA",
     "tiers": {}
   },
-  "1457582112302432401": {
-    "nick": "Maydomborn",
-    "region": "SA",
-    "tiers": {}
-  },
   "904934436347469844": {
     "nick": "Hpc2503",
     "region": "SA",
@@ -10538,6 +10533,11 @@
   },
   "814211528256913429": {
     "nick": "ItsAvi8a",
+    "region": "SA",
+    "tiers": {}
+  },
+  "1457582112302432401": {
+    "nick": "Maydomborn",
     "region": "SA",
     "tiers": {}
   }
