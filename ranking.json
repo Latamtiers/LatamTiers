@@ -3275,8 +3275,8 @@
         "obtained_at": "2026-10-16T01:54:25.308504+00:00"
       },
       "NETHPOT": {
-        "tier": "HT4",
-        "obtained_at": "2026-10-21T00:11:56.801433+00:00"
+        "tier": "LT4",
+        "obtained_at": "2026-10-25T15:48:27.528961+00:00"
       },
       "DIAMOND POT": {
         "tier": "LT5",
@@ -3464,6 +3464,10 @@
       "DIAMOND POT": {
         "tier": "LT4",
         "obtained_at": "2026-10-22T21:55:24.091778+00:00"
+      },
+      "AXE": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-25T13:51:23.728935+00:00"
       }
     }
   },
@@ -10548,5 +10552,55 @@
     "nick": "Maydomborn",
     "region": "SA",
     "tiers": {}
+  },
+  "1448099245696614501": {
+    "nick": "Sgowhzy",
+    "region": "SA",
+    "tiers": {}
+  },
+  "1126939393706430464": {
+    "nick": "EnerEnerg",
+    "region": "SA",
+    "tiers": {}
+  },
+  "754086369160200253": {
+    "nick": "NathanPrah",
+    "region": "NA",
+    "tiers": {
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-25T16:54:42.283491+00:00"
+      }
+    }
+  },
+  "1464737504291983586": {
+    "nick": "TheValenMC",
+    "region": "SA",
+    "tiers": {}
+  },
+  "764323983914434560": {
+    "nick": "Smooth1ng",
+    "region": "NA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-25T16:59:57.862595+00:00"
+      }
+    }
+  },
+  "526421930236968986": {
+    "nick": "OncEdu",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1092196351636414494": {
+    "nick": "Ique210000",
+    "region": "SA",
+    "tiers": {
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-25T17:01:52.364930+00:00"
+      }
+    }
   }
 }

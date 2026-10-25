@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792934575490,
-    "lastUpdateHuman": "2026-10-25 13:22:55 UTC",
+    "lastUpdate": 1792948013620,
+    "lastUpdateHuman": "2026-10-25 17:06:53 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4670,6 +4670,10 @@
         {
           "tier": "HT4",
           "at": 1792541516801
+        },
+        {
+          "tier": "LT4",
+          "at": 1792943307528
         }
       ],
       "uhc": [
@@ -4885,6 +4889,12 @@
         {
           "tier": "HT5",
           "at": 1792711029519
+        }
+      ],
+      "axe": [
+        {
+          "tier": "LT4",
+          "at": 1792936283728
         }
       ]
     },
@@ -11248,6 +11258,48 @@
   },
   "814211528256913429": {
     "nick": "ItsAvi8a",
+    "modes": {},
+    "region": "SA"
+  },
+  "1448099245696614501": {
+    "nick": "Sgowhzy",
+    "modes": {},
+    "region": "SA"
+  },
+  "1126939393706430464": {
+    "nick": "EnerEnerg",
+    "modes": {},
+    "region": "SA"
+  },
+  "754086369160200253": {
+    "nick": "NathanPrah",
+    "modes": {},
+    "region": "NA"
+  },
+  "1464737504291983586": {
+    "nick": "TheValenMC",
+    "modes": {},
+    "region": "SA"
+  },
+  "764323983914434560": {
+    "nick": "Smooth1ng",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1792947597862
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "526421930236968986": {
+    "nick": "OncEdu",
+    "modes": {},
+    "region": "NA"
+  },
+  "1092196351636414494": {
+    "nick": "Ique210000",
     "modes": {},
     "region": "SA"
   }
