@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792956832427,
-    "lastUpdateHuman": "2026-10-25 19:33:52 UTC",
+    "lastUpdate": 1792965623159,
+    "lastUpdateHuman": "2026-10-25 22:00:23 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -11323,5 +11323,10 @@
     "nick": "Ique210000",
     "modes": {},
     "region": "SA"
+  },
+  "1189296782237253684": {
+    "nick": "Vyntra1",
+    "modes": {},
+    "region": "EU"
   }
 }
