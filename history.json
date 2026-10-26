@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793033529305,
-    "lastUpdateHuman": "2026-10-26 16:52:09 UTC",
+    "lastUpdate": 1793049250542,
+    "lastUpdateHuman": "2026-10-26 21:14:10 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1923,7 +1923,7 @@
     "region": "NA"
   },
   "1407758908612808747": {
-    "nick": "Larpdrix1",
+    "nick": "AdamAdissKitten",
     "modes": {
       "sword": [
         {
@@ -11444,5 +11444,10 @@
       ]
     },
     "region": "NA"
+  },
+  "1182398033359548486": {
+    "nick": "dvqus",
+    "modes": {},
+    "region": "EU"
   }
 }
