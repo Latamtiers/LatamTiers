@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1792989249985,
-    "lastUpdateHuman": "2026-10-26 04:34:09 UTC",
+    "lastUpdate": 1793010426201,
+    "lastUpdateHuman": "2026-10-26 10:27:06 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -11416,6 +11416,11 @@
   },
   "1299569821482094665": {
     "nick": "Karras5900",
+    "modes": {},
+    "region": "NA"
+  },
+  "1182123294925787178": {
+    "nick": "valentinitoxd_",
     "modes": {},
     "region": "NA"
   }
