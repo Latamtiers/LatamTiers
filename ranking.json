@@ -6019,7 +6019,12 @@
   "1522902681344151562": {
     "nick": "kevinsuarez_26",
     "region": "EU",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-26T14:27:50.986728+00:00"
+      }
+    }
   },
   "550085340787113995": {
     "nick": "ex4ever",
@@ -7738,7 +7743,12 @@
   "875000764488118322": {
     "nick": "qSansy",
     "region": "EU",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-26T15:33:02.508452+00:00"
+      }
+    }
   },
   "1404317472374657037": {
     "nick": "mro_rios11",
@@ -10714,6 +10724,11 @@
   "1182123294925787178": {
     "nick": "valentinitoxd_",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-26T14:48:14.551534+00:00"
+      }
+    }
   }
 }

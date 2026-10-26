@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793010426201,
-    "lastUpdateHuman": "2026-10-26 10:27:06 UTC",
+    "lastUpdate": 1793033529305,
+    "lastUpdateHuman": "2026-10-26 16:52:09 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -7204,7 +7204,14 @@
   },
   "1522902681344151562": {
     "nick": "kevinsuarez_26",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1793024870986
+        }
+      ]
+    },
     "region": "EU"
   },
   "550085340787113995": {
@@ -8692,7 +8699,14 @@
   },
   "875000764488118322": {
     "nick": "qSansy",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1793028782508
+        }
+      ]
+    },
     "region": "EU"
   },
   "1404317472374657037": {
@@ -11421,7 +11435,14 @@
   },
   "1182123294925787178": {
     "nick": "valentinitoxd_",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1793026094551
+        }
+      ]
+    },
     "region": "NA"
   }
 }
