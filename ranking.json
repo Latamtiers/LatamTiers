@@ -923,6 +923,10 @@
     "nick": "dagzxt",
     "region": "SA",
     "tiers": {
+      "UHC": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-27T20:11:31.645739+00:00"
+      },
       "SWORD": {
         "tier": "LT4",
         "obtained_at": "2026-10-08T22:10:36.969905+00:00"
@@ -1675,7 +1679,7 @@
     }
   },
   "1429845194106343497": {
-    "nick": "M2rco_",
+    "nick": "SanL3on",
     "region": "EU",
     "tiers": {
       "CRYSTAL": {
@@ -2276,7 +2280,7 @@
     }
   },
   "1523272508474654720": {
-    "nick": "Tit0pita_",
+    "nick": "AyoChill_",
     "region": "EU",
     "tiers": {
       "SWORD": {
@@ -4322,7 +4326,12 @@
   "893582324011266049": {
     "nick": "Triak_z",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "UHC": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-27T20:14:28.297824+00:00"
+      }
+    }
   },
   "686791068288548869": {
     "nick": "Ggc69",
@@ -8649,7 +8658,7 @@
     "tiers": {}
   },
   "1502797043226378343": {
-    "nick": "Darius__7",
+    "nick": "Slayer__7",
     "region": "NA",
     "tiers": {
       "NETHPOT": {
@@ -10923,5 +10932,35 @@
         "obtained_at": "2026-10-27T13:39:16.184783+00:00"
       }
     }
+  },
+  "1404144963423572151": {
+    "nick": "zSant4go_",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1257044543082201192": {
+    "nick": "dayaab_",
+    "region": "NA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-27T17:22:54.977130+00:00"
+      }
+    }
+  },
+  "1284931408791601239": {
+    "nick": "lll_lll_lll_lll",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1477505572252422255": {
+    "nick": "fertilizzerr",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1406374435862089728": {
+    "nick": "nnikz",
+    "region": "SA",
+    "tiers": {}
   }
 }

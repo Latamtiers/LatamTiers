@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793116907855,
-    "lastUpdateHuman": "2026-10-27 16:01:47 UTC",
+    "lastUpdate": 1793133335914,
+    "lastUpdateHuman": "2026-10-27 20:35:35 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1840,7 +1840,7 @@
     "region": "NA"
   },
   "1429845194106343497": {
-    "nick": "M2rco_",
+    "nick": "SanL3on",
     "modes": {
       "crystal": [
         {
@@ -2591,6 +2591,12 @@
         {
           "tier": "LT4",
           "at": 1791497436969
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1793131891645
         }
       ]
     },
@@ -3749,7 +3755,7 @@
     "region": "SA"
   },
   "1523272508474654720": {
-    "nick": "Tit0pita_",
+    "nick": "AyoChill_",
     "modes": {
       "nethpot": [
         {
@@ -5736,7 +5742,14 @@
   },
   "893582324011266049": {
     "nick": "Triak_z",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1793132068297
+        }
+      ]
+    },
     "region": "NA"
   },
   "686791068288548869": {
@@ -9525,7 +9538,7 @@
     "region": "SA"
   },
   "1502797043226378343": {
-    "nick": "Darius__7",
+    "nick": "Slayer__7",
     "modes": {
       "nethpot": [
         {
@@ -11694,6 +11707,38 @@
         }
       ]
     },
+    "region": "SA"
+  },
+  "1404144963423572151": {
+    "nick": "zSant4go_",
+    "modes": {},
+    "region": "NA"
+  },
+  "1257044543082201192": {
+    "nick": "dayaab_",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1793121774977
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1284931408791601239": {
+    "nick": "lll_lll_lll_lll",
+    "modes": {},
+    "region": "NA"
+  },
+  "1477505572252422255": {
+    "nick": "fertilizzerr",
+    "modes": {},
+    "region": "NA"
+  },
+  "1406374435862089728": {
+    "nick": "nnikz",
+    "modes": {},
     "region": "SA"
   }
 }
