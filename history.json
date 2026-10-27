@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793078606438,
-    "lastUpdateHuman": "2026-10-27 05:23:26 UTC",
+    "lastUpdate": 1793097826737,
+    "lastUpdateHuman": "2026-10-27 10:43:46 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -11654,5 +11654,15 @@
     "nick": "izonke",
     "modes": {},
     "region": "EU"
+  },
+  "995072515997180034": {
+    "nick": "BlackGreninja6",
+    "modes": {},
+    "region": "NA"
+  },
+  "798321674030153728": {
+    "nick": "Juelzcolon30",
+    "modes": {},
+    "region": "NA"
   }
 }
