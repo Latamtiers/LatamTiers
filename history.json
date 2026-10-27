@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793049250542,
-    "lastUpdateHuman": "2026-10-26 21:14:10 UTC",
+    "lastUpdate": 1793060858846,
+    "lastUpdateHuman": "2026-10-27 00:27:38 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -787,7 +787,7 @@
     "region": "NA"
   },
   "632009960464711680": {
-    "nick": "Moray__",
+    "nick": "_Moray",
     "modes": {
       "sword": [
         {
@@ -5779,6 +5779,12 @@
           "tier": "LT4",
           "at": 1792252287521
         }
+      ],
+      "axe": [
+        {
+          "tier": "HT5",
+          "at": 1793053416143
+        }
       ]
     },
     "region": "EU"
@@ -6148,6 +6154,12 @@
           "tier": "LT4",
           "at": 1792209025522
         }
+      ],
+      "axe": [
+        {
+          "tier": "HT5",
+          "at": 1793052443063
+        }
       ]
     },
     "region": "SA"
@@ -6405,7 +6417,7 @@
     "region": "EU"
   },
   "1129098119888502854": {
-    "nick": "lolxen",
+    "nick": "s1ngular1tyyyy",
     "modes": {},
     "region": "NA"
   },
@@ -6520,7 +6532,7 @@
     "region": "NA"
   },
   "633656280820613131": {
-    "nick": "amogsuu",
+    "nick": "4mogsu",
     "modes": {},
     "region": "EU"
   },
@@ -11447,6 +11459,68 @@
   },
   "1182398033359548486": {
     "nick": "dvqus",
+    "modes": {},
+    "region": "EU"
+  },
+  "1147858780202205294": {
+    "nick": "t1de_r1pper",
+    "modes": {},
+    "region": "EU"
+  },
+  "575419849157771284": {
+    "nick": "juampimartinezff",
+    "modes": {},
+    "region": "SA"
+  },
+  "1275539255476748298": {
+    "nick": "vyrtxo",
+    "modes": {},
+    "region": "EU"
+  },
+  "1292317715176095777": {
+    "nick": "zonex6609",
+    "modes": {},
+    "region": "NA"
+  },
+  "1272977717272252476": {
+    "nick": "JamJK",
+    "modes": {},
+    "region": "NA"
+  },
+  "994822042723549324": {
+    "nick": "k3nnytoo",
+    "modes": {},
+    "region": "NA"
+  },
+  "1458182091941482507": {
+    "nick": "seevoid",
+    "modes": {},
+    "region": "EU"
+  },
+  "1479996241139208354": {
+    "nick": "siemprelloro",
+    "modes": {},
+    "region": "NA"
+  },
+  "1247665660964638781": {
+    "nick": "asdmath",
+    "modes": {
+      "axe": [
+        {
+          "tier": "LT4",
+          "at": 1793055023976
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1157110520487350386": {
+    "nick": "pzjx",
+    "modes": {},
+    "region": "NA"
+  },
+  "1459230187613847583": {
+    "nick": "DR_MADARA",
     "modes": {},
     "region": "EU"
   }

@@ -2924,24 +2924,7 @@
   "1384949060607414334": {
     "nick": "Saaghqueque",
     "region": "NA",
-    "tiers": {
-      "UHC": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-24T19:57:31.112281+00:00"
-      },
-      "SWORD": {
-        "tier": "LT3",
-        "obtained_at": "2026-10-12T02:13:35.675251+00:00"
-      },
-      "NETHPOT": {
-        "tier": "LT3",
-        "obtained_at": "2026-10-12T02:13:35.675266+00:00"
-      },
-      "DIAMOND POT": {
-        "tier": "LT3",
-        "obtained_at": "2026-10-12T02:13:35.675267+00:00"
-      }
-    }
+    "tiers": {}
   },
   "1173806706829041725": {
     "nick": "yammymc",
@@ -4407,6 +4390,10 @@
       "DIAMOND POT": {
         "tier": "HT5",
         "obtained_at": "2026-10-23T17:37:54.141502+00:00"
+      },
+      "AXE": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-26T22:23:36.143255+00:00"
       }
     }
   },
@@ -4861,6 +4848,10 @@
       "MAZO": {
         "tier": "LT3",
         "obtained_at": "2026-10-17T03:50:25.522924+00:00"
+      },
+      "AXE": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-26T22:07:23.063531+00:00"
       }
     }
   },
@@ -5121,16 +5112,6 @@
       }
     }
   },
-  "1129098119888502854": {
-    "nick": "lolxen",
-    "region": "NA",
-    "tiers": {
-      "MAZO": {
-        "tier": "LT3",
-        "obtained_at": "2026-10-17T19:43:05.624076+00:00"
-      }
-    }
-  },
   "927614440231297094": {
     "nick": "T0rtur8",
     "region": "NA",
@@ -5282,7 +5263,7 @@
     }
   },
   "633656280820613131": {
-    "nick": "amogsuu",
+    "nick": "4mogsu",
     "region": "EU",
     "tiers": {}
   },
@@ -10458,7 +10439,7 @@
     }
   },
   "632009960464711680": {
-    "nick": "Moray__",
+    "nick": "_Moray",
     "region": "NA",
     "tiers": {
       "SWORD": {
@@ -10733,6 +10714,76 @@
   },
   "1182398033359548486": {
     "nick": "dvqus",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1147858780202205294": {
+    "nick": "t1de_r1pper",
+    "region": "EU",
+    "tiers": {}
+  },
+  "575419849157771284": {
+    "nick": "juampimartinezff",
+    "region": "SA",
+    "tiers": {}
+  },
+  "1275539255476748298": {
+    "nick": "vyrtxo",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1292317715176095777": {
+    "nick": "zonex6609",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1272977717272252476": {
+    "nick": "JamJK",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1129098119888502854": {
+    "nick": "s1ngular1tyyyy",
+    "region": "NA",
+    "tiers": {
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-26T22:43:54.113354+00:00"
+      }
+    }
+  },
+  "994822042723549324": {
+    "nick": "k3nnytoo",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1458182091941482507": {
+    "nick": "seevoid",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1479996241139208354": {
+    "nick": "siemprelloro",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1247665660964638781": {
+    "nick": "asdmath",
+    "region": "NA",
+    "tiers": {
+      "AXE": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-26T22:50:23.976088+00:00"
+      }
+    }
+  },
+  "1157110520487350386": {
+    "nick": "pzjx",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1459230187613847583": {
+    "nick": "DR_MADARA",
     "region": "EU",
     "tiers": {}
   }
