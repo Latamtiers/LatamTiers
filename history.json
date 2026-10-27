@@ -1,6 +1,6 @@
 {
   "942878691078312018": {
-    "nick": "Randuuuuu",
+    "nick": "kirinqo",
     "modes": {
       "axe": [
         {
@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793060858846,
-    "lastUpdateHuman": "2026-10-27 00:27:38 UTC",
+    "lastUpdate": 1793078606438,
+    "lastUpdateHuman": "2026-10-27 05:23:26 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -805,6 +805,10 @@
         {
           "tier": "HT5",
           "at": 1791757330032
+        },
+        {
+          "tier": "LT3",
+          "at": 1793066661699
         }
       ],
       "uhc": [
@@ -4289,7 +4293,7 @@
     "region": "NA"
   },
   "1262814671870627977": {
-    "nick": "Imaginandote",
+    "nick": "08tm",
     "modes": {
       "nethpot": [
         {
@@ -5335,7 +5339,14 @@
   },
   "1522424640671055925": {
     "nick": "Kenooka",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT4",
+          "at": 1793075870173
+        }
+      ]
+    },
     "region": "SA"
   },
   "1429549939800805576": {
@@ -5509,7 +5520,14 @@
   },
   "1037487232178733180": {
     "nick": "Vic3rTz",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1793077529969
+        }
+      ]
+    },
     "region": "SA"
   },
   "1013518915650981950": {
@@ -5669,7 +5687,7 @@
     "region": "SA"
   },
   "1453428429469778094": {
-    "nick": "IFrogX",
+    "nick": "ILarpFrogX",
     "modes": {},
     "region": "SA"
   },
@@ -6147,6 +6165,10 @@
         {
           "tier": "LT4",
           "at": 1792209025522
+        },
+        {
+          "tier": "HT5",
+          "at": 1793072517102
         }
       ],
       "sword": [
@@ -7085,7 +7107,14 @@
   },
   "1110303844480594012": {
     "nick": "likebanna",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1793074309834
+        }
+      ]
+    },
     "region": "NA"
   },
   "1502493829880873011": {
@@ -7302,7 +7331,7 @@
     "region": "NA"
   },
   "541728037566414848": {
-    "nick": "Auly",
+    "nick": "Celtay",
     "modes": {},
     "region": "NA"
   },
@@ -7455,7 +7484,14 @@
   },
   "763946239787663391": {
     "nick": "TealFlounder939",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1793072110567
+        }
+      ]
+    },
     "region": "NA"
   },
   "1377452039541358655": {
@@ -7496,7 +7532,7 @@
     "region": "SA"
   },
   "1492311807728291850": {
-    "nick": "ItzRealMe",
+    "nick": "Asylic",
     "modes": {
       "nethpot": [
         {
@@ -11510,6 +11546,12 @@
           "tier": "LT4",
           "at": 1793055023976
         }
+      ],
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1793064228968
+        }
       ]
     },
     "region": "NA"
@@ -11521,6 +11563,95 @@
   },
   "1459230187613847583": {
     "nick": "DR_MADARA",
+    "modes": {},
+    "region": "EU"
+  },
+  "885679116404265001": {
+    "nick": "Splatac",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1793064250526
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT5",
+          "at": 1793066412915
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1050810800610222122": {
+    "nick": "ecunem",
+    "modes": {},
+    "region": "NA"
+  },
+  "1480932617871425648": {
+    "nick": "rataxdxd",
+    "modes": {},
+    "region": "SA"
+  },
+  "1073904429109084181": {
+    "nick": "iKen_Kaneki",
+    "modes": {},
+    "region": "SA"
+  },
+  "865414995574390835": {
+    "nick": "ggsNion",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1793073025066
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1061110024933494894": {
+    "nick": "carnalitoq",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1793074115120
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1017424937331474442": {
+    "nick": "mopache",
+    "modes": {},
+    "region": "NA"
+  },
+  "850455418224377917": {
+    "nick": "PieroGg_",
+    "modes": {},
+    "region": "SA"
+  },
+  "1122934258072297674": {
+    "nick": "Feliponcio1",
+    "modes": {},
+    "region": "SA"
+  },
+  "826361691594817536": {
+    "nick": "harukop",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT4",
+          "at": 1793076138278
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1506970850434220033": {
+    "nick": "izonke",
     "modes": {},
     "region": "EU"
   }
