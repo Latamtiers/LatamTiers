@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793133335914,
-    "lastUpdateHuman": "2026-10-27 20:35:35 UTC",
+    "lastUpdate": 1793145491443,
+    "lastUpdateHuman": "2026-10-27 23:58:11 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1397,7 +1397,7 @@
     "region": "NA"
   },
   "776253036937871377": {
-    "nick": "_koda1",
+    "nick": "ykodaa",
     "modes": {
       "uhc": [
         {
@@ -1609,7 +1609,7 @@
     "region": "NA"
   },
   "971456558460461146": {
-    "nick": "Ma8un1a_",
+    "nick": "PanArab_1337",
     "modes": {
       "nethpot": [
         {
@@ -3828,7 +3828,7 @@
     "region": "NA"
   },
   "1065034516541997106": {
-    "nick": "BedroPony",
+    "nick": "dantek202",
     "modes": {
       "crystal": [
         {
@@ -4220,7 +4220,7 @@
     "region": "NA"
   },
   "1459408074635739311": {
-    "nick": "CuddlenKitten",
+    "nick": "_ls4",
     "modes": {
       "crystal": [
         {
@@ -5748,6 +5748,12 @@
           "tier": "HT5",
           "at": 1793132068297
         }
+      ],
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1793133459946
+        }
       ]
     },
     "region": "NA"
@@ -6990,7 +6996,7 @@
     "region": "SA"
   },
   "1272343935758499952": {
-    "nick": "Ketameme70",
+    "nick": "KaponJar",
     "modes": {
       "nethpot": [
         {
@@ -6999,7 +7005,7 @@
         }
       ]
     },
-    "region": "NA"
+    "region": "SA"
   },
   "1186794341155479613": {
     "nick": "FlpKiLL",
@@ -11738,7 +11744,29 @@
   },
   "1406374435862089728": {
     "nick": "nnikz",
-    "modes": {},
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT4",
+          "at": 1793135012857
+        }
+      ]
+    },
     "region": "SA"
+  },
+  "630522521724125245": {
+    "nick": "Guanoss",
+    "modes": {},
+    "region": "EU"
+  },
+  "997986782278865002": {
+    "nick": "REYASESINO08",
+    "modes": {},
+    "region": "NA"
+  },
+  "1490796677639045352": {
+    "nick": "MintyMelody",
+    "modes": {},
+    "region": "NA"
   }
 }
