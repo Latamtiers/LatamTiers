@@ -4347,7 +4347,7 @@
     }
   },
   "1414620982009921682": {
-    "nick": "SoPredictable",
+    "nick": "Gianpro_096",
     "region": "EU",
     "tiers": {
       "UHC": {
@@ -6564,8 +6564,8 @@
     }
   },
   "712826991560359966": {
-    "nick": "11Hzz_",
-    "region": "SA",
+    "nick": "1Flow_",
+    "region": "NA",
     "tiers": {
       "NETHPOT": {
         "tier": "HT5",
@@ -7606,7 +7606,7 @@
     }
   },
   "1534773336989765735": {
-    "nick": "Imaginandote",
+    "nick": "08tm",
     "region": "NA",
     "tiers": {
       "NETHPOT": {
@@ -8950,7 +8950,7 @@
     }
   },
   "1376399788098191370": {
-    "nick": "M4gazine",
+    "nick": "A5rk",
     "region": "SA",
     "tiers": {}
   },
@@ -10897,6 +10897,31 @@
   "798321674030153728": {
     "nick": "Juelzcolon30",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-27T11:15:09.407772+00:00"
+      }
+    }
+  },
+  "1551951501298110506": {
+    "nick": "meroskis",
+    "region": "NA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-27T13:32:38.244001+00:00"
+      }
+    }
+  },
+  "1436505480598917210": {
+    "nick": "kifhPNG",
+    "region": "SA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-27T13:39:16.184783+00:00"
+      }
+    }
   }
 }

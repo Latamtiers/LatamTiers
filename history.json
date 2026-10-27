@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793097826737,
-    "lastUpdateHuman": "2026-10-27 10:43:46 UTC",
+    "lastUpdate": 1793116907855,
+    "lastUpdateHuman": "2026-10-27 16:01:47 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5758,7 +5758,7 @@
     "region": "NA"
   },
   "1414620982009921682": {
-    "nick": "SoPredictable",
+    "nick": "Gianpro_096",
     "modes": {
       "uhc": [
         {
@@ -7717,7 +7717,7 @@
     "region": "NA"
   },
   "712826991560359966": {
-    "nick": "11Hzz_",
+    "nick": "1Flow_",
     "modes": {
       "nethpot": [
         {
@@ -7726,7 +7726,7 @@
         }
       ]
     },
-    "region": "SA"
+    "region": "NA"
   },
   "727705280347111465": {
     "nick": "Kewinz",
@@ -8625,7 +8625,7 @@
     "region": "NA"
   },
   "1534773336989765735": {
-    "nick": "Imaginandote",
+    "nick": "08tm",
     "modes": {
       "nethpot": [
         {
@@ -9822,7 +9822,7 @@
     "region": "NA"
   },
   "1376399788098191370": {
-    "nick": "M4gazine",
+    "nick": "A5rk",
     "modes": {},
     "region": "SA"
   },
@@ -11662,7 +11662,38 @@
   },
   "798321674030153728": {
     "nick": "Juelzcolon30",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1793099709407
+        }
+      ]
+    },
     "region": "NA"
+  },
+  "1551951501298110506": {
+    "nick": "meroskis",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1793107958244
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1436505480598917210": {
+    "nick": "kifhPNG",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1793108356184
+        }
+      ]
+    },
+    "region": "SA"
   }
 }
