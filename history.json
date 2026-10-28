@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793145491443,
-    "lastUpdateHuman": "2026-10-27 23:58:11 UTC",
+    "lastUpdate": 1793162043273,
+    "lastUpdateHuman": "2026-10-28 04:34:03 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -224,6 +224,10 @@
         {
           "tier": "LT3",
           "at": 1792608626722
+        },
+        {
+          "tier": "LT5",
+          "at": 1793152426191
         }
       ],
       "sword": [
@@ -2005,6 +2009,10 @@
         {
           "tier": "HT5",
           "at": 1791847978047
+        },
+        {
+          "tier": "LT4",
+          "at": 1793152179054
         }
       ],
       "sword": [
@@ -2014,7 +2022,7 @@
         }
       ]
     },
-    "region": "NA"
+    "region": "SA"
   },
   "1551225433767550998": {
     "nick": "iShadowzwx_",
@@ -2603,7 +2611,7 @@
     "region": "SA"
   },
   "982460865263571064": {
-    "nick": "7Lvyy_",
+    "nick": "VapeUser__",
     "modes": {},
     "region": "SA"
   },
@@ -2647,7 +2655,14 @@
   },
   "938574568598171678": {
     "nick": "_Pereda",
-    "modes": {},
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1793152347010
+        }
+      ]
+    },
     "region": "EU"
   },
   "1359759922287476736": {
@@ -4543,7 +4558,14 @@
   },
   "1553913166784761856": {
     "nick": "RICLIONBEST",
-    "modes": {},
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1793161250497
+        }
+      ]
+    },
     "region": "SA"
   },
   "1034580168406224977": {
@@ -5216,9 +5238,15 @@
           "tier": "LT5",
           "at": 1792019800560
         }
+      ],
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1793158794735
+        }
       ]
     },
-    "region": "SA"
+    "region": "NA/SA"
   },
   "830433157442437172": {
     "nick": "QuispeYupanqui",
@@ -5877,6 +5905,10 @@
         {
           "tier": "LT4",
           "at": 1792383880474
+        },
+        {
+          "tier": "HT4",
+          "at": 1793147536878
         }
       ],
       "sword": [
@@ -6079,7 +6111,7 @@
     "region": "NA"
   },
   "982814625387139072": {
-    "nick": "SweatF5",
+    "nick": "SweatF3",
     "modes": {
       "sword": [
         {
@@ -6870,7 +6902,7 @@
     "region": "SA"
   },
   "1034975723460509697": {
-    "nick": "xPsykosVx",
+    "nick": "NovMRIN",
     "modes": {
       "sword": [
         {
@@ -7002,6 +7034,10 @@
         {
           "tier": "HT4",
           "at": 1792539633680
+        },
+        {
+          "tier": "LT3",
+          "at": 1793150489820
         }
       ]
     },
@@ -7281,6 +7317,10 @@
         {
           "tier": "LT5",
           "at": 1792780224026
+        },
+        {
+          "tier": "HT5",
+          "at": 1793158222036
         }
       ],
       "sword": [
@@ -9087,7 +9127,7 @@
     "region": "SA"
   },
   "769446995857113109": {
-    "nick": "KingHamood",
+    "nick": "clarence7777",
     "modes": {
       "crystal": [
         {
@@ -9584,7 +9624,14 @@
   },
   "1235334351948873784": {
     "nick": "Foller_MC",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1793149075928
+        }
+      ]
+    },
     "region": "NA"
   },
   "1178853557810774047": {
@@ -10495,7 +10542,7 @@
     "region": "NA"
   },
   "1251610013554708582": {
-    "nick": "yGhostzz",
+    "nick": "qked_",
     "modes": {},
     "region": "SA"
   },
@@ -11676,7 +11723,14 @@
   },
   "995072515997180034": {
     "nick": "BlackGreninja6",
-    "modes": {},
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1793146536464
+        }
+      ]
+    },
     "region": "NA"
   },
   "798321674030153728": {
@@ -11717,7 +11771,20 @@
   },
   "1404144963423572151": {
     "nick": "zSant4go_",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1793159546037
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1793147921904
+        }
+      ]
+    },
     "region": "NA"
   },
   "1257044543082201192": {
@@ -11768,5 +11835,45 @@
     "nick": "MintyMelody",
     "modes": {},
     "region": "NA"
+  },
+  "1440013199163392012": {
+    "nick": "uoov",
+    "modes": {},
+    "region": "NA"
+  },
+  "1485246214030098565": {
+    "nick": "_nightlights",
+    "modes": {},
+    "region": "NA"
+  },
+  "1544847223991435326": {
+    "nick": "Oathfang",
+    "modes": {},
+    "region": "SA"
+  },
+  "1466271708339245317": {
+    "nick": "emanuelw",
+    "modes": {},
+    "region": "SA"
+  },
+  "695051730135679057": {
+    "nick": "Agurix",
+    "modes": {},
+    "region": "SA"
+  },
+  "1201308343470411877": {
+    "nick": "PixelTech_",
+    "modes": {},
+    "region": "NA"
+  },
+  "1115290525604532294": {
+    "nick": "SAMURAII001",
+    "modes": {},
+    "region": "AS"
+  },
+  "1060781705369231370": {
+    "nick": "Ixzyz",
+    "modes": {},
+    "region": "SA"
   }
 }
