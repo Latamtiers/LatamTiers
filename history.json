@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793184388267,
-    "lastUpdateHuman": "2026-10-28 10:46:28 UTC",
+    "lastUpdate": 1793206245643,
+    "lastUpdateHuman": "2026-10-28 16:50:45 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2257,7 +2257,7 @@
     "region": "NA"
   },
   "1279895866068434968": {
-    "nick": "F4ng55",
+    "nick": "Itz_F4ng",
     "modes": {
       "crystal": [
         {
@@ -2275,6 +2275,10 @@
         {
           "tier": "HT5",
           "at": 1791417563161
+        },
+        {
+          "tier": "LT5",
+          "at": 1793188541441
         }
       ]
     },
@@ -5279,6 +5283,10 @@
         {
           "tier": "LT4",
           "at": 1792020295775
+        },
+        {
+          "tier": "HT5",
+          "at": 1793189366999
         }
       ]
     },
@@ -11600,7 +11608,7 @@
     "region": "EU"
   },
   "1479996241139208354": {
-    "nick": "siemprelloro",
+    "nick": "siemperlloro",
     "modes": {},
     "region": "NA"
   },
@@ -11880,5 +11888,34 @@
     "nick": "tomygelp22",
     "modes": {},
     "region": "SA"
+  },
+  "1399735000227643416": {
+    "nick": "MikeSab21",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1793189712113
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "924224745413677066": {
+    "nick": "slovzy",
+    "modes": {},
+    "region": "EU"
+  },
+  "1343150255612629095": {
+    "nick": "BloodyMIX12",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1793191643347
+        }
+      ]
+    },
+    "region": "EU"
   }
 }
