@@ -1925,7 +1925,7 @@
     }
   },
   "1487848164739256352": {
-    "nick": "iker34",
+    "nick": "1qvIker34",
     "region": "EU",
     "tiers": {
       "NETHPOT": {
@@ -4676,7 +4676,12 @@
   "1194812835306410026": {
     "nick": "SoyDyegoXD",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "UHC": {
+        "tier": "LT4",
+        "obtained_at": "2026-10-28T21:13:30.865984+00:00"
+      }
+    }
   },
   "860357566140121099": {
     "nick": "Carlusu",
@@ -5136,7 +5141,7 @@
     }
   },
   "1452632198049038339": {
-    "nick": "ToyBlessd",
+    "nick": "kaoshz",
     "region": "EU",
     "tiers": {
       "NETHPOT": {
@@ -6174,8 +6179,8 @@
         "obtained_at": "2026-10-23T16:31:44.031577+00:00"
       },
       "MAZO": {
-        "tier": "LT4",
-        "obtained_at": "2026-10-23T16:31:44.031579+00:00"
+        "tier": "LT3",
+        "obtained_at": "2026-10-28T16:57:54.352751+00:00"
       }
     }
   },
@@ -10601,7 +10606,7 @@
     }
   },
   "1028042719634915368": {
-    "nick": "Locus_Amoenus",
+    "nick": "Concretizar",
     "region": "SA",
     "tiers": {
       "SWORD": {
@@ -10700,7 +10705,12 @@
   "1464737504291983586": {
     "nick": "TheValenMC",
     "region": "SA",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-28T19:25:23.973358+00:00"
+      }
+    }
   },
   "764323983914434560": {
     "nick": "Smooth1ng",
@@ -11092,6 +11102,10 @@
     "nick": "MikeSab21",
     "region": "EU",
     "tiers": {
+      "UHC": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-28T20:36:15.537077+00:00"
+      },
       "NETHPOT": {
         "tier": "HT5",
         "obtained_at": "2026-10-28T12:15:12.113500+00:00"
@@ -11120,5 +11134,49 @@
         "obtained_at": "2026-10-28T12:54:39.225345+00:00"
       }
     }
+  },
+  "1473500213774909663": {
+    "nick": "bolsilleraerome",
+    "region": "SA",
+    "tiers": {}
+  },
+  "1426847187337220126": {
+    "nick": "Homer111111",
+    "region": "NA/EU",
+    "tiers": {
+      "UHC": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-28T20:44:16.892321+00:00"
+      },
+      "NETHPOT": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-28T19:16:39.487863+00:00"
+      }
+    }
+  },
+  "1305205452363137124": {
+    "nick": "Syrux",
+    "region": "EU",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-10-28T19:40:23.166270+00:00"
+      }
+    }
+  },
+  "1383126777609851015": {
+    "nick": "Onlynga",
+    "region": "EU",
+    "tiers": {
+      "UHC": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-28T20:50:00.001758+00:00"
+      }
+    }
+  },
+  "1084926160183505047": {
+    "nick": "rodri34_3",
+    "region": "NA/SA",
+    "tiers": {}
   }
 }

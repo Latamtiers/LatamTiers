@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793206245643,
-    "lastUpdateHuman": "2026-10-28 16:50:45 UTC",
+    "lastUpdate": 1793222558443,
+    "lastUpdateHuman": "2026-10-28 21:22:38 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3410,7 +3410,7 @@
     "region": "NA"
   },
   "1487848164739256352": {
-    "nick": "iker34",
+    "nick": "1qvIker34",
     "modes": {
       "nethpot": [
         {
@@ -6058,7 +6058,14 @@
   },
   "1194812835306410026": {
     "nick": "SoyDyegoXD",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1793222010865
+        }
+      ]
+    },
     "region": "NA"
   },
   "860357566140121099": {
@@ -6486,7 +6493,7 @@
     "region": "NA"
   },
   "1452632198049038339": {
-    "nick": "ToyBlessd",
+    "nick": "kaoshz",
     "modes": {
       "nethpot": [
         {
@@ -11431,7 +11438,7 @@
     "region": "SA"
   },
   "1028042719634915368": {
-    "nick": "Locus_Amoenus",
+    "nick": "Concretizar",
     "modes": {
       "sword": [
         {
@@ -11498,7 +11505,14 @@
   },
   "1464737504291983586": {
     "nick": "TheValenMC",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1793215523973
+        }
+      ]
+    },
     "region": "SA"
   },
   "764323983914434560": {
@@ -11897,6 +11911,12 @@
           "tier": "HT5",
           "at": 1793189712113
         }
+      ],
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1793219775537
+        }
       ]
     },
     "region": "EU"
@@ -11917,5 +11937,57 @@
       ]
     },
     "region": "EU"
+  },
+  "1473500213774909663": {
+    "nick": "bolsilleraerome",
+    "modes": {},
+    "region": "SA"
+  },
+  "1426847187337220126": {
+    "nick": "Homer111111",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1793220256892
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1793214999487
+        }
+      ]
+    },
+    "region": "NA/EU"
+  },
+  "1305205452363137124": {
+    "nick": "Syrux",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1793216423166
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "1383126777609851015": {
+    "nick": "Onlynga",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1793220600001
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "1084926160183505047": {
+    "nick": "rodri34_3",
+    "modes": {},
+    "region": "NA/SA"
   }
 }
