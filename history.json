@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793162043273,
-    "lastUpdateHuman": "2026-10-28 04:34:03 UTC",
+    "lastUpdate": 1793184388267,
+    "lastUpdateHuman": "2026-10-28 10:46:28 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -11873,6 +11873,11 @@
   },
   "1060781705369231370": {
     "nick": "Ixzyz",
+    "modes": {},
+    "region": "SA"
+  },
+  "982053504040460348": {
+    "nick": "tomygelp22",
     "modes": {},
     "region": "SA"
   }
