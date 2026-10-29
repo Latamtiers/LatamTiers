@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793282290404,
-    "lastUpdateHuman": "2026-10-29 13:58:10 UTC",
+    "lastUpdate": 1793301972017,
+    "lastUpdateHuman": "2026-10-29 19:26:12 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -12095,5 +12095,10 @@
     "nick": "nicobuzz4",
     "modes": {},
     "region": "NA/EU"
+  },
+  "433667658789945354": {
+    "nick": "vS4nllye",
+    "modes": {},
+    "region": "NA/SA"
   }
 }
