@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793235883143,
-    "lastUpdateHuman": "2026-10-29 01:04:43 UTC",
+    "lastUpdate": 1793257093717,
+    "lastUpdateHuman": "2026-10-29 06:58:13 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1342,7 +1342,7 @@
     "region": "SA"
   },
   "1265240366739755047": {
-    "nick": "YogurcitoRemix",
+    "nick": "Enamoraita",
     "modes": {
       "crystal": [
         {
@@ -3129,6 +3129,10 @@
         {
           "tier": "LT5",
           "at": 1791590660786
+        },
+        {
+          "tier": "LT4",
+          "at": 1793243359187
         }
       ],
       "sword": [
@@ -5013,7 +5017,7 @@
     "region": "NA"
   },
   "1493279897039409202": {
-    "nick": "Hwrx_seb",
+    "nick": "Seb4zz",
     "modes": {
       "crystal": [
         {
@@ -5620,6 +5624,12 @@
         {
           "tier": "HT5",
           "at": 1792876388663
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1793240286401
         }
       ]
     },
@@ -12053,6 +12063,31 @@
   },
   "1092978635721408512": {
     "nick": "leopro1h",
+    "modes": {},
+    "region": "SA"
+  },
+  "1391292590959230977": {
+    "nick": "Zen_MMM",
+    "modes": {},
+    "region": "SA"
+  },
+  "1295872615818334320": {
+    "nick": "StaticNest7266",
+    "modes": {},
+    "region": "SA/EU"
+  },
+  "1562221291224830156": {
+    "nick": "dghzdjtdjhad",
+    "modes": {},
+    "region": "NA"
+  },
+  "760241858470871071": {
+    "nick": "Avon_3212",
+    "modes": {},
+    "region": "NA/SA"
+  },
+  "784591285080162314": {
+    "nick": "uBanned",
     "modes": {},
     "region": "SA"
   }
