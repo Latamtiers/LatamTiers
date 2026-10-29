@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793222558443,
-    "lastUpdateHuman": "2026-10-28 21:22:38 UTC",
+    "lastUpdate": 1793235883143,
+    "lastUpdateHuman": "2026-10-29 01:04:43 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2239,6 +2239,10 @@
         {
           "tier": "HT5",
           "at": 1791417092093
+        },
+        {
+          "tier": "LT4",
+          "at": 1793231508994
         }
       ],
       "nethpot": [
@@ -2251,6 +2255,10 @@
         {
           "tier": "HT5",
           "at": 1791902684487
+        },
+        {
+          "tier": "LT4",
+          "at": 1793232872583
         }
       ]
     },
@@ -2740,6 +2748,10 @@
         {
           "tier": "LT4",
           "at": 1791507384444
+        },
+        {
+          "tier": "LT5",
+          "at": 1793233309696
         }
       ],
       "sword": [
@@ -4017,7 +4029,7 @@
     "region": "EU"
   },
   "1533623186678354104": {
-    "nick": "Metertela",
+    "nick": "Respetada",
     "modes": {
       "sword": [
         {
@@ -7433,7 +7445,7 @@
     "region": "SA"
   },
   "1219985920045092946": {
-    "nick": "ZTELECK",
+    "nick": "zteleckmachetead",
     "modes": {
       "uhc": [
         {
@@ -7642,8 +7654,15 @@
   },
   "1287184181167656971": {
     "nick": "YourFocus",
-    "modes": {},
-    "region": "NA"
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1793228486734
+        }
+      ]
+    },
+    "region": "NA/SA"
   },
   "1137211556891988019": {
     "nick": "Jemsss_",
@@ -9573,7 +9592,14 @@
   },
   "1469442568021479708": {
     "nick": "aldoqq",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1793232493419
+        }
+      ]
+    },
     "region": "NA"
   },
   "1021592508494524546": {
@@ -10004,7 +10030,7 @@
   "1354522145866256384": {
     "nick": "eneaslara",
     "modes": {},
-    "region": "NA"
+    "region": "NA/SA"
   },
   "1520896183575379982": {
     "nick": "_4md",
@@ -10707,7 +10733,7 @@
     "region": "SA"
   },
   "840004496067133490": {
-    "nick": "RoroSkibidi",
+    "nick": "wxclol",
     "modes": {},
     "region": "NA"
   },
@@ -11511,6 +11537,12 @@
           "tier": "HT5",
           "at": 1793215523973
         }
+      ],
+      "sword": [
+        {
+          "tier": "HT5",
+          "at": 1793227436548
+        }
       ]
     },
     "region": "SA"
@@ -11987,7 +12019,41 @@
   },
   "1084926160183505047": {
     "nick": "rodri34_3",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1793223628035
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT5",
+          "at": 1793226811456
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1793229106286
+        }
+      ]
+    },
     "region": "NA/SA"
+  },
+  "1295473358107840558": {
+    "nick": "FadedPromise",
+    "modes": {},
+    "region": "NA/EU"
+  },
+  "1534660424820199565": {
+    "nick": "DukeTern",
+    "modes": {},
+    "region": "NA"
+  },
+  "1092978635721408512": {
+    "nick": "leopro1h",
+    "modes": {},
+    "region": "SA"
   }
 }
