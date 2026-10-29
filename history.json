@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793257093717,
-    "lastUpdateHuman": "2026-10-29 06:58:13 UTC",
+    "lastUpdate": 1793282290404,
+    "lastUpdateHuman": "2026-10-29 13:58:10 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -4363,7 +4363,7 @@
     "region": "SA"
   },
   "1384949060607414334": {
-    "nick": "Saaghqueque",
+    "nick": "Saagh_",
     "modes": {
       "sword": [
         {
@@ -6900,7 +6900,7 @@
     "region": "NA"
   },
   "993730848643887175": {
-    "nick": "AlmostShiny",
+    "nick": "undelirio",
     "modes": {},
     "region": "NA"
   },
@@ -8126,7 +8126,7 @@
     "region": "SA"
   },
   "1508339848761839747": {
-    "nick": "w_Urano",
+    "nick": "i7s___",
     "modes": {
       "crystal": [
         {
@@ -12090,5 +12090,10 @@
     "nick": "uBanned",
     "modes": {},
     "region": "SA"
+  },
+  "1540650245690621962": {
+    "nick": "nicobuzz4",
+    "modes": {},
+    "region": "NA/EU"
   }
 }
