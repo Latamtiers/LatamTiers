@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793375457032,
-    "lastUpdateHuman": "2026-10-30 15:50:57 UTC",
+    "lastUpdate": 1793391130552,
+    "lastUpdateHuman": "2026-10-30 20:12:10 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2055,7 +2055,7 @@
     "region": "NA"
   },
   "1494836886760587305": {
-    "nick": "AnchorPibble67",
+    "nick": "AnchorPibbleTap",
     "modes": {
       "crystal": [
         {
@@ -12318,5 +12318,15 @@
     "nick": "Xiygen",
     "modes": {},
     "region": "NA"
+  },
+  "1053343953686118480": {
+    "nick": "LuxzOverhall",
+    "modes": {},
+    "region": "SA"
+  },
+  "1329981314828599318": {
+    "nick": "OnlyGhetto",
+    "modes": {},
+    "region": "NA/SA"
   }
 }

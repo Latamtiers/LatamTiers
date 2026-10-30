@@ -222,7 +222,7 @@
     }
   },
   "1494836886760587305": {
-    "nick": "AnchorPibble67",
+    "nick": "AnchorPibbleTap",
     "region": "NA",
     "tiers": {
       "CRYSTAL": {
@@ -11442,6 +11442,21 @@
   "1493397198036271124": {
     "nick": "Xiygen",
     "region": "NA",
+    "tiers": {}
+  },
+  "1053343953686118480": {
+    "nick": "LuxzOverhall",
+    "region": "SA",
+    "tiers": {
+      "MAZO": {
+        "tier": "HT4",
+        "obtained_at": "2026-10-30T18:29:12.931694+00:00"
+      }
+    }
+  },
+  "1329981314828599318": {
+    "nick": "OnlyGhetto",
+    "region": "NA/SA",
     "tiers": {}
   }
 }
