@@ -5642,7 +5642,7 @@
   },
   "1383217744098492427": {
     "nick": "General1133",
-    "region": "EU",
+    "region": "SA/EU",
     "tiers": {
       "MAZO": {
         "tier": "HT5",
@@ -8029,12 +8029,7 @@
   "1301060870121455662": {
     "nick": "pvptierlist",
     "region": "SA",
-    "tiers": {
-      "CRYSTAL": {
-        "tier": "LT3",
-        "obtained_at": "2026-10-25T03:40:52.947960+00:00"
-      }
-    }
+    "tiers": {}
   },
   "1037861777972670484": {
     "nick": "quietm",
@@ -10658,16 +10653,7 @@
   "1358930219779490045": {
     "nick": "wzuklEpp",
     "region": "SA",
-    "tiers": {
-      "SWORD": {
-        "tier": "LT3",
-        "obtained_at": "2026-10-25T03:40:52.947960+00:00"
-      },
-      "DIAMOND POT": {
-        "tier": "HT4",
-        "obtained_at": "2026-10-25T03:40:52.947960+00:00"
-      }
-    }
+    "tiers": {}
   },
   "1028042719634915368": {
     "nick": "Concretizar",
@@ -10974,7 +10960,7 @@
     }
   },
   "1017424937331474442": {
-    "nick": "mopache",
+    "nick": "Zoelor",
     "region": "NA",
     "tiers": {}
   },

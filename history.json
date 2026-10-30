@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793328550410,
-    "lastUpdateHuman": "2026-10-30 02:49:10 UTC",
+    "lastUpdate": 1793351098632,
+    "lastUpdateHuman": "2026-10-30 09:04:58 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1380,7 +1380,7 @@
   "1383217744098492427": {
     "nick": "General1133",
     "modes": {},
-    "region": "EU"
+    "region": "SA/EU"
   },
   "1320600357465882726": {
     "nick": "Mr_J",
@@ -11833,7 +11833,7 @@
     "region": "NA"
   },
   "1017424937331474442": {
-    "nick": "mopache",
+    "nick": "Zoelor",
     "modes": {},
     "region": "NA"
   },
