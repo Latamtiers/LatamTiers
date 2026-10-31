@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793414719527,
-    "lastUpdateHuman": "2026-10-31 02:45:19 UTC",
+    "lastUpdate": 1793436920689,
+    "lastUpdateHuman": "2026-10-31 08:55:20 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2672,7 +2672,7 @@
     "region": "SA"
   },
   "1439777312903266315": {
-    "nick": "RUCHOTO",
+    "nick": "Griezmanttakucb_",
     "modes": {
       "crystal": [
         {
@@ -4625,6 +4625,12 @@
           "tier": "HT5",
           "at": 1793405897930
         }
+      ],
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1793415176899
+        }
       ]
     },
     "region": "SA"
@@ -5418,7 +5424,7 @@
     "region": "NA"
   },
   "1522384039514869811": {
-    "nick": "Teen_Cave",
+    "nick": "Kiyotaka_D",
     "modes": {
       "uhc": [
         {
@@ -5465,7 +5471,7 @@
     "region": "NA"
   },
   "1333726079306698821": {
-    "nick": "VXNSoru",
+    "nick": "Itsnotsoru",
     "modes": {},
     "region": "SA"
   },
@@ -7446,7 +7452,7 @@
     "region": "SA"
   },
   "1415439827020677151": {
-    "nick": "ChanchitoPancho",
+    "nick": "iSebasw",
     "modes": {},
     "region": "SA"
   },
@@ -7854,7 +7860,7 @@
     "region": "NA"
   },
   "1158504112585973901": {
-    "nick": "patoLM",
+    "nick": "ggsfemboy",
     "modes": {},
     "region": "NA"
   },
@@ -7977,7 +7983,7 @@
     "region": "NA"
   },
   "712826991560359966": {
-    "nick": "1Flow_",
+    "nick": "lowww67_",
     "modes": {
       "nethpot": [
         {
@@ -8105,7 +8111,7 @@
     "region": "NA"
   },
   "1099744076187832320": {
-    "nick": "Sharkydwn",
+    "nick": "sharkight",
     "modes": {
       "uhc": [
         {
@@ -9767,7 +9773,7 @@
     "region": "EU"
   },
   "1388408831427743754": {
-    "nick": "Fresk2575",
+    "nick": "Kaxfyr",
     "modes": {
       "crystal": [
         {
@@ -10606,7 +10612,7 @@
     "region": "NA"
   },
   "1291695997642084366": {
-    "nick": "Novakeke",
+    "nick": "Hearts4Nym",
     "modes": {
       "uhc": [
         {
@@ -12552,6 +12558,28 @@
   },
   "1501089105243668566": {
     "nick": "hkyz",
+    "modes": {},
+    "region": "NA"
+  },
+  "1087467314213036064": {
+    "nick": "Replikoso",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1793415460033
+        }
+      ]
+    },
+    "region": "NA/SA"
+  },
+  "326599988824244224": {
+    "nick": "Ulioj",
+    "modes": {},
+    "region": "NA"
+  },
+  "1463974998296232147": {
+    "nick": "Dylanqiu",
     "modes": {},
     "region": "NA"
   }
