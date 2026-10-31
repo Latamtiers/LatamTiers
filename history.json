@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793458596615,
-    "lastUpdateHuman": "2026-10-31 14:56:36 UTC",
+    "lastUpdate": 1793473518347,
+    "lastUpdateHuman": "2026-10-31 19:05:18 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3355,7 +3355,7 @@
     "region": "SA"
   },
   "716073776713826384": {
-    "nick": "hrxJ",
+    "nick": "amarse",
     "modes": {
       "crystal": [
         {
@@ -7425,6 +7425,10 @@
         {
           "tier": "HT5",
           "at": 1792708961875
+        },
+        {
+          "tier": "LT5",
+          "at": 1793469036009
         }
       ],
       "nethpot": [
@@ -7849,6 +7853,12 @@
         {
           "tier": "LT5",
           "at": 1792948255839
+        }
+      ],
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1793473444658
         }
       ]
     },
@@ -12580,6 +12590,33 @@
   },
   "1463974998296232147": {
     "nick": "Dylanqiu",
+    "modes": {},
+    "region": "NA"
+  },
+  "922284627673096252": {
+    "nick": "Guzzi0",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1793469755849
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "944687614697545808": {
+    "nick": "dr41ned",
+    "modes": {},
+    "region": "EU/AS"
+  },
+  "1363498397406859305": {
+    "nick": "RyneXq_",
+    "modes": {},
+    "region": "AS"
+  },
+  "1188280943484616754": {
+    "nick": "POTATO_3389_",
     "modes": {},
     "region": "NA"
   }

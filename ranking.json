@@ -1829,7 +1829,7 @@
     }
   },
   "716073776713826384": {
-    "nick": "hrxJ",
+    "nick": "amarse",
     "region": "NA",
     "tiers": {
       "CRYSTAL": {
@@ -6041,8 +6041,8 @@
     "region": "NA",
     "tiers": {
       "UHC": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-22T22:42:41.875527+00:00"
+        "tier": "LT5",
+        "obtained_at": "2026-10-31T17:50:36.009643+00:00"
       },
       "MAZO": {
         "tier": "HT5",
@@ -6512,6 +6512,10 @@
     "nick": "FROS_STY",
     "region": "EU",
     "tiers": {
+      "CRYSTAL": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-31T19:04:04.658759+00:00"
+      },
       "UHC": {
         "tier": "LT5",
         "obtained_at": "2026-10-25T17:10:55.839286+00:00"
@@ -11613,6 +11617,31 @@
   },
   "1463974998296232147": {
     "nick": "Dylanqiu",
+    "region": "NA",
+    "tiers": {}
+  },
+  "922284627673096252": {
+    "nick": "Guzzi0",
+    "region": "NA",
+    "tiers": {
+      "UHC": {
+        "tier": "LT5",
+        "obtained_at": "2026-10-31T18:02:35.849485+00:00"
+      }
+    }
+  },
+  "944687614697545808": {
+    "nick": "dr41ned",
+    "region": "EU/AS",
+    "tiers": {}
+  },
+  "1363498397406859305": {
+    "nick": "RyneXq_",
+    "region": "AS",
+    "tiers": {}
+  },
+  "1188280943484616754": {
+    "nick": "POTATO_3389_",
     "region": "NA",
     "tiers": {}
   }
