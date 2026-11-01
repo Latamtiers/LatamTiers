@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793496013486,
-    "lastUpdateHuman": "2026-11-01 01:20:13 UTC",
+    "lastUpdate": 1793518782166,
+    "lastUpdateHuman": "2026-11-01 07:39:42 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1824,6 +1824,12 @@
         {
           "tier": "LT4",
           "at": 1792978721035
+        }
+      ],
+      "axe": [
+        {
+          "tier": "HT5",
+          "at": 1793496423241
         }
       ]
     },
@@ -3905,7 +3911,14 @@
   },
   "1208211589178593383": {
     "nick": "Dereksh1",
-    "modes": {},
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1793505338435
+        }
+      ]
+    },
     "region": "NA"
   },
   "898597937947508736": {
@@ -4547,7 +4560,7 @@
     "region": "SA"
   },
   "1013199080240975953": {
-    "nick": "WatonasEnColale",
+    "nick": "CryMJ",
     "modes": {
       "nethpot": [
         {
@@ -7846,6 +7859,18 @@
           "tier": "LT5",
           "at": 1792978117094
         }
+      ],
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1793500438309
+        }
+      ],
+      "axe": [
+        {
+          "tier": "HT5",
+          "at": 1793496031500
+        }
       ]
     },
     "region": "NA"
@@ -8084,7 +8109,14 @@
   },
   "930282253429399552": {
     "nick": "BOOM676",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1793508819583
+        }
+      ]
+    },
     "region": "NA"
   },
   "1457582112302432401": {
@@ -12701,5 +12733,32 @@
     "nick": "GerraPVP",
     "modes": {},
     "region": "NA/SA"
+  },
+  "1414636776345174206": {
+    "nick": "yur9",
+    "modes": {
+      "axe": [
+        {
+          "tier": "LT5",
+          "at": 1793496795449
+        }
+      ]
+    },
+    "region": "NA/EU"
+  },
+  "775177317923684382": {
+    "nick": "CactJack",
+    "modes": {},
+    "region": "NA"
+  },
+  "1140656900770382037": {
+    "nick": "ImJustSkyHaru",
+    "modes": {},
+    "region": "SA"
+  },
+  "1139768865082060842": {
+    "nick": "loik_xdxd",
+    "modes": {},
+    "region": "NA"
   }
 }
