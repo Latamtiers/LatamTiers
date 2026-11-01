@@ -2377,6 +2377,10 @@
       "DIAMOND POT": {
         "tier": "LT4",
         "obtained_at": "2026-10-26T00:14:42.058144+00:00"
+      },
+      "AXE": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-01T01:10:22.650117+00:00"
       }
     }
   },
@@ -2541,6 +2545,10 @@
       "DIAMOND POT": {
         "tier": "HT5",
         "obtained_at": "2026-10-25T23:06:49.216167+00:00"
+      },
+      "AXE": {
+        "tier": "HT5",
+        "obtained_at": "2026-10-31T22:28:24.599534+00:00"
       }
     }
   },
@@ -5880,7 +5888,7 @@
     "tiers": {}
   },
   "1551122740776534026": {
-    "nick": "BalukaMotoqueiro",
+    "nick": "YxKirbby",
     "region": "SA",
     "tiers": {}
   },
@@ -11551,7 +11559,7 @@
     "tiers": {}
   },
   "1185258918646124564": {
-    "nick": "Morazzzzz",
+    "nick": "5wetw",
     "region": "SA",
     "tiers": {}
   },
