@@ -427,7 +427,7 @@
     "tiers": {}
   },
   "1488704625182769284": {
-    "nick": "ExuCoriga",
+    "nick": "_R3per_",
     "region": "SA",
     "tiers": {}
   },
@@ -2329,8 +2329,8 @@
         "obtained_at": "2026-10-23T23:18:02.737399+00:00"
       },
       "NETHPOT": {
-        "tier": "LT5",
-        "obtained_at": "2026-10-22T16:18:17.146836+00:00"
+        "tier": "LT4",
+        "obtained_at": "2026-11-01T17:28:19.201766+00:00"
       },
       "DIAMOND POT": {
         "tier": "LT5",
@@ -3633,7 +3633,7 @@
     "tiers": {}
   },
   "1437116939716526171": {
-    "nick": "Fembxy_",
+    "nick": "gluesniffer21",
     "region": "EU",
     "tiers": {
       "MAZO": {
@@ -4529,7 +4529,7 @@
     }
   },
   "1429914902096642230": {
-    "nick": "ChrolloFye",
+    "nick": "Valtterin",
     "region": "NA",
     "tiers": {
       "MAZO": {
@@ -7254,7 +7254,7 @@
     "tiers": {}
   },
   "345283130921582592": {
-    "nick": "Ilezy",
+    "nick": "V8EIGHT",
     "region": "EU",
     "tiers": {}
   },
@@ -9071,7 +9071,12 @@
   "1455605361435213884": {
     "nick": "flatfoxx",
     "region": "EU",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-01T17:38:51.820786+00:00"
+      }
+    }
   },
   "991479379735613502": {
     "nick": "IbiASGBT",
@@ -11742,5 +11747,25 @@
     "nick": "loik_xdxd",
     "region": "NA",
     "tiers": {}
+  },
+  "1281715108036350100": {
+    "nick": "Overkiss",
+    "region": "NA/SA",
+    "tiers": {}
+  },
+  "1236370590512840754": {
+    "nick": "nDack",
+    "region": "SA",
+    "tiers": {}
+  },
+  "1491702608052748310": {
+    "nick": "savitar2m",
+    "region": "NA/SA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-01T17:53:53.635648+00:00"
+      }
+    }
   }
 }

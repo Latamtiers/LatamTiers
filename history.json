@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793543400161,
-    "lastUpdateHuman": "2026-11-01 14:30:00 UTC",
+    "lastUpdate": 1793559946654,
+    "lastUpdateHuman": "2026-11-01 19:05:46 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1631,7 +1631,7 @@
     "region": "NA"
   },
   "1488704625182769284": {
-    "nick": "ExuCoriga",
+    "nick": "_R3per_",
     "modes": {},
     "region": "SA"
   },
@@ -3898,6 +3898,10 @@
         {
           "tier": "LT5",
           "at": 1792685897146
+        },
+        {
+          "tier": "LT4",
+          "at": 1793554099201
         }
       ],
       "sword": [
@@ -5215,7 +5219,7 @@
     "region": "EU"
   },
   "1437116939716526171": {
-    "nick": "Fembxy_",
+    "nick": "gluesniffer21",
     "modes": {},
     "region": "EU"
   },
@@ -6062,7 +6066,7 @@
     "region": "EU"
   },
   "1429914902096642230": {
-    "nick": "ChrolloFye",
+    "nick": "Valtterin",
     "modes": {},
     "region": "NA"
   },
@@ -8536,7 +8540,7 @@
     "region": "EU"
   },
   "345283130921582592": {
-    "nick": "Ilezy",
+    "nick": "V8EIGHT",
     "modes": {},
     "region": "EU"
   },
@@ -10163,7 +10167,14 @@
   },
   "1455605361435213884": {
     "nick": "flatfoxx",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1793554731820
+        }
+      ]
+    },
     "region": "EU"
   },
   "991479379735613502": {
@@ -12760,5 +12771,27 @@
     "nick": "loik_xdxd",
     "modes": {},
     "region": "NA"
+  },
+  "1281715108036350100": {
+    "nick": "Overkiss",
+    "modes": {},
+    "region": "NA/SA"
+  },
+  "1236370590512840754": {
+    "nick": "nDack",
+    "modes": {},
+    "region": "SA"
+  },
+  "1491702608052748310": {
+    "nick": "savitar2m",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1793555633635
+        }
+      ]
+    },
+    "region": "NA/SA"
   }
 }
