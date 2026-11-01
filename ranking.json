@@ -266,8 +266,8 @@
         "obtained_at": "2026-10-07T20:13:15.167001+00:00"
       },
       "UHC": {
-        "tier": "LT4",
-        "obtained_at": "2026-10-07T20:13:15.167012+00:00"
+        "tier": "HT5",
+        "obtained_at": "2026-11-01T20:30:56.122594+00:00"
       },
       "SWORD": {
         "tier": "HT4",
@@ -707,8 +707,8 @@
     "region": "NA",
     "tiers": {
       "UHC": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-23T21:20:00.088189+00:00"
+        "tier": "LT4",
+        "obtained_at": "2026-11-01T20:47:24.621871+00:00"
       },
       "SWORD": {
         "tier": "LT4",
@@ -823,8 +823,8 @@
         "obtained_at": "2026-10-08T21:07:41.832631+00:00"
       },
       "UHC": {
-        "tier": "LT5",
-        "obtained_at": "2026-10-08T21:07:41.832644+00:00"
+        "tier": "HT5",
+        "obtained_at": "2026-11-01T20:59:47.880487+00:00"
       },
       "SWORD": {
         "tier": "LT3",
@@ -3008,7 +3008,7 @@
     }
   },
   "1237800696825249915": {
-    "nick": "zSnowyxz",
+    "nick": "zSnowyy_",
     "region": "SA",
     "tiers": {
       "NETHPOT": {
@@ -3160,7 +3160,12 @@
   "1034580168406224977": {
     "nick": "krosdy",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "UHC": {
+        "tier": "HT4",
+        "obtained_at": "2026-11-01T20:00:31.775864+00:00"
+      }
+    }
   },
   "1281828160538804289": {
     "nick": "Davuli8a",
@@ -3472,7 +3477,7 @@
     }
   },
   "1406831586015449198": {
-    "nick": "sscar3dd",
+    "nick": "Skyairn",
     "region": "NA",
     "tiers": {}
   },
@@ -3515,8 +3520,8 @@
     "region": "NA",
     "tiers": {
       "CRYSTAL": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-14T01:28:15.949572+00:00"
+        "tier": "LT4",
+        "obtained_at": "2026-11-01T21:08:39.587000+00:00"
       },
       "UHC": {
         "tier": "HT5",
@@ -5436,12 +5441,12 @@
     "tiers": {}
   },
   "1454561403493941358": {
-    "nick": "TrustUss",
+    "nick": "stfwpls",
     "region": "EU",
     "tiers": {
       "CRYSTAL": {
-        "tier": "HT4",
-        "obtained_at": "2026-10-18T01:41:05.689065+00:00"
+        "tier": "LT3",
+        "obtained_at": "2026-11-01T20:55:44.132602+00:00"
       },
       "UHC": {
         "tier": "LT5",
@@ -6659,7 +6664,7 @@
     "tiers": {}
   },
   "1512847728856662277": {
-    "nick": "Peteito_hacker",
+    "nick": "SeanAmigables",
     "region": "SA",
     "tiers": {
       "CRYSTAL": {
@@ -7457,7 +7462,7 @@
     }
   },
   "1238160588241240106": {
-    "nick": "iMart1n",
+    "nick": "bad4Mart1n",
     "region": "NA",
     "tiers": {
       "SWORD": {
@@ -7944,7 +7949,7 @@
     "tiers": {}
   },
   "1353072577085571262": {
-    "nick": "vxKanzy",
+    "nick": "1zian_",
     "region": "SA",
     "tiers": {}
   },
@@ -9478,7 +9483,7 @@
     "tiers": {}
   },
   "1189234747872919605": {
-    "nick": "frankparins",
+    "nick": "v_vr",
     "region": "SA",
     "tiers": {
       "SWORD": {
@@ -10315,7 +10320,7 @@
     "tiers": {}
   },
   "808092892118908979": {
-    "nick": "ELCRACKPICHULONG",
+    "nick": "akdfgditrgdpttdg",
     "region": "NA",
     "tiers": {
       "NETHPOT": {
@@ -10594,7 +10599,7 @@
     "tiers": {}
   },
   "1538385713563959407": {
-    "nick": "Kanisuki",
+    "nick": "Anakingotu",
     "region": "SA",
     "tiers": {}
   },
@@ -10795,7 +10800,7 @@
     }
   },
   "1242846999384948865": {
-    "nick": "z_SuB",
+    "nick": "iiSUBii",
     "region": "SA",
     "tiers": {
       "NETHPOT": {
@@ -11767,5 +11772,30 @@
         "obtained_at": "2026-11-01T17:53:53.635648+00:00"
       }
     }
+  },
+  "1466184834702508228": {
+    "nick": "SoulKryx",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1253454184649326672": {
+    "nick": "LuisDroid",
+    "region": "NA",
+    "tiers": {}
+  },
+  "1454598455702851768": {
+    "nick": "Pedrolalala",
+    "region": "SA",
+    "tiers": {}
+  },
+  "1484963955096162415": {
+    "nick": "MilanesaCyborg",
+    "region": "NA/SA",
+    "tiers": {}
+  },
+  "1492303635554504784": {
+    "nick": "Roberto00215",
+    "region": "NA",
+    "tiers": {}
   }
 }
