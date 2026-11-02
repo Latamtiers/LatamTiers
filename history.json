@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793584239918,
-    "lastUpdateHuman": "2026-11-02 01:50:39 UTC",
+    "lastUpdate": 1793607913351,
+    "lastUpdateHuman": "2026-11-02 08:25:13 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1390,6 +1390,12 @@
         {
           "tier": "LT3",
           "at": 1791493516663
+        }
+      ],
+      "smp": [
+        {
+          "tier": "LT3",
+          "at": 1793598845398
         }
       ]
     },
@@ -6498,6 +6504,10 @@
         {
           "tier": "HT4",
           "at": 1792286241599
+        },
+        {
+          "tier": "LT4",
+          "at": 1793599259212
         }
       ],
       "axe": [
@@ -9142,7 +9152,7 @@
     "region": "NA"
   },
   "1079828279856480316": {
-    "nick": "Vysmmy",
+    "nick": "Smiffyy_",
     "modes": {},
     "region": "SA"
   },
@@ -10240,7 +10250,7 @@
     "region": "SA"
   },
   "525465548994379786": {
-    "nick": "SimunaWhiteDead",
+    "nick": "carlitosrun2006",
     "modes": {},
     "region": "SA"
   },
@@ -11247,7 +11257,7 @@
     "region": "NA"
   },
   "1537854255153676318": {
-    "nick": "AntiGordas11",
+    "nick": "MuslitosSuavess",
     "modes": {
       "nethpot": [
         {
@@ -12119,7 +12129,7 @@
     "region": "SA"
   },
   "826361691594817536": {
-    "nick": "harukop",
+    "nick": "koharux",
     "modes": {
       "uhc": [
         {

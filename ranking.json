@@ -4978,8 +4978,8 @@
     "region": "NA",
     "tiers": {
       "UHC": {
-        "tier": "HT4",
-        "obtained_at": "2026-10-18T01:17:21.599216+00:00"
+        "tier": "LT4",
+        "obtained_at": "2026-11-02T06:00:59.212837+00:00"
       },
       "MAZO": {
         "tier": "LT3",
@@ -6236,12 +6236,7 @@
   "765692262465142844": {
     "nick": "Auly",
     "region": "NA",
-    "tiers": {
-      "DIAMOND POT": {
-        "tier": "LT3",
-        "obtained_at": "2026-10-24T17:38:30.854085+00:00"
-      }
-    }
+    "tiers": {}
   },
   "541728037566414848": {
     "nick": "Celtay",
@@ -7907,7 +7902,7 @@
     "tiers": {}
   },
   "1079828279856480316": {
-    "nick": "Vysmmy",
+    "nick": "Smiffyy_",
     "region": "SA",
     "tiers": {}
   },
@@ -8706,6 +8701,10 @@
     "nick": "Enamoraita",
     "region": "NA",
     "tiers": {
+      "SMP": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-02T05:54:05.398898+00:00"
+      },
       "CRYSTAL": {
         "tier": "HT3",
         "obtained_at": "2026-10-25T03:40:52.947960+00:00"
@@ -9121,7 +9120,7 @@
     }
   },
   "525465548994379786": {
-    "nick": "SimunaWhiteDead",
+    "nick": "carlitosrun2006",
     "region": "SA",
     "tiers": {}
   },
@@ -10164,7 +10163,7 @@
     }
   },
   "1537854255153676318": {
-    "nick": "AntiGordas11",
+    "nick": "MuslitosSuavess",
     "region": "NA",
     "tiers": {
       "NETHPOT": {
@@ -11085,7 +11084,7 @@
     "tiers": {}
   },
   "826361691594817536": {
-    "nick": "harukop",
+    "nick": "koharux",
     "region": "NA",
     "tiers": {
       "UHC": {
@@ -11717,7 +11716,12 @@
   "1300203555038433312": {
     "nick": "Kevin_sagazz",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "MAZO": {
+        "tier": "LT4",
+        "obtained_at": "2026-11-02T03:35:17.021889+00:00"
+      }
+    }
   },
   "1096949711333752923": {
     "nick": "criadeheastryd",
