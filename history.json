@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793607913351,
-    "lastUpdateHuman": "2026-11-02 08:25:13 UTC",
+    "lastUpdate": 1793644718564,
+    "lastUpdateHuman": "2026-11-02 18:38:38 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -7496,7 +7496,14 @@
   },
   "1437037292710793348": {
     "nick": "Ukillast",
-    "modes": {},
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1793634779707
+        }
+      ]
+    },
     "region": "EU"
   },
   "1549986117271552093": {
@@ -8226,7 +8233,14 @@
   },
   "886455249844461571": {
     "nick": "CutyFly",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1793631011640
+        }
+      ]
+    },
     "region": "SA"
   },
   "1545113834925326418": {
@@ -11895,6 +11909,12 @@
           "tier": "HT5",
           "at": 1793227436548
         }
+      ],
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1793639842957
+        }
       ]
     },
     "region": "SA"
@@ -12022,7 +12042,7 @@
     "region": "NA"
   },
   "1247665660964638781": {
-    "nick": "asdmath",
+    "nick": "Math_GodCrit977",
     "modes": {
       "axe": [
         {
@@ -12164,6 +12184,12 @@
         {
           "tier": "LT3",
           "at": 1793099709407
+        }
+      ],
+      "crystal": [
+        {
+          "tier": "LT4",
+          "at": 1793633508400
         }
       ]
     },
@@ -12648,7 +12674,7 @@
     "region": "EU"
   },
   "1417673876107952262": {
-    "nick": "SuarezNoDiff",
+    "nick": "AkiraOnTopp",
     "modes": {},
     "region": "SA"
   },
@@ -12898,6 +12924,30 @@
   "903476004830474282": {
     "nick": "ShafyX",
     "modes": {},
+    "region": "NA"
+  },
+  "851654630613712897": {
+    "nick": "vv_x",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT2",
+          "at": 1793632043379
+        }
+      ]
+    },
+    "region": "NA/SA"
+  },
+  "1286491703783592019": {
+    "nick": "dereeck",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT3",
+          "at": 1793634382865
+        }
+      ]
+    },
     "region": "NA"
   }
 }
