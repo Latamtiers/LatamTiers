@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793668482490,
-    "lastUpdateHuman": "2026-11-03 01:14:42 UTC",
+    "lastUpdate": 1793692628178,
+    "lastUpdateHuman": "2026-11-03 07:57:08 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1609,6 +1609,12 @@
           "tier": "HT5",
           "at": 1793495422650
         }
+      ],
+      "smp": [
+        {
+          "tier": "HT5",
+          "at": 1793686736222
+        }
       ]
     },
     "region": "NA"
@@ -2979,6 +2985,12 @@
           "tier": "LT4",
           "at": 1791763137024
         }
+      ],
+      "smp": [
+        {
+          "tier": "LT3",
+          "at": 1793686034615
+        }
       ]
     },
     "region": "NA"
@@ -3100,7 +3112,7 @@
     "region": "SA"
   },
   "1463224675462287424": {
-    "nick": "alwaysmissofher",
+    "nick": "Desmoos",
     "modes": {
       "nethpot": [
         {
@@ -4273,7 +4285,7 @@
     "region": "NA"
   },
   "1493150289333846027": {
-    "nick": "FemboyAndrew",
+    "nick": "MadToffee",
     "modes": {},
     "region": "EU"
   },
@@ -4979,6 +4991,12 @@
           "tier": "LT4",
           "at": 1793316813796
         }
+      ],
+      "crystal": [
+        {
+          "tier": "LT4",
+          "at": 1793668851993
+        }
       ]
     },
     "region": "NA"
@@ -5591,7 +5609,7 @@
     "region": "NA"
   },
   "1020708509291118676": {
-    "nick": "__sil3nce_",
+    "nick": "_sil3nce",
     "modes": {},
     "region": "NA"
   },
@@ -6509,6 +6527,12 @@
           "tier": "LT3",
           "at": 1792794780086
         }
+      ],
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1793669553239
+        }
       ]
     },
     "region": "NA"
@@ -6980,6 +7004,12 @@
           "tier": "LT4",
           "at": 1793662790523
         }
+      ],
+      "smp": [
+        {
+          "tier": "LT4",
+          "at": 1793687972634
+        }
       ]
     },
     "region": "NA"
@@ -7343,6 +7373,12 @@
         {
           "tier": "HT3",
           "at": 1792514275930
+        }
+      ],
+      "smp": [
+        {
+          "tier": "LT3",
+          "at": 1793680206196
         }
       ]
     },
@@ -10788,7 +10824,7 @@
     "region": "SA"
   },
   "1473000264247152652": {
-    "nick": "madalinboy",
+    "nick": "Veyrion_",
     "modes": {},
     "region": "EU"
   },
@@ -12533,6 +12569,10 @@
         {
           "tier": "HT5",
           "at": 1793226811456
+        },
+        {
+          "tier": "LT5",
+          "at": 1793672327110
         }
       ],
       "nethpot": [
@@ -13101,5 +13141,17 @@
     "nick": "pedrido",
     "modes": {},
     "region": "SA"
+  },
+  "613436942159446020": {
+    "nick": "nnikz",
+    "modes": {
+      "smp": [
+        {
+          "tier": "HT5",
+          "at": 1793687431923
+        }
+      ]
+    },
+    "region": "NA/SA"
   }
 }
