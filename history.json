@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793720966551,
-    "lastUpdateHuman": "2026-11-03 15:49:26 UTC",
+    "lastUpdate": 1793740657331,
+    "lastUpdateHuman": "2026-11-03 21:17:37 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -127,6 +127,12 @@
         {
           "tier": "LT3",
           "at": 1791696029232
+        }
+      ],
+      "smp": [
+        {
+          "tier": "HT5",
+          "at": 1793738165691
         }
       ]
     },
@@ -340,6 +346,10 @@
         {
           "tier": "HT5",
           "at": 1789934515128
+        },
+        {
+          "tier": "LT4",
+          "at": 1793740645882
         }
       ],
       "sword": [
@@ -2072,7 +2082,7 @@
     "region": "SA"
   },
   "1418661295980417177": {
-    "nick": "yWafless_",
+    "nick": "GordoDown67",
     "modes": {},
     "region": "SA"
   },
@@ -2105,6 +2115,12 @@
         {
           "tier": "LT4",
           "at": 1793317848747
+        }
+      ],
+      "crystal": [
+        {
+          "tier": "LT4",
+          "at": 1793731572806
         }
       ]
     },
@@ -2163,7 +2179,7 @@
     "region": "SA"
   },
   "1303206236698841098": {
-    "nick": "Meestercash",
+    "nick": "meestr",
     "modes": {
       "crystal": [
         {
@@ -3137,6 +3153,12 @@
           "tier": "HT5",
           "at": 1793665199860
         }
+      ],
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1793730747538
+        }
       ]
     },
     "region": "NA/SA"
@@ -3541,7 +3563,7 @@
     "region": "NA"
   },
   "1187456133217124516": {
-    "nick": "javabeter",
+    "nick": "_CrispySteak",
     "modes": {
       "nethpot": [
         {
@@ -6621,7 +6643,7 @@
     "region": "NA"
   },
   "1188919173720580156": {
-    "nick": "Z4pomni3nie_",
+    "nick": "__cieciorka",
     "modes": {},
     "region": "EU"
   },
@@ -6677,7 +6699,7 @@
     "region": "NA"
   },
   "1476694220755439758": {
-    "nick": "JadeStarlightt",
+    "nick": "Jadecitaa",
     "modes": {
       "nethpot": [
         {
@@ -7082,6 +7104,10 @@
         {
           "tier": "HT5",
           "at": 1792706258135
+        },
+        {
+          "tier": "HT4",
+          "at": 1793731239992
         }
       ]
     },
@@ -7840,6 +7866,12 @@
         {
           "tier": "LT4",
           "at": 1792779236493
+        }
+      ],
+      "smp": [
+        {
+          "tier": "LT4",
+          "at": 1793737701927
         }
       ]
     },
@@ -13164,6 +13196,16 @@
         }
       ]
     },
+    "region": "NA/EU"
+  },
+  "1044381929132261439": {
+    "nick": "iPerrito",
+    "modes": {},
+    "region": "NA/SA"
+  },
+  "1562548307044081867": {
+    "nick": "Deltab2minus4ac",
+    "modes": {},
     "region": "NA/EU"
   }
 }
