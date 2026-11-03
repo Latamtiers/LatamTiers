@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793692628178,
-    "lastUpdateHuman": "2026-11-03 07:57:08 UTC",
+    "lastUpdate": 1793720966551,
+    "lastUpdateHuman": "2026-11-03 15:49:26 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1842,7 +1842,7 @@
     "region": "NA"
   },
   "1548845803932491807": {
-    "nick": "ont4",
+    "nick": "bumbai",
     "modes": {
       "sword": [
         {
@@ -13153,5 +13153,17 @@
       ]
     },
     "region": "NA/SA"
+  },
+  "1293261080549920800": {
+    "nick": "_steezzy",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1793717864654
+        }
+      ]
+    },
+    "region": "NA/EU"
   }
 }
