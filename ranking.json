@@ -1321,6 +1321,10 @@
     "nick": "Kensu1ipi1",
     "region": "NA",
     "tiers": {
+      "SMP": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-04T01:43:23.568887+00:00"
+      },
       "UHC": {
         "tier": "HT5",
         "obtained_at": "2026-10-09T21:07:28.394846+00:00"
@@ -1336,6 +1340,10 @@
       "DIAMOND POT": {
         "tier": "LT4",
         "obtained_at": "2026-10-09T21:07:28.394859+00:00"
+      },
+      "AXE": {
+        "tier": "LT4",
+        "obtained_at": "2026-11-04T01:34:47.395747+00:00"
       }
     }
   },
@@ -5373,8 +5381,8 @@
         "obtained_at": "2026-11-03T01:32:33.239223+00:00"
       },
       "UHC": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-18T14:15:07.012050+00:00"
+        "tier": "LT4",
+        "obtained_at": "2026-11-04T02:15:49.190887+00:00"
       },
       "SWORD": {
         "tier": "LT3",
@@ -6799,8 +6807,8 @@
         "obtained_at": "2026-10-24T22:28:29.426609+00:00"
       },
       "MAZO": {
-        "tier": "HT4",
-        "obtained_at": "2026-10-24T22:28:29.426611+00:00"
+        "tier": "LT3",
+        "obtained_at": "2026-11-04T06:03:13.428683+00:00"
       },
       "NETHPOT": {
         "tier": "LT4",
@@ -6937,6 +6945,10 @@
     "nick": "CutyFly",
     "region": "SA",
     "tiers": {
+      "MAZO": {
+        "tier": "LT5",
+        "obtained_at": "2026-11-04T05:19:59.078123+00:00"
+      },
       "NETHPOT": {
         "tier": "HT4",
         "obtained_at": "2026-11-02T14:50:11.640654+00:00"
@@ -9106,7 +9118,7 @@
     "tiers": {}
   },
   "1378814396817739887": {
-    "nick": "FarmeadorAura",
+    "nick": "SlvyNotPrime",
     "region": "NA",
     "tiers": {
       "UHC": {
@@ -12099,6 +12111,26 @@
   "1040714131168313504": {
     "nick": "ArgentinoBlatant",
     "region": "SA",
+    "tiers": {}
+  },
+  "1193748323799142442": {
+    "nick": "Frostmourne",
+    "region": "NA",
+    "tiers": {
+      "MAZO": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-04T05:04:08.986119+00:00"
+      }
+    }
+  },
+  "1425940326048338031": {
+    "nick": "Itz_Hacks",
+    "region": "SA",
+    "tiers": {}
+  },
+  "1005496212880900156": {
+    "nick": "ImHenry__",
+    "region": "NA",
     "tiers": {}
   }
 }

@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793755699086,
-    "lastUpdateHuman": "2026-11-04 01:28:19 UTC",
+    "lastUpdate": 1793778693395,
+    "lastUpdateHuman": "2026-11-04 07:51:33 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3103,6 +3103,18 @@
         {
           "tier": "LT5",
           "at": 1793399169428
+        }
+      ],
+      "smp": [
+        {
+          "tier": "HT5",
+          "at": 1793756603568
+        }
+      ],
+      "axe": [
+        {
+          "tier": "LT4",
+          "at": 1793756087395
         }
       ]
     },
@@ -6578,6 +6590,10 @@
         {
           "tier": "HT5",
           "at": 1792332907012
+        },
+        {
+          "tier": "LT4",
+          "at": 1793758549190
         }
       ],
       "axe": [
@@ -10359,7 +10375,7 @@
     "region": "SA"
   },
   "1378814396817739887": {
-    "nick": "FarmeadorAura",
+    "nick": "SlvyNotPrime",
     "modes": {
       "uhc": [
         {
@@ -13298,5 +13314,20 @@
     "nick": "ArgentinoBlatant",
     "modes": {},
     "region": "SA"
+  },
+  "1193748323799142442": {
+    "nick": "Frostmourne",
+    "modes": {},
+    "region": "NA"
+  },
+  "1425940326048338031": {
+    "nick": "Itz_Hacks",
+    "modes": {},
+    "region": "SA"
+  },
+  "1005496212880900156": {
+    "nick": "ImHenry__",
+    "modes": {},
+    "region": "NA"
   }
 }
