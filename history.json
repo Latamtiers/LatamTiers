@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793897064387,
-    "lastUpdateHuman": "2026-11-05 16:44:24 UTC",
+    "lastUpdate": 1793917239565,
+    "lastUpdateHuman": "2026-11-05 22:20:39 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5698,7 +5698,7 @@
     "region": "NA"
   },
   "1395411513287901296": {
-    "nick": "XPO__",
+    "nick": "FemXPO__",
     "modes": {
       "uhc": [
         {
@@ -6211,6 +6211,12 @@
         {
           "tier": "HT5",
           "at": 1793484278226
+        }
+      ],
+      "smp": [
+        {
+          "tier": "HT5",
+          "at": 1793902762926
         }
       ]
     },
@@ -7126,7 +7132,7 @@
     "region": "NA"
   },
   "1454561403493941358": {
-    "nick": "stfwpls",
+    "nick": "lovebility",
     "modes": {
       "crystal": [
         {
@@ -9467,7 +9473,7 @@
     "region": "SA"
   },
   "953456171266756608": {
-    "nick": "Derpatron",
+    "nick": "yuqcs",
     "modes": {},
     "region": "NA"
   },
@@ -10118,7 +10124,7 @@
     "region": "NA"
   },
   "832708190079942717": {
-    "nick": "TryceBruxis",
+    "nick": "PonyDrogado",
     "modes": {},
     "region": "SA"
   },
@@ -11136,7 +11142,7 @@
     "region": "EU"
   },
   "1452813567773376700": {
-    "nick": "SlayeryKath",
+    "nick": "Z5S3",
     "modes": {},
     "region": "SA"
   },
@@ -13338,7 +13344,72 @@
   },
   "754184432407019640": {
     "nick": "aepiccalo",
-    "modes": {},
+    "modes": {
+      "smp": [
+        {
+          "tier": "LT4",
+          "at": 1793901771650
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1793913977999
+        }
+      ]
+    },
     "region": "SA"
+  },
+  "1468414565724459302": {
+    "nick": "_zMarzvalx",
+    "modes": {},
+    "region": "NA"
+  },
+  "810532617954000947": {
+    "nick": "InFluuu",
+    "modes": {},
+    "region": "NA"
+  },
+  "1342906930615812126": {
+    "nick": "deendel",
+    "modes": {},
+    "region": "NA"
+  },
+  "942861476513841253": {
+    "nick": "Cuauholv",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1793914687696
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "699737062127042654": {
+    "nick": "PatitasSuavess",
+    "modes": {},
+    "region": "NA"
+  },
+  "1245561519073398906": {
+    "nick": "Jxryyn",
+    "modes": {},
+    "region": "NA/SA"
+  },
+  "1341944097794949221": {
+    "nick": "x_vn",
+    "modes": {},
+    "region": "NA"
+  },
+  "1401242101605339207": {
+    "nick": "qdluna",
+    "modes": {},
+    "region": "NA"
+  },
+  "1245155810053455933": {
+    "nick": "spawnguy1",
+    "modes": {},
+    "region": "NA"
   }
 }
