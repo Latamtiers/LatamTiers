@@ -422,6 +422,10 @@
       "DIAMOND POT": {
         "tier": "LT4",
         "obtained_at": "2026-10-11T18:17:17.956772+00:00"
+      },
+      "AXE": {
+        "tier": "LT4",
+        "obtained_at": "2026-11-04T23:27:30.201929+00:00"
       }
     }
   },
@@ -8979,7 +8983,7 @@
     }
   },
   "769800109981958144": {
-    "nick": "BatallaDeAura_",
+    "nick": "OMG_N0va",
     "region": "SA",
     "tiers": {
       "CRYSTAL": {
@@ -12132,5 +12136,15 @@
     "nick": "ImHenry__",
     "region": "NA",
     "tiers": {}
+  },
+  "754184432407019640": {
+    "nick": "aepiccalo",
+    "region": "SA",
+    "tiers": {
+      "MAZO": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-05T01:40:13.816034+00:00"
+      }
+    }
   }
 }

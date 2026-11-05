@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793828052454,
-    "lastUpdateHuman": "2026-11-04 21:34:12 UTC",
+    "lastUpdate": 1793843074338,
+    "lastUpdateHuman": "2026-11-05 01:44:34 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -408,7 +408,7 @@
     "region": "SA"
   },
   "769800109981958144": {
-    "nick": "BatallaDeAura_",
+    "nick": "OMG_N0va",
     "modes": {
       "crystal": [
         {
@@ -1794,6 +1794,12 @@
         {
           "tier": "HT5",
           "at": 1792558038244
+        }
+      ],
+      "axe": [
+        {
+          "tier": "LT4",
+          "at": 1793834850201
         }
       ]
     },
@@ -13329,5 +13335,10 @@
     "nick": "ImHenry__",
     "modes": {},
     "region": "NA"
+  },
+  "754184432407019640": {
+    "nick": "aepiccalo",
+    "modes": {},
+    "region": "SA"
   }
 }
