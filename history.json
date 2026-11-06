@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793958478816,
-    "lastUpdateHuman": "2026-11-06 09:47:58 UTC",
+    "lastUpdate": 1793984248111,
+    "lastUpdateHuman": "2026-11-06 16:57:28 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -13515,5 +13515,15 @@
     "nick": "KabuksuzKaplumba",
     "modes": {},
     "region": "EU"
+  },
+  "1482540592817766461": {
+    "nick": "kingsiem",
+    "modes": {},
+    "region": "EU"
+  },
+  "1452730882321416195": {
+    "nick": "XxBladeNightXx",
+    "modes": {},
+    "region": "SA"
   }
 }

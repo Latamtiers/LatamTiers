@@ -1734,16 +1734,7 @@
   "1205186123836694649": {
     "nick": "HilarioJose",
     "region": "EU",
-    "tiers": {
-      "CRYSTAL": {
-        "tier": "LT4",
-        "obtained_at": "2026-10-10T07:31:38.505165+00:00"
-      },
-      "MAZO": {
-        "tier": "LT3",
-        "obtained_at": "2026-10-10T07:31:38.505182+00:00"
-      }
-    }
+    "tiers": {}
   },
   "1355477953206685788": {
     "nick": "Ah_Boh",
@@ -12301,6 +12292,16 @@
   "1464936318638489778": {
     "nick": "KabuksuzKaplumba",
     "region": "EU",
+    "tiers": {}
+  },
+  "1482540592817766461": {
+    "nick": "kingsiem",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1452730882321416195": {
+    "nick": "XxBladeNightXx",
+    "region": "SA",
     "tiers": {}
   }
 }
