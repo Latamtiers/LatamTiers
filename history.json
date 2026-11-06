@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793984248111,
-    "lastUpdateHuman": "2026-11-06 16:57:28 UTC",
+    "lastUpdate": 1794002192379,
+    "lastUpdateHuman": "2026-11-06 21:56:32 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -678,7 +678,7 @@
     "region": "NA"
   },
   "754457944187207720": {
-    "nick": "SweetPlenoz",
+    "nick": "MiniPingaShade",
     "modes": {
       "nethpot": [
         {
@@ -3460,7 +3460,7 @@
         }
       ]
     },
-    "region": "EU"
+    "region": "NA/EU"
   },
   "1355477953206685788": {
     "nick": "Ah_Boh",
@@ -3535,6 +3535,12 @@
         {
           "tier": "HT5",
           "at": 1793651559729
+        }
+      ],
+      "smp": [
+        {
+          "tier": "LT4",
+          "at": 1793987195081
         }
       ]
     },
@@ -3819,7 +3825,7 @@
     "region": "SA"
   },
   "1422281900600328265": {
-    "nick": "6F2Dh0cA8GxEs",
+    "nick": "RoldyMC",
     "modes": {
       "crystal": [
         {
@@ -3983,7 +3989,7 @@
     "region": "EU"
   },
   "1400367536486355025": {
-    "nick": "Molvyn",
+    "nick": "izzascsiga",
     "modes": {},
     "region": "EU"
   },
@@ -4934,7 +4940,7 @@
     "region": "EU"
   },
   "677152606950391818": {
-    "nick": "PinkyPrince",
+    "nick": "CatGirlEnjoyerrr",
     "modes": {},
     "region": "EU"
   },
@@ -7216,6 +7222,12 @@
           "tier": "LT4",
           "at": 1793753832791
         }
+      ],
+      "smp": [
+        {
+          "tier": "HT5",
+          "at": 1793991131993
+        }
       ]
     },
     "region": "SA"
@@ -7871,6 +7883,12 @@
           "tier": "LT5",
           "at": 1792778523301
         }
+      ],
+      "smp": [
+        {
+          "tier": "HT5",
+          "at": 1793989147183
+        }
       ]
     },
     "region": "NA"
@@ -7961,7 +7979,7 @@
     "region": "SA"
   },
   "1219985920045092946": {
-    "nick": "zteleckmachetead",
+    "nick": "ztelekmacheteado",
     "modes": {
       "uhc": [
         {
@@ -9421,7 +9439,7 @@
     "region": "SA"
   },
   "845468508980903986": {
-    "nick": "DangerKevyria",
+    "nick": "Kevyria",
     "modes": {
       "sword": [
         {
@@ -11847,7 +11865,7 @@
     "region": "EU"
   },
   "1295120604856324146": {
-    "nick": "Miguel_145XD",
+    "nick": "IceR3ign",
     "modes": {},
     "region": "NA"
   },
@@ -13525,5 +13543,20 @@
     "nick": "XxBladeNightXx",
     "modes": {},
     "region": "SA"
+  },
+  "1551564918648606771": {
+    "nick": "eomiiii",
+    "modes": {},
+    "region": "AS"
+  },
+  "1248628027013988478": {
+    "nick": "Quake_MC1",
+    "modes": {},
+    "region": "EU"
+  },
+  "1404837322067021875": {
+    "nick": "OctoIzMe",
+    "modes": {},
+    "region": "NA"
   }
 }
