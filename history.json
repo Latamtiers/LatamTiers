@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1793932511953,
-    "lastUpdateHuman": "2026-11-06 02:35:11 UTC",
+    "lastUpdate": 1793958478816,
+    "lastUpdateHuman": "2026-11-06 09:47:58 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1517,6 +1517,10 @@
         {
           "tier": "HT5",
           "at": 1791334821060
+        },
+        {
+          "tier": "LT4",
+          "at": 1793934516629
         }
       ],
       "nethpot": [
@@ -5357,6 +5361,12 @@
         {
           "tier": "LT3",
           "at": 1792111840412
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1793934005160
         }
       ]
     },
@@ -11214,7 +11224,7 @@
     "region": "NA"
   },
   "1555338147783508027": {
-    "nick": "iannSix7",
+    "nick": "iLoveSanguchito",
     "modes": {},
     "region": "SA"
   },
@@ -13344,7 +13354,14 @@
   },
   "1193748323799142442": {
     "nick": "Frostmourne",
-    "modes": {},
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT5",
+          "at": 1793934729602
+        }
+      ]
+    },
     "region": "NA"
   },
   "1425940326048338031": {
@@ -13493,5 +13510,10 @@
       ]
     },
     "region": "NA"
+  },
+  "1464936318638489778": {
+    "nick": "KabuksuzKaplumba",
+    "modes": {},
+    "region": "EU"
   }
 }
