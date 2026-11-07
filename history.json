@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794037452739,
-    "lastUpdateHuman": "2026-11-07 07:44:12 UTC",
+    "lastUpdate": 1794061317282,
+    "lastUpdateHuman": "2026-11-07 14:21:57 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -628,6 +628,10 @@
         {
           "tier": "LT5",
           "at": 1791135987678
+        },
+        {
+          "tier": "HT5",
+          "at": 1794058167348
         }
       ],
       "axe": [
@@ -2438,6 +2442,10 @@
         {
           "tier": "LT5",
           "at": 1793188541441
+        },
+        {
+          "tier": "LT4",
+          "at": 1794057851646
         }
       ]
     },
@@ -7647,7 +7655,7 @@
     "region": "NA"
   },
   "785174817346420806": {
-    "nick": "godspeedkillua99",
+    "nick": "6wiings",
     "modes": {},
     "region": "SA"
   },

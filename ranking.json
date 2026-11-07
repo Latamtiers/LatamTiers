@@ -589,8 +589,8 @@
         "obtained_at": "2026-10-07T23:59:23.161910+00:00"
       },
       "NETHPOT": {
-        "tier": "LT5",
-        "obtained_at": "2026-10-28T11:55:41.441177+00:00"
+        "tier": "LT4",
+        "obtained_at": "2026-11-07T13:24:11.646036+00:00"
       },
       "DIAMOND POT": {
         "tier": "LT5",
@@ -4242,8 +4242,8 @@
         "obtained_at": "2026-10-15T20:57:14.897512+00:00"
       },
       "NETHPOT": {
-        "tier": "LT5",
-        "obtained_at": "2026-10-15T20:57:14.897526+00:00"
+        "tier": "HT5",
+        "obtained_at": "2026-11-07T13:29:27.348695+00:00"
       },
       "DIAMOND POT": {
         "tier": "LT5",
@@ -5999,7 +5999,7 @@
     }
   },
   "785174817346420806": {
-    "nick": "godspeedkillua99",
+    "nick": "6wiings",
     "region": "SA",
     "tiers": {}
   },
