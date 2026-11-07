@@ -24,8 +24,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794077653901,
-    "lastUpdateHuman": "2026-11-07 18:54:13 UTC",
+    "lastUpdate": 1794090353763,
+    "lastUpdateHuman": "2026-11-07 22:25:53 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -10450,7 +10450,7 @@
     "region": "SA"
   },
   "1139617326774362182": {
-    "nick": "mcpvp.club",
+    "nick": "Wildplays143",
     "modes": {
       "nethpot": [
         {
@@ -13571,7 +13571,14 @@
   },
   "699737062127042654": {
     "nick": "PatitasSuavess",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1794089791839
+        }
+      ]
+    },
     "region": "NA"
   },
   "1245561519073398906": {
@@ -13798,7 +13805,20 @@
   },
   "1567751085165248532": {
     "nick": "natgoat_",
-    "modes": {},
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1794086719132
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1794088828141
+        }
+      ]
+    },
     "region": "NA"
   },
   "1546899345021079644": {
@@ -13827,5 +13847,30 @@
     "nick": "1qvPortee",
     "modes": {},
     "region": "EU"
+  },
+  "827672421229920256": {
+    "nick": "Odzo_",
+    "modes": {},
+    "region": "EU"
+  },
+  "1014916123243860088": {
+    "nick": "werthyy",
+    "modes": {},
+    "region": "EU"
+  },
+  "1282187628225101865": {
+    "nick": "gorditocondrip",
+    "modes": {},
+    "region": "NA/SA"
+  },
+  "1336529376229068841": {
+    "nick": "GabbanaSmoke",
+    "modes": {},
+    "region": "SA"
+  },
+  "1443861578708422718": {
+    "nick": "Hvzyy",
+    "modes": {},
+    "region": "NA"
   }
 }

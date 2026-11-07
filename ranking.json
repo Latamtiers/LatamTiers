@@ -2047,6 +2047,10 @@
         "tier": "LT3",
         "obtained_at": "2026-10-11T05:33:24.730930+00:00"
       },
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-07T20:22:17.467581+00:00"
+      },
       "NETHPOT": {
         "tier": "LT3",
         "obtained_at": "2026-10-10T22:46:02.728339+00:00"
@@ -6132,6 +6136,10 @@
       "CRYSTAL": {
         "tier": "HT5",
         "obtained_at": "2026-11-02T15:52:59.707879+00:00"
+      },
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-07T19:06:06.016818+00:00"
       }
     }
   },
@@ -9076,7 +9084,7 @@
     "tiers": {}
   },
   "1139617326774362182": {
-    "nick": "mcpvp.club",
+    "nick": "Wildplays143",
     "region": "EU",
     "tiers": {
       "NETHPOT": {
@@ -11077,8 +11085,8 @@
     "region": "NA",
     "tiers": {
       "MAZO": {
-        "tier": "LT3",
-        "obtained_at": "2026-10-26T22:43:54.113354+00:00"
+        "tier": "HT3",
+        "obtained_at": "2026-11-07T19:49:37.171837+00:00"
       }
     }
   },
@@ -11413,7 +11421,12 @@
   "982053504040460348": {
     "nick": "tomygelp22",
     "region": "SA",
-    "tiers": {}
+    "tiers": {
+      "MAZO": {
+        "tier": "LT5",
+        "obtained_at": "2026-11-07T20:51:14.068837+00:00"
+      }
+    }
   },
   "1399735000227643416": {
     "nick": "MikeSab21",
@@ -12282,7 +12295,12 @@
   "699737062127042654": {
     "nick": "PatitasSuavess",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-07T22:16:31.839176+00:00"
+      }
+    }
   },
   "1245561519073398906": {
     "nick": "Jxryyn",
@@ -12519,6 +12537,18 @@
     "nick": "natgoat_",
     "region": "NA",
     "tiers": {
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-07T21:25:19.132722+00:00"
+      },
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-07T19:25:29.125135+00:00"
+      },
+      "NETHPOT": {
+        "tier": "HT4",
+        "obtained_at": "2026-11-07T22:00:28.141160+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT4",
         "obtained_at": "2026-11-07T18:03:46.421813+00:00"
@@ -12557,6 +12587,31 @@
   "1222953248466407484": {
     "nick": "1qvPortee",
     "region": "EU",
+    "tiers": {}
+  },
+  "827672421229920256": {
+    "nick": "Odzo_",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1014916123243860088": {
+    "nick": "werthyy",
+    "region": "EU",
+    "tiers": {}
+  },
+  "1282187628225101865": {
+    "nick": "gorditocondrip",
+    "region": "NA/SA",
+    "tiers": {}
+  },
+  "1336529376229068841": {
+    "nick": "GabbanaSmoke",
+    "region": "SA",
+    "tiers": {}
+  },
+  "1443861578708422718": {
+    "nick": "Hvzyy",
+    "region": "NA",
     "tiers": {}
   }
 }
