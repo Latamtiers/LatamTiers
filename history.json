@@ -19,13 +19,19 @@
           "tier": "HT3",
           "at": 1792899652947
         }
+      ],
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1794160859124
+        }
       ]
     },
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794149503056,
-    "lastUpdateHuman": "2026-11-08 14:51:43 UTC",
+    "lastUpdate": 1794165139745,
+    "lastUpdateHuman": "2026-11-08 19:12:19 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -35,7 +41,7 @@
     "region": "EU"
   },
   "689350744880840704": {
-    "nick": "RepudioSixSeven",
+    "nick": "ProyectadoPotter",
     "modes": {
       "sword": [
         {
@@ -151,7 +157,7 @@
     "region": "SA"
   },
   "1520984875807805603": {
-    "nick": "gWhoisS",
+    "nick": "fightSWAAAAG",
     "modes": {
       "uhc": [
         {
@@ -213,7 +219,7 @@
         }
       ]
     },
-    "region": "SA"
+    "region": "NA"
   },
   "597803799272357898": {
     "nick": "Hollowdt",
@@ -506,7 +512,7 @@
     "region": "NA"
   },
   "1542294654987411597": {
-    "nick": "AbbaHazeemAfp",
+    "nick": "abbahazeemAFP",
     "modes": {
       "nethpot": [
         {
@@ -698,7 +704,7 @@
     "region": "EU"
   },
   "1231624431319650416": {
-    "nick": "ItzGL1TCH3D",
+    "nick": "itzGL1TCH3D",
     "modes": {
       "crystal": [
         {
@@ -707,7 +713,7 @@
         }
       ]
     },
-    "region": "RU"
+    "region": "EU"
   },
   "1004920410380455986": {
     "nick": "AbrahamGD",
@@ -994,7 +1000,7 @@
     "region": "EU"
   },
   "1403478311740379176": {
-    "nick": "AbeasoAlaCorneta",
+    "nick": "GalletasDeTussi",
     "modes": {
       "sword": [
         {
@@ -7635,7 +7641,7 @@
     "region": "SA"
   },
   "1272343935758499952": {
-    "nick": "KaponJar",
+    "nick": "OnlyKapon",
     "modes": {
       "nethpot": [
         {
@@ -7808,7 +7814,7 @@
     "region": "NA"
   },
   "1258993111149973607": {
-    "nick": "kirinqo",
+    "nick": null,
     "modes": {
       "uhc": [
         {
@@ -7932,7 +7938,7 @@
     "region": "NA/SA"
   },
   "1453847227746488345": {
-    "nick": "213e4",
+    "nick": "12321EWADASDF2E3",
     "modes": {},
     "region": "NA"
   },
@@ -14083,5 +14089,1044 @@
       ]
     },
     "region": "NA"
+  },
+  "1137475451913240627": {
+    "nick": "menno0320",
+    "modes": {},
+    "region": "EU"
+  },
+  "1391085138514935898": {
+    "nick": "Isaakx7Top",
+    "modes": {},
+    "region": "SA"
+  },
+  "901918213305151558": {
+    "nick": null,
+    "modes": {}
+  },
+  "1139421829275074694": {
+    "nick": "2ndSucks",
+    "modes": {},
+    "region": "NA"
+  },
+  "1106272907572813945": {
+    "nick": "veloc1tyy",
+    "modes": {},
+    "region": "EU"
+  },
+  "1521135962007277689": {
+    "nick": "El3mentl_",
+    "modes": {},
+    "region": "EU"
+  },
+  "1403047640404328478": {
+    "nick": "braxxz_hub",
+    "modes": {},
+    "region": "NA"
+  },
+  "1298328113175986226": {
+    "nick": "Beluza_7w7",
+    "modes": {},
+    "region": "SA"
+  },
+  "795283646931664897": {
+    "nick": "YuviHD",
+    "modes": {},
+    "region": "EU"
+  },
+  "1212106843892224061": {
+    "nick": "Dirxk_",
+    "modes": {},
+    "region": "EU"
+  },
+  "1008853723189088386": {
+    "nick": "Yoshi_23kou",
+    "modes": {},
+    "region": "SA"
+  },
+  "1230225667119906920": {
+    "nick": "Blastcu",
+    "modes": {},
+    "region": "NA"
+  },
+  "1091721146925330503": {
+    "nick": "Chapeu",
+    "modes": {},
+    "region": "SA"
+  },
+  "875926829440061470": {
+    "nick": "a",
+    "modes": {},
+    "region": "NA"
+  },
+  "1505221899570122794": {
+    "nick": "Arrebatado",
+    "modes": {},
+    "region": "SA"
+  },
+  "1493325982076243968": {
+    "nick": "PXOJA",
+    "modes": {},
+    "region": "SA"
+  },
+  "1391613056882311181": {
+    "nick": "papalicha",
+    "modes": {},
+    "region": "SA"
+  },
+  "1458569459567693981": {
+    "nick": "zeeeeew",
+    "modes": {},
+    "region": "EU"
+  },
+  "1041172011545800785": {
+    "nick": "xornio",
+    "modes": {},
+    "region": "EU"
+  },
+  "1510140159528665265": {
+    "nick": "lTrueReligionFei",
+    "modes": {},
+    "region": "SA"
+  },
+  "651769394677940254": {
+    "nick": "t",
+    "modes": {},
+    "region": "NA"
+  },
+  "1265620906277998612": {
+    "nick": "Ezhak_bread",
+    "modes": {},
+    "region": "EU"
+  },
+  "1204104493419991084": {
+    "nick": "RewellTheLion",
+    "modes": {},
+    "region": "EU"
+  },
+  "1156289024030425209": {
+    "nick": "qAnchor",
+    "modes": {},
+    "region": "NA"
+  },
+  "1534088084700921916": {
+    "nick": "delyya",
+    "modes": {},
+    "region": "EU"
+  },
+  "587480071309361153": {
+    "nick": "dhexther",
+    "modes": {},
+    "region": "NA"
+  },
+  "1291545829760303135": {
+    "nick": "xGeekB4r",
+    "modes": {},
+    "region": "NA"
+  },
+  "1457930560700678258": {
+    "nick": "shulkzera",
+    "modes": {},
+    "region": "NA"
+  },
+  "1555500857951395884": {
+    "nick": "Inrevrsble_",
+    "modes": {},
+    "region": "NA/SA"
+  },
+  "1453195785335214182": {
+    "nick": "MaeGlaceon",
+    "modes": {},
+    "region": "NA"
+  },
+  "1491524572195979284": {
+    "nick": "S4dness1337",
+    "modes": {},
+    "region": "EU"
+  },
+  "1470032548615688323": {
+    "nick": "Pksr1n",
+    "modes": {},
+    "region": "SA"
+  },
+  "815008890562281594": {
+    "nick": "ManantialMC",
+    "modes": {},
+    "region": "EU"
+  },
+  "724825768399732777": {
+    "nick": "resucitas",
+    "modes": {},
+    "region": "NA"
+  },
+  "1223827621293592658": {
+    "nick": "Vamperchu",
+    "modes": {},
+    "region": "SA"
+  },
+  "717056535213375571": {
+    "nick": "idalil",
+    "modes": {},
+    "region": "NA"
+  },
+  "1482704208787406970": {
+    "nick": "Rendrixx",
+    "modes": {},
+    "region": "EU"
+  },
+  "1442128750857945088": {
+    "nick": "Angelaateamo",
+    "modes": {},
+    "region": "SA"
+  },
+  "1066542253868331068": {
+    "nick": "_iannn",
+    "modes": {},
+    "region": "SA"
+  },
+  "1520534112316952674": {
+    "nick": "Miuwa",
+    "modes": {},
+    "region": "NA"
+  },
+  "1528367041168281672": {
+    "nick": "kTragic",
+    "modes": {},
+    "region": "SA"
+  },
+  "1342174607565656064": {
+    "nick": "SucoBemFeliz",
+    "modes": {},
+    "region": "SA"
+  },
+  "1329542367790759997": {
+    "nick": "mishu1003",
+    "modes": {},
+    "region": "SA"
+  },
+  "1102758790845177917": {
+    "nick": "hanahakisyndrome",
+    "modes": {},
+    "region": "NA"
+  },
+  "757281081891487905": {
+    "nick": "Sebelmascapxx",
+    "modes": {},
+    "region": "NA"
+  },
+  "1337603792572514324": {
+    "nick": "quequecoco",
+    "modes": {},
+    "region": "SA"
+  },
+  "1494175236453568542": {
+    "nick": "ItzLarryX",
+    "modes": {},
+    "region": "NA"
+  },
+  "541157373084041226": {
+    "nick": "Werewolf_071",
+    "modes": {},
+    "region": "EU"
+  },
+  "794254786718859264": {
+    "nick": "Itztamark",
+    "modes": {},
+    "region": "NA"
+  },
+  "1207130459235024910": {
+    "nick": "riumb",
+    "modes": {},
+    "region": "NA"
+  },
+  "1131428117836214433": {
+    "nick": "M1dzz",
+    "modes": {},
+    "region": "SA"
+  },
+  "1516990972280438825": {
+    "nick": "wPatito",
+    "modes": {},
+    "region": "NA"
+  },
+  "1494685292467060908": {
+    "nick": "MamaEnte2006",
+    "modes": {},
+    "region": "EU"
+  },
+  "1534566010995212383": {
+    "nick": "AnglerMe",
+    "modes": {},
+    "region": "EU"
+  },
+  "617507679069405338": {
+    "nick": "Alcaili",
+    "modes": {},
+    "region": "NA"
+  },
+  "1286297569814773760": {
+    "nick": "FetyszStupek",
+    "modes": {},
+    "region": "EU"
+  },
+  "966835051616682085": {
+    "nick": null,
+    "modes": {}
+  },
+  "1017443967517851688": {
+    "nick": "DefNotMycsu",
+    "modes": {},
+    "region": "EU"
+  },
+  "1529770407971000441": {
+    "nick": "i_am_heart",
+    "modes": {},
+    "region": "NA"
+  },
+  "839454971195031563": {
+    "nick": "oscarito_",
+    "modes": {},
+    "region": "SA"
+  },
+  "1337961524676788364": {
+    "nick": "JetHammer10",
+    "modes": {},
+    "region": "NA"
+  },
+  "1453806238579163363": {
+    "nick": "laaaes",
+    "modes": {},
+    "region": "EU"
+  },
+  "1435089234284253311": {
+    "nick": "youraverageLT2",
+    "modes": {},
+    "region": "NA"
+  },
+  "1523133805702021165": {
+    "nick": "Demudado",
+    "modes": {},
+    "region": "NA"
+  },
+  "1011773389825900665": {
+    "nick": "zLDS3",
+    "modes": {},
+    "region": "NA"
+  },
+  "1530449801357824092": {
+    "nick": "JoaoQuadrado",
+    "modes": {},
+    "region": "SA"
+  },
+  "1482774215915606168": {
+    "nick": "Kayn132",
+    "modes": {},
+    "region": "NA"
+  },
+  "1281729865292316693": {
+    "nick": "onefryCEO",
+    "modes": {},
+    "region": "EU"
+  },
+  "1285732321038958606": {
+    "nick": "peppino1126",
+    "modes": {},
+    "region": "NA"
+  },
+  "1269758773984231476": {
+    "nick": "xBrr",
+    "modes": {},
+    "region": "EU"
+  },
+  "1485744426084204738": {
+    "nick": null,
+    "modes": {}
+  },
+  "1340163542300495892": {
+    "nick": "carloromt",
+    "modes": {},
+    "region": "NA"
+  },
+  "1318686843633401957": {
+    "nick": "Nikidwn",
+    "modes": {},
+    "region": "SA"
+  },
+  "1542712187359858773": {
+    "nick": "Triggan_",
+    "modes": {},
+    "region": "NA"
+  },
+  "1155042133913370695": {
+    "nick": "OUTSOBER",
+    "modes": {},
+    "region": "SA"
+  },
+  "1157926402587361340": {
+    "nick": "Sweet_Ivvy",
+    "modes": {},
+    "region": "NA"
+  },
+  "1185811515262124164": {
+    "nick": "Formulado",
+    "modes": {},
+    "region": "NA"
+  },
+  "1394008922284621926": {
+    "nick": "DevoraPingas_1",
+    "modes": {},
+    "region": "SA"
+  },
+  "1374460429446811729": {
+    "nick": "Neur0se__",
+    "modes": {},
+    "region": "SA"
+  },
+  "755624414242013295": {
+    "nick": "Rekesonszz",
+    "modes": {},
+    "region": "NA"
+  },
+  "344480152455086110": {
+    "nick": "_KMD",
+    "modes": {},
+    "region": "EU"
+  },
+  "1328212105467265039": {
+    "nick": "ImNotBread",
+    "modes": {},
+    "region": "SA"
+  },
+  "1340415918701940878": {
+    "nick": "Ausgetr1ckst",
+    "modes": {},
+    "region": "EU"
+  },
+  "1167367021890121760": {
+    "nick": "Sawnhyper",
+    "modes": {},
+    "region": "EU"
+  },
+  "1297227426237120564": {
+    "nick": null,
+    "modes": {}
+  },
+  "1151529880593371287": {
+    "nick": "NICKX212",
+    "modes": {},
+    "region": "EU"
+  },
+  "1240901546754052188": {
+    "nick": "samuelitomender",
+    "modes": {},
+    "region": "EU"
+  },
+  "1141815380994707549": {
+    "nick": null,
+    "modes": {}
+  },
+  "1486158267255226438": {
+    "nick": "ShuraTatakae",
+    "modes": {},
+    "region": "SA"
+  },
+  "1404184069687873627": {
+    "nick": "R_U_I_",
+    "modes": {},
+    "region": "EU"
+  },
+  "1130459124828737596": {
+    "nick": "andreu338",
+    "modes": {},
+    "region": "EU"
+  },
+  "1290135135546769409": {
+    "nick": "1Flowless",
+    "modes": {},
+    "region": "NA"
+  },
+  "768596839221035018": {
+    "nick": "mcb116",
+    "modes": {},
+    "region": "NA"
+  },
+  "1511319737928519760": {
+    "nick": "NevioYol",
+    "modes": {},
+    "region": "NA"
+  },
+  "1455607689840427008": {
+    "nick": "zJasonMX",
+    "modes": {},
+    "region": "NA"
+  },
+  "901872142411518063": {
+    "nick": "Zestkeke",
+    "modes": {},
+    "region": "NA"
+  },
+  "1503504543164403942": {
+    "nick": "HT1Larpers",
+    "modes": {},
+    "region": "EU"
+  },
+  "1006207176378962043": {
+    "nick": "Jxeremias_",
+    "modes": {},
+    "region": "NA"
+  },
+  "1178866836704600155": {
+    "nick": "heycodyreid",
+    "modes": {},
+    "region": "NA"
+  },
+  "1520540995635249233": {
+    "nick": "iAstrv",
+    "modes": {},
+    "region": "NA"
+  },
+  "1509297370960232549": {
+    "nick": "Malecoxmite",
+    "modes": {},
+    "region": "EU"
+  },
+  "967521659252793384": {
+    "nick": "SBUDEVOURER67",
+    "modes": {},
+    "region": "EU"
+  },
+  "1144019790785167481": {
+    "nick": "cloudwowstar",
+    "modes": {},
+    "region": "NA"
+  },
+  "1361255383833772133": {
+    "nick": "RopaTrucha",
+    "modes": {},
+    "region": "SA"
+  },
+  "1363926319880081430": {
+    "nick": "Rezehk",
+    "modes": {},
+    "region": "NA"
+  },
+  "1510067619762536488": {
+    "nick": "zIwaaa",
+    "modes": {},
+    "region": "SA"
+  },
+  "1523710118586486925": {
+    "nick": "MrCerdito_",
+    "modes": {},
+    "region": "NA"
+  },
+  "1208212703647367199": {
+    "nick": "_HerSeb",
+    "modes": {},
+    "region": "NA"
+  },
+  "1310697188182986793": {
+    "nick": "O5id",
+    "modes": {},
+    "region": "EU"
+  },
+  "1409072451576533023": {
+    "nick": "walrus67",
+    "modes": {},
+    "region": "NA"
+  },
+  "1124380778877423616": {
+    "nick": "AkrabuTX",
+    "modes": {},
+    "region": "EU"
+  },
+  "1114230724002840616": {
+    "nick": "Grey_X2",
+    "modes": {},
+    "region": "EU"
+  },
+  "1478051805253337118": {
+    "nick": "Zoelor",
+    "modes": {},
+    "region": "NA"
+  },
+  "1334284994998439987": {
+    "nick": "MaeAle",
+    "modes": {},
+    "region": "NA"
+  },
+  "895077290394931200": {
+    "nick": "ItzPizzaKICK",
+    "modes": {},
+    "region": "NA"
+  },
+  "1508792787284525227": {
+    "nick": "KUPATA69",
+    "modes": {},
+    "region": "EU"
+  },
+  "572791013207310380": {
+    "nick": "Mariano_Momochi_",
+    "modes": {},
+    "region": "NA"
+  },
+  "885218011953393704": {
+    "nick": "njzmichix2903",
+    "modes": {},
+    "region": "SA"
+  },
+  "1441887680400195705": {
+    "nick": "SnqwB1te",
+    "modes": {},
+    "region": "EU"
+  },
+  "1433059788731715687": {
+    "nick": "ArnavLive__",
+    "modes": {},
+    "region": "NA"
+  },
+  "872088583643734078": {
+    "nick": "V1px__",
+    "modes": {},
+    "region": "EU"
+  },
+  "1006274201130373231": {
+    "nick": "Biscoitocinza_",
+    "modes": {},
+    "region": "SA"
+  },
+  "1497620870812667904": {
+    "nick": "Afterh4ll",
+    "modes": {},
+    "region": "NA"
+  },
+  "970145712744562688": {
+    "nick": "Samplingz",
+    "modes": {},
+    "region": "NA"
+  },
+  "743248048007675927": {
+    "nick": "4espa",
+    "modes": {},
+    "region": "SA"
+  },
+  "536373743425945620": {
+    "nick": "Lemonaid0",
+    "modes": {},
+    "region": "NA"
+  },
+  "1496620145664065549": {
+    "nick": "GreenyBright",
+    "modes": {},
+    "region": "NA"
+  },
+  "1468980782235390036": {
+    "nick": "youniskiss",
+    "modes": {},
+    "region": "EU"
+  },
+  "1482436532798230618": {
+    "nick": "mhb007",
+    "modes": {},
+    "region": "EU"
+  },
+  "752869085385195570": {
+    "nick": "Venudojunior",
+    "modes": {},
+    "region": "NA"
+  },
+  "1496302143148396584": {
+    "nick": "DoubleUu_",
+    "modes": {},
+    "region": "NA"
+  },
+  "1502498418583666853": {
+    "nick": null,
+    "modes": {}
+  },
+  "1171647808605003816": {
+    "nick": "Ketameme72",
+    "modes": {},
+    "region": "NA"
+  },
+  "1162095976761274489": {
+    "nick": "Slid2234",
+    "modes": {},
+    "region": "EU"
+  },
+  "1492594513271722169": {
+    "nick": "itz_Tekin_",
+    "modes": {},
+    "region": "EU"
+  },
+  "1290020552106446946": {
+    "nick": "krymionmorus",
+    "modes": {},
+    "region": "EU"
+  },
+  "1237486112176476261": {
+    "nick": "Sebino_435",
+    "modes": {},
+    "region": "EU"
+  },
+  "1385841849880809542": {
+    "nick": "ceeechu",
+    "modes": {},
+    "region": "EU"
+  },
+  "1394307956564295710": {
+    "nick": "domaV2XD",
+    "modes": {},
+    "region": "EU"
+  },
+  "1512299293493428337": {
+    "nick": "Sensaccioness",
+    "modes": {},
+    "region": "SA"
+  },
+  "1556135315477889086": {
+    "nick": "McdoIsOnlyOne",
+    "modes": {},
+    "region": "NA"
+  },
+  "1460815342766129152": {
+    "nick": "Plexoss",
+    "modes": {},
+    "region": "SA"
+  },
+  "742535993403637950": {
+    "nick": "RenPyy",
+    "modes": {},
+    "region": "NA"
+  },
+  "1158802593246617711": {
+    "nick": "Natehdz15",
+    "modes": {},
+    "region": "NA"
+  },
+  "1521690743742136330": {
+    "nick": "Iccceyye",
+    "modes": {},
+    "region": "NA"
+  },
+  "1291027164300443804": {
+    "nick": "ImRavy",
+    "modes": {},
+    "region": "EU"
+  },
+  "1500511882480582778": {
+    "nick": "T1m0xa",
+    "modes": {},
+    "region": "EU"
+  },
+  "1452551497509376012": {
+    "nick": "zxtwanted08",
+    "modes": {},
+    "region": "NA"
+  },
+  "1534272996993274050": {
+    "nick": "Jhonhub4",
+    "modes": {},
+    "region": "NA"
+  },
+  "1343146951083823176": {
+    "nick": "LeonX1101",
+    "modes": {},
+    "region": "EU"
+  },
+  "1493485714552393821": {
+    "nick": "FreeStyleRT",
+    "modes": {},
+    "region": "NA"
+  },
+  "1518351509098856475": {
+    "nick": "shznss_",
+    "modes": {},
+    "region": "SA"
+  },
+  "1262783509211254893": {
+    "nick": "michikosam",
+    "modes": {},
+    "region": "NA"
+  },
+  "1091365976978751638": {
+    "nick": "S4V4GE_",
+    "modes": {},
+    "region": "EU"
+  },
+  "1297389344650166367": {
+    "nick": "Snyx222",
+    "modes": {},
+    "region": "NA"
+  },
+  "1392688785644584970": {
+    "nick": "Strawbewwy3",
+    "modes": {},
+    "region": "NA"
+  },
+  "1207410655163056159": {
+    "nick": "TryceSoul",
+    "modes": {},
+    "region": "SA"
+  },
+  "1385733675957878856": {
+    "nick": "Zreth_",
+    "modes": {},
+    "region": "NA"
+  },
+  "1344108472148693003": {
+    "nick": "iCandyFresh",
+    "modes": {},
+    "region": "NA"
+  },
+  "1439081325540933809": {
+    "nick": "nohawks21",
+    "modes": {},
+    "region": "NA"
+  },
+  "913924891588325376": {
+    "nick": "Diusikke",
+    "modes": {},
+    "region": "NA"
+  },
+  "1430028597996945511": {
+    "nick": "zjn_",
+    "modes": {},
+    "region": "NA"
+  },
+  "1473414462223552566": {
+    "nick": "itz_elijahh",
+    "modes": {},
+    "region": "EU"
+  },
+  "1492399826015621181": {
+    "nick": "Swinhg",
+    "modes": {},
+    "region": "NA"
+  },
+  "851706913108131842": {
+    "nick": "Galaxypluto",
+    "modes": {},
+    "region": "NA"
+  },
+  "1468606743930994927": {
+    "nick": "TheVampireDiary",
+    "modes": {},
+    "region": "EU"
+  },
+  "1483221026748760268": {
+    "nick": "thiago150913",
+    "modes": {},
+    "region": "NA"
+  },
+  "1534762635059400724": {
+    "nick": "ManualTr1ggerBot",
+    "modes": {},
+    "region": "NA"
+  },
+  "1541330721937825815": {
+    "nick": "LowzDefender",
+    "modes": {},
+    "region": "NA"
+  },
+  "1007766257673711658": {
+    "nick": "Skryxxx",
+    "modes": {},
+    "region": "EU"
+  },
+  "1385183916150882425": {
+    "nick": "riyumazi",
+    "modes": {},
+    "region": "NA"
+  },
+  "1393675587578495127": {
+    "nick": "SanakaChan_",
+    "modes": {},
+    "region": "EU"
+  },
+  "1313553902188236901": {
+    "nick": "SillyFroag",
+    "modes": {},
+    "region": "EU"
+  },
+  "1519441722579488899": {
+    "nick": "unknown_pl4y3r",
+    "modes": {},
+    "region": "SA"
+  },
+  "698679026981666878": {
+    "nick": "Zewk_",
+    "modes": {},
+    "region": "SA"
+  },
+  "705275702055927879": {
+    "nick": "psdk",
+    "modes": {},
+    "region": "NA"
+  },
+  "1353901129347502141": {
+    "nick": "SebaYT_",
+    "modes": {},
+    "region": "SA"
+  },
+  "1450178629052141649": {
+    "nick": "tobeue",
+    "modes": {},
+    "region": "EU"
+  },
+  "1281290758388715542": {
+    "nick": "txmsn",
+    "modes": {},
+    "region": "EU"
+  },
+  "913454060005376111": {
+    "nick": "Sn00wies",
+    "modes": {},
+    "region": "EU"
+  },
+  "730638159943172136": {
+    "nick": "NayckerMST",
+    "modes": {},
+    "region": "SA"
+  },
+  "1495130943302795334": {
+    "nick": "SomeSucker_",
+    "modes": {},
+    "region": "SA"
+  },
+  "910869456857726986": {
+    "nick": "ElwindinOglu",
+    "modes": {},
+    "region": "EU"
+  },
+  "858921309504667659": {
+    "nick": "PercoConTussi",
+    "modes": {},
+    "region": "SA"
+  },
+  "1352929967867953183": {
+    "nick": "jonikappeli12",
+    "modes": {},
+    "region": "EU"
+  },
+  "886026629762129970": {
+    "nick": "WhisperMyName",
+    "modes": {},
+    "region": "EU"
+  },
+  "1516916948753973401": {
+    "nick": "HYDR0LIGHT",
+    "modes": {},
+    "region": "NA"
+  },
+  "1342754282549547010": {
+    "nick": "KillingFatKids",
+    "modes": {},
+    "region": "EU"
+  },
+  "265852491558682624": {
+    "nick": "HELLENKXLLER",
+    "modes": {},
+    "region": "NA"
+  },
+  "1407017884370210838": {
+    "nick": "MxSzn2904",
+    "modes": {},
+    "region": "NA"
+  },
+  "1538982256167755846": {
+    "nick": "Kxpo2837",
+    "modes": {},
+    "region": "NA"
+  },
+  "1496999898338426902": {
+    "nick": "qGeezy",
+    "modes": {},
+    "region": "NA"
+  },
+  "928331868636602428": {
+    "nick": "__poko_",
+    "modes": {},
+    "region": "NA"
+  },
+  "1526615873513721956": {
+    "nick": "darkened_21",
+    "modes": {},
+    "region": "NA"
+  },
+  "1541604636958392448": {
+    "nick": "Delviago",
+    "modes": {},
+    "region": "NA"
+  },
+  "1523333482858942599": {
+    "nick": "K3vinJuegaJuegos",
+    "modes": {},
+    "region": "NA"
+  },
+  "1429255610872107110": {
+    "nick": "RandoKs",
+    "modes": {},
+    "region": "NA"
+  },
+  "1407150905069010964": {
+    "nick": "SlateAthlete652",
+    "modes": {},
+    "region": "NA"
+  },
+  "1194741797012910085": {
+    "nick": "UribePresidente_",
+    "modes": {},
+    "region": "NA"
+  },
+  "755585267158745099": {
+    "nick": "Steveprooliva2",
+    "modes": {},
+    "region": "NA"
+  },
+  "855580631274356736": {
+    "nick": "JoacoDH",
+    "modes": {},
+    "region": "SA"
+  },
+  "1410882313231011895": {
+    "nick": "Fripee",
+    "modes": {},
+    "region": "NA"
+  },
+  "1019494579000594483": {
+    "nick": "f0rthef1rsttime",
+    "modes": {},
+    "region": "EU"
+  },
+  "1505126048549834853": {
+    "nick": "__slxy_",
+    "modes": {},
+    "region": "EU"
+  },
+  "1514380712386756753": {
+    "nick": "Elcount",
+    "modes": {},
+    "region": "EU"
+  },
+  "1332010258092265523": {
+    "nick": "diveser",
+    "modes": {},
+    "region": "NA"
+  },
+  "1484487325923938304": {
+    "nick": "Fanat_1973",
+    "modes": {},
+    "region": "EU"
+  },
+  "1142709009397334117": {
+    "nick": "sweatyfied",
+    "modes": {},
+    "region": "EU"
+  },
+  "1289271796117405796": {
+    "nick": "hGabyy",
+    "modes": {},
+    "region": "SA"
   }
 }
