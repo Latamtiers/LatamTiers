@@ -270,8 +270,8 @@
         "obtained_at": "2026-10-07T20:13:15.167001+00:00"
       },
       "UHC": {
-        "tier": "HT5",
-        "obtained_at": "2026-11-01T20:30:56.122594+00:00"
+        "tier": "LT4",
+        "obtained_at": "2026-11-08T02:12:12.807192+00:00"
       },
       "SWORD": {
         "tier": "HT4",
@@ -2460,8 +2460,8 @@
         "obtained_at": "2026-10-18T00:37:19.413554+00:00"
       },
       "NETHPOT": {
-        "tier": "LT4",
-        "obtained_at": "2026-10-24T23:35:51.135076+00:00"
+        "tier": "HT4",
+        "obtained_at": "2026-11-08T03:17:11.029034+00:00"
       },
       "DIAMOND POT": {
         "tier": "LT4",
@@ -5439,6 +5439,10 @@
     "nick": "47Lserr",
     "region": "SA",
     "tiers": {
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-08T02:44:56.737851+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT3",
         "obtained_at": "2026-10-17T22:17:03.697539+00:00"
@@ -6239,7 +6243,7 @@
     }
   },
   "1093545166826127410": {
-    "nick": "Niicooooooooooo",
+    "nick": "Niico67",
     "region": "NA/SA",
     "tiers": {
       "NETHPOT": {
@@ -8419,8 +8423,8 @@
         "obtained_at": "2026-10-25T03:40:52.947960+00:00"
       },
       "NETHPOT": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-25T03:40:52.947960+00:00"
+        "tier": "LT4",
+        "obtained_at": "2026-11-08T02:13:00.194868+00:00"
       },
       "DIAMOND POT": {
         "tier": "HT5",
@@ -8902,6 +8906,10 @@
       "CRYSTAL": {
         "tier": "LT3",
         "obtained_at": "2026-10-31T19:37:31.709614+00:00"
+      },
+      "MAZO": {
+        "tier": "HT3",
+        "obtained_at": "2026-11-08T05:24:11.448621+00:00"
       },
       "NETHPOT": {
         "tier": "LT3",
@@ -10643,7 +10651,7 @@
     }
   },
   "1449864868906664068": {
-    "nick": "VampireChandy",
+    "nick": "SigmaTrollBoy67",
     "region": "NA",
     "tiers": {
       "NETHPOT": {
@@ -11005,12 +11013,7 @@
   "764323983914434560": {
     "nick": "Smooth1ng",
     "region": "NA",
-    "tiers": {
-      "NETHPOT": {
-        "tier": "LT3",
-        "obtained_at": "2026-11-01T22:49:47.452413+00:00"
-      }
-    }
+    "tiers": {}
   },
   "526421930236968986": {
     "nick": "OncEdu",
@@ -11784,7 +11787,12 @@
   "756323467967594635": {
     "nick": "ikoi_",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-11-08T03:42:57.754194+00:00"
+      }
+    }
   },
   "1372047352101208185": {
     "nick": "Shortyys",
@@ -11975,7 +11983,12 @@
   "775177317923684382": {
     "nick": "CactJack",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-08T02:36:48.596720+00:00"
+      }
+    }
   },
   "1140656900770382037": {
     "nick": "ImJustSkyHaru",
@@ -12330,12 +12343,7 @@
   "699737062127042654": {
     "nick": "PatitasSuavess",
     "region": "NA",
-    "tiers": {
-      "NETHPOT": {
-        "tier": "LT3",
-        "obtained_at": "2026-11-07T22:16:31.839176+00:00"
-      }
-    }
+    "tiers": {}
   },
   "1245561519073398906": {
     "nick": "Jxryyn",
@@ -12642,7 +12650,12 @@
   "1282187628225101865": {
     "nick": "gorditocondrip",
     "region": "NA/SA",
-    "tiers": {}
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-11-08T02:23:48.273781+00:00"
+      }
+    }
   },
   "1336529376229068841": {
     "nick": "GabbanaSmoke",
@@ -12701,6 +12714,36 @@
       "UHC": {
         "tier": "HT5",
         "obtained_at": "2026-11-08T00:47:54.272495+00:00"
+      }
+    }
+  },
+  "861388421137956884": {
+    "nick": "cyborgSmoottq",
+    "region": "NA/SA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-08T02:58:28.413118+00:00"
+      }
+    }
+  },
+  "1129116545856053329": {
+    "nick": "Guerrerof_",
+    "region": "NA/EU",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-11-08T03:43:08.246750+00:00"
+      }
+    }
+  },
+  "1454294043285524524": {
+    "nick": "Grab4nzo",
+    "region": "NA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-08T03:59:26.173836+00:00"
       }
     }
   }
