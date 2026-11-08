@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794165139745,
-    "lastUpdateHuman": "2026-11-08 19:12:19 UTC",
+    "lastUpdate": 1794178384526,
+    "lastUpdateHuman": "2026-11-08 22:53:04 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2346,7 +2346,7 @@
     "region": "NA"
   },
   "1126037691176325141": {
-    "nick": "lolyen",
+    "nick": "TungTungSahur764",
     "modes": {},
     "region": "NA"
   },
@@ -3301,7 +3301,7 @@
     "region": "NA"
   },
   "1547057557078810745": {
-    "nick": "Lvqzz",
+    "nick": "OnlyPitilin",
     "modes": {
       "nethpot": [
         {
@@ -13101,6 +13101,10 @@
         {
           "tier": "LT4",
           "at": 1794109377754
+        },
+        {
+          "tier": "HT5",
+          "at": 1794177319712
         }
       ]
     },
@@ -14073,6 +14077,10 @@
         {
           "tier": "LT4",
           "at": 1794109388246
+        },
+        {
+          "tier": "HT5",
+          "at": 1794177329647
         }
       ]
     },
@@ -15128,5 +15136,47 @@
     "nick": "hGabyy",
     "modes": {},
     "region": "SA"
+  },
+  "744883469334609962": {
+    "nick": "homikkomik",
+    "modes": {},
+    "region": "EU"
+  },
+  "1416556027406581760": {
+    "nick": "YoungNew_",
+    "modes": {},
+    "region": "SA"
+  },
+  "1292642821584715828": {
+    "nick": "fellingsoawful",
+    "modes": {},
+    "region": "NA"
+  },
+  "1275965482674946133": {
+    "nick": "ramires_47",
+    "modes": {},
+    "region": "SA"
+  },
+  "1565448853812154390": {
+    "nick": "SmokePuxhitoz_",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1794178347747
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "721557492110458902": {
+    "nick": "Arosorio",
+    "modes": {},
+    "region": "NA/SA"
+  },
+  "1091976186663538748": {
+    "nick": "IvanF5",
+    "modes": {},
+    "region": "NA"
   }
 }
