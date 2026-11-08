@@ -4137,7 +4137,7 @@
     }
   },
   "1373835923590086707": {
-    "nick": "JackIsDumb2",
+    "nick": "Sn3pe",
     "region": "NA",
     "tiers": {
       "UHC": {
@@ -5876,7 +5876,7 @@
     }
   },
   "1535967701783150675": {
-    "nick": "golsuyudamlasi0",
+    "nick": "sinandostoevsky",
     "region": "EU",
     "tiers": {}
   },
@@ -6649,7 +6649,7 @@
     "tiers": {}
   },
   "1224103178518265941": {
-    "nick": "ItzKyyro",
+    "nick": "vemzo_",
     "region": "EU",
     "tiers": {}
   },
@@ -11734,8 +11734,8 @@
     "region": "NA/SA",
     "tiers": {
       "AXE": {
-        "tier": "LT3",
-        "obtained_at": "2026-10-29T23:32:53.885101+00:00"
+        "tier": "HT3",
+        "obtained_at": "2026-11-08T08:07:17.104639+00:00"
       }
     }
   },
@@ -11840,7 +11840,12 @@
   "1501089105243668566": {
     "nick": "hkyz",
     "region": "NA",
-    "tiers": {}
+    "tiers": {
+      "AXE": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-08T08:07:17.104639+00:00"
+      }
+    }
   },
   "1087467314213036064": {
     "nick": "Replikoso",
