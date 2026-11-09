@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794217439088,
-    "lastUpdateHuman": "2026-11-09 09:43:59 UTC",
+    "lastUpdate": 1794254950644,
+    "lastUpdateHuman": "2026-11-09 20:09:10 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -7605,7 +7605,7 @@
     "region": "SA"
   },
   "930031766566232115": {
-    "nick": "n3kolily",
+    "nick": "ChampionGuts",
     "modes": {
       "nethpot": [
         {
@@ -12324,7 +12324,7 @@
     "region": "SA"
   },
   "1540858825442066432": {
-    "nick": "TadePlaysz",
+    "nick": "Skrymbbu",
     "modes": {},
     "region": "SA"
   },
@@ -13577,12 +13577,26 @@
   },
   "1009604186188566629": {
     "nick": "Wildcardlol",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1794253552409
+        }
+      ]
+    },
     "region": "NA"
   },
   "1521883959724736814": {
     "nick": "Qylzx",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1794254561805
+        }
+      ]
+    },
     "region": "NA"
   },
   "903127352454823946": {
@@ -13677,7 +13691,14 @@
   },
   "1040714131168313504": {
     "nick": "ArgentinoBlatant",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1794249858561
+        }
+      ]
+    },
     "region": "SA"
   },
   "1193748323799142442": {
@@ -15362,5 +15383,22 @@
     "nick": "Rakhev",
     "modes": {},
     "region": "SA"
+  },
+  "869845878612058134": {
+    "nick": "A4raInVeins",
+    "modes": {},
+    "region": "AS"
+  },
+  "952024996568502302": {
+    "nick": "Pepitoalvaro36",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1794250919630
+        }
+      ]
+    },
+    "region": "NA/SA"
   }
 }
