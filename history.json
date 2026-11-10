@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794278548893,
-    "lastUpdateHuman": "2026-11-10 02:42:28 UTC",
+    "lastUpdate": 1794306430419,
+    "lastUpdateHuman": "2026-11-10 10:27:10 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -13058,7 +13058,7 @@
     "region": "SA/EU"
   },
   "1562221291224830156": {
-    "nick": "dghzdjtdjhad",
+    "nick": "_i_am_not_better",
     "modes": {},
     "region": "NA"
   },
@@ -13883,7 +13883,7 @@
     "region": "NA"
   },
   "1245561519073398906": {
-    "nick": "Jxryyn",
+    "nick": "OnlyEleskh",
     "modes": {},
     "region": "NA/SA"
   },
@@ -15567,5 +15567,15 @@
       ]
     },
     "region": "NA"
+  },
+  "1220217000500920373": {
+    "nick": "RaiorikxW_",
+    "modes": {},
+    "region": "SA"
+  },
+  "411961953771323423": {
+    "nick": "aaragus",
+    "modes": {},
+    "region": "SA"
   }
 }
