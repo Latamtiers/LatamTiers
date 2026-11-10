@@ -369,7 +369,7 @@
     "staff": null
   },
   "575419849157771284": {
-    "nick": "juampimartinezff",
+    "nick": "juampettuce",
     "region": "SA",
     "tiers": {},
     "verificado": true,
@@ -13642,6 +13642,17 @@
     "tester": null,
     "staff": null
   },
+  "1569529974560395285": {
+    "nick": "ivxnVo",
+    "region": "NA/SA",
+    "tiers": {},
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "cab7231c-0758-4652-b31f-a666450978a3",
+    "peaks": {},
+    "tester": null,
+    "staff": null
+  },
   "1125576309196730388": {
     "nick": "Ichacksita",
     "region": "NA",
@@ -14197,7 +14208,7 @@
     "staff": null
   },
   "1488376457708437705": {
-    "nick": "Tza209",
+    "nick": "_gandalf4ever",
     "region": "NA",
     "tiers": {},
     "verificado": true,
@@ -14984,7 +14995,11 @@
       "AXE": "LT4",
       "DIAMOND POT": "LT5"
     },
-    "tester": null,
+    "tester": {
+      "rango": "Trial Tester",
+      "modalidades": [],
+      "tests": 0
+    },
     "staff": {
       "rango": "Founder"
     }
@@ -21257,15 +21272,15 @@
     "region": "SA",
     "tiers": {
       "MAZO": {
-        "tier": "LT3",
-        "obtained_at": "2026-11-08T22:52:10.093225+00:00"
+        "tier": "HT3",
+        "obtained_at": "2026-11-10T20:39:00.022935+00:00"
       }
     },
     "verificado": true,
     "cuenta": "premium",
     "uuid": "5d41eea2-b82a-41f4-b358-c14c910e1cb2",
     "peaks": {
-      "MAZO": "LT3"
+      "MAZO": "HT3"
     },
     "tester": null,
     "staff": null
@@ -22466,7 +22481,7 @@
         "SWORD",
         "DIAMOND POT"
       ],
-      "tests": 510
+      "tests": 511
     },
     "staff": {
       "rango": "Founder"
@@ -25875,7 +25890,7 @@
     "staff": null
   },
   "832708190079942717": {
-    "nick": "PonyDrogado",
+    "nick": "SiempreTryste22",
     "region": "SA",
     "tiers": {},
     "verificado": true,
