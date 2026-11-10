@@ -1756,7 +1756,7 @@
       "modalidades": [
         "MAZO"
       ],
-      "tests": 31
+      "tests": 32
     },
     "staff": null
   },
@@ -4956,6 +4956,29 @@
     "cuenta": "cracked",
     "uuid": null,
     "peaks": {},
+    "tester": null,
+    "staff": null
+  },
+  "1305699984146038825": {
+    "nick": "Davizandoo",
+    "region": "SA",
+    "tiers": {
+      "MAZO": {
+        "tier": "LT5",
+        "obtained_at": "2026-11-10T16:02:30.319334+00:00"
+      },
+      "NETHPOT": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-10T16:14:44.656857+00:00"
+      }
+    },
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "c84212ce-2a4e-40fd-b446-bcbbfa369186",
+    "peaks": {
+      "MAZO": "LT5",
+      "NETHPOT": "HT5"
+    },
     "tester": null,
     "staff": null
   },
@@ -16524,6 +16547,17 @@
     "tester": null,
     "staff": null
   },
+  "1325020940379357286": {
+    "nick": "mcpolla777",
+    "region": "EU",
+    "tiers": {},
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "4e6fafb5-c0c3-4f3b-933f-1ac09994de5a",
+    "peaks": {},
+    "tester": null,
+    "staff": null
+  },
   "1385841849880809542": {
     "nick": "ceeechu",
     "region": "EU",
@@ -21665,7 +21699,7 @@
       "modalidades": [
         "NETHPOT"
       ],
-      "tests": 167
+      "tests": 168
     },
     "staff": null
   },

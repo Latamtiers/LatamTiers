@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794306430419,
-    "lastUpdateHuman": "2026-11-10 10:27:10 UTC",
+    "lastUpdate": 1794333834625,
+    "lastUpdateHuman": "2026-11-10 18:03:54 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -15577,5 +15577,22 @@
     "nick": "aaragus",
     "modes": {},
     "region": "SA"
+  },
+  "1305699984146038825": {
+    "nick": "Davizandoo",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1794327284656
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "1325020940379357286": {
+    "nick": "mcpolla777",
+    "modes": {},
+    "region": "EU"
   }
 }
