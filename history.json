@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794352218779,
-    "lastUpdateHuman": "2026-11-10 23:10:18 UTC",
+    "lastUpdate": 1794365140570,
+    "lastUpdateHuman": "2026-11-11 02:45:40 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -430,6 +430,10 @@
         {
           "tier": "LT4",
           "at": 1794067995182
+        },
+        {
+          "tier": "LT3",
+          "at": 1794355932024
         }
       ],
       "sword": [
@@ -5730,7 +5734,7 @@
         }
       ]
     },
-    "region": "SA"
+    "region": "NA/SA"
   },
   "664946551562567710": {
     "nick": "FlockyyDE",
@@ -5837,7 +5841,7 @@
     "region": "NA"
   },
   "880841111407571014": {
-    "nick": "Agux2012",
+    "nick": "AGUX2012",
     "modes": {
       "uhc": [
         {
@@ -12294,7 +12298,7 @@
     "region": "SA"
   },
   "1551944588913283164": {
-    "nick": "Takeqz",
+    "nick": "Yuflys",
     "modes": {
       "crystal": [
         {
@@ -13950,6 +13954,10 @@
         {
           "tier": "HT5",
           "at": 1793924774515
+        },
+        {
+          "tier": "LT4",
+          "at": 1794356397648
         }
       ]
     },
@@ -14890,7 +14898,7 @@
     "region": "EU"
   },
   "572791013207310380": {
-    "nick": "Mariano_Momochi_",
+    "nick": "_Bartolyo",
     "modes": {},
     "region": "NA"
   },
@@ -15493,7 +15501,7 @@
     "region": "NA"
   },
   "1493036530359472170": {
-    "nick": "TheSntry",
+    "nick": "SleepyPottatto",
     "modes": {
       "nethpot": [
         {
@@ -15597,6 +15605,60 @@
   },
   "1569529974560395285": {
     "nick": "ivxnVo",
+    "modes": {},
+    "region": "NA/SA"
+  },
+  "1279683724199464990": {
+    "nick": "papita442",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1794355772453
+        }
+      ]
+    },
+    "region": "NA/SA"
+  },
+  "889061313710522378": {
+    "nick": "Iam_Sebas",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1794356931353
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "1416261079453143162": {
+    "nick": "ImLipeGamerW_",
+    "modes": {},
+    "region": "SA"
+  },
+  "1208417747956932639": {
+    "nick": "SrMigu26",
+    "modes": {},
+    "region": "SA"
+  },
+  "1420852487866552371": {
+    "nick": "GeneralEmuMC",
+    "modes": {},
+    "region": "NA"
+  },
+  "1500686199889854475": {
+    "nick": "OnlySophystiq",
+    "modes": {},
+    "region": "SA"
+  },
+  "1423627045384224779": {
+    "nick": "R4tnuh__",
+    "modes": {},
+    "region": "AS"
+  },
+  "1049044731428077588": {
+    "nick": "Enrilatios",
     "modes": {},
     "region": "NA/SA"
   }
