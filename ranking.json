@@ -1390,7 +1390,7 @@
       "modalidades": [
         "MAZO"
       ],
-      "tests": 22
+      "tests": 25
     },
     "staff": null
   },
@@ -9345,6 +9345,10 @@
     "nick": "BloodyMIX12",
     "region": "EU",
     "tiers": {
+      "MAZO": {
+        "tier": "LT5",
+        "obtained_at": "2026-11-11T15:23:31.900279+00:00"
+      },
       "NETHPOT": {
         "tier": "LT5",
         "obtained_at": "2026-10-28T12:47:23.347727+00:00"
@@ -9359,7 +9363,8 @@
     "uuid": "adca4196-20b6-49e4-88c3-711819ff0953",
     "peaks": {
       "NETHPOT": "LT5",
-      "DIAMOND POT": "HT5"
+      "DIAMOND POT": "HT5",
+      "MAZO": "LT5"
     },
     "tester": null,
     "staff": null
@@ -9542,6 +9547,17 @@
       "SWORD": "LT3",
       "DIAMOND POT": "LT4"
     },
+    "tester": null,
+    "staff": null
+  },
+  "1414222989867880503": {
+    "nick": "ImyInk4",
+    "region": "EU",
+    "tiers": {},
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "6983eaa2-f88e-4346-8d2f-175f1525a0fe",
+    "peaks": {},
     "tester": null,
     "staff": null
   },
@@ -10838,6 +10854,17 @@
     "verificado": true,
     "cuenta": "premium",
     "uuid": "7efdd99a-d863-47f1-9075-8cc4fb4ee92a",
+    "peaks": {},
+    "tester": null,
+    "staff": null
+  },
+  "1038890280570597556": {
+    "nick": "Asierfire",
+    "region": "EU",
+    "tiers": {},
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "2056a215-7848-49b6-926d-0df8301c8731",
     "peaks": {},
     "tester": null,
     "staff": null
@@ -14938,15 +14965,15 @@
     "region": "SA",
     "tiers": {
       "MAZO": {
-        "tier": "LT4",
-        "obtained_at": "2026-10-28T01:27:37.518030+00:00"
+        "tier": "HT4",
+        "obtained_at": "2026-11-11T15:54:57.929494+00:00"
       }
     },
     "verificado": true,
     "cuenta": "premium",
     "uuid": "2b0b154c-8d7f-4403-bd8b-eecb10d7a010",
     "peaks": {
-      "MAZO": "LT4"
+      "MAZO": "HT4"
     },
     "tester": null,
     "staff": null
@@ -16083,7 +16110,7 @@
     "staff": null
   },
   "1032457238356443136": {
-    "nick": "5KYL4R_xD",
+    "nick": "Ohhmylucci",
     "region": "SA",
     "tiers": {
       "UHC": {
@@ -18504,6 +18531,17 @@
     "verificado": true,
     "cuenta": "premium",
     "uuid": "9c922a05-9738-42f1-823c-26bec17bd67c",
+    "peaks": {},
+    "tester": null,
+    "staff": null
+  },
+  "729463057104896071": {
+    "nick": "Axelel33",
+    "region": "NA",
+    "tiers": {},
+    "verificado": true,
+    "cuenta": "cracked",
+    "uuid": null,
     "peaks": {},
     "tester": null,
     "staff": null
