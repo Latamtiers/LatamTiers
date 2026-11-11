@@ -788,6 +788,10 @@
     "nick": "papita442",
     "region": "NA/SA",
     "tiers": {
+      "SWORD": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-11T23:27:45.438433+00:00"
+      },
       "MAZO": {
         "tier": "HT5",
         "obtained_at": "2026-11-11T00:36:48.626347+00:00"
@@ -802,7 +806,8 @@
     "uuid": null,
     "peaks": {
       "NETHPOT": "HT5",
-      "MAZO": "HT5"
+      "MAZO": "HT5",
+      "SWORD": "HT5"
     },
     "tester": null,
     "staff": null
@@ -1390,7 +1395,7 @@
       "modalidades": [
         "MAZO"
       ],
-      "tests": 25
+      "tests": 27
     },
     "staff": null
   },
@@ -1757,7 +1762,7 @@
       "modalidades": [
         "MAZO"
       ],
-      "tests": 32
+      "tests": 35
     },
     "staff": null
   },
@@ -2257,7 +2262,12 @@
   "1528367041168281672": {
     "nick": "kTragic",
     "region": "SA",
-    "tiers": {},
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-11T22:49:19.259866+00:00"
+      }
+    },
     "verificado": true,
     "cuenta": "premium",
     "uuid": "54cfa847-9d08-404c-b96a-56c765b667b8",
@@ -4971,6 +4981,10 @@
       "NETHPOT": {
         "tier": "HT5",
         "obtained_at": "2026-11-10T16:14:44.656857+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-11-11T18:56:12.496456+00:00"
       }
     },
     "verificado": true,
@@ -4978,7 +4992,8 @@
     "uuid": "c84212ce-2a4e-40fd-b446-bcbbfa369186",
     "peaks": {
       "MAZO": "LT5",
-      "NETHPOT": "HT5"
+      "NETHPOT": "HT5",
+      "DIAMOND POT": "LT5"
     },
     "tester": null,
     "staff": null
@@ -5763,6 +5778,24 @@
     "tester": null,
     "staff": null
   },
+  "1468610914038190294": {
+    "nick": "yIsazX",
+    "region": "EU",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-11T20:07:21.622736+00:00"
+      }
+    },
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "444b45b5-d20c-4011-a186-1f38a1c00ef8",
+    "peaks": {
+      "DIAMOND POT": "HT5"
+    },
+    "tester": null,
+    "staff": null
+  },
   "1262994992738205699": {
     "nick": "Zkwre",
     "region": "SA",
@@ -6267,6 +6300,10 @@
       "MAZO": {
         "tier": "LT5",
         "obtained_at": "2026-10-25T03:40:52.947960+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-11-11T19:25:04.846783+00:00"
       }
     },
     "verificado": true,
@@ -6276,7 +6313,8 @@
       "MAZO": "HT5",
       "SWORD": "HT5",
       "CRYSTAL": "HT5",
-      "UHC": "HT5"
+      "UHC": "HT5",
+      "DIAMOND POT": "LT5"
     },
     "tester": null,
     "staff": null
@@ -6896,6 +6934,10 @@
         "tier": "HT5",
         "obtained_at": "2026-10-15T21:30:03.595161+00:00"
       },
+      "MAZO": {
+        "tier": "LT5",
+        "obtained_at": "2026-11-11T23:33:20.789760+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT5",
         "obtained_at": "2026-10-22T17:27:06.322922+00:00"
@@ -6912,7 +6954,8 @@
       "SWORD": "HT5",
       "DIAMOND POT": "LT5",
       "AXE": "HT5",
-      "SMP": "LT4"
+      "SMP": "LT4",
+      "MAZO": "LT5"
     },
     "tester": null,
     "staff": null
@@ -7540,7 +7583,7 @@
         "NETHPOT",
         "CRYSTAL"
       ],
-      "tests": 87
+      "tests": 88
     },
     "staff": {
       "rango": "Trial Mod"
@@ -11882,6 +11925,24 @@
     "tester": null,
     "staff": null
   },
+  "699999340596428922": {
+    "nick": "davi_legal",
+    "region": "SA",
+    "tiers": {
+      "MAZO": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-11T17:42:46.675738+00:00"
+      }
+    },
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "5075aefc-0812-4414-a240-68f6344ecdb4",
+    "peaks": {
+      "MAZO": "HT5"
+    },
+    "tester": null,
+    "staff": null
+  },
   "1295473358107840558": {
     "nick": "FadedPromise",
     "region": "NA/EU",
@@ -12419,11 +12480,18 @@
   "1377876617136701451": {
     "nick": "Jairox20",
     "region": "SA",
-    "tiers": {},
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT4",
+        "obtained_at": "2026-11-11T22:55:16.372929+00:00"
+      }
+    },
     "verificado": true,
     "cuenta": "cracked",
     "uuid": null,
-    "peaks": {},
+    "peaks": {
+      "CRYSTAL": "LT4"
+    },
     "tester": null,
     "staff": null
   },
@@ -12711,14 +12779,20 @@
   "1223989551706669077": {
     "nick": "NebeligerNebel",
     "region": "EU",
-    "tiers": {},
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-11-11T18:52:05.817403+00:00"
+      }
+    },
     "verificado": true,
     "cuenta": "premium",
     "uuid": "19947481-1911-43d1-a94b-cfd146e59c23",
     "peaks": {
       "UHC": "LT4",
       "MAZO": "LT4",
-      "NETHPOT": "LT4"
+      "NETHPOT": "LT4",
+      "DIAMOND POT": "LT5"
     },
     "tester": null,
     "staff": null
@@ -13078,13 +13152,18 @@
       "MAZO": {
         "tier": "LT3",
         "obtained_at": "2026-11-10T06:44:58.578184+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-11-11T19:12:03.453345+00:00"
       }
     },
     "verificado": true,
     "cuenta": "premium",
     "uuid": "935cdb22-a2a6-4275-a02e-e42c49f71d9d",
     "peaks": {
-      "MAZO": "LT3"
+      "MAZO": "LT3",
+      "DIAMOND POT": "LT5"
     },
     "tester": null,
     "staff": null
@@ -13741,11 +13820,23 @@
   "1569529974560395285": {
     "nick": "ivxnVo",
     "region": "NA/SA",
-    "tiers": {},
+    "tiers": {
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-11T23:33:38.436561+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-11T22:24:11.113763+00:00"
+      }
+    },
     "verificado": true,
     "cuenta": "premium",
     "uuid": "cab7231c-0758-4652-b31f-a666450978a3",
-    "peaks": {},
+    "peaks": {
+      "DIAMOND POT": "LT3",
+      "SWORD": "LT3"
+    },
     "tester": null,
     "staff": null
   },
@@ -16657,6 +16748,10 @@
     "nick": "NotReallySlappp",
     "region": "SA",
     "tiers": {
+      "CRYSTAL": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-11T23:01:35.688059+00:00"
+      },
       "MAZO": {
         "tier": "LT4",
         "obtained_at": "2026-11-10T05:45:36.652305+00:00"
@@ -16676,7 +16771,8 @@
     "peaks": {
       "DIAMOND POT": "HT5",
       "MAZO": "LT4",
-      "NETHPOT": "HT5"
+      "NETHPOT": "HT5",
+      "CRYSTAL": "HT5"
     },
     "tester": null,
     "staff": null
@@ -17160,11 +17256,18 @@
   "1188280943484616754": {
     "nick": "POTATO_3389_",
     "region": "NA",
-    "tiers": {},
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT4",
+        "obtained_at": "2026-11-11T20:39:38.319682+00:00"
+      }
+    },
     "verificado": true,
     "cuenta": "premium",
     "uuid": "c9c648d3-55a7-4641-8fa8-7159c78909dc",
-    "peaks": {},
+    "peaks": {
+      "CRYSTAL": "LT4"
+    },
     "tester": null,
     "staff": null
   },
@@ -18538,11 +18641,18 @@
   "729463057104896071": {
     "nick": "Axelel33",
     "region": "NA",
-    "tiers": {},
+    "tiers": {
+      "MAZO": {
+        "tier": "LT5",
+        "obtained_at": "2026-11-11T17:33:40.557925+00:00"
+      }
+    },
     "verificado": true,
     "cuenta": "cracked",
     "uuid": null,
-    "peaks": {},
+    "peaks": {
+      "MAZO": "LT5"
+    },
     "tester": null,
     "staff": null
   },
@@ -21650,6 +21760,24 @@
     "tester": null,
     "staff": null
   },
+  "1543666263543386194": {
+    "nick": "anchor_fast",
+    "region": "SA",
+    "tiers": {
+      "MAZO": {
+        "tier": "LT5",
+        "obtained_at": "2026-11-11T17:49:12.480697+00:00"
+      }
+    },
+    "verificado": true,
+    "cuenta": "cracked",
+    "uuid": null,
+    "peaks": {
+      "MAZO": "LT5"
+    },
+    "tester": null,
+    "staff": null
+  },
   "1225222840337567758": {
     "nick": "D00GGFEMBOY",
     "region": "SA",
@@ -21844,14 +21972,19 @@
       "modalidades": [
         "NETHPOT"
       ],
-      "tests": 171
+      "tests": 172
     },
     "staff": null
   },
   "1547057557078810745": {
     "nick": "OnlyPitilin",
     "region": "NA",
-    "tiers": {},
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT4",
+        "obtained_at": "2026-11-11T22:14:57.299865+00:00"
+      }
+    },
     "verificado": true,
     "cuenta": "premium",
     "uuid": "6300c5b1-be44-45e5-8f4f-8b13ec8d3033",
@@ -22107,6 +22240,24 @@
     "tester": null,
     "staff": null
   },
+  "1519539807997395106": {
+    "nick": "amandola",
+    "region": "NA",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-11T22:36:04.881574+00:00"
+      }
+    },
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "494ec27b-6069-4476-883f-1db7a218e746",
+    "peaks": {
+      "DIAMOND POT": "HT5"
+    },
+    "tester": null,
+    "staff": null
+  },
   "1483983491640328354": {
     "nick": "na",
     "region": "NA",
@@ -22152,6 +22303,10 @@
       "NETHPOT": {
         "tier": "LT4",
         "obtained_at": "2026-11-06T23:49:39.812262+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT4",
+        "obtained_at": "2026-11-11T20:26:53.595066+00:00"
       }
     },
     "verificado": true,
@@ -22159,7 +22314,8 @@
     "uuid": "3a72c216-daae-4549-bdda-537a90fe2456",
     "peaks": {
       "NETHPOT": "LT4",
-      "UHC": "HT4"
+      "UHC": "HT4",
+      "DIAMOND POT": "LT4"
     },
     "tester": null,
     "staff": null
@@ -22611,7 +22767,7 @@
         "SWORD",
         "DIAMOND POT"
       ],
-      "tests": 511
+      "tests": 523
     },
     "staff": {
       "rango": "Founder"
@@ -22816,6 +22972,24 @@
     "cuenta": "premium",
     "uuid": "20e0e0c7-5d6e-4109-b5a6-9f559454b595",
     "peaks": {},
+    "tester": null,
+    "staff": null
+  },
+  "1524824630832140431": {
+    "nick": "MysticGenwbt",
+    "region": "SA",
+    "tiers": {
+      "MAZO": {
+        "tier": "HT4",
+        "obtained_at": "2026-11-11T22:36:01.600299+00:00"
+      }
+    },
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "fe7e2d88-247d-4090-84e7-b79920582c02",
+    "peaks": {
+      "MAZO": "HT4"
+    },
     "tester": null,
     "staff": null
   },
@@ -24256,7 +24430,7 @@
     "staff": null
   },
   "1362195080533905640": {
-    "nick": "Losst4ever",
+    "nick": "killerwith10ms",
     "region": "NA",
     "tiers": {
       "NETHPOT": {
@@ -24481,13 +24655,23 @@
       "UHC": {
         "tier": "HT5",
         "obtained_at": "2026-10-17T17:27:34.022747+00:00"
+      },
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-11T23:15:59.012563+00:00"
+      },
+      "DIAMOND POT": {
+        "tier": "LT5",
+        "obtained_at": "2026-11-11T19:36:33.277319+00:00"
       }
     },
     "verificado": true,
     "cuenta": "premium",
     "uuid": "5c12d70d-7c06-4ee8-936b-fdf3147bdb16",
     "peaks": {
-      "UHC": "HT5"
+      "UHC": "HT5",
+      "DIAMOND POT": "LT5",
+      "SWORD": "LT3"
     },
     "tester": null,
     "staff": null
@@ -24629,8 +24813,8 @@
         "obtained_at": "2026-10-08T22:00:49.170738+00:00"
       },
       "SWORD": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-08T22:00:49.170755+00:00"
+        "tier": "LT5",
+        "obtained_at": "2026-11-11T23:10:42.104793+00:00"
       },
       "MAZO": {
         "tier": "LT4",
@@ -24661,7 +24845,7 @@
       "modalidades": [
         "CRYSTAL"
       ],
-      "tests": 25
+      "tests": 29
     },
     "staff": null
   },
@@ -26132,7 +26316,7 @@
       "modalidades": [
         "DIAMOND POT"
       ],
-      "tests": 0
+      "tests": 2
     },
     "staff": null
   },
