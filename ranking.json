@@ -1103,20 +1103,7 @@
   "1509372366608666778": {
     "nick": "Chxet",
     "region": "NA",
-    "tiers": {
-      "SWORD": {
-        "tier": "LT3",
-        "obtained_at": "2026-11-09T05:55:12.709453+00:00"
-      },
-      "MAZO": {
-        "tier": "LT3",
-        "obtained_at": "2026-10-16T19:29:46.471369+00:00"
-      },
-      "DIAMOND POT": {
-        "tier": "LT4",
-        "obtained_at": "2026-11-09T05:54:18.857862+00:00"
-      }
-    },
+    "tiers": {},
     "verificado": true,
     "cuenta": "premium",
     "uuid": "1baaebd3-e877-4c06-be89-7421e4083659",
@@ -1252,16 +1239,7 @@
   "1528247818773463171": {
     "nick": "Chxet",
     "region": "NA",
-    "tiers": {
-      "NETHPOT": {
-        "tier": "LT5",
-        "obtained_at": "2026-10-16T00:19:53.569051+00:00"
-      },
-      "DIAMOND POT": {
-        "tier": "LT4",
-        "obtained_at": "2026-10-15T23:34:27.802478+00:00"
-      }
-    },
+    "tiers": {},
     "verificado": true,
     "cuenta": "premium",
     "uuid": "1baaebd3-e877-4c06-be89-7421e4083659",
@@ -2262,7 +2240,7 @@
     },
     "tester": null,
     "staff": {
-      "rango": "Sr. Mod"
+      "rango": "Regulador"
     }
   },
   "869845878612058134": {
@@ -12706,20 +12684,7 @@
   "1223989551706669077": {
     "nick": "NebeligerNebel",
     "region": "EU",
-    "tiers": {
-      "UHC": {
-        "tier": "LT4",
-        "obtained_at": "2026-10-08T15:17:42.989230+00:00"
-      },
-      "MAZO": {
-        "tier": "LT5",
-        "obtained_at": "2026-10-16T19:23:27.462962+00:00"
-      },
-      "NETHPOT": {
-        "tier": "LT4",
-        "obtained_at": "2026-10-10T17:07:30.907556+00:00"
-      }
-    },
+    "tiers": {},
     "verificado": true,
     "cuenta": "premium",
     "uuid": "19947481-1911-43d1-a94b-cfd146e59c23",
@@ -21452,7 +21417,7 @@
     },
     "tester": null,
     "staff": {
-      "rango": "Discord Mod"
+      "rango": "Regulador"
     }
   },
   "1295872615818334320": {
@@ -22744,7 +22709,7 @@
     "staff": null
   },
   "1385351871090262148": {
-    "nick": "GlizzyG4ng",
+    "nick": "TalentoIndio",
     "region": "NA",
     "tiers": {
       "CRYSTAL": {
