@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794487320196,
-    "lastUpdateHuman": "2026-11-12 12:42:00 UTC",
+    "lastUpdate": 1794515275014,
+    "lastUpdateHuman": "2026-11-12 20:27:55 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5635,7 +5635,7 @@
     "region": "EU"
   },
   "1502640331928113193": {
-    "nick": "ImZyv3ris",
+    "nick": "Ryolr_",
     "modes": {},
     "region": "EU"
   },
@@ -10150,7 +10150,7 @@
     "region": "SA"
   },
   "1289674155070849179": {
-    "nick": "Cogefurros4000",
+    "nick": "CuteCatboy7w7",
     "modes": {
       "crystal": [
         {
@@ -14816,7 +14816,7 @@
         }
       ]
     },
-    "region": "EU"
+    "region": "NA"
   },
   "1141815380994707549": {
     "nick": null,
@@ -15671,7 +15671,7 @@
     "region": "SA"
   },
   "1325020940379357286": {
-    "nick": "mcpolla777",
+    "nick": "SharpHere",
     "modes": {},
     "region": "EU"
   },
@@ -15810,5 +15810,35 @@
       ]
     },
     "region": "NA"
+  },
+  "370717968352542722": {
+    "nick": "Bompi2010",
+    "modes": {},
+    "region": "SA"
+  },
+  "1346516131027877918": {
+    "nick": "fandoaifood",
+    "modes": {},
+    "region": "SA"
+  },
+  "1215667787679137850": {
+    "nick": "hicryo",
+    "modes": {},
+    "region": "EU"
+  },
+  "1351133223693975602": {
+    "nick": "AnshOnDrugs",
+    "modes": {},
+    "region": "AS"
+  },
+  "1491892348039332002": {
+    "nick": "_Vexk",
+    "modes": {},
+    "region": "NA"
+  },
+  "1439150164249022474": {
+    "nick": "Haaaaarpic",
+    "modes": {},
+    "region": "EU"
   }
 }
