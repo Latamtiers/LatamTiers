@@ -1124,6 +1124,10 @@
     "nick": "LuisDroid",
     "region": "NA",
     "tiers": {
+      "UHC": {
+        "tier": "LT5",
+        "obtained_at": "2026-11-12T06:01:24.304442+00:00"
+      },
       "MAZO": {
         "tier": "LT5",
         "obtained_at": "2026-11-02T23:08:55.457912+00:00"
@@ -1133,7 +1137,8 @@
     "cuenta": "premium",
     "uuid": "a88a9511-0903-47ca-94d3-b5e68733c8a5",
     "peaks": {
-      "MAZO": "LT5"
+      "MAZO": "LT5",
+      "UHC": "LT5"
     },
     "tester": null,
     "staff": null
@@ -2649,11 +2654,18 @@
   "891032796024418376": {
     "nick": "Lukaz1223R",
     "region": "SA",
-    "tiers": {},
+    "tiers": {
+      "UHC": {
+        "tier": "LT5",
+        "obtained_at": "2026-11-12T05:17:17.766482+00:00"
+      }
+    },
     "verificado": true,
     "cuenta": "premium",
     "uuid": "5e8ee81a-94c7-4248-997c-2fdaf6ed6338",
-    "peaks": {},
+    "peaks": {
+      "UHC": "LT5"
+    },
     "tester": null,
     "staff": null
   },
@@ -7306,7 +7318,7 @@
     "staff": null
   },
   "1148030505162375208": {
-    "nick": "1am_a_bot0_o",
+    "nick": "wxba",
     "region": "SA",
     "tiers": {
       "UHC": {
@@ -7319,8 +7331,8 @@
       }
     },
     "verificado": true,
-    "cuenta": "cracked",
-    "uuid": null,
+    "cuenta": "premium",
+    "uuid": "1a867227-7cb5-40c1-bb63-470be016abf0",
     "peaks": {
       "UHC": "HT5",
       "NETHPOT": "HT4"
@@ -9403,7 +9415,7 @@
       "modalidades": [
         "UHC"
       ],
-      "tests": 10
+      "tests": 14
     },
     "staff": null
   },
@@ -10785,7 +10797,7 @@
       "modalidades": [
         "UHC"
       ],
-      "tests": 71
+      "tests": 72
     },
     "staff": {
       "rango": "Manager"
@@ -12011,8 +12023,8 @@
     "region": "NA",
     "tiers": {
       "UHC": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-07T20:31:03.817878+00:00"
+        "tier": "LT5",
+        "obtained_at": "2026-11-12T05:54:23.931147+00:00"
       },
       "MAZO": {
         "tier": "LT5",
@@ -13172,6 +13184,10 @@
     "nick": "RaiorikxW_",
     "region": "SA",
     "tiers": {
+      "UHC": {
+        "tier": "LT4",
+        "obtained_at": "2026-11-12T05:45:57.449472+00:00"
+      },
       "MAZO": {
         "tier": "LT3",
         "obtained_at": "2026-11-10T06:44:58.578184+00:00"
@@ -13186,7 +13202,8 @@
     "uuid": "935cdb22-a2a6-4275-a02e-e42c49f71d9d",
     "peaks": {
       "MAZO": "LT3",
-      "DIAMOND POT": "LT5"
+      "DIAMOND POT": "LT5",
+      "UHC": "LT4"
     },
     "tester": null,
     "staff": null
@@ -22286,6 +22303,24 @@
     "tester": null,
     "staff": null
   },
+  "606574042983432213": {
+    "nick": "svkiwith10ms",
+    "region": "NA",
+    "tiers": {
+      "UHC": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-12T06:00:19.032601+00:00"
+      }
+    },
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "4e6d23cf-d534-4405-a085-4bf0a1305867",
+    "peaks": {
+      "UHC": "HT5"
+    },
+    "tester": null,
+    "staff": null
+  },
   "1483983491640328354": {
     "nick": "na",
     "region": "NA",
@@ -24531,7 +24566,7 @@
       "modalidades": [
         "MAZO"
       ],
-      "tests": 49
+      "tests": 50
     },
     "staff": {
       "rango": "Trial Mod"
