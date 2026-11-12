@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794440279178,
-    "lastUpdateHuman": "2026-11-11 23:37:59 UTC",
+    "lastUpdate": 1794456725084,
+    "lastUpdateHuman": "2026-11-12 04:12:05 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2692,7 +2692,7 @@
     "region": "NA"
   },
   "827338416223027241": {
-    "nick": "dartb",
+    "nick": "theaurafarmer67",
     "modes": {
       "crystal": [
         {
@@ -3221,6 +3221,10 @@
         {
           "tier": "LT5",
           "at": 1793399169428
+        },
+        {
+          "tier": "LT4",
+          "at": 1794442342349
         }
       ],
       "smp": [
@@ -13523,7 +13527,7 @@
     "region": "SA"
   },
   "1139768865082060842": {
-    "nick": "loik_xdxd",
+    "nick": "loik_GodCrit977",
     "modes": {},
     "region": "NA"
   },
@@ -14218,6 +14222,12 @@
         {
           "tier": "LT4",
           "at": 1794104628273
+        }
+      ],
+      "crystal": [
+        {
+          "tier": "LT4",
+          "at": 1794441672468
         }
       ]
     },
@@ -15751,5 +15761,17 @@
     "nick": "MysticGenwbt",
     "modes": {},
     "region": "SA"
+  },
+  "781699032250712114": {
+    "nick": "MJC_",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT3",
+          "at": 1794447254811
+        }
+      ]
+    },
+    "region": "NA"
   }
 }
