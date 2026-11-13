@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794532856293,
-    "lastUpdateHuman": "2026-11-13 01:20:56 UTC",
+    "lastUpdate": 1794557409161,
+    "lastUpdateHuman": "2026-11-13 08:10:09 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -1892,6 +1892,12 @@
           "tier": "LT5",
           "at": 1793917275158
         }
+      ],
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1794540671842
+        }
       ]
     },
     "region": "NA"
@@ -2928,7 +2934,7 @@
     "region": "NA"
   },
   "1284320932076195904": {
-    "nick": "monkeyman1235657",
+    "nick": "monkuna",
     "modes": {},
     "region": "NA"
   },
@@ -6741,6 +6747,12 @@
         {
           "tier": "LT5",
           "at": 1792198115972
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1794537746253
         }
       ]
     },
@@ -13260,7 +13272,7 @@
     "region": "NA"
   },
   "1053343953686118480": {
-    "nick": "LuxzOverhall",
+    "nick": "MarinnChan",
     "modes": {},
     "region": "SA"
   },
@@ -13634,7 +13646,14 @@
   },
   "1318323049350692864": {
     "nick": "pvffles",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT5",
+          "at": 1794537201113
+        }
+      ]
+    },
     "region": "NA"
   },
   "903476004830474282": {
@@ -14057,6 +14076,10 @@
         {
           "tier": "HT4",
           "at": 1794010702237
+        },
+        {
+          "tier": "LT4",
+          "at": 1794540193092
         }
       ],
       "nethpot": [
@@ -14299,6 +14322,10 @@
         {
           "tier": "LT3",
           "at": 1794097473035
+        },
+        {
+          "tier": "HT4",
+          "at": 1794543440268
         }
       ]
     },
@@ -15871,5 +15898,17 @@
     "nick": "OXV4",
     "modes": {},
     "region": "EU"
+  },
+  "782608608273235988": {
+    "nick": "iLoveYouxBii_",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1794536174052
+        }
+      ]
+    },
+    "region": "NA"
   }
 }
