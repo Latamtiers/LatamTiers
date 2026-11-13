@@ -1476,7 +1476,7 @@
         "SWORD",
         "UHC"
       ],
-      "tests": 156
+      "tests": 161
     },
     "staff": null
   },
@@ -1785,7 +1785,7 @@
       "modalidades": [
         "MAZO"
       ],
-      "tests": 39
+      "tests": 40
     },
     "staff": null
   },
@@ -3396,6 +3396,10 @@
         "tier": "LT4",
         "obtained_at": "2026-11-02T15:31:48.400796+00:00"
       },
+      "SWORD": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-13T16:44:57.555794+00:00"
+      },
       "MAZO": {
         "tier": "LT3",
         "obtained_at": "2026-11-12T17:28:10.377079+00:00"
@@ -3416,7 +3420,8 @@
       "NETHPOT": "LT3",
       "DIAMOND POT": "LT3",
       "CRYSTAL": "LT4",
-      "MAZO": "LT3"
+      "MAZO": "LT3",
+      "SWORD": "LT3"
     },
     "tester": null,
     "staff": null
@@ -4399,7 +4404,7 @@
     "staff": null
   },
   "719720102131531827": {
-    "nick": "AlezIsntB4d",
+    "nick": "7wx_",
     "region": "NA",
     "tiers": {
       "NETHPOT": {
@@ -5239,6 +5244,10 @@
     "nick": "IvanF5",
     "region": "NA",
     "tiers": {
+      "UHC": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-13T16:30:38.730052+00:00"
+      },
       "MAZO": {
         "tier": "LT3",
         "obtained_at": "2026-11-10T05:53:52.009285+00:00"
@@ -5253,7 +5262,8 @@
     "uuid": "3624f4f8-fd1c-4068-a1e0-075816e8f405",
     "peaks": {
       "DIAMOND POT": "LT3",
-      "MAZO": "LT3"
+      "MAZO": "LT3",
+      "UHC": "LT3"
     },
     "tester": null,
     "staff": null
@@ -9277,7 +9287,7 @@
     "staff": null
   },
   "1096949711333752923": {
-    "nick": "criadeheastryd",
+    "nick": "ItzLarryX",
     "region": "NA/SA",
     "tiers": {},
     "verificado": true,
@@ -14089,7 +14099,7 @@
     "staff": null
   },
   "1118252193993195571": {
-    "nick": "aurax_67",
+    "nick": "1whr",
     "region": "SA",
     "tiers": {
       "SMP": {
@@ -14313,8 +14323,8 @@
         "obtained_at": "2026-10-25T03:40:52.947960+00:00"
       },
       "MAZO": {
-        "tier": "LT5",
-        "obtained_at": "2026-10-25T03:40:52.947960+00:00"
+        "tier": "HT5",
+        "obtained_at": "2026-11-13T17:35:23.213604+00:00"
       },
       "NETHPOT": {
         "tier": "HT5",
@@ -14330,7 +14340,7 @@
     "uuid": "f02b0c6f-465a-451c-aa2f-5b9e35c3d30b",
     "peaks": {
       "SWORD": "HT4",
-      "MAZO": "LT5",
+      "MAZO": "HT5",
       "CRYSTAL": "HT5",
       "DIAMOND POT": "HT5",
       "UHC": "LT5",
@@ -18362,7 +18372,7 @@
     "staff": null
   },
   "1372312738742800414": {
-    "nick": "vMiau",
+    "nick": "Bzzvx",
     "region": "NA",
     "tiers": {
       "CRYSTAL": {
@@ -18793,6 +18803,17 @@
     "peaks": {
       "SWORD": "LT5"
     },
+    "tester": null,
+    "staff": null
+  },
+  "1433609485791920281": {
+    "nick": "CL4mx",
+    "region": "NA",
+    "tiers": {},
+    "verificado": true,
+    "cuenta": "cracked",
+    "uuid": null,
+    "peaks": {},
     "tester": null,
     "staff": null
   },
@@ -22379,8 +22400,12 @@
         "obtained_at": "2026-10-31T19:04:04.658759+00:00"
       },
       "UHC": {
-        "tier": "LT5",
-        "obtained_at": "2026-10-25T17:10:55.839286+00:00"
+        "tier": "HT5",
+        "obtained_at": "2026-11-13T16:39:18.172740+00:00"
+      },
+      "SWORD": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-13T16:52:46.384295+00:00"
       },
       "MAZO": {
         "tier": "HT5",
@@ -22392,8 +22417,9 @@
     "uuid": "025404cc-c3f1-4fcf-a446-0622c2999622",
     "peaks": {
       "MAZO": "HT5",
-      "UHC": "LT5",
-      "CRYSTAL": "HT5"
+      "UHC": "HT5",
+      "CRYSTAL": "HT5",
+      "SWORD": "HT5"
     },
     "tester": null,
     "staff": null
@@ -26838,6 +26864,10 @@
     "nick": "Guerrerof_",
     "region": "NA/EU",
     "tiers": {
+      "UHC": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-13T17:03:51.570940+00:00"
+      },
       "MAZO": {
         "tier": "LT5",
         "obtained_at": "2026-11-08T22:55:11.329513+00:00"
@@ -26857,7 +26887,8 @@
     "peaks": {
       "NETHPOT": "LT4",
       "DIAMOND POT": "HT5",
-      "MAZO": "LT5"
+      "MAZO": "LT5",
+      "UHC": "HT5"
     },
     "tester": null,
     "staff": null

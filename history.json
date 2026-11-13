@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794586658243,
-    "lastUpdateHuman": "2026-11-13 16:17:38 UTC",
+    "lastUpdate": 1794607275980,
+    "lastUpdateHuman": "2026-11-13 22:01:15 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3515,7 +3515,7 @@
     "region": "SA"
   },
   "719720102131531827": {
-    "nick": "AlezIsntB4d",
+    "nick": "7wx_",
     "modes": {
       "nethpot": [
         {
@@ -8499,12 +8499,22 @@
         {
           "tier": "LT5",
           "at": 1792948255839
+        },
+        {
+          "tier": "HT5",
+          "at": 1794587958172
         }
       ],
       "crystal": [
         {
           "tier": "HT5",
           "at": 1793473444658
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT5",
+          "at": 1794588766384
         }
       ]
     },
@@ -9522,7 +9532,7 @@
     "region": "NA"
   },
   "1372312738742800414": {
-    "nick": "vMiau",
+    "nick": "Bzzvx",
     "modes": {
       "crystal": [
         {
@@ -12773,6 +12783,12 @@
           "tier": "LT4",
           "at": 1793633508400
         }
+      ],
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1794588297555
+        }
       ]
     },
     "region": "NA"
@@ -13486,7 +13502,7 @@
     "region": "NA"
   },
   "1096949711333752923": {
-    "nick": "criadeheastryd",
+    "nick": "ItzLarryX",
     "modes": {},
     "region": "NA/SA"
   },
@@ -14304,7 +14320,7 @@
     "region": "NA"
   },
   "1118252193993195571": {
-    "nick": "aurax_67",
+    "nick": "1whr",
     "modes": {
       "smp": [
         {
@@ -14371,6 +14387,12 @@
         {
           "tier": "HT5",
           "at": 1794177329647
+        }
+      ],
+      "uhc": [
+        {
+          "tier": "HT5",
+          "at": 1794589431570
         }
       ]
     },
@@ -15499,7 +15521,14 @@
   },
   "1091976186663538748": {
     "nick": "IvanF5",
-    "modes": {},
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT3",
+          "at": 1794587438730
+        }
+      ]
+    },
     "region": "NA"
   },
   "1519774010647384124": {
@@ -15909,6 +15938,11 @@
         }
       ]
     },
+    "region": "NA"
+  },
+  "1433609485791920281": {
+    "nick": "CL4mx",
+    "modes": {},
     "region": "NA"
   }
 }
