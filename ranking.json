@@ -694,7 +694,7 @@
     "staff": null
   },
   "905112874903552021": {
-    "nick": "Nylxez",
+    "nick": "SkibidiNylexito",
     "region": "NA",
     "tiers": {
       "SWORD": {
@@ -17167,7 +17167,7 @@
     }
   },
   "1003165021947306056": {
-    "nick": "094s",
+    "nick": "astragfulla",
     "region": "NA",
     "tiers": {
       "CRYSTAL": {
@@ -17921,6 +17921,10 @@
       "SWORD": {
         "tier": "HT4",
         "obtained_at": "2026-11-09T02:13:59.601072+00:00"
+      },
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-14T07:33:58.251171+00:00"
       },
       "DIAMOND POT": {
         "tier": "LT3",
@@ -22316,7 +22320,7 @@
     "staff": null
   },
   "1261968109137563750": {
-    "nick": "17shx",
+    "nick": "yonosoymilto",
     "region": "SA",
     "tiers": {},
     "verificado": true,
@@ -24815,13 +24819,7 @@
       "NETHPOT": "LT3",
       "DIAMOND POT": "HT5"
     },
-    "tester": {
-      "rango": "Trial Tester",
-      "modalidades": [
-        "NETHPOT"
-      ],
-      "tests": 9
-    },
+    "tester": null,
     "staff": null
   },
   "1315362996096340099": {
