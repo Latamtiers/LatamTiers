@@ -1785,7 +1785,7 @@
       "modalidades": [
         "MAZO"
       ],
-      "tests": 40
+      "tests": 41
     },
     "staff": null
   },
@@ -8685,7 +8685,7 @@
     "staff": null
   },
   "1464936318638489778": {
-    "nick": "KabuksuzKaplumba",
+    "nick": "xUm1t",
     "region": "EU",
     "tiers": {},
     "verificado": true,
@@ -16519,11 +16519,18 @@
   "1347096805757947905": {
     "nick": "47crstxan",
     "region": "NA",
-    "tiers": {},
+    "tiers": {
+      "MAZO": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-14T10:21:31.792432+00:00"
+      }
+    },
     "verificado": true,
     "cuenta": "cracked",
     "uuid": null,
-    "peaks": {},
+    "peaks": {
+      "MAZO": "HT5"
+    },
     "tester": null,
     "staff": null
   },
@@ -26284,7 +26291,7 @@
   },
   "667510150747389962": {
     "nick": "KaxLy_",
-    "region": "SA",
+    "region": "NA/SA",
     "tiers": {
       "SMP": {
         "tier": "LT3",

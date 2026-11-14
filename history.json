@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794646692860,
-    "lastUpdateHuman": "2026-11-14 08:58:12 UTC",
+    "lastUpdate": 1794670683670,
+    "lastUpdateHuman": "2026-11-14 15:38:03 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -7746,7 +7746,7 @@
         }
       ]
     },
-    "region": "SA"
+    "region": "NA/SA"
   },
   "1387905507435483292": {
     "nick": "AverageAxer",
@@ -14057,7 +14057,7 @@
     "region": "NA"
   },
   "1464936318638489778": {
-    "nick": "KabuksuzKaplumba",
+    "nick": "xUm1t",
     "modes": {},
     "region": "EU"
   },
