@@ -1418,7 +1418,7 @@
       "modalidades": [
         "MAZO"
       ],
-      "tests": 38
+      "tests": 39
     },
     "staff": null
   },
@@ -1785,7 +1785,7 @@
       "modalidades": [
         "MAZO"
       ],
-      "tests": 41
+      "tests": 44
     },
     "staff": null
   },
@@ -11135,6 +11135,24 @@
     "tester": null,
     "staff": null
   },
+  "1418927719852281897": {
+    "nick": "_notbagel",
+    "region": "NA/EU",
+    "tiers": {
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-14T21:54:20.027694+00:00"
+      }
+    },
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "f4429772-0a18-492a-9edf-b1b0d507940d",
+    "peaks": {
+      "MAZO": "LT3"
+    },
+    "tester": null,
+    "staff": null
+  },
   "1053343953686118480": {
     "nick": "MarinnChan",
     "region": "SA",
@@ -13495,6 +13513,10 @@
       "SWORD": {
         "tier": "LT4",
         "obtained_at": "2026-10-12T01:17:44.936514+00:00"
+      },
+      "MAZO": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-14T21:15:18.284267+00:00"
       }
     },
     "verificado": true,
@@ -13502,7 +13524,8 @@
     "uuid": "eef6b2f8-ba1a-4155-a8ad-5d3f2b9f22b2",
     "peaks": {
       "CRYSTAL": "LT3",
-      "SWORD": "LT4"
+      "SWORD": "LT4",
+      "MAZO": "HT5"
     },
     "tester": null,
     "staff": null
@@ -13541,8 +13564,8 @@
     "region": "SA",
     "tiers": {
       "MAZO": {
-        "tier": "HT5",
-        "obtained_at": "2026-11-09T23:16:06.776544+00:00"
+        "tier": "LT5",
+        "obtained_at": "2026-11-14T22:58:46.046840+00:00"
       },
       "NETHPOT": {
         "tier": "HT5",
