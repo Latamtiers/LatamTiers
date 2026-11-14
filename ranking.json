@@ -3388,6 +3388,24 @@
     "tester": null,
     "staff": null
   },
+  "1137803308711563325": {
+    "nick": "zGuapitox123_",
+    "region": "NA",
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-14T18:08:40.261556+00:00"
+      }
+    },
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "74612f19-4f2d-4854-954a-db693a3e8aba",
+    "peaks": {
+      "DIAMOND POT": "LT3"
+    },
+    "tester": null,
+    "staff": null
+  },
   "798321674030153728": {
     "nick": "Juelzcolon30",
     "region": "NA",
@@ -3965,7 +3983,7 @@
         "NETHPOT",
         "DIAMOND POT"
       ],
-      "tests": 18
+      "tests": 24
     },
     "staff": null
   },
@@ -5252,6 +5270,10 @@
         "tier": "LT3",
         "obtained_at": "2026-11-10T05:53:52.009285+00:00"
       },
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-14T18:53:25.254595+00:00"
+      },
       "DIAMOND POT": {
         "tier": "LT3",
         "obtained_at": "2026-11-08T23:08:05.814363+00:00"
@@ -5263,7 +5285,8 @@
     "peaks": {
       "DIAMOND POT": "LT3",
       "MAZO": "LT3",
-      "UHC": "LT3"
+      "UHC": "LT3",
+      "NETHPOT": "LT3"
     },
     "tester": null,
     "staff": null
@@ -6103,8 +6126,8 @@
         "obtained_at": "2026-11-06T23:55:18.653688+00:00"
       },
       "DIAMOND POT": {
-        "tier": "LT5",
-        "obtained_at": "2026-11-05T20:55:58.959234+00:00"
+        "tier": "LT4",
+        "obtained_at": "2026-11-14T17:42:27.968712+00:00"
       },
       "AXE": {
         "tier": "LT5",
@@ -6120,7 +6143,7 @@
       "SWORD": "HT4",
       "MAZO": "HT5",
       "AXE": "LT5",
-      "DIAMOND POT": "LT5",
+      "DIAMOND POT": "LT4",
       "NETHPOT": "LT4"
     },
     "tester": null,
@@ -7674,7 +7697,7 @@
         "NETHPOT",
         "CRYSTAL"
       ],
-      "tests": 91
+      "tests": 93
     },
     "staff": {
       "rango": "Trial Mod"
@@ -8604,6 +8627,17 @@
     "peaks": {
       "NETHPOT": "HT5"
     },
+    "tester": null,
+    "staff": null
+  },
+  "1528931011495202827": {
+    "nick": "Clipeated",
+    "region": "EU",
+    "tiers": {},
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "a2eda912-5dd0-47be-b1e0-21e7d4f2fc6d",
+    "peaks": {},
     "tester": null,
     "staff": null
   },
@@ -16766,6 +16800,10 @@
         "tier": "LT4",
         "obtained_at": "2026-11-05T18:02:51.650076+00:00"
       },
+      "CRYSTAL": {
+        "tier": "LT4",
+        "obtained_at": "2026-11-14T16:09:17.361626+00:00"
+      },
       "UHC": {
         "tier": "HT5",
         "obtained_at": "2026-11-09T20:37:45.615442+00:00"
@@ -16791,7 +16829,8 @@
       "SMP": "LT4",
       "DIAMOND POT": "HT5",
       "NETHPOT": "LT5",
-      "UHC": "HT5"
+      "UHC": "HT5",
+      "CRYSTAL": "LT4"
     },
     "tester": null,
     "staff": null
@@ -19881,6 +19920,17 @@
     "tester": null,
     "staff": null
   },
+  "1336404548897734788": {
+    "nick": "Riapix",
+    "region": "NA",
+    "tiers": {},
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "962d08ad-8888-431e-8b00-615be6ed776b",
+    "peaks": {},
+    "tester": null,
+    "staff": null
+  },
   "1536170447387762728": {
     "nick": "OceanOpsec",
     "region": "NA",
@@ -21460,15 +21510,15 @@
         "obtained_at": "2026-11-04T01:06:11.414944+00:00"
       },
       "DIAMOND POT": {
-        "tier": "LT4",
-        "obtained_at": "2026-11-08T18:18:25.642326+00:00"
+        "tier": "HT4",
+        "obtained_at": "2026-11-14T18:16:51.878146+00:00"
       }
     },
     "verificado": true,
     "cuenta": "cracked",
     "uuid": null,
     "peaks": {
-      "DIAMOND POT": "LT4",
+      "DIAMOND POT": "HT4",
       "NETHPOT": "HT4",
       "SWORD": "LT4"
     },
@@ -22312,8 +22362,8 @@
         "obtained_at": "2026-11-11T22:14:57.299865+00:00"
       },
       "DIAMOND POT": {
-        "tier": "LT3",
-        "obtained_at": "2026-11-13T01:49:29.444625+00:00"
+        "tier": "HT4",
+        "obtained_at": "2026-11-14T17:30:34.064124+00:00"
       }
     },
     "verificado": true,
@@ -22655,6 +22705,10 @@
     "nick": "SimonSaysJumpoff",
     "region": "NA",
     "tiers": {
+      "CRYSTAL": {
+        "tier": "LT5",
+        "obtained_at": "2026-11-14T16:00:56.425094+00:00"
+      },
       "UHC": {
         "tier": "LT4",
         "obtained_at": "2026-11-13T03:23:13.092139+00:00"
@@ -22674,7 +22728,8 @@
     "peaks": {
       "NETHPOT": "LT4",
       "UHC": "HT4",
-      "DIAMOND POT": "LT4"
+      "DIAMOND POT": "LT4",
+      "CRYSTAL": "LT5"
     },
     "tester": null,
     "staff": null
