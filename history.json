@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794607275980,
-    "lastUpdateHuman": "2026-11-13 22:01:15 UTC",
+    "lastUpdate": 1794622353004,
+    "lastUpdateHuman": "2026-11-14 02:12:33 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3440,7 +3440,7 @@
     "region": "NA"
   },
   "1168737089148424224": {
-    "nick": "Mqnvll",
+    "nick": "Veskr",
     "modes": {
       "uhc": [
         {
@@ -7275,7 +7275,7 @@
     "region": "NA"
   },
   "1191534004046934076": {
-    "nick": "Mzwx_",
+    "nick": "hz67",
     "modes": {},
     "region": "NA"
   },
@@ -10282,7 +10282,7 @@
     "region": "NA"
   },
   "1449524915081576468": {
-    "nick": "mantequita_67",
+    "nick": "mantecoso_67",
     "modes": {
       "crystal": [
         {
@@ -12451,7 +12451,7 @@
     "region": "SA"
   },
   "814211528256913429": {
-    "nick": "ItsAvi8a",
+    "nick": "_Potatobro_",
     "modes": {},
     "region": "SA"
   },
@@ -13814,7 +13814,14 @@
   },
   "1562548307044081867": {
     "nick": "Deltab2minus4ac",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1794611667381
+        }
+      ]
+    },
     "region": "NA/EU"
   },
   "1065687823988043897": {
@@ -15715,7 +15722,7 @@
     "region": "SA"
   },
   "1305699984146038825": {
-    "nick": "Davizandoo",
+    "nick": "Cruelityzando",
     "modes": {
       "nethpot": [
         {
@@ -15944,5 +15951,20 @@
     "nick": "CL4mx",
     "modes": {},
     "region": "NA"
+  },
+  "1473058813522350101": {
+    "nick": "Tsarzz",
+    "modes": {},
+    "region": "NA"
+  },
+  "571357611719393289": {
+    "nick": "IdkHowUseBow",
+    "modes": {},
+    "region": "SA"
+  },
+  "1189947016340574362": {
+    "nick": "RedTigger3",
+    "modes": {},
+    "region": "NA/SA"
   }
 }
