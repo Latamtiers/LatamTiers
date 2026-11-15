@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794712315246,
-    "lastUpdateHuman": "2026-11-15 03:11:55 UTC",
+    "lastUpdate": 1794739905505,
+    "lastUpdateHuman": "2026-11-15 10:51:45 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -16010,5 +16010,10 @@
     "nick": "_notbagel",
     "modes": {},
     "region": "NA/EU"
+  },
+  "1404614616910270515": {
+    "nick": "QD00",
+    "modes": {},
+    "region": "NA"
   }
 }
