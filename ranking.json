@@ -1418,7 +1418,7 @@
       "modalidades": [
         "MAZO"
       ],
-      "tests": 39
+      "tests": 40
     },
     "staff": null
   },
@@ -22095,11 +22095,18 @@
   "903476004830474282": {
     "nick": "ShafyX",
     "region": "NA",
-    "tiers": {},
+    "tiers": {
+      "MAZO": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-15T00:16:16.208386+00:00"
+      }
+    },
     "verificado": true,
     "cuenta": "premium",
     "uuid": "ae82cae2-a380-4c42-9d0c-d4961cd78f2a",
-    "peaks": {},
+    "peaks": {
+      "MAZO": "LT3"
+    },
     "tester": null,
     "staff": null
   },
