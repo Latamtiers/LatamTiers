@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794779927723,
-    "lastUpdateHuman": "2026-11-15 21:58:47 UTC",
+    "lastUpdate": 1794793105630,
+    "lastUpdateHuman": "2026-11-16 01:38:25 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3046,6 +3046,10 @@
         {
           "tier": "HT3",
           "at": 1791507384444
+        },
+        {
+          "tier": "LT2",
+          "at": 1794783245508
         }
       ],
       "nethpot": [
@@ -4503,7 +4507,14 @@
   },
   "994763713427034223": {
     "nick": "krpza",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1794785292553
+        }
+      ]
+    },
     "region": "NA"
   },
   "1493150289333846027": {
@@ -9504,7 +9515,7 @@
     "region": "EU"
   },
   "784271806281809924": {
-    "nick": "ShinyMinan",
+    "nick": "minanp",
     "modes": {},
     "region": "NA/SA"
   },
@@ -12675,7 +12686,7 @@
     "region": "NA"
   },
   "1050810800610222122": {
-    "nick": "ecunem",
+    "nick": "Foumen",
     "modes": {
       "sword": [
         {
@@ -13887,6 +13898,10 @@
         {
           "tier": "LT5",
           "at": 1793913977999
+        },
+        {
+          "tier": "HT5",
+          "at": 1794787745785
         }
       ],
       "uhc": [
@@ -16013,6 +16028,16 @@
   },
   "1404614616910270515": {
     "nick": "QD00",
+    "modes": {},
+    "region": "NA"
+  },
+  "1449472362130178198": {
+    "nick": "sr_vidas",
+    "modes": {},
+    "region": "SA"
+  },
+  "1514248040762970244": {
+    "nick": "Mr_Iscxz7",
     "modes": {},
     "region": "NA"
   }
