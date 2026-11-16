@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794793105630,
-    "lastUpdateHuman": "2026-11-16 01:38:25 UTC",
+    "lastUpdate": 1794818034417,
+    "lastUpdateHuman": "2026-11-16 08:33:54 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -15785,6 +15785,12 @@
           "tier": "LT3",
           "at": 1794440018436
         }
+      ],
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1794796970019
+        }
       ]
     },
     "region": "NA/SA"
@@ -16040,5 +16046,17 @@
     "nick": "Mr_Iscxz7",
     "modes": {},
     "region": "NA"
+  },
+  "1278104706811560088": {
+    "nick": "Scarletsz",
+    "modes": {
+      "uhc": [
+        {
+          "tier": "LT4",
+          "at": 1794799194172
+        }
+      ]
+    },
+    "region": "NA/SA"
   }
 }

@@ -7515,6 +7515,24 @@
     "tester": null,
     "staff": null
   },
+  "1278104706811560088": {
+    "nick": "Scarletsz",
+    "region": "NA/SA",
+    "tiers": {
+      "UHC": {
+        "tier": "LT4",
+        "obtained_at": "2026-11-16T03:19:54.172301+00:00"
+      }
+    },
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "2370efd6-8a61-4f89-96df-51c1ac9ac605",
+    "peaks": {
+      "UHC": "LT4"
+    },
+    "tester": null,
+    "staff": null
+  },
   "1196649929456750653": {
     "nick": "BALAKx",
     "region": "NA",
@@ -10327,7 +10345,7 @@
       "modalidades": [
         "UHC"
       ],
-      "tests": 20
+      "tests": 24
     },
     "staff": null
   },
@@ -10564,6 +10582,10 @@
     "nick": "ivxnVo",
     "region": "NA/SA",
     "tiers": {
+      "UHC": {
+        "tier": "LT4",
+        "obtained_at": "2026-11-16T02:42:50.019338+00:00"
+      },
       "SWORD": {
         "tier": "LT3",
         "obtained_at": "2026-11-11T23:33:38.436561+00:00"
@@ -10578,7 +10600,8 @@
     "uuid": "cab7231c-0758-4652-b31f-a666450978a3",
     "peaks": {
       "DIAMOND POT": "LT3",
-      "SWORD": "LT3"
+      "SWORD": "LT3",
+      "UHC": "LT4"
     },
     "tester": null,
     "staff": null
