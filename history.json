@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794911934902,
-    "lastUpdateHuman": "2026-11-17 10:38:54 UTC",
+    "lastUpdate": 1794943381003,
+    "lastUpdateHuman": "2026-11-17 19:23:01 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -8754,7 +8754,7 @@
     "region": "NA"
   },
   "1457582112302432401": {
-    "nick": "Maydomborn",
+    "nick": "Axell_56",
     "modes": {},
     "region": "SA"
   },
@@ -11161,7 +11161,7 @@
     "region": "SA"
   },
   "1386796965613801512": {
-    "nick": "47PablitoSiSeven",
+    "nick": "PablitoSixSeven",
     "modes": {
       "sword": [
         {
@@ -16139,6 +16139,11 @@
   },
   "964314769811210390": {
     "nick": "6locckeef",
+    "modes": {},
+    "region": "SA"
+  },
+  "1525264019701633137": {
+    "nick": "Thorlnmortal",
     "modes": {},
     "region": "SA"
   }
