@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794881349293,
-    "lastUpdateHuman": "2026-11-17 02:09:09 UTC",
+    "lastUpdate": 1794911934902,
+    "lastUpdateHuman": "2026-11-17 10:38:54 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5816,6 +5816,12 @@
           "tier": "LT4",
           "at": 1793158794735
         }
+      ],
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1794883711823
+        }
       ]
     },
     "region": "NA/SA"
@@ -6691,6 +6697,12 @@
         {
           "tier": "LT5",
           "at": 1793473567191
+        }
+      ],
+      "sword": [
+        {
+          "tier": "HT4",
+          "at": 1794883110636
         }
       ]
     },
@@ -7951,6 +7963,12 @@
         {
           "tier": "LT4",
           "at": 1793074309834
+        }
+      ],
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1794881953382
         }
       ]
     },
@@ -12956,7 +12974,7 @@
     "region": "NA"
   },
   "1544847223991435326": {
-    "nick": "Oathfang",
+    "nick": "ParkerGameBrains",
     "modes": {},
     "region": "SA"
   },
@@ -13164,7 +13182,14 @@
   },
   "784591285080162314": {
     "nick": "uBanned",
-    "modes": {},
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1794881321148
+        }
+      ]
+    },
     "region": "SA"
   },
   "1540650245690621962": {
@@ -14020,7 +14045,7 @@
     "region": "NA/SA"
   },
   "1341944097794949221": {
-    "nick": "x_vn",
+    "nick": "mojarradeoro",
     "modes": {
       "nethpot": [
         {
@@ -16102,8 +16127,19 @@
           "tier": "HT5",
           "at": 1794863930789
         }
+      ],
+      "sword": [
+        {
+          "tier": "HT5",
+          "at": 1794884065153
+        }
       ]
     },
     "region": "NA"
+  },
+  "964314769811210390": {
+    "nick": "6locckeef",
+    "modes": {},
+    "region": "SA"
   }
 }
