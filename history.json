@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794855082846,
-    "lastUpdateHuman": "2026-11-16 18:51:22 UTC",
+    "lastUpdate": 1794881349293,
+    "lastUpdateHuman": "2026-11-17 02:09:09 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -662,6 +662,10 @@
         {
           "tier": "HT5",
           "at": 1794058167348
+        },
+        {
+          "tier": "LT5",
+          "at": 1794862356209
         }
       ],
       "axe": [
@@ -3379,6 +3383,10 @@
         {
           "tier": "HT4",
           "at": 1791585226354
+        },
+        {
+          "tier": "LT3",
+          "at": 1794863306081
         }
       ]
     },
@@ -13499,6 +13507,12 @@
           "tier": "LT4",
           "at": 1794429578319
         }
+      ],
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1794872053624
+        }
       ]
     },
     "region": "NA"
@@ -13847,7 +13861,7 @@
     "region": "NA"
   },
   "1331624679382712321": {
-    "nick": "TheCooled",
+    "nick": "CursedChileno",
     "modes": {},
     "region": "NA/SA"
   },
@@ -15521,7 +15535,7 @@
     "region": "EU"
   },
   "1416556027406581760": {
-    "nick": "YoungNew_",
+    "nick": "YoungDKxd",
     "modes": {},
     "region": "SA"
   },
@@ -15802,6 +15816,10 @@
         {
           "tier": "HT5",
           "at": 1794355772453
+        },
+        {
+          "tier": "LT4",
+          "at": 1794871703903
         }
       ],
       "sword": [
@@ -15976,7 +15994,7 @@
     "region": "SA"
   },
   "931221890477989999": {
-    "nick": "OXV4",
+    "nick": "OXV4ZgOn69",
     "modes": {},
     "region": "EU"
   },
@@ -16058,5 +16076,34 @@
       ]
     },
     "region": "NA/SA"
+  },
+  "1434303712314261595": {
+    "nick": "gonzi58",
+    "modes": {},
+    "region": "SA"
+  },
+  "1441566022841794704": {
+    "nick": "JoshuaKimmich9",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1794862568485
+        }
+      ]
+    },
+    "region": "NA/SA"
+  },
+  "1482079882035859620": {
+    "nick": "SpeedLuck",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1794863930789
+        }
+      ]
+    },
+    "region": "NA"
   }
 }
