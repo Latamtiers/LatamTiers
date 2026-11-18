@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794966173539,
-    "lastUpdateHuman": "2026-11-18 01:42:53 UTC",
+    "lastUpdate": 1794993020653,
+    "lastUpdateHuman": "2026-11-18 09:10:20 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -8336,7 +8336,7 @@
     "region": "SA"
   },
   "720863473415749664": {
-    "nick": "13Apathy",
+    "nick": "ImVain",
     "modes": {
       "sword": [
         {
@@ -16151,5 +16151,10 @@
     "nick": "yTairon",
     "modes": {},
     "region": "NA"
+  },
+  "1465117424041853120": {
+    "nick": "ItsLimeGG",
+    "modes": {},
+    "region": "NA/SA"
   }
 }
