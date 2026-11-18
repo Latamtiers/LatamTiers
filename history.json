@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1794943381003,
-    "lastUpdateHuman": "2026-11-17 19:23:01 UTC",
+    "lastUpdate": 1794966173539,
+    "lastUpdateHuman": "2026-11-18 01:42:53 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5914,7 +5914,7 @@
     "region": "NA"
   },
   "1395411513287901296": {
-    "nick": "FemXPO__",
+    "nick": "XPO__",
     "modes": {
       "uhc": [
         {
@@ -14805,7 +14805,7 @@
     "region": "EU"
   },
   "1435089234284253311": {
-    "nick": "youraverageLT2",
+    "nick": "im2jolly",
     "modes": {},
     "region": "NA"
   },
@@ -14956,7 +14956,7 @@
     "region": "SA"
   },
   "1404184069687873627": {
-    "nick": "R_U_I_",
+    "nick": "CatBoy12345",
     "modes": {},
     "region": "EU"
   },
@@ -16146,5 +16146,10 @@
     "nick": "Thorlnmortal",
     "modes": {},
     "region": "SA"
+  },
+  "648591006589255720": {
+    "nick": "yTairon",
+    "modes": {},
+    "region": "NA"
   }
 }
