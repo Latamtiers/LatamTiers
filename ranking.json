@@ -1893,6 +1893,10 @@
     "nick": "ShafyX",
     "region": "NA",
     "tiers": {
+      "SMP": {
+        "tier": "HT3",
+        "obtained_at": "2026-11-18T12:45:09.997044+00:00"
+      },
       "MAZO": {
         "tier": "LT3",
         "obtained_at": "2026-11-15T00:16:16.208386+00:00"
@@ -1902,7 +1906,8 @@
     "cuenta": "premium",
     "uuid": "ae82cae2-a380-4c42-9d0c-d4961cd78f2a",
     "peaks": {
-      "MAZO": "LT3"
+      "MAZO": "LT3",
+      "SMP": "HT3"
     },
     "tester": null,
     "staff": null
@@ -2416,7 +2421,7 @@
         "SWORD",
         "DIAMOND POT"
       ],
-      "tests": 24
+      "tests": 25
     },
     "staff": {
       "rango": "Founder"
@@ -18625,6 +18630,24 @@
     "tester": null,
     "staff": null
   },
+  "1380618039153790986": {
+    "nick": "Iamcheaterr",
+    "region": "AS",
+    "tiers": {
+      "MAZO": {
+        "tier": "HT4",
+        "obtained_at": "2026-11-18T12:51:27.407807+00:00"
+      }
+    },
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "5e250691-94b2-4946-b4df-3130fa5acc6f",
+    "peaks": {
+      "MAZO": "HT4"
+    },
+    "tester": null,
+    "staff": null
+  },
   "1350517113168728196": {
     "nick": "Seyitmc",
     "region": "EU",
@@ -24347,7 +24370,7 @@
     }
   },
   "1459595324359311373": {
-    "nick": "Jhuss_",
+    "nick": "zpuRz",
     "region": "SA",
     "tiers": {},
     "verificado": true,
@@ -25033,7 +25056,7 @@
       "modalidades": [
         "MAZO"
       ],
-      "tests": 9
+      "tests": 10
     },
     "staff": null
   },
@@ -26342,7 +26365,7 @@
     "staff": null
   },
   "1106375146182279229": {
-    "nick": "asxhn",
+    "nick": "constxllation",
     "region": "NA",
     "tiers": {
       "MAZO": {
