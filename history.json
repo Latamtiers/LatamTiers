@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1795106501114,
-    "lastUpdateHuman": "2026-11-19 16:41:41 UTC",
+    "lastUpdate": 1795130059446,
+    "lastUpdateHuman": "2026-11-19 23:14:19 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -10650,7 +10650,7 @@
     "region": "NA"
   },
   "1140768572382122014": {
-    "nick": "lsdaddy",
+    "nick": "Alexmakerr",
     "modes": {},
     "region": "SA"
   },
@@ -16204,7 +16204,14 @@
   },
   "1465117424041853120": {
     "nick": "ItsLimeGG",
-    "modes": {},
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT5",
+          "at": 1795118561652
+        }
+      ]
+    },
     "region": "NA/SA"
   },
   "1380618039153790986": {
@@ -16242,13 +16249,26 @@
           "tier": "LT5",
           "at": 1795044957208
         }
+      ],
+      "sword": [
+        {
+          "tier": "LT5",
+          "at": 1795120289361
+        }
       ]
     },
     "region": "NA"
   },
   "475309374508892181": {
     "nick": "LukewarmSpare",
-    "modes": {},
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1795121064440
+        }
+      ]
+    },
     "region": "EU"
   },
   "1269068328232681587": {
@@ -16260,5 +16280,22 @@
     "nick": "ShubhX18",
     "modes": {},
     "region": "AS"
+  },
+  "1370140029099442246": {
+    "nick": "z7ad",
+    "modes": {},
+    "region": "SA"
+  },
+  "920260222906421278": {
+    "nick": "RODEX_02",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1795119671074
+        }
+      ]
+    },
+    "region": "NA/EU"
   }
 }
