@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1795073143737,
-    "lastUpdateHuman": "2026-11-19 07:25:43 UTC",
+    "lastUpdate": 1795106501114,
+    "lastUpdateHuman": "2026-11-19 16:41:41 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2239,6 +2239,12 @@
         {
           "tier": "LT4",
           "at": 1793731572806
+        }
+      ],
+      "smp": [
+        {
+          "tier": "HT5",
+          "at": 1795102608090
         }
       ]
     },
@@ -7287,7 +7293,7 @@
         }
       ]
     },
-    "region": "NA"
+    "region": "SA"
   },
   "1123356448336924783": {
     "nick": "XxMikaiax",
@@ -16249,5 +16255,10 @@
     "nick": "PlanetTheCatgirl",
     "modes": {},
     "region": "NA"
+  },
+  "1491830987259117678": {
+    "nick": "ShubhX18",
+    "modes": {},
+    "region": "AS"
   }
 }
