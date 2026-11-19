@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1795047164838,
-    "lastUpdateHuman": "2026-11-19 00:12:44 UTC",
+    "lastUpdate": 1795073143737,
+    "lastUpdateHuman": "2026-11-19 07:25:43 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3572,6 +3572,12 @@
           "tier": "LT3",
           "at": 1793753019870
         }
+      ],
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1795059576944
+        }
       ]
     },
     "region": "NA"
@@ -3883,6 +3889,10 @@
         {
           "tier": "LT4",
           "at": 1794272847890
+        },
+        {
+          "tier": "HT5",
+          "at": 1795047311970
         }
       ]
     },
@@ -4051,7 +4061,7 @@
     "region": "SA"
   },
   "1182758496089935913": {
-    "nick": "Suequinho",
+    "nick": "bonoxin",
     "modes": {},
     "region": "NA"
   },
@@ -6788,6 +6798,10 @@
         {
           "tier": "LT5",
           "at": 1792198115972
+        },
+        {
+          "tier": "HT5",
+          "at": 1795056528363
         }
       ],
       "uhc": [
@@ -7867,7 +7881,7 @@
     "region": "NA"
   },
   "1534366060713869334": {
-    "nick": "Lasor_",
+    "nick": "fe3w",
     "modes": {
       "sword": [
         {
@@ -13971,6 +13985,12 @@
           "tier": "LT4",
           "at": 1794672557361
         }
+      ],
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1795057101647
+        }
       ]
     },
     "region": "SA"
@@ -16224,5 +16244,10 @@
     "nick": "LukewarmSpare",
     "modes": {},
     "region": "EU"
+  },
+  "1269068328232681587": {
+    "nick": "PlanetTheCatgirl",
+    "modes": {},
+    "region": "NA"
   }
 }
