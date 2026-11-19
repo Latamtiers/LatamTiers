@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1795024876913,
-    "lastUpdateHuman": "2026-11-18 18:01:16 UTC",
+    "lastUpdate": 1795047164838,
+    "lastUpdateHuman": "2026-11-19 00:12:44 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -5470,6 +5470,10 @@
         {
           "tier": "LT4",
           "at": 1792110390151
+        },
+        {
+          "tier": "HT5",
+          "at": 1795037067714
         }
       ],
       "uhc": [
@@ -5821,6 +5825,12 @@
         {
           "tier": "LT3",
           "at": 1794883711823
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1795037444477
         }
       ]
     },
@@ -13765,7 +13775,7 @@
     "region": "NA"
   },
   "1532392363799085097": {
-    "nick": "SomeoneRandomis",
+    "nick": "RegeleSefilor",
     "modes": {
       "sword": [
         {
@@ -16063,7 +16073,7 @@
     "region": "NA/SA"
   },
   "1137803308711563325": {
-    "nick": "zGuapitox123_",
+    "nick": "GuapiSinho3",
     "modes": {},
     "region": "NA"
   },
@@ -16156,7 +16166,14 @@
   },
   "648591006589255720": {
     "nick": "yTairon",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1795045339363
+        }
+      ]
+    },
     "region": "NA"
   },
   "1465117424041853120": {
@@ -16168,5 +16185,44 @@
     "nick": "Iamcheaterr",
     "modes": {},
     "region": "AS"
+  },
+  "1567226642206822542": {
+    "nick": "ItzFakeY0u",
+    "modes": {},
+    "region": "EU"
+  },
+  "1089705827792859166": {
+    "nick": "SnowKiid_",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1795046206684
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1275618835420020859": {
+    "nick": "SIR_JOHAL",
+    "modes": {},
+    "region": "AS"
+  },
+  "1565854063726297350": {
+    "nick": "zStefanov_",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1795044957208
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "475309374508892181": {
+    "nick": "LukewarmSpare",
+    "modes": {},
+    "region": "EU"
   }
 }
