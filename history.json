@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1795178399784,
-    "lastUpdateHuman": "2026-11-20 12:39:59 UTC",
+    "lastUpdate": 1795207400832,
+    "lastUpdateHuman": "2026-11-20 20:43:20 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2823,6 +2823,10 @@
         {
           "tier": "LT4",
           "at": 1794016820841
+        },
+        {
+          "tier": "LT3",
+          "at": 1795201175375
         }
       ],
       "sword": [
@@ -3398,6 +3402,12 @@
           "tier": "LT3",
           "at": 1794863306081
         }
+      ],
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1795199434569
+        }
       ]
     },
     "region": "NA"
@@ -3532,7 +3542,7 @@
     "region": "NA"
   },
   "1486011600887349339": {
-    "nick": "zztmpst",
+    "nick": "M4rt1nzz",
     "modes": {},
     "region": "SA"
   },
@@ -4080,7 +4090,7 @@
     "region": "NA"
   },
   "1243574349420826624": {
-    "nick": "OogaBoogaUguhAga",
+    "nick": "FloryMaybe",
     "modes": {},
     "region": "SA"
   },
@@ -14439,7 +14449,7 @@
     "region": "EU"
   },
   "1014916123243860088": {
-    "nick": "werthyy",
+    "nick": "AddictedToYuri",
     "modes": {
       "sword": [
         {
@@ -16377,5 +16387,42 @@
       ]
     },
     "region": "NA/SA"
+  },
+  "923570407213256704": {
+    "nick": "IgnNone",
+    "modes": {},
+    "region": "EU/AS"
+  },
+  "1048732891288453260": {
+    "nick": "menor_progresso7",
+    "modes": {},
+    "region": "SA"
+  },
+  "841410775302406204": {
+    "nick": "_Amaimon",
+    "modes": {
+      "sword": [
+        {
+          "tier": "LT3",
+          "at": 1795199843355
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "1496521330407899336": {
+    "nick": "HexatrisYT",
+    "modes": {},
+    "region": "NA"
+  },
+  "1337033511508639854": {
+    "nick": "idyf",
+    "modes": {},
+    "region": "SA/EU"
+  },
+  "1093758472144830536": {
+    "nick": "PublicLogs779533",
+    "modes": {},
+    "region": "EU"
   }
 }
