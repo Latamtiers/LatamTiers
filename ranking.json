@@ -1025,7 +1025,7 @@
     "staff": null
   },
   "1455607689840427008": {
-    "nick": "zJasonMX",
+    "nick": "zJasonPou",
     "region": "NA",
     "tiers": {},
     "verificado": true,
@@ -5358,7 +5358,7 @@
         "CRYSTAL",
         "MAZO"
       ],
-      "tests": 48
+      "tests": 53
     },
     "staff": null
   },
@@ -5429,6 +5429,14 @@
       "SWORD": {
         "tier": "HT5",
         "obtained_at": "2026-11-21T03:21:09.974174+00:00"
+      },
+      "MAZO": {
+        "tier": "LT5",
+        "obtained_at": "2026-11-21T15:28:49.698785+00:00"
+      },
+      "NETHPOT": {
+        "tier": "LT5",
+        "obtained_at": "2026-11-21T13:58:46.688489+00:00"
       }
     },
     "verificado": true,
@@ -5436,7 +5444,9 @@
     "uuid": null,
     "peaks": {
       "CRYSTAL": "LT5",
-      "SWORD": "HT5"
+      "SWORD": "HT5",
+      "NETHPOT": "LT5",
+      "MAZO": "LT5"
     },
     "tester": null,
     "staff": null
@@ -6970,6 +6980,10 @@
       "SWORD": {
         "tier": "LT5",
         "obtained_at": "2026-11-20T21:52:12.034845+00:00"
+      },
+      "MAZO": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-21T15:19:10.563106+00:00"
       }
     },
     "verificado": true,
@@ -6977,7 +6991,8 @@
     "uuid": null,
     "peaks": {
       "CRYSTAL": "LT5",
-      "SWORD": "LT5"
+      "SWORD": "LT5",
+      "MAZO": "HT5"
     },
     "tester": null,
     "staff": null
@@ -13310,6 +13325,24 @@
     "tester": null,
     "staff": null
   },
+  "1462569761719324754": {
+    "nick": "_F1nx",
+    "region": "EU",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-21T14:34:48.616182+00:00"
+      }
+    },
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "a19a3bf7-2ebd-4cb6-98d8-2757f4994cea",
+    "peaks": {
+      "CRYSTAL": "HT5"
+    },
+    "tester": null,
+    "staff": null
+  },
   "1450527108806738185": {
     "nick": "pank__",
     "region": "EU",
@@ -14040,6 +14073,17 @@
       "NETHPOT": "LT4",
       "DIAMOND POT": "HT5"
     },
+    "tester": null,
+    "staff": null
+  },
+  "1420862729291300896": {
+    "nick": "ZenithV4",
+    "region": "AS",
+    "tiers": {},
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "4b4bc7a0-0006-4512-8d2a-4197ea73b5ed",
+    "peaks": {},
     "tester": null,
     "staff": null
   },
@@ -17063,15 +17107,15 @@
         "obtained_at": "2026-11-17T02:54:25.153643+00:00"
       },
       "NETHPOT": {
-        "tier": "HT5",
-        "obtained_at": "2026-11-16T21:18:50.789074+00:00"
+        "tier": "LT4",
+        "obtained_at": "2026-11-21T13:41:39.268582+00:00"
       }
     },
     "verificado": true,
     "cuenta": "cracked",
     "uuid": null,
     "peaks": {
-      "NETHPOT": "HT5",
+      "NETHPOT": "LT4",
       "SWORD": "HT5",
       "CRYSTAL": "HT5"
     },
@@ -19896,11 +19940,23 @@
   "1476513730765258794": {
     "nick": "Blueinvisible",
     "region": "AS",
-    "tiers": {},
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT5",
+        "obtained_at": "2026-11-21T14:49:54.993152+00:00"
+      },
+      "MAZO": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-21T15:00:06.864218+00:00"
+      }
+    },
     "verificado": true,
     "cuenta": "premium",
     "uuid": "9dc0801e-f58e-4656-abf8-6324c6e0965c",
-    "peaks": {},
+    "peaks": {
+      "CRYSTAL": "LT5",
+      "MAZO": "HT5"
+    },
     "tester": null,
     "staff": null
   },
@@ -23212,7 +23268,7 @@
       "modalidades": [
         "NETHPOT"
       ],
-      "tests": 202
+      "tests": 204
     },
     "staff": null
   },
@@ -28078,6 +28134,24 @@
     "uuid": "6960d253-796b-4d09-aa9c-07edb462a27b",
     "peaks": {
       "NETHPOT": "LT4"
+    },
+    "tester": null,
+    "staff": null
+  },
+  "1545248939459092481": {
+    "nick": "ankorrrr",
+    "region": "NA/SA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "HT3",
+        "obtained_at": "2026-11-21T15:46:42.545920+00:00"
+      }
+    },
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "2c32a49d-38b7-4e0e-80f8-86dab8e1ea18",
+    "peaks": {
+      "CRYSTAL": "HT3"
     },
     "tester": null,
     "staff": null

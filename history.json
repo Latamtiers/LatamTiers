@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1795250981802,
-    "lastUpdateHuman": "2026-11-21 08:49:41 UTC",
+    "lastUpdate": 1795278367348,
+    "lastUpdateHuman": "2026-11-21 16:26:07 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -15217,7 +15217,7 @@
     "region": "NA"
   },
   "1455607689840427008": {
-    "nick": "zJasonMX",
+    "nick": "zJasonPou",
     "modes": {},
     "region": "NA"
   },
@@ -16375,6 +16375,10 @@
         {
           "tier": "HT5",
           "at": 1794863930789
+        },
+        {
+          "tier": "LT4",
+          "at": 1795268499268
         }
       ],
       "sword": [
@@ -16654,7 +16658,14 @@
   },
   "1476513730765258794": {
     "nick": "Blueinvisible",
-    "modes": {},
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT5",
+          "at": 1795272594993
+        }
+      ]
+    },
     "region": "AS"
   },
   "1424125717750222858": {
@@ -16740,6 +16751,12 @@
           "tier": "HT5",
           "at": 1795231269974
         }
+      ],
+      "nethpot": [
+        {
+          "tier": "LT5",
+          "at": 1795269526688
+        }
       ]
     },
     "region": "NA/SA"
@@ -16769,6 +16786,35 @@
   "1461474410534797485": {
     "nick": "Sogied",
     "modes": {},
+    "region": "NA/SA"
+  },
+  "1462569761719324754": {
+    "nick": "_F1nx",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1795271688616
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "1420862729291300896": {
+    "nick": "ZenithV4",
+    "modes": {},
+    "region": "AS"
+  },
+  "1545248939459092481": {
+    "nick": "ankorrrr",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "HT3",
+          "at": 1795276002545
+        }
+      ]
+    },
     "region": "NA/SA"
   }
 }
