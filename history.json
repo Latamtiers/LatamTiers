@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1795311630759,
-    "lastUpdateHuman": "2026-11-22 01:40:30 UTC",
+    "lastUpdate": 1795337392531,
+    "lastUpdateHuman": "2026-11-22 08:49:52 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -10869,12 +10869,16 @@
     "region": "NA"
   },
   "1113291118491209808": {
-    "nick": "XxSonicEXE67xX",
+    "nick": "HuggyWuggy_cpvp",
     "modes": {
       "crystal": [
         {
           "tier": "HT4",
           "at": 1792899652947
+        },
+        {
+          "tier": "LT3",
+          "at": 1795323723119
         }
       ]
     },
@@ -12672,6 +12676,12 @@
           "tier": "LT3",
           "at": 1792899652947
         }
+      ],
+      "crystal": [
+        {
+          "tier": "LT3",
+          "at": 1795315888193
+        }
       ]
     },
     "region": "SA"
@@ -12874,7 +12884,7 @@
     "region": "NA"
   },
   "994822042723549324": {
-    "nick": "k3nnytoo",
+    "nick": "k3nny66",
     "modes": {},
     "region": "NA"
   },
@@ -14670,6 +14680,10 @@
         {
           "tier": "LT4",
           "at": 1794441672468
+        },
+        {
+          "tier": "HT5",
+          "at": 1795323311709
         }
       ]
     },
@@ -15001,6 +15015,10 @@
         {
           "tier": "HT5",
           "at": 1794437359259
+        },
+        {
+          "tier": "LT3",
+          "at": 1795323948509
         }
       ]
     },
@@ -15617,7 +15635,14 @@
   },
   "913924891588325376": {
     "nick": "Diusikke",
-    "modes": {},
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT3",
+          "at": 1795324494898
+        }
+      ]
+    },
     "region": "NA"
   },
   "1430028597996945511": {
@@ -17104,6 +17129,11 @@
         }
       ]
     },
+    "region": "NA"
+  },
+  "1380122236253376534": {
+    "nick": "BurningPlains",
+    "modes": {},
     "region": "NA"
   }
 }
