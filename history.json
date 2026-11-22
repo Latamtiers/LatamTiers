@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1795337392531,
-    "lastUpdateHuman": "2026-11-22 08:49:52 UTC",
+    "lastUpdate": 1795365762192,
+    "lastUpdateHuman": "2026-11-22 16:42:42 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -12743,7 +12743,7 @@
     "region": "SA"
   },
   "1126939393706430464": {
-    "nick": "EnerEnerg",
+    "nick": "Foxted",
     "modes": {},
     "region": "SA"
   },
@@ -13100,7 +13100,7 @@
     "region": "SA"
   },
   "1404144963423572151": {
-    "nick": "zSant4go_",
+    "nick": "LegacyRaf4xz",
     "modes": {
       "uhc": [
         {
@@ -17135,5 +17135,75 @@
     "nick": "BurningPlains",
     "modes": {},
     "region": "NA"
+  },
+  "1504836244872626247": {
+    "nick": "Fahvyi",
+    "modes": {},
+    "region": "EU"
+  },
+  "1518237454056816739": {
+    "nick": "Yoyogoat_6768",
+    "modes": {},
+    "region": "NA"
+  },
+  "884104060431650856": {
+    "nick": "zzbtt",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT2",
+          "at": 1795363288676
+        }
+      ]
+    },
+    "region": "NA/SA"
+  },
+  "1466935466233434206": {
+    "nick": "alt_loading",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT4",
+          "at": 1795358647175
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "HT5",
+          "at": 1795357714995
+        }
+      ]
+    },
+    "region": "EU"
+  },
+  "1519442366094639336": {
+    "nick": "Coldtep_",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT4",
+          "at": 1795361399029
+        }
+      ],
+      "nethpot": [
+        {
+          "tier": "HT4",
+          "at": 1795358855888
+        }
+      ]
+    },
+    "region": "NA/EU"
+  },
+  "1188592044982161418": {
+    "nick": "Qeexy667",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT3",
+          "at": 1795359017507
+        }
+      ]
+    },
+    "region": "NA/EU"
   }
 }
