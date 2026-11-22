@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1795297626052,
-    "lastUpdateHuman": "2026-11-21 21:47:06 UTC",
+    "lastUpdate": 1795311630759,
+    "lastUpdateHuman": "2026-11-22 01:40:30 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -346,7 +346,7 @@
     "region": "EU"
   },
   "1471280396590121128": {
-    "nick": "yamilll",
+    "nick": "StayHeaven",
     "modes": {
       "crystal": [
         {
@@ -1775,7 +1775,14 @@
   },
   "1488704625182769284": {
     "nick": "_R3per_",
-    "modes": {},
+    "modes": {
+      "sword": [
+        {
+          "tier": "HT5",
+          "at": 1795306466261
+        }
+      ]
+    },
     "region": "SA"
   },
   "1289736116458487900": {
@@ -2921,6 +2928,10 @@
         {
           "tier": "LT4",
           "at": 1791497436969
+        },
+        {
+          "tier": "HT4",
+          "at": 1795301727280
         }
       ],
       "uhc": [
@@ -3903,6 +3914,10 @@
         {
           "tier": "HT5",
           "at": 1794275209054
+        },
+        {
+          "tier": "LT3",
+          "at": 1795309632580
         }
       ]
     },
@@ -5496,7 +5511,7 @@
     "region": "NA"
   },
   "972718209373450271": {
-    "nick": "Miyu_x",
+    "nick": "Qyvorn",
     "modes": {
       "nethpot": [
         {
@@ -7614,6 +7629,10 @@
         {
           "tier": "HT4",
           "at": 1793731239992
+        },
+        {
+          "tier": "LT3",
+          "at": 1795301691024
         }
       ],
       "axe": [
@@ -8542,7 +8561,7 @@
     "region": "NA"
   },
   "1297383699880480840": {
-    "nick": "L0tus98T",
+    "nick": "AftherRun",
     "modes": {
       "crystal": [
         {
@@ -9762,7 +9781,7 @@
     "region": "NA"
   },
   "1486205313035145408": {
-    "nick": "yamilll",
+    "nick": "StayHeaven",
     "modes": {},
     "region": "NA"
   },
@@ -10654,7 +10673,7 @@
     "region": "SA"
   },
   "1047980181521973399": {
-    "nick": "cPvqx",
+    "nick": "phayestakj",
     "modes": {
       "crystal": [
         {
@@ -16523,6 +16542,12 @@
           "tier": "HT4",
           "at": 1795046206684
         }
+      ],
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1795306143454
+        }
       ]
     },
     "region": "NA"
@@ -16545,6 +16570,12 @@
         {
           "tier": "LT5",
           "at": 1795120289361
+        }
+      ],
+      "crystal": [
+        {
+          "tier": "LT5",
+          "at": 1795299308528
         }
       ]
     },
@@ -16866,7 +16897,7 @@
     "region": "NA"
   },
   "1461474410534797485": {
-    "nick": "Sogied",
+    "nick": "qFocusss",
     "modes": {},
     "region": "NA/SA"
   },
@@ -16953,6 +16984,12 @@
           "tier": "HT4",
           "at": 1795284200975
         }
+      ],
+      "sword": [
+        {
+          "tier": "LT4",
+          "at": 1795307461199
+        }
       ]
     },
     "region": "SA"
@@ -16969,6 +17006,12 @@
         {
           "tier": "HT4",
           "at": 1795287221056
+        }
+      ],
+      "crystal": [
+        {
+          "tier": "HT5",
+          "at": 1795298720798
         }
       ]
     },
@@ -17010,6 +17053,54 @@
         {
           "tier": "HT4",
           "at": 1795283229553
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1341114805125255380": {
+    "nick": "Resbaloso_",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT4",
+          "at": 1795299160051
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1431343196448886935": {
+    "nick": "opust5",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT3",
+          "at": 1795300409820
+        }
+      ]
+    },
+    "region": "NA"
+  },
+  "1299080382725099551": {
+    "nick": "Klyzzer2011",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT3",
+          "at": 1795300247130
+        }
+      ]
+    },
+    "region": "SA"
+  },
+  "1175119834627964999": {
+    "nick": "marconsssss",
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT5",
+          "at": 1795298903386
         }
       ]
     },
