@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1795572467251,
-    "lastUpdateHuman": "2026-11-25 02:07:47 UTC",
+    "lastUpdate": 1795605114969,
+    "lastUpdateHuman": "2026-11-25 11:11:54 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2190,7 +2190,14 @@
   },
   "916014700993609759": {
     "nick": "crmods",
-    "modes": {},
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT5",
+          "at": 1795574262506
+        }
+      ]
+    },
     "region": "SA"
   },
   "976775288853766154": {
@@ -4736,6 +4743,12 @@
           "tier": "HT5",
           "at": 1795489208603
         }
+      ],
+      "sword": [
+        {
+          "tier": "LT5",
+          "at": 1795582053810
+        }
       ]
     },
     "region": "NA"
@@ -6393,6 +6406,10 @@
         {
           "tier": "LT4",
           "at": 1793240286401
+        },
+        {
+          "tier": "HT5",
+          "at": 1795580672144
         }
       ]
     },
@@ -9862,7 +9879,7 @@
     "region": "NA"
   },
   "1245473100586422442": {
-    "nick": "hectorpvp12",
+    "nick": "ItzH2C",
     "modes": {
       "sword": [
         {
@@ -13257,6 +13274,12 @@
           "tier": "HT5",
           "at": 1793315817326
         }
+      ],
+      "crystal": [
+        {
+          "tier": "LT4",
+          "at": 1795576861141
+        }
       ]
     },
     "region": "NA"
@@ -13677,6 +13700,10 @@
         {
           "tier": "HT5",
           "at": 1795216053026
+        },
+        {
+          "tier": "LT5",
+          "at": 1795575044800
         }
       ]
     },
@@ -14048,6 +14075,10 @@
         {
           "tier": "HT5",
           "at": 1793665416522
+        },
+        {
+          "tier": "LT4",
+          "at": 1795579638266
         }
       ],
       "axe": [
@@ -14450,7 +14481,7 @@
     "region": "NA"
   },
   "1245155810053455933": {
-    "nick": "spawnguy1",
+    "nick": "kokawii",
     "modes": {},
     "region": "NA"
   },
@@ -14535,7 +14566,7 @@
     "region": "NA"
   },
   "1343370465728794758": {
-    "nick": "uTr4sh_",
+    "nick": "vvqzz",
     "modes": {
       "nethpot": [
         {
@@ -15285,7 +15316,7 @@
     "region": "NA"
   },
   "1394008922284621926": {
-    "nick": "DevoraPingas_1",
+    "nick": "DevoraSalchicha_",
     "modes": {},
     "region": "SA"
   },
