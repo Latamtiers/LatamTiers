@@ -2183,8 +2183,8 @@
     "region": "SA",
     "tiers": {
       "CRYSTAL": {
-        "tier": "HT5",
-        "obtained_at": "2026-11-20T22:46:31.833931+00:00"
+        "tier": "LT5",
+        "obtained_at": "2026-11-25T13:27:00.042309+00:00"
       },
       "MAZO": {
         "tier": "LT5",
@@ -7177,7 +7177,7 @@
       "modalidades": [
         "CRYSTAL"
       ],
-      "tests": 99
+      "tests": 101
     },
     "staff": {
       "rango": "Discord Mod"
@@ -12535,11 +12535,18 @@
   "1370140029099442246": {
     "nick": "z7ad",
     "region": "SA",
-    "tiers": {},
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT4",
+        "obtained_at": "2026-11-25T13:54:53.697618+00:00"
+      }
+    },
     "verificado": true,
     "cuenta": "premium",
     "uuid": "75eed55f-c7d5-4076-8d50-e30051c289e1",
-    "peaks": {},
+    "peaks": {
+      "CRYSTAL": "LT4"
+    },
     "tester": null,
     "staff": null
   },
@@ -16594,7 +16601,7 @@
     "staff": null
   },
   "1182398033359548486": {
-    "nick": "dvqus",
+    "nick": "dvui",
     "region": "EU",
     "tiers": {},
     "verificado": true,
