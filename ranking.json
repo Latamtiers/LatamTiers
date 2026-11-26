@@ -1180,7 +1180,7 @@
     "staff": null
   },
   "686791068288548869": {
-    "nick": "Ggc69",
+    "nick": "Ggclmao",
     "region": "NA",
     "tiers": {
       "CRYSTAL": {
@@ -1641,13 +1641,20 @@
     "staff": null
   },
   "1395873558487371938": {
-    "nick": "milanesasss",
+    "nick": "iVexq",
     "region": "SA",
-    "tiers": {},
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT4",
+        "obtained_at": "2026-11-26T03:35:19.594117+00:00"
+      }
+    },
     "verificado": true,
     "cuenta": "premium",
-    "uuid": "f42e4485-ac19-4cda-8160-6959ac3d0b16",
-    "peaks": {},
+    "uuid": "2105d3b3-ebff-4ce9-8fb3-22212020c110",
+    "peaks": {
+      "NETHPOT": "LT4"
+    },
     "tester": null,
     "staff": null
   },
@@ -5678,8 +5685,8 @@
       }
     },
     "verificado": true,
-    "cuenta": "cracked",
-    "uuid": null,
+    "cuenta": "premium",
+    "uuid": "d3205bb7-83a8-40df-b1b4-d0de1aecbc34",
     "peaks": {
       "CRYSTAL": "LT3"
     },
@@ -7067,7 +7074,7 @@
     "staff": null
   },
   "623670436420386817": {
-    "nick": "i2qe",
+    "nick": "asdvd",
     "region": "NA",
     "tiers": {
       "NETHPOT": {
@@ -11038,11 +11045,18 @@
   "1514435456555810956": {
     "nick": "Sr_cPvP",
     "region": "NA",
-    "tiers": {},
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-26T07:49:10.130189+00:00"
+      }
+    },
     "verificado": true,
     "cuenta": "premium",
     "uuid": "f3ffdb1f-35ea-4bfa-83c1-2c01e7b7eeb9",
-    "peaks": {},
+    "peaks": {
+      "CRYSTAL": "LT3"
+    },
     "tester": null,
     "staff": null
   },
@@ -11110,7 +11124,7 @@
     "staff": null
   },
   "1365396503299887204": {
-    "nick": "zP4rCh4do_",
+    "nick": "iLowLovely",
     "region": "NA/SA",
     "tiers": {
       "NETHPOT": {
@@ -11965,7 +11979,7 @@
     "staff": null
   },
   "1551944588913283164": {
-    "nick": "Yuflys",
+    "nick": "ChicoRoblox_cpvp",
     "region": "SA",
     "tiers": {
       "CRYSTAL": {
@@ -15226,12 +15240,18 @@
   "1511319737928519760": {
     "nick": "TeAmoIcez",
     "region": "NA",
-    "tiers": {},
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-26T06:19:21.608118+00:00"
+      }
+    },
     "verificado": true,
     "cuenta": "premium",
     "uuid": "681d99da-e8e2-4867-9162-33eb6373ee8c",
     "peaks": {
-      "SWORD": "HT4"
+      "SWORD": "HT4",
+      "NETHPOT": "LT3"
     },
     "tester": null,
     "staff": null
@@ -16596,7 +16616,7 @@
       "modalidades": [
         "CRYSTAL"
       ],
-      "tests": 57
+      "tests": 59
     },
     "staff": {
       "rango": "Discord Mod"
@@ -18093,6 +18113,17 @@
     "verificado": true,
     "cuenta": "cracked",
     "uuid": null,
+    "peaks": {},
+    "tester": null,
+    "staff": null
+  },
+  "957303933917872209": {
+    "nick": "Slqz7",
+    "region": "SA",
+    "tiers": {},
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "7f54cafc-f704-486e-8257-36ce45712117",
     "peaks": {},
     "tester": null,
     "staff": null
@@ -25920,7 +25951,13 @@
     "peaks": {
       "NETHPOT": "LT3"
     },
-    "tester": null,
+    "tester": {
+      "rango": "Trial Tester",
+      "modalidades": [
+        "NETHPOT"
+      ],
+      "tests": 2
+    },
     "staff": null
   },
   "806414302097309726": {
@@ -27343,7 +27380,7 @@
     "staff": null
   },
   "1407758908612808747": {
-    "nick": "AdamAdissKitten",
+    "nick": "MalevonentShrine",
     "region": "EU",
     "tiers": {
       "SWORD": {

@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1795661941705,
-    "lastUpdateHuman": "2026-11-26 02:59:01 UTC",
+    "lastUpdate": 1795694608262,
+    "lastUpdateHuman": "2026-11-26 12:03:28 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -2178,7 +2178,7 @@
     "region": "NA"
   },
   "1407758908612808747": {
-    "nick": "AdamAdissKitten",
+    "nick": "MalevonentShrine",
     "modes": {
       "sword": [
         {
@@ -3719,8 +3719,15 @@
     "region": "EU"
   },
   "1395873558487371938": {
-    "nick": "milanesasss",
-    "modes": {},
+    "nick": "iVexq",
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT4",
+          "at": 1795664119594
+        }
+      ]
+    },
     "region": "SA"
   },
   "1339079380672184372": {
@@ -6636,7 +6643,7 @@
     "region": "NA"
   },
   "686791068288548869": {
-    "nick": "Ggc69",
+    "nick": "Ggclmao",
     "modes": {
       "crystal": [
         {
@@ -10028,7 +10035,14 @@
   },
   "1514435456555810956": {
     "nick": "Sr_cPvP",
-    "modes": {},
+    "modes": {
+      "crystal": [
+        {
+          "tier": "LT3",
+          "at": 1795679350130
+        }
+      ]
+    },
     "region": "NA"
   },
   "1133086656665235568": {
@@ -12755,7 +12769,7 @@
     "region": "SA"
   },
   "1551944588913283164": {
-    "nick": "Yuflys",
+    "nick": "ChicoRoblox_cpvp",
     "modes": {
       "crystal": [
         {
@@ -13616,7 +13630,7 @@
     "region": "NA"
   },
   "1365396503299887204": {
-    "nick": "zP4rCh4do_",
+    "nick": "iLowLovely",
     "modes": {
       "nethpot": [
         {
@@ -15461,7 +15475,14 @@
   },
   "1511319737928519760": {
     "nick": "TeAmoIcez",
-    "modes": {},
+    "modes": {
+      "nethpot": [
+        {
+          "tier": "LT3",
+          "at": 1795673961608
+        }
+      ]
+    },
     "region": "NA"
   },
   "1455607689840427008": {
@@ -17294,7 +17315,7 @@
     "region": "NA"
   },
   "623670436420386817": {
-    "nick": "i2qe",
+    "nick": "asdvd",
     "modes": {
       "nethpot": [
         {
@@ -17786,5 +17807,10 @@
       ]
     },
     "region": "NA/EU"
+  },
+  "957303933917872209": {
+    "nick": "Slqz7",
+    "modes": {},
+    "region": "SA"
   }
 }
