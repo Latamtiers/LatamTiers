@@ -12030,7 +12030,7 @@
     "staff": null
   },
   "1479521236638892112": {
-    "nick": "Not_Andrx",
+    "nick": "ItzAndrww_",
     "region": "NA",
     "tiers": {},
     "verificado": true,
@@ -15311,7 +15311,7 @@
       "modalidades": [
         "CRYSTAL"
       ],
-      "tests": 59
+      "tests": 60
     },
     "staff": {
       "rango": "Discord Mod"
@@ -15320,11 +15320,18 @@
   "1267264688832385136": {
     "nick": "pikachu_alfaa",
     "region": "SA",
-    "tiers": {},
+    "tiers": {
+      "DIAMOND POT": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-27T04:37:38.597167+00:00"
+      }
+    },
     "verificado": true,
     "cuenta": "premium",
     "uuid": "a05d7f38-558c-4490-a64b-4f545171e102",
-    "peaks": {},
+    "peaks": {
+      "DIAMOND POT": "LT3"
+    },
     "tester": null,
     "staff": null
   },
@@ -16114,8 +16121,8 @@
     "region": "NA",
     "tiers": {
       "CRYSTAL": {
-        "tier": "HT5",
-        "obtained_at": "2026-11-22T23:56:57.869416+00:00"
+        "tier": "HT4",
+        "obtained_at": "2026-11-27T03:43:32.014017+00:00"
       },
       "UHC": {
         "tier": "LT5",
@@ -16135,7 +16142,7 @@
     "uuid": "da6a3b77-8ca3-43d3-949f-9d9f55284ab0",
     "peaks": {
       "UHC": "LT5",
-      "CRYSTAL": "HT5",
+      "CRYSTAL": "HT4",
       "MAZO": "LT4",
       "DIAMOND POT": "LT5"
     },
@@ -16822,8 +16829,8 @@
         "obtained_at": "2026-10-13T00:18:50.735376+00:00"
       },
       "MAZO": {
-        "tier": "LT5",
-        "obtained_at": "2026-11-27T02:32:32.612520+00:00"
+        "tier": "LT3",
+        "obtained_at": "2026-11-27T08:06:57.547296+00:00"
       },
       "NETHPOT": {
         "tier": "LT3",
@@ -23459,7 +23466,7 @@
       "modalidades": [
         "CRYSTAL"
       ],
-      "tests": 129
+      "tests": 130
     },
     "staff": {
       "rango": "Discord Mod"
@@ -26242,7 +26249,7 @@
         "NETHPOT",
         "DIAMOND POT"
       ],
-      "tests": 16
+      "tests": 17
     },
     "staff": null
   },
@@ -28739,7 +28746,7 @@
     "staff": null
   },
   "1351133223693975602": {
-    "nick": "AnshOnDrugs",
+    "nick": "K3xyz",
     "region": "AS",
     "tiers": {
       "MAZO": {

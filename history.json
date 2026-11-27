@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1795750881335,
-    "lastUpdateHuman": "2026-11-27 03:41:21 UTC",
+    "lastUpdate": 1795784860426,
+    "lastUpdateHuman": "2026-11-27 13:07:40 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -3048,6 +3048,10 @@
         {
           "tier": "HT5",
           "at": 1795391817869
+        },
+        {
+          "tier": "HT4",
+          "at": 1795751012014
         }
       ],
       "uhc": [
@@ -16593,7 +16597,7 @@
     "region": "EU"
   },
   "1351133223693975602": {
-    "nick": "AnshOnDrugs",
+    "nick": "K3xyz",
     "modes": {},
     "region": "AS"
   },
@@ -16613,7 +16617,7 @@
     "region": "SA"
   },
   "1479521236638892112": {
-    "nick": "Not_Andrx",
+    "nick": "ItzAndrww_",
     "modes": {},
     "region": "NA"
   },
