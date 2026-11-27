@@ -1938,8 +1938,8 @@
         "obtained_at": "2026-11-25T03:21:50.547934+00:00"
       },
       "NETHPOT": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-25T03:40:52.947960+00:00"
+        "tier": "LT5",
+        "obtained_at": "2026-11-27T20:20:22.016656+00:00"
       }
     },
     "verificado": true,
@@ -2037,6 +2037,24 @@
     "cuenta": "premium",
     "uuid": "a22a2406-50e6-4dcb-94f1-d6fb7bf31678",
     "peaks": {},
+    "tester": null,
+    "staff": null
+  },
+  "1490043074259193939": {
+    "nick": "zQ1uu",
+    "region": "EU",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "LT4",
+        "obtained_at": "2026-11-27T15:27:40.780052+00:00"
+      }
+    },
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "e401bdd8-de20-4c16-bce2-622c7e2bf5a2",
+    "peaks": {
+      "CRYSTAL": "LT4"
+    },
     "tester": null,
     "staff": null
   },
@@ -4352,6 +4370,17 @@
     "tester": null,
     "staff": null
   },
+  "1520597989754929252": {
+    "nick": "xsetpuffy5025",
+    "region": "SA",
+    "tiers": {},
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "e1a6b7a2-5b10-4fb9-8cdd-505581b8e6da",
+    "peaks": {},
+    "tester": null,
+    "staff": null
+  },
   "724825768399732777": {
     "nick": "resucitas",
     "region": "NA",
@@ -5215,6 +5244,24 @@
     "cuenta": "cracked",
     "uuid": null,
     "peaks": {},
+    "tester": null,
+    "staff": null
+  },
+  "1359559730296651788": {
+    "nick": "Void_Bound3",
+    "region": "NA",
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT4",
+        "obtained_at": "2026-11-27T17:44:33.412442+00:00"
+      }
+    },
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "90ece0f7-598a-433c-ba77-6bcef2875962",
+    "peaks": {
+      "NETHPOT": "HT4"
+    },
     "tester": null,
     "staff": null
   },
@@ -8120,11 +8167,18 @@
   "1428798356498415631": {
     "nick": "ValidBank",
     "region": "EU",
-    "tiers": {},
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-27T19:25:50.913325+00:00"
+      }
+    },
     "verificado": true,
     "cuenta": "premium",
     "uuid": "e3def750-09ff-415f-a39d-51b398212bb1",
-    "peaks": {},
+    "peaks": {
+      "CRYSTAL": "HT5"
+    },
     "tester": null,
     "staff": null
   },
@@ -9843,11 +9897,18 @@
   "1006207176378962043": {
     "nick": "Jxeremias_",
     "region": "NA",
-    "tiers": {},
+    "tiers": {
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-27T20:12:42.435972+00:00"
+      }
+    },
     "verificado": true,
     "cuenta": "premium",
     "uuid": "b3cc1bbf-2354-4e68-9812-67a0ef73a653",
-    "peaks": {},
+    "peaks": {
+      "NETHPOT": "LT3"
+    },
     "tester": null,
     "staff": null
   },
@@ -10250,11 +10311,23 @@
   "839446339665264661": {
     "nick": "UncleJamaican",
     "region": "NA",
-    "tiers": {},
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "HT4",
+        "obtained_at": "2026-11-27T19:40:51.341739+00:00"
+      },
+      "NETHPOT": {
+        "tier": "LT3",
+        "obtained_at": "2026-11-27T21:08:18.704768+00:00"
+      }
+    },
     "verificado": true,
     "cuenta": "premium",
     "uuid": "db8eed86-05d7-4edc-847d-a041ca9fb213",
-    "peaks": {},
+    "peaks": {
+      "CRYSTAL": "HT4",
+      "NETHPOT": "LT3"
+    },
     "tester": null,
     "staff": null
   },
@@ -11253,7 +11326,7 @@
       "modalidades": [
         "NETHPOT"
       ],
-      "tests": 245
+      "tests": 256
     },
     "staff": null
   },
@@ -20346,8 +20419,8 @@
     "region": "NA",
     "tiers": {
       "NETHPOT": {
-        "tier": "HT4",
-        "obtained_at": "2026-11-21T18:12:43.867306+00:00"
+        "tier": "LT4",
+        "obtained_at": "2026-11-27T13:11:33.980277+00:00"
       }
     },
     "verificado": true,
@@ -23466,7 +23539,7 @@
       "modalidades": [
         "CRYSTAL"
       ],
-      "tests": 130
+      "tests": 136
     },
     "staff": {
       "rango": "Discord Mod"
@@ -25564,11 +25637,18 @@
   "869845878612058134": {
     "nick": "A4raInVeins",
     "region": "AS",
-    "tiers": {},
+    "tiers": {
+      "NETHPOT": {
+        "tier": "HT4",
+        "obtained_at": "2026-11-27T18:14:33.844651+00:00"
+      }
+    },
     "verificado": true,
     "cuenta": "premium",
     "uuid": "530efe48-d823-46ea-8c85-8409bb66c2c3",
-    "peaks": {},
+    "peaks": {
+      "NETHPOT": "HT4"
+    },
     "tester": null,
     "staff": null
   },
@@ -28228,6 +28308,24 @@
     "tester": null,
     "staff": null
   },
+  "1462525900431167703": {
+    "nick": "WhoisDani_",
+    "region": "NA",
+    "tiers": {
+      "CRYSTAL": {
+        "tier": "HT5",
+        "obtained_at": "2026-11-27T19:14:14.407980+00:00"
+      }
+    },
+    "verificado": true,
+    "cuenta": "premium",
+    "uuid": "6e0ca990-5edb-46d9-8cfa-ba7925c24864",
+    "peaks": {
+      "CRYSTAL": "HT5"
+    },
+    "tester": null,
+    "staff": null
+  },
   "1500686199889854475": {
     "nick": "OnlySophystiq",
     "region": "SA",
@@ -29227,16 +29325,16 @@
     "region": "EU",
     "tiers": {
       "CRYSTAL": {
-        "tier": "LT4",
-        "obtained_at": "2026-11-22T19:30:16.416619+00:00"
+        "tier": "HT5",
+        "obtained_at": "2026-11-27T15:35:21.935816+00:00"
       },
       "MAZO": {
         "tier": "LT3",
         "obtained_at": "2026-11-22T19:49:25.898363+00:00"
       },
       "NETHPOT": {
-        "tier": "LT4",
-        "obtained_at": "2026-11-22T17:23:09.034720+00:00"
+        "tier": "HT5",
+        "obtained_at": "2026-11-27T15:55:06.979750+00:00"
       },
       "DIAMOND POT": {
         "tier": "LT4",
