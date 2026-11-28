@@ -2068,7 +2068,7 @@
     "staff": null
   },
   "1257531639370874910": {
-    "nick": "MaeFabi",
+    "nick": "fbyih",
     "region": "SA",
     "tiers": {
       "SWORD": {
@@ -5242,7 +5242,7 @@
     "staff": null
   },
   "775177317923684382": {
-    "nick": "CactJack",
+    "nick": "scytizen",
     "region": "NA",
     "tiers": {
       "NETHPOT": {
@@ -6493,8 +6493,8 @@
         "obtained_at": "2026-11-08T00:26:09.296668+00:00"
       },
       "CRYSTAL": {
-        "tier": "HT5",
-        "obtained_at": "2026-11-19T23:22:19.578383+00:00"
+        "tier": "LT4",
+        "obtained_at": "2026-11-28T04:59:22.908156+00:00"
       },
       "UHC": {
         "tier": "HT5",
@@ -6532,7 +6532,7 @@
       "AXE": "LT5",
       "DIAMOND POT": "LT4",
       "NETHPOT": "LT4",
-      "CRYSTAL": "HT5"
+      "CRYSTAL": "LT4"
     },
     "tester": null,
     "staff": null
@@ -17352,7 +17352,7 @@
         "NETHPOT",
         "CRYSTAL"
       ],
-      "tests": 103
+      "tests": 104
     },
     "staff": null
   },
@@ -26321,16 +26321,7 @@
   "1365396503299887204": {
     "nick": "iLowLovely",
     "region": "NA/SA",
-    "tiers": {
-      "NETHPOT": {
-        "tier": "HT5",
-        "obtained_at": "2026-10-29T22:23:30.896836+00:00"
-      },
-      "DIAMOND POT": {
-        "tier": "HT5",
-        "obtained_at": "2026-11-08T23:27:17.185124+00:00"
-      }
-    },
+    "tiers": {},
     "verificado": true,
     "cuenta": "premium",
     "uuid": "4982836f-1eaa-4426-b48f-0fd118f44c63",
@@ -29104,7 +29095,7 @@
     "staff": null
   },
   "1220217000500920373": {
-    "nick": "RaiorikxW_",
+    "nick": "Raiorikx",
     "region": "SA",
     "tiers": {
       "UHC": {

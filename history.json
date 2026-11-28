@@ -30,8 +30,8 @@
     "region": "NA"
   },
   "__meta__": {
-    "lastUpdate": 1795837259455,
-    "lastUpdateHuman": "2026-11-28 03:40:59 UTC",
+    "lastUpdate": 1795868549952,
+    "lastUpdateHuman": "2026-11-28 12:22:29 UTC",
     "source": "http://mx.lunarishost.com:20037/web",
     "version": 3
   },
@@ -9859,7 +9859,7 @@
     "region": "NA"
   },
   "1257531639370874910": {
-    "nick": "MaeFabi",
+    "nick": "fbyih",
     "modes": {
       "sword": [
         {
@@ -14107,7 +14107,7 @@
     "region": "NA/EU"
   },
   "775177317923684382": {
-    "nick": "CactJack",
+    "nick": "scytizen",
     "modes": {
       "nethpot": [
         {
@@ -14378,6 +14378,10 @@
         {
           "tier": "HT5",
           "at": 1795130539578
+        },
+        {
+          "tier": "LT4",
+          "at": 1795841962908
         }
       ]
     },
@@ -16431,7 +16435,7 @@
     "region": "NA"
   },
   "1220217000500920373": {
-    "nick": "RaiorikxW_",
+    "nick": "Raiorikx",
     "modes": {
       "uhc": [
         {
